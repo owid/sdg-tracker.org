@@ -1,0 +1,156 @@
+html, body {
+	height: 100%;
+	margin: 0;
+}
+
+html {
+	font-size: 16px;
+}
+
+body {
+	font-size: 1.2em;
+	color: #3A4145;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    text-rendering: optimizeLegibility;
+    line-height: 1;
+    margin: 0;
+    font-family: 'Open Sans',sans-serif;
+	color: #50585D;
+}
+h1 a,h2 a,h3 a,h4 a,h5 a,h6 a {
+	color: #50585D;
+}
+
+h3 {
+	font-size: 1.6em;
+	line-height: 1.2em;
+	letter-spacing: -1px;
+	text-indent: -2px;	
+}
+
+a {
+	text-decoration: none;
+    color: #f5aa44;	
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #f5aa44;	
+}
+
+.homepage > header {
+	text-align: center;
+}
+
+.homepage {
+	padding-top: 50px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.homepage > header a {
+	color: #50585D;
+	font-size: 3.5em;
+	margin: 0px 20px;
+}
+
+.homepage > header a:hover {
+	color: #f5aa44;
+}
+
+.homepage > main {
+	display: flex;
+	flex-direction: row;
+}
+
+.homepage .writing {
+	margin-right: 1.2em;
+}
+
+.homepage .writing ul {
+	padding: 0;
+	list-style-type: none;
+}
+
+.homepage .links {
+
+}
+
+.post {
+
+}
+
+.post {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.post h1 {
+	font-size: 2.8em;
+    text-indent: -2px;	
+    margin: 0;
+}
+
+.post article {
+	max-width: 800px;
+}
+
+.post p {
+	margin: 1.6em 0;
+	line-height: 1.4em;
+	font-family: 'Helvetica', 'Arial', sans-serif;
+}
+
+.post footer {
+	max-width: 800px;
+	width: 100%;
+	padding-top: 2em;
+	margin-bottom: 4em;
+	border-top: #EBF2F6 1px solid;
+
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+.post footer h4 {
+	margin-bottom: 0.3em;
+}
+
+.post footer .author ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+    color: #9EABB3;
+    font-style: italic;	
+    font-size: 0.9em;
+}
+
+.post footer .author li {
+	float: left;
+}
+
+.post footer .author li:last-child {
+	margin-left: 10px;
+}
+
+.post footer .author li:last-child:before {
+	content: "•";
+    display: inline-block;
+    margin-right: 10px;
+}
+
+
+.post footer .share a {
+	color: #3A4145;
+	font-size: 1.5em;
+	margin-right: 0.5em;
+}
+
+.post footer .share a:hover {
+    color: #f5aa44;	
+}

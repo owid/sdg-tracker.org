@@ -1,3 +1,5 @@
 {
-  "presets": ["latest"]
+   "sourceMaps": true,
+   "presets": [["latest", {modules: false }], "stage-0", "react"],
+    plugins: ["transform-decorators-legacy"]
 }
