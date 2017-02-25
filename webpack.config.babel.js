@@ -22,7 +22,7 @@ export default {
             },
 		    {
 		        test: /\.css$/,
-		        loader: 'style-loader!css-loader?modules&importLoaders=1&localIdentName=[name]__[local]___[hash:base64:5]' 
+		        loader: 'style-loader!css-loader?modules&importLoaders=1&localIdentName=[local]'//___[hash:base64:5]' 
         	},
 		    {
 		        test: /\.png$/,
@@ -30,7 +30,7 @@ export default {
         	},
         	{
         		test: /\.md$/,
-        		loader: 'markdown-with-front-matter-loader'
+        		loader: ['json-loader', 'markdown-it-front-matter-loader'],
         	},     	
 	        { test: /\.woff(2)?(\?v=[0-9]\.[0-9]\.[0-9])?$/, loader: "url-loader?limit=10000&mimetype=application/font-woff&name=build/[hash].[ext]" },
 	        { test: /\.(ttf|eot|svg)(\?v=[0-9]\.[0-9]\.[0-9])?$/, loader: "file-loader" }
@@ -40,8 +40,18 @@ export default {
 		host: '0.0.0.0',
 		port: 3333,
 		contentBase: path.join(__dirname, '/public'),
-	    publicPath: "/build/"
+	    publicPath: "/build/",
+		historyApiFallback: true
 	},
 	devtool: 'cheap-module-eval-source-map',
+	plugins: [
+		new webpack.LoaderOptionsPlugin({
+			options: {
+				'markdown-it-front-matter': {
+			    	html: true
+				}
+			}
+		})
+	]
 }
 
