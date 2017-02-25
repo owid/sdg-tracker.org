@@ -115,9 +115,8 @@ const posts = requireAll(require.context("../posts", true, /.md$/));
 class Post extends Component {    
     render() {
         const {title, date, __content} = this.props
-        console.log(this.props)
+        const canonicalUrl = window.location
 
-        console.log(date)
         return <main className={styles.post}>
             <header>
                 <a href="/"><img src={mispy} style={{width: 120, height: 120}} alt="Jaiden Mispy"/></a>
@@ -137,9 +136,9 @@ class Post extends Component {
                 </section>
                 <section class={styles.share}>
                     <h4>Share this post</h4>
-                    <a><i class="fa fa-twitter-square"></i></a>
-                    <a><i class="fa fa-facebook-square"></i></a>
-                    <a><i class="fa fa-google-plus-square"></i></a>
+                    <a href={`https://twitter.com/intent/tweet?text=${encodeURIComponent(title)}&url=${encodeURIComponent(canonicalUrl)}`} target="_blank"><i class="fa fa-twitter-square"></i></a>
+                    <a href={`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(canonicalUrl)}"`} target="_blank"><i class="fa fa-facebook-square"></i></a>
+                    <a href={`https://plus.google.com/share?url=${encodeURIComponent(canonicalUrl)}`} target="_blank"><i class="fa fa-google-plus-square"></i></a>
                 </section>
             </footer>
         </main>
