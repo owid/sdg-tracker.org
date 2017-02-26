@@ -6,6 +6,7 @@ import mispy from './mispy.png'
 import NoMatch from './NoMatch'
 import Link from './Link'
 import 'highlight.js/styles/monokai-sublime.css'
+import 'font-awesome/css/font-awesome.css'
 import posts from '../posts'
 
 export default class Post extends Component {    
@@ -16,11 +17,11 @@ export default class Post extends Component {
         if (!post) return <NoMatch/>
 
         const {title, date, body} = post
-        const canonicalUrl = window.location
+        const canonicalUrl = `https://mispy.me/${slug}`
 
         return <main className={styles.post}>
             <header>
-                <Link to="/"><img class="profile" src={mispy} alt="Jaiden Mispy"/></Link>
+                <Link to="/"><img class={styles.profile} src={mispy} alt="Jaiden Mispy"/></Link>
             </header>
             <article>
                 <time datetime={date}>{moment(date).format('DD MMMM YYYY')}</time>

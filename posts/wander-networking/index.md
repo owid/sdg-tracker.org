@@ -7,7 +7,7 @@ A few months ago, I was tasked with porting the networking code of [Wander](http
 
 ### The problem
 
-![](/content/images/2015/08/griffin_landing.jpg)
+![](griffin_landing.jpg)
 
 Wander was designed to be an open world, massively multiplayer[^n] exploration game. Players occupy the same universe and should be visible to one another as soon as they, uh, wander into range. Crucially, Wander is non-competitive, meaning clients can be trusted: there's not much to be gained from cheating, unless you get a kick out of teleporting yourself into odd places.
 
@@ -31,21 +31,21 @@ Having hit a dead end and feeling a bit frustrated, we went hunting for alternat
 
 I set about trying to get the VAST code working on PS4. The library itself is small, but it has ... a dependency. Namely, The A Dynamically Assembled Protocol Transformation, Integration, and eValuation Environment Communication Environment™:
 
-![](/content/images/2015/07/ace.png)
+![](ace.png)
 
 Yes, that is the actual expansion of that acronym. But wait, it gets better! You can do real-time Common Object Request Broker Architecture® Component Model with Component Integrated A Dynamically Assembled Protocol Transformation, Integration, and eValuation Environment Communication Environment™ Object Request Broker™
 
-![](/content/images/2015/07/ccm.png)
+![](ccm.png)
 
 *what is happening*
 
-<img src="/content/images/2015/07/new_yellow.gif">
+<img src="new_yellow.gif">
 
-<img src="/content/images/2015/07/new_yellow.gif" width="150">
+<img src="new_yellow.gif" width="150">
 
-<img src="/content/images/2015/07/new_yellow.gif" width="300">
+<img src="new_yellow.gif" width="300">
 
-<img src="/content/images/2015/07/lastmodified.png">
+<img src="lastmodified.png">
 
 *oh my gods*
 

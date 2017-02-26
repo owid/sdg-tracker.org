@@ -12,7 +12,7 @@ export default class Homepage extends Component {
 	render() {
         return <div className={styles.homepage}>
             <header>
-                <Link to="/"><img class="profile" src={mispy} alt="Jaiden Mispy"/></Link>
+                <Link to="/"><img class={styles.profile} src={mispy} alt="Jaiden Mispy"/></Link>
                 <h1>Jaiden Mispy</h1>
             </header>
             <main>

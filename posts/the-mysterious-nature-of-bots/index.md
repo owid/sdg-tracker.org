@@ -1,5 +1,4 @@
 ---
-slug: the-mysterious-nature-of-bots
 title: The mysterious nature of bots
 date: 2014-05-02
 ---
