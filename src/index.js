@@ -26,6 +26,9 @@ class App extends Component {
                 )}                
             </head>
             <body>
+                {js.map(path =>
+                    <script src={'/'+path}/>  
+                )}
                 {this.content()}
             </body>
         </html>

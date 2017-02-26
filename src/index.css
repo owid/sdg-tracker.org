@@ -44,42 +44,74 @@ img.profile {
     width: 120px;
 }
 
-.homepage > header {
-	text-align: center;
-}
-
 .homepage {
-	padding-top: 50px;
-	display: flex;
-	flex-direction: column;
-	align-items: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
 }
 
-.homepage > header a {
+.homepage > div {
+    padding: 1em;
+}
+
+.hexagons {
+    width: 500px;
+    height: 500px;
+}
+
+.hexagons svg {
+    width: 100%;
+    height: 100%;
+}
+
+.homepageSummary {
+    padding-top: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.homepageSummary header {
+	text-align: center;
+    margin-bottom: 1.5em;
+}
+
+.homepageSummary header h1 {
+    margin-top: 0.5em;
+    font-size: 1.8em;
+}
+
+.homepageSummary header a {
 	color: #50585D;
 	font-size: 3.5em;
 	margin: 0px 20px;
 }
 
-.homepage > header a:hover {
+.homepageSummary > header a:hover {
 	color: #f5aa44;
 }
 
-.homepage > main {
+.homepageSummary > main {
 	display: flex;
 	flex-direction: row;
 }
 
-.homepage .writing {
+.homepageSummary .writing {
 	margin-right: 1.2em;
 }
 
-.homepage .writing ul {
+.homepageSummary .writing ul {
 	padding: 0;
 	list-style-type: none;
 }
 
-.homepage .links {
+.homepageSummary .writing li {
+    margin-bottom: 1em;
+}
+
+.homepageSummary .links {
 
 }
 
@@ -93,8 +125,8 @@ img.profile {
 	padding: 2em 0;
 }
 
-.post time {
-	color: #9EABB3;
+time {
+	color: rgba(0,0,0,.7);
 	font-family: 'Open Sans',sans-serif;
 	font-size: 0.8em;
 }
