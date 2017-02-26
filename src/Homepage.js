@@ -51,7 +51,7 @@ export default class Homepage extends Component {
 	render() {
         return <div className={styles.homepage}>
             <div class="hexagons"/>
-            <HomepageSummary/>
+            {/*<HomepageSummary/>*/}
             <script async dangerouslySetInnerHTML={{__html: "window.homepageStart()"}}></script>
         </div>
 	}

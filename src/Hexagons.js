@@ -10,6 +10,10 @@ import {computed, observable, action} from 'mobx'
 import {bind} from 'decko'
 import styles from './index.css'
 
+function dist(a, b) {
+    return Math.sqrt((b.x-a.x)*(b.x-a.x) + (b.y-a.y)*(b.y-a.y))
+}
+
 @observer
 class HexagonsMain extends Component {
     @computed get width() {
@@ -19,12 +23,8 @@ class HexagonsMain extends Component {
         return this.props.height
     }
 
-    @computed get grid() {
-        return new Grid(20, 20)
-    }
-
     @computed get hexRadius() {
-        return 10
+        return 4
     }
 
     @computed get hexbin() {
@@ -35,40 +35,47 @@ class HexagonsMain extends Component {
         const {width, height} = this.props
         if (!width || !height) return []
 
+        const {rotation} = this
+
         const radius = 5
-        var theta = Math.PI * (3 - Math.sqrt(5));        
+        var theta = Math.PI * (3 - Math.sqrt(5));
         return d3.range(2000).map(i => {
-            var r = radius * Math.sqrt(i), a = theta * i;
-            return [
-              width / 2 + r * Math.cos(a),
-              height / 2 + r * Math.sin(a)
-            ];
+            var r = radius * Math.sqrt(i) * rotation, a = theta * i;
+            return {
+              x: width / 2 + r * Math.cos(a),
+              y: height / 2 + r * Math.sin(a)
+            };
         })
     }
 
     @computed get hexagons() {
-        return this.hexbin(this.points)
+        const {hexbin, points} = this
+        return hexbin(points.map(point => [point.x, point.y]))
     }
 
     @observable rotation = 0
 
     componentDidMount() {
         d3.timer(() => {
-//            this.rotation += 1
+            this.rotation += 0.001
         })
     }
 
     render() {
-        let {width, height, hexbin, hexagons, rotation} = this
+        let {width, height, hexbin, hexagons, rotation, points} = this
 
         const maxSize = _(hexagons).map('length').max()
+        const colorScale = d3.scaleSequential(interpolateOranges).domain([0, width/2])
+        const center = { x: width/2, y: height/2 }
 
         return <g style={{stroke: '#fff', fill: '#f5aa44', 'stroke-width': '1px'}}>
             {/*_.map(points, (d, i) => 
-                <circle cx={d[0]} cy={d[1]} r={2}/>
+                <circle cx={d.x} cy={d.y} r={3}/>
             )*/}
-            {_.map(hexagons, (d, i) => 
-                <path transform={`rotate(${rotation} ${width/2} ${height/2})`} onMouseOver={this.onMouseOver} d={`M${d.x},${d.y}${hexbin.hexagon()}`} style={{opacity: d.length/maxSize}}/>
+            {_.map(hexagons, (d, i) => {
+                const distFromCenter = dist(d, center)
+                return <path onMouseOver={this.onMouseOver} d={`M${d.x},${d.y}${hexbin.hexagon()}`} style={{fill: colorScale(distFromCenter)}}/>
+            }
             )}
         </g>
     }
