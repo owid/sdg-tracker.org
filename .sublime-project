@@ -2,14 +2,21 @@
 	"folders":
 	[
 		{
-			"path": ".",
-            "folder_exclude_patterns": [".git", "build"],
-            "file_exclude_patterns": ["yarn.lock"]
+			"file_exclude_patterns":
+			[
+				"yarn.lock"
+			],
+			"folder_exclude_patterns":
+			[
+				".git",
+				"build"
+			],
+			"path": "."
 		}
 	],
 	"settings":
 	{
-	    "tab_size": 4,
-	    "translate_tabs_to_spaces": true
+		"tab_size": 4,
+		"translate_tabs_to_spaces": true
 	}
 }

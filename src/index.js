@@ -1,14 +1,31 @@
 import React, {Component} from 'react'
-import ReactDOM from 'react-dom'
-import {Router, Route, Link, browserHistory} from 'react-router'
+import {renderToString} from 'react-dom/server'
 import Homepage from './Homepage'
 import Post from './Post'
-import NoMatch from './NoMatch'
 
-ReactDOM.render(
-<Router history={browserHistory}>
-    <Route path="/" component={Homepage}/>
-    <Route path="/:slug" component={Post}/>
-    <Route path="*" component={NoMatch}/>
-</Router>, document.body)
+class App extends Component {
+    content() {
+        const {path} = this.props
 
+        if (path == "/") {
+            return <Homepage/>
+        } else {
+            return <Post params={{slug: path.replace('/', '')}}/>
+        }           
+    }
+
+    render() {
+        return <html>
+            <head>
+                <link rel="stylesheet" type="text/css" href="/style.css"/>  
+            </head>
+            <body>
+                {this.content()}
+            </body>
+        </html>
+    }
+}
+
+export default (locals, callback) => {    
+    callback(null, renderToString(<App path={locals.path}/>))
+};

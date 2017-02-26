@@ -1,25 +1,27 @@
 import React, {Component} from 'react'
 import {observable, computed, action} from 'mobx'
 import {observer} from 'mobx-react'
-import {Link} from 'react-router'
+import Link from './Link'
 
 import styles from './index.css'
 import mispy from './mispy.png'
+import posts from '../posts'
 
 @observer
 export default class Homepage extends Component {
 	render() {
         return <div className={styles.homepage}>
             <header>
-                <Link to="/"><img src={mispy} width={150}/></Link>
+                <Link to="/"><img class="profile" src={mispy} alt="Jaiden Mispy"/></Link>
                 <h1>Jaiden Mispy</h1>
             </header>
             <main>
                 <div class={styles.writing}>
                     <h2>Writing</h2>
                     <ul>
-                        <li><h3><Link to="/wander-networking">Distributed networking in a multiplayer game</Link></h3></li>
-                        <li><h3><Link to="/the-mysterious-nature-of-bots">The mysterious nature of twitterbots</Link></h3></li>
+                        {posts.map(post =>
+                            <li><h3><Link to={post.slug}>{post.title}</Link></h3></li>
+                        )}
                     </ul>
                 </div>
                 <div class={styles.links}>

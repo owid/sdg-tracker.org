@@ -2,19 +2,14 @@ import React, {Component} from 'react'
 import moment from 'moment'
 import styles from './index.css'
 import mispy from './mispy.png'
-import 'font-awesome-webpack'
+//import 'font-awesome-webpack'
 import NoMatch from './NoMatch'
-import {Link} from 'react-router'
+import Link from './Link'
 import 'highlight.js/styles/monokai-sublime.css'
-
-function requireAll(requireContext) {
-  return requireContext.keys().map(requireContext);
-}
-const posts = requireAll(require.context("../posts", true, /.md$/));
+import posts from '../posts'
 
 export default class Post extends Component {    
     render() {
-        console.log(posts)
         const {slug} = this.props.params
         const post = posts.filter((p) => p.slug == slug)[0]
 
@@ -25,7 +20,7 @@ export default class Post extends Component {
 
         return <main className={styles.post}>
             <header>
-                <Link to="/"><img src={mispy} style={{width: 120, height: 120}} alt="Jaiden Mispy"/></Link>
+                <Link to="/"><img class="profile" src={mispy} alt="Jaiden Mispy"/></Link>
             </header>
             <article>
                 <time datetime={date}>{moment(date).format('DD MMMM YYYY')}</time>

@@ -40,6 +40,10 @@ a:hover {
     color: #f5aa44;	
 }
 
+img.profile {
+    width: 120px;
+}
+
 .homepage > header {
 	text-align: center;
 }
@@ -85,7 +89,6 @@ a:hover {
 	align-items: center;
 }
 
-
 .post header {
 	padding: 2em 0;
 }
@@ -113,7 +116,13 @@ a:hover {
 	font-family: 'Helvetica', 'Arial', sans-serif;
 }
 
-.post code {
+.post img {
+	max-width: 100%;
+  display: block;
+  margin: auto;
+}
+
+.post pre > code {
   display: block;
   overflow-x: auto;
   padding: 0.5em;
