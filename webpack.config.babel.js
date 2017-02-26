@@ -52,8 +52,9 @@ export default {
     devServer: {
         host: '0.0.0.0',
         port: 3333,
-        contentBase: path.join(__dirname, '/public'),
-        publicPath: "/build/"
+        contentBase: path.join(__dirname, '/build'),
+        publicPath: "/build/",
+        inline: false
     },
     devtool: 'cheap-module-eval-source-map',
     plugins: [
@@ -72,7 +73,7 @@ export default {
         // Copy the post assets (images and such)
         new CopyWebpackPlugin([
             { context: 'posts', from: '**/*' }
-        ], { ignore: ['*.js'] })
+        ], { ignore: ['index.js'] })
     ]
 }
 

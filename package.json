@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "dev": "webpack-dev-server --progress"
+    "dev": "webpack-dev-server"
   },
   "dependencies": {
     "babel": "^6.23.0",
