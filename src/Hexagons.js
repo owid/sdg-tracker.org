@@ -72,36 +72,14 @@ class HexagonsMain extends Component {
     @observable ripples = []
 
     componentDidMount() {
-        this.bbox = this.base.getBBox()
-        this.updatePoints()
-        this.circles = d3.select(this.base).selectAll('circle')
+        this.ctx = this.base.getContext('2d')
+
+
+//        this.updatePoints()
+//        this.circles = d3.select(this.base).selectAll('circle')
         d3.timer(this.frame)
     }
 
-    @action.bound onMouseMove(e) {
-        const newMouse = { x: e.offsetX, y: e.offsetY }
-        this.mouse = newMouse
-    }
-
-    @action.bound onClick(e) {
-        this.colorScalesIndex = this.colorScalesIndex >= this.colorScales.length-1 ? 0 : this.colorScalesIndex+1     
-
-        const {colorScales, colorScalesIndex, mouse, points} = this
-
-        const closestPointToMouse = _.orderBy(points, point => getDistance(point, mouse))[0]
-
-        if (this.ripples.length >= 50)
-            this.ripples = this.ripples.slice(1)
-
-        this.ripples.push(new Ripple({
-            origin: closestPointToMouse,
-            colorScale: d3.scaleSequential(colorScales[colorScalesIndex]).domain([0, this.width/2]),
-            radius: 0
-        }))
-
-
-        e.preventDefault()
-    }
 
     @action.bound frame() {
         this.rotation += 0.000001//0.000001///Math.pow(dist(this.mouse, { x: this.width/2, y: this.height/2 }), 2)
@@ -115,28 +93,76 @@ class HexagonsMain extends Component {
                 ripple.radius += 10
         }
 
-        this.circles
-            .data(points)
-            .attr('transform', d => `translate(${d.x}, ${d.y})`)
-            .attr('fill', d => {
-                for (let ripple of ripples.reverse()) {
-                    const dist = getDistance(d, ripple.origin)
-                    if (dist < ripple.radius)
-                        return ripple.colorScale(dist)
+        const {ctx} = this
+        window.ctx = ctx
+
+
+        ctx.clearRect(0, 0, this.base.width, this.base.height);
+
+        this.points.forEach(d => {
+            ctx.fillStyle = '#f5aa44'
+            for (let ripple of ripples.reverse()) {
+                const dist = getDistance(d, ripple.origin)
+                if (dist < ripple.radius) {
+                    ctx.fillStyle = ripple.colorScale(dist)
+                    break
                 }
-            })
+            }
+
+            ctx.beginPath();
+            ctx.arc(d.x, d.y, 5, 0, 2 * Math.PI, false);
+            ctx.fill();
+        })
+    }
+
+    @action.bound onMouseDown(e) {
+        this.mouseDown = true
+        this.onMouseMove(e)
+    }
+
+    @action.bound onMouseUp() {
+        this.mouseDown = false
+    }
+
+    @action.bound onMouseMove(e) {
+        e.preventDefault()
+
+        const newMouse = { x: e.offsetX, y: e.offsetY }
+        this.mouse = newMouse
+
+        if (this.mouseDown && (this.ripples.length == 0 || _.last(this.ripples).radius > 10))
+            this.ripple()
+    }
+
+    @action.bound ripple() {
+        this.colorScalesIndex = this.colorScalesIndex >= this.colorScales.length-1 ? 0 : this.colorScalesIndex+1     
+
+        const {colorScales, colorScalesIndex, mouse, points} = this
+
+        const closestPointToMouse = _.orderBy(points, point => getDistance(point, mouse))[0]
+
+        if (this.ripples.length >= 50)
+            this.ripples = this.ripples.slice(1)
+
+        this.ripples.push(new Ripple({
+            origin: closestPointToMouse,
+            colorScale: d3.scaleSequential(colorScales[colorScalesIndex]).domain([0, this.width/2]),
+            radius: 0
+        }))        
     }
 
     render() {
         console.log("render")
         let {width, height, points, bbox} = this
 
-        return <g onClick={this.onClick} onMouseMove={this.onMouseMove} style={{fill: '#f5aa44', 'stroke-width': '1px', cursor: 'pointer', 'opacity': 0.5}}>
+        return <canvas onMouseDown={this.onMouseDown} onMouseUp={this.onMouseUp} onMouseLeave={this.onMouseUp} onMouseMove={this.onMouseMove} width={width} height={height} style={{cursor: 'pointer'}}/>
+
+        /*<g onClick={this.onClick} onMouseMove={this.onMouseMove} style={{fill: '#f5aa44', 'stroke-width': '1px', cursor: 'pointer', 'opacity': 0.5}}>
             {bbox && <rect x={0} y={0} width={width} height={height} fill="rgba(0,0,0,0)" stroke="none"/>}
             {_.map(points, (d,i) => 
                 <circle cx={0} cy={0} r={5}/>
             )}
-        </g>
+        </g>*/
     }
 }
 
@@ -162,9 +188,7 @@ export default class Hexagons extends Component {
         const {width, height} = this
 
         return <Resizable onResize={this.onResize}>
-            <svg>
-                <HexagonsMain x={0} y={0} width={width} height={height}/>
-            </svg>
+            <HexagonsMain x={0} y={0} width={width} height={height}/>
         </Resizable>
     }
 }
