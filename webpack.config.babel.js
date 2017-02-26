@@ -14,7 +14,7 @@ export default {
     entry: path.join(__dirname, 'src/index.js'),
     output: {
         path: path.join(__dirname, 'build'),
-        filename: 'index.bundle.js',
+        filename: 'mispy.[chunkhash].js',
         libraryTarget: 'umd'
     },
     resolve: {
@@ -32,14 +32,14 @@ export default {
             },
             {
                 test: /\.png$/,
-                loader: 'url-loader?limit=10000&name=/assets/[hash].[ext]' 
+                loader: 'url-loader?limit=10000&publicPath=/' 
             },
             {
                 test: /\.md$/,
                 loader: ['json-loader', 'markdown-it-front-matter-loader'],
             },        
-            { test: /\.woff(2)?(\?v=[0-9]\.[0-9]\.[0-9])?$/, loader: "url-loader?limit=10000&mimetype=application/font-woff&name=/assets/[hash].[ext]" },
-            { test: /\.(ttf|eot|svg)(\?v=[0-9]\.[0-9]\.[0-9])?$/, loader: "file-loader?limit=10000&name=/assets/[hash].[ext]" },
+            { test: /\.woff(2)?(\?v=[0-9]\.[0-9]\.[0-9])?$/, loader: "url-loader?limit=10000&mimetype=application/font-woff&publicPath=/" },
+            { test: /\.(ttf|eot|svg)(\?v=[0-9]\.[0-9]\.[0-9])?$/, loader: "file-loader?limit=10000&publicPath=/" },
             {
                 test: /\.css$/,
                 loader: ExtractTextPlugin.extract({
@@ -52,8 +52,6 @@ export default {
     devServer: {
         host: '0.0.0.0',
         port: 3333,
-        contentBase: path.join(__dirname, '/build'),
-        publicPath: "/build/",
         inline: false
     },
     devtool: 'cheap-module-eval-source-map',
@@ -65,7 +63,7 @@ export default {
                 }
             }
         }),
-        new ExtractTextPlugin('style.css'),
+        new ExtractTextPlugin('mispy.[chunkhash].css'),
         new StaticSiteGeneratorPlugin({
             paths: ['/'].concat(postSlugs.map(slug => '/'+slug)),
             globals: { window: {} }

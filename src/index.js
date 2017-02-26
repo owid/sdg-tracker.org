@@ -15,9 +15,15 @@ class App extends Component {
     }
 
     render() {
+        const {assets} = this.props
+        const js = assets.filter(value => value.match(/\.js$/))
+        const css = assets.filter(value => value.match(/\.css$/))
+
         return <html>
             <head>
-                <link rel="stylesheet" type="text/css" href="/style.css"/>  
+                {css.map(path =>
+                    <link rel="stylesheet" type="text/css" href={'/'+path}/>  
+                )}                
             </head>
             <body>
                 {this.content()}
@@ -27,5 +33,5 @@ class App extends Component {
 }
 
 export default (locals, callback) => {    
-    callback(null, renderToString(<App path={locals.path}/>))
+    callback(null, renderToString(<App path={locals.path} assets={Object.keys(locals.webpackStats.compilation.assets)}/>))
 };

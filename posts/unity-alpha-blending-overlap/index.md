@@ -4,10 +4,10 @@ date: 2015-07-17 11:04:40.000000000 +10:00
 ---
 Let's say you have two overlapping circles. Instead of making something Venn diagram-esque, you'd rather they just marked out a continuous area.
 
-![](circles.png)
+![](/unity-alpha-blending-overlap/circles.png)
 
 In my particular case, I want the power node supply radius indicators on this hollow-asteroid-turned-into-a-spaceship not to obscure everything underneath them by being too intense at the overlap points:
-![](spaceship.png)
+![](/unity-alpha-blending-overlap/spaceship.png)
 
 This turns out to be *surprisingly difficult*. If it were just a matter of blending the two circles, you might accomplish it by using a Min shader [BlendOp](http://docs.unity3d.com/Manual/SL-Blend.html). However, what you want is to blend the circles one way and *then* blend the result of that blend in another way onto the screen. Since the rendering engine draws back-to-front, by the time you get to blending one circle onto another the first circle has already been blended with the scene and the necessary information lost.
 
@@ -68,7 +68,7 @@ One method to avoid overlap is to tell the circle shader to just not do anything
 
 The key here is the `Stencil` bit. `Comp NotEqual` means it will only run if the stencil buffer is not already equal to the number given by `Ref 2`, and `Pass Replace` means it will set it to 2 afterwards. So any number of this shader will only run once for a given pixel. Does it work? Well...
 
-![](stencil.png)
+![](/unity-alpha-blending-overlap/stencil.png)
 
 Not exactly, no. The problem is that each of the circles is actually a square sprite, and whoever renders first hogs all the pixels with useless completely transparent bits. We can fix this by telling the shader to discard any pixels with 0 alpha:
 
@@ -81,13 +81,13 @@ half4 frag (v2f i) : COLOR {
 }
 ```
 
-![](alpha.png)
+![](/unity-alpha-blending-overlap/alpha.png)
 
 That's a little better! But we still have weird things going on around the edges. That would be because in this particular texture, the edges are soft and gradually fade out with decreasing alpha values. Since they're not *zero* alpha they don't get discarded, and can prevent higher-alpha pixels from other circles from being rendered.
 
 We can eliminate the soft edges by editing the texture, and by ensuring the filter mode is set to `Point` rather than `Bilinear`:
 
-![](aliased.png)
+![](/unity-alpha-blending-overlap/aliased.png)
 
 Success! A continuous bubble of power.
 
@@ -102,7 +102,7 @@ half4 frag (v2f i) : COLOR {
 }
 ```
 
-![](gotit.png)
+![](/unity-alpha-blending-overlap/gotit.png)
 
 I think that looks kinda nice (for placeholder developer art). If anyone has any other ideas please let me know!
 

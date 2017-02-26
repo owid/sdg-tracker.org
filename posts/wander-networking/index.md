@@ -1,5 +1,4 @@
 ---
-slug: wander-networking
 title: Distributed networking in a multiplayer game
 date: 2015-02-08 17:42:50.000000000 +11:00
 ---
@@ -7,7 +6,7 @@ A few months ago, I was tasked with porting the networking code of [Wander](http
 
 ### The problem
 
-![](griffin_landing.jpg)
+![](/wander-networking/griffin_landing.jpg)
 
 Wander was designed to be an open world, massively multiplayer[^n] exploration game. Players occupy the same universe and should be visible to one another as soon as they, uh, wander into range. Crucially, Wander is non-competitive, meaning clients can be trusted: there's not much to be gained from cheating, unless you get a kick out of teleporting yourself into odd places.
 
@@ -31,21 +30,21 @@ Having hit a dead end and feeling a bit frustrated, we went hunting for alternat
 
 I set about trying to get the VAST code working on PS4. The library itself is small, but it has ... a dependency. Namely, The A Dynamically Assembled Protocol Transformation, Integration, and eValuation Environment Communication Environment™:
 
-![](ace.png)
+![](/wander-networking/ace.png)
 
 Yes, that is the actual expansion of that acronym. But wait, it gets better! You can do real-time Common Object Request Broker Architecture® Component Model with Component Integrated A Dynamically Assembled Protocol Transformation, Integration, and eValuation Environment Communication Environment™ Object Request Broker™
 
-![](ccm.png)
+![](/wander-networking/ccm.png)
 
 *what is happening*
 
-<img src="new_yellow.gif">
+<img src="/wander-networking/new_yellow.gif">
 
-<img src="new_yellow.gif" width="150">
+<img src="/wander-networking/new_yellow.gif" width="150">
 
-<img src="new_yellow.gif" width="300">
+<img src="/wander-networking/new_yellow.gif" width="300">
 
-<img src="lastmodified.png">
+<img src="/wander-networking/lastmodified.png">
 
 *oh my gods*
 
