@@ -7,14 +7,15 @@ import moment from 'moment'
 import Sunflower from './Sunflower'
 
 import styles from './Homepage.css'
-import mispy from './mispy.png'
+import mispyImg from './mispy.png'
+import sunflowerImg from './sunflower.png'
 //import posts from '../posts'
 
 class HomepageSummary extends Component {
     render() {
         return <div class={styles.homepageSummary}>
             <header>
-                <Link to="/"><img class={styles.profile} src={mispy} alt="Jaiden Mispy"/></Link>
+                <Link to="/"><img class={styles.profile} src={mispyImg} alt="Jaiden Mispy"/></Link>
                 <h1>Jaiden Mispy</h1>
             </header>
             <main>
@@ -54,6 +55,7 @@ export default class Homepage extends Component {
         return <main class={styles.homepage}>
             <section class={styles.cover}>
                 {isClient && <Sunflower/>}
+                {!isClient && <img class={styles.sunflower} src={sunflowerImg}/>}
                 <h1>Jaiden Mispy</h1>
                 <hr/>
                 <p>Data Visualization Developer</p>

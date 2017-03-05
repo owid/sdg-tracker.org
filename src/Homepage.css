@@ -19,7 +19,7 @@
 		padding-top: 3em;
 	}
 
-	& section > *:not(hr) {
+	& section > *:not(hr):not(img) {
 		width: 90%;
 		max-width: 800px;
 	}

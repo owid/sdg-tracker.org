@@ -18,8 +18,8 @@ const makeConfig = function(isUMD) {
         output: {
             path: path.join(__dirname, 'build'),
             filename: isUMD ? 
-                (isProduction ? 'mispy.umd.[hash].js' : 'mispy.umd.js') : 
-                (isProduction ? 'mispy.[hash].js' : 'mispy.js'),
+                (isProduction ? 'mispy.umd.[chunkhash].js' : 'mispy.umd.js') : 
+                (isProduction ? 'mispy.[chunkhash].js' : 'mispy.js'),
             libraryTarget: isUMD ? 'umd' : 'var'
         },
         resolve: {
@@ -47,7 +47,7 @@ const makeConfig = function(isUMD) {
                 { test: /\.(ttf|eot|svg)(\?v=[0-9]\.[0-9]\.[0-9])?$/, loader: "file-loader?limit=10000&publicPath=/" },
                 {
                     test: /\.css$/,
-                    loader: isUMD ? ['css-loader?modules&importLoaders=1&localIdentName=[local]', 'postcss-loader'] : ExtractTextPlugin.extract({
+                    loader: ExtractTextPlugin.extract({
                         fallback: 'style-loader',
                         use: ['css-loader?modules&importLoaders=1&localIdentName=[local]', 'postcss-loader'],
                     }),

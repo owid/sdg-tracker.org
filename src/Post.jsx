@@ -8,6 +8,7 @@ import Link from './Link'
 import 'highlight.js/styles/monokai-sublime.css'
 import 'font-awesome/css/font-awesome.css'
 import posts from '../posts'
+import Helmet from 'react-helmet'
 
 export default class Post extends Component {    
     render() {
@@ -20,6 +21,7 @@ export default class Post extends Component {
         const canonicalUrl = `https://mispy.me/${slug}`
 
         return <main className={styles.post}>
+            <Helmet title={title} titleTemplate="%s - ~mispy"/>
             <header>
                 <Link to="/"><img class={styles.profile} src={mispy} alt="Jaiden Mispy"/></Link>
             </header>

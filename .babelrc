@@ -1,5 +1,5 @@
 {
    "sourceMaps": true,
-   "presets": [["latest", {modules: false }], "stage-0", "react"],
+   "presets": ["env", "stage-0", "react"],
     plugins: ["transform-decorators-legacy"]
 }
