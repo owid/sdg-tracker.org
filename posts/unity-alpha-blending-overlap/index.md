@@ -7,6 +7,7 @@ Let's say you have two overlapping circles. Instead of making something Venn dia
 ![](/unity-alpha-blending-overlap/circles.png)
 
 In my particular case, I want the power node supply radius indicators on this hollow-asteroid-turned-into-a-spaceship not to obscure everything underneath them by being too intense at the overlap points:
+
 ![](/unity-alpha-blending-overlap/spaceship.png)
 
 This turns out to be *surprisingly difficult*. If it were just a matter of blending the two circles, you might accomplish it by using a Min shader [BlendOp](http://docs.unity3d.com/Manual/SL-Blend.html). However, what you want is to blend the circles one way and *then* blend the result of that blend in another way onto the screen. Since the rendering engine draws back-to-front, by the time you get to blending one circle onto another the first circle has already been blended with the scene and the necessary information lost.

@@ -44,6 +44,8 @@ class SunflowerMain extends Component {
     constructor() {
         super()
         this.points = d3.range(1000).map(i => {return { x: 0, y: 0 }})
+        this.offscreenCanvas = document.createElement('canvas')
+        this.ctx = this.offscreenCanvas.getContext('2d')
     }
 
     updatePoints() {
@@ -74,12 +76,19 @@ class SunflowerMain extends Component {
     @observable ripples = []
 
     componentDidMount() {
-        this.ctx = this.base.getContext('2d')
+        this.finalCtx = this.base.getContext('2d')
 
 
 //        this.updatePoints()
 //        this.circles = d3.select(this.base).selectAll('circle')
         d3.timer(this.frame)
+
+        this.componentDidUpdate()
+    }
+
+    componentDidUpdate() {
+        this.offscreenCanvas.width = this.base.width
+        this.offscreenCanvas.height = this.base.height        
     }
 
     @action.bound expandRipples() {
@@ -90,7 +99,6 @@ class SunflowerMain extends Component {
                 ripple.radius += size/50
         }
     }
-
 
     @action.bound frame() {
         this.rotation += 0.000001//0.000001///Math.pow(dist(this.mouse, { x: this.width/2, y: this.height/2 }), 2)
@@ -107,7 +115,8 @@ class SunflowerMain extends Component {
 
         points.forEach(d => {
             ctx.fillStyle = '#f5aa44'
-            for (let ripple of ripples.reverse()) {
+            for (let i = ripples.length-1; i >= 0; i--) {
+                const ripple = ripples[i]
                 const dist = getDistance(d, ripple.origin)
                 if (dist < ripple.radius) {
                     ctx.fillStyle = ripple.colorScale(dist)
@@ -116,9 +125,12 @@ class SunflowerMain extends Component {
             }
 
             ctx.beginPath();
-            ctx.arc(d.x, d.y, pointRadius, 0, 2 * Math.PI, false);
-            ctx.fill();
+            ctx.arc(d.x, d.y, pointRadius, 0, 2 * Math.PI, false)
+            ctx.fill()
         })
+
+        this.finalCtx.clearRect(0, 0, this.base.width, this.base.height);
+        this.finalCtx.drawImage(this.offscreenCanvas, 0, 0)
     }
 
     @action.bound onMouseDown(e) {
@@ -165,7 +177,12 @@ class SunflowerMain extends Component {
 
     render() {
         let {width, height, points, bbox} = this
-        return <canvas onMouseDown={this.onMouseDown} onTouchStart={this.onMouseDown} onMouseUp={this.onMouseUp} onTouchEnd={this.onMouseUp} onMouseLeave={this.onMouseUp} onMouseMove={this.onMouseMove} onTouchMove={this.onMouseMove} width={width} height={height} style={{width: width, height: height, cursor: 'pointer'}}/>
+
+        return <canvas 
+            width={width} height={height} style={{width: width, height: height, cursor: 'pointer'}}
+            onMouseDown={this.onMouseDown} onMouseUp={this.onMouseUp} onMouseLeave={this.onMouseUp} onMouseMove={this.onMouseMove}
+            onTouchStart={this.onMouseDown} onTouchEnd={this.onMouseUp} onTouchMove={this.onMouseMove}
+        />
     }
 }
 

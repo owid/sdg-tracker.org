@@ -13,8 +13,6 @@
 
 .sunflower {
 	width: 100%;
-	position: relative;
-	top: -10vh;
 }
 
 .homepageSummary {
@@ -52,9 +50,7 @@
 
 	& .writing {
 	    max-width: 600px;
-	    margin-left: auto;
-	    margin-right: auto;
-		margin-right: 1.2em;
+	    margin: 1em;
 	}
 
 	& .writing ul {
@@ -70,6 +66,11 @@
 @media (max-width: 900px) {
 	.homepage {
 		flex-wrap: wrap;
+	}
+
+	.sunflower {
+		position: relative;
+		top: -10vh;		
 	}
 
 	.sunflowerContainer {
