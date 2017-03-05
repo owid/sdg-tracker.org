@@ -11,13 +11,14 @@ const postSlugs = fs.readdirSync(path.join(__dirname, 'posts')).filter(file => !
 
 export default {
     context: __dirname,    
-    entry: path.join(__dirname, 'src/index.js'),
+    entry: path.join(__dirname, 'src/index.jsx'),
     output: {
         path: path.join(__dirname, 'build'),
         filename: 'mispy.[chunkhash].js',
         libraryTarget: 'umd'
     },
     resolve: {
+        extensions: [".js", ".jsx", ".css"],
         alias: {
             'react': 'preact-compat',
             'react-dom': 'preact-compat'
@@ -25,14 +26,14 @@ export default {
     },
     module: {
         rules: [
-            { 
+            {
                 test: /.js|.jsx$/,
                 exclude: /node_modules/,
                 use: "babel-loader",
             },
             {
                 test: /\.png$/,
-                loader: 'url-loader?limit=10000&publicPath=/' 
+                loader: 'url-loader?limit=10000&publicPath=/'
             },
             {
                 test: /\.md$/,
@@ -44,7 +45,7 @@ export default {
                 test: /\.css$/,
                 loader: ExtractTextPlugin.extract({
                     fallback: 'style-loader',
-                    use: 'css-loader?modules&localIdentName=[local]'//--[hash:base64:5]',
+                    use: ['css-loader?modules&importLoaders=1&localIdentName=[local]', 'postcss-loader'],
               }),
             }
         ]

@@ -8,7 +8,7 @@ import React, {Component} from 'react'
 import {observer} from 'mobx-react'
 import {computed, observable, action} from 'mobx'
 import {bind} from 'decko'
-import styles from './index.css'
+import styles from './Homepage.css'
 
 function getDistance(a, b) {
     return Math.sqrt((b.x-a.x)*(b.x-a.x) + (b.y-a.y)*(b.y-a.y))
@@ -25,7 +25,7 @@ class Ripple {
 }
 
 @observer
-class HexagonsMain extends Component {
+class SunflowerMain extends Component {
     @computed get width() {
         return this.props.width
     }
@@ -33,8 +33,8 @@ class HexagonsMain extends Component {
         return this.props.height
     }
 
-    @computed get spacing() {
-        return 10        
+    @computed get size() {
+        return Math.min(this.width, this.height)
     }
 
     @computed get theta() {
@@ -50,7 +50,9 @@ class HexagonsMain extends Component {
         const {width, height} = this.props
         if (!width || !height) return
 
-        const {points, rotation, spacing, theta} = this
+        const {points, rotation, theta, size} = this
+
+        const spacing = 0.015*size
 
         for (let i = 0; i < points.length; i++) {
             const radius = spacing * Math.sqrt(i)
@@ -80,26 +82,30 @@ class HexagonsMain extends Component {
         d3.timer(this.frame)
     }
 
+    @action.bound expandRipples() {
+        const {points, ripples, size} = this
+
+        for (let ripple of ripples) {
+            if (ripple.radius < size*2)
+                ripple.radius += size/50
+        }
+    }
+
 
     @action.bound frame() {
         this.rotation += 0.000001//0.000001///Math.pow(dist(this.mouse, { x: this.width/2, y: this.height/2 }), 2)
 
         this.updatePoints()
+        this.expandRipples()
 
-        const {points, ripples} = this
-
-        for (let ripple of ripples) {
-            if (ripple.radius < this.width*2)
-                ripple.radius += 10
-        }
-
-        const {ctx} = this
+        const {ctx, size, points, ripples} = this
         window.ctx = ctx
-
 
         ctx.clearRect(0, 0, this.base.width, this.base.height);
 
-        this.points.forEach(d => {
+        const pointRadius = size/130
+
+        points.forEach(d => {
             ctx.fillStyle = '#f5aa44'
             for (let ripple of ripples.reverse()) {
                 const dist = getDistance(d, ripple.origin)
@@ -110,12 +116,14 @@ class HexagonsMain extends Component {
             }
 
             ctx.beginPath();
-            ctx.arc(d.x, d.y, 5, 0, 2 * Math.PI, false);
+            ctx.arc(d.x, d.y, pointRadius, 0, 2 * Math.PI, false);
             ctx.fill();
         })
     }
 
     @action.bound onMouseDown(e) {
+        e.preventDefault();
+
         this.mouseDown = true
         this.onMouseMove(e)
     }
@@ -127,7 +135,11 @@ class HexagonsMain extends Component {
     @action.bound onMouseMove(e) {
         e.preventDefault()
 
-        const newMouse = { x: e.offsetX, y: e.offsetY }
+        const rect = e.target.getBoundingClientRect()
+        const offsetX = e.offsetX || e.targetTouches[0].pageX - rect.left
+        const offsetY = e.offsetY || e.targetTouches[0].pageY - rect.top
+
+        const newMouse = { x: offsetX, y: offsetY }
         this.mouse = newMouse
 
         if (this.mouseDown && (this.ripples.length == 0 || _.last(this.ripples).radius > 10))
@@ -152,22 +164,13 @@ class HexagonsMain extends Component {
     }
 
     render() {
-        console.log("render")
         let {width, height, points, bbox} = this
-
-        return <canvas onMouseDown={this.onMouseDown} onMouseUp={this.onMouseUp} onMouseLeave={this.onMouseUp} onMouseMove={this.onMouseMove} width={width} height={height} style={{cursor: 'pointer'}}/>
-
-        /*<g onClick={this.onClick} onMouseMove={this.onMouseMove} style={{fill: '#f5aa44', 'stroke-width': '1px', cursor: 'pointer', 'opacity': 0.5}}>
-            {bbox && <rect x={0} y={0} width={width} height={height} fill="rgba(0,0,0,0)" stroke="none"/>}
-            {_.map(points, (d,i) => 
-                <circle cx={0} cy={0} r={5}/>
-            )}
-        </g>*/
+        return <canvas onMouseDown={this.onMouseDown} onTouchStart={this.onMouseDown} onMouseUp={this.onMouseUp} onTouchEnd={this.onMouseUp} onMouseLeave={this.onMouseUp} onMouseMove={this.onMouseMove} onTouchMove={this.onMouseMove} width={width} height={height} style={{width: width, height: height, cursor: 'pointer'}}/>
     }
 }
 
 @observer
-export default class Hexagons extends Component {
+export default class Sunflower extends Component {
     @observable width
     @observable height    
 
@@ -181,14 +184,14 @@ export default class Hexagons extends Component {
 
     @action.bound onResize() {
         this.width = this.base.clientWidth
-        this.height = this.base.clientHeight
+        this.height = this.width
     }
 
     render() {
         const {width, height} = this
 
-        return <Resizable onResize={this.onResize}>
-            <HexagonsMain x={0} y={0} width={width} height={height}/>
+        return <Resizable onResize={this.onResize} class={styles.sunflower}>
+            <SunflowerMain x={0} y={0} width={width} height={height}/>
         </Resizable>
     }
 }

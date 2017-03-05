@@ -8,4 +8,4 @@ function requireAll(requireContext) {
   })
 }
 const posts = requireAll(require.context("../posts", true, /.md$/))
-export default _.sortBy(posts, post => -post.date)
+export default _.sortBy(posts, post => -new Date(post.date))

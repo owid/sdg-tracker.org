@@ -4,9 +4,9 @@ import {observable, computed, action} from 'mobx'
 import {observer} from 'mobx-react'
 import Link from './Link'
 import moment from 'moment'
-import Hexagons from './Hexagons'
+import Sunflower from './Sunflower'
 
-import styles from './index.css'
+import styles from './Homepage.css'
 import mispy from './mispy.png'
 import posts from '../posts'
 
@@ -43,14 +43,14 @@ class HomepageSummary extends Component {
 }
 
 window.homepageStart = function() {
-    render(<Hexagons/>, document.getElementsByClassName("hexagons")[0])
+    render(<Sunflower/>, document.getElementsByClassName("sunflowerContainer")[0])
 }
 
 @observer
 export default class Homepage extends Component {
 	render() {
         return <div className={styles.homepage}>
-            <div class="hexagons"/>
+            <div class="sunflowerContainer"/>
             <HomepageSummary/>
             <script async dangerouslySetInnerHTML={{__html: "window.homepageStart()"}}></script>
         </div>
