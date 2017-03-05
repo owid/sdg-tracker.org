@@ -17,24 +17,27 @@ function getDistance(a, b) {
 class Ripple {
     @observable radius
 
-    constructor({origin, colorScale, radius}) {
+    constructor({origin, colorScale, radius, priority}) {
         this.origin = origin
         this.colorScale = colorScale
         this.radius = radius
+        this.priority = priority
     }
 }
 
 @observer
 class SunflowerMain extends Component {
-    @computed get width() {
-        return this.props.width
-    }
-    @computed get height() {
-        return this.props.height
-    }
+    colorScales = _(d3_chromatic).keys().filter(k => k.indexOf('interpolate') !== -1).map(k => d3_chromatic[k]).value()
+    colorScalesIndex = 0
+    @observable rotation = +(new Date())/1000000000//0.1952444
+    @observable isPlaying = true
+    @observable bbox = null
+    @observable mouse = { x: 0, y: 0 }
+    @observable ripples = []
+    @observable ripplePriority = 0
 
     @computed get size() {
-        return Math.min(this.width, this.height)
+        return this.props.size
     }
 
     @computed get theta() {
@@ -49,9 +52,6 @@ class SunflowerMain extends Component {
     }
 
     updatePoints() {
-        const {width, height} = this.props
-        if (!width || !height) return
-
         const {points, rotation, theta, size} = this
 
         const spacing = 0.015*size
@@ -59,34 +59,32 @@ class SunflowerMain extends Component {
         for (let i = 0; i < points.length; i++) {
             const radius = spacing * Math.sqrt(i)
             const angle = theta * i * rotation
-            let x = width / 2 + radius * Math.cos(angle)
-            let y = height / 2 + radius * Math.sin(angle)
+            let x = size / 2 + radius * Math.cos(angle)
+            let y = size / 2 + radius * Math.sin(angle)
 
             points[i].x = x
             points[i].y = y
         }
     }
 
-    colorScales = _(d3_chromatic).keys().filter(k => k.indexOf('interpolate') !== -1).map(k => d3_chromatic[k]).value()
-    colorScalesIndex = 0
-    @observable rotation = +(new Date())/1000000000//0.1952444
-    @observable isPlaying = true
-    @observable bbox = null
-    @observable mouse = { x: 0, y: 0 }
-    @observable ripples = []
-
-    componentDidMount() {
+    @action componentDidMount() {
         this.finalCtx = this.base.getContext('2d')
-
-
 //        this.updatePoints()
 //        this.circles = d3.select(this.base).selectAll('circle')
-        d3.timer(this.frame)
 
         this.componentDidUpdate()
+        requestAnimationFrame(this.frame)
     }
 
-    componentDidUpdate() {
+    @action componentDidUpdate() {
+        this.ripples.push(new Ripple({
+            origin: { x: this.size/2, y: this.size/2 },
+            colorScale: d3.scaleSequential(d3_chromatic.interpolateYlOrBr).domain([0, this.size*0.9]),
+            radius: this.size,
+            priority: 0
+        }))            
+
+
         this.offscreenCanvas.width = this.base.width
         this.offscreenCanvas.height = this.base.height        
     }
@@ -94,10 +92,22 @@ class SunflowerMain extends Component {
     @action.bound expandRipples() {
         const {points, ripples, size} = this
 
-        for (let ripple of ripples) {
-            if (ripple.radius < size*2)
-                ripple.radius += size/50
-        }
+        ripples.forEach(ripple => {
+            if (ripple.radius >= size*2) return
+
+            ripple.radius += size/50
+
+            points.forEach(point => {
+                if (point.colorPriority && point.colorPriority > ripple.priority)
+                    return
+
+                const dist = getDistance(point, ripple.origin)
+                if (dist < ripple.radius) {
+                    point.color = ripple.colorScale(dist)
+                    point.colorPriority = ripple.priority
+                }                                    
+            })
+        })
     }
 
     @action.bound frame() {
@@ -111,26 +121,19 @@ class SunflowerMain extends Component {
 
         ctx.clearRect(0, 0, this.base.width, this.base.height);
 
-        const pointRadius = size/130
+        const pointRadius = Math.round(size/130)
 
         points.forEach(d => {
-            ctx.fillStyle = '#f5aa44'
-            for (let i = ripples.length-1; i >= 0; i--) {
-                const ripple = ripples[i]
-                const dist = getDistance(d, ripple.origin)
-                if (dist < ripple.radius) {
-                    ctx.fillStyle = ripple.colorScale(dist)
-                    break
-                }
-            }
-
-            ctx.beginPath();
+            ctx.fillStyle = d.color || '#f5a44a'
+            ctx.beginPath()
             ctx.arc(d.x, d.y, pointRadius, 0, 2 * Math.PI, false)
             ctx.fill()
         })
 
         this.finalCtx.clearRect(0, 0, this.base.width, this.base.height);
         this.finalCtx.drawImage(this.offscreenCanvas, 0, 0)
+
+        requestAnimationFrame(this.frame)
     }
 
     @action.bound onMouseDown(e) {
@@ -154,7 +157,9 @@ class SunflowerMain extends Component {
         const newMouse = { x: offsetX, y: offsetY }
         this.mouse = newMouse
 
-        if (this.mouseDown && (this.ripples.length == 0 || _.last(this.ripples).radius > 10))
+        const {size} = this
+
+        if (this.mouseDown && (this.ripples.length == 0 || _.last(this.ripples).radius > size/8))
             this.ripple()
     }
 
@@ -170,16 +175,17 @@ class SunflowerMain extends Component {
 
         this.ripples.push(new Ripple({
             origin: closestPointToMouse,
-            colorScale: d3.scaleSequential(colorScales[colorScalesIndex]).domain([0, this.width/2]),
-            radius: 0
+            colorScale: d3.scaleSequential(colorScales[colorScalesIndex]).domain([0, this.size*0.75]),
+            radius: 0,
+            priority: this.ripplePriority++
         }))        
     }
 
     render() {
-        let {width, height, points, bbox} = this
+        let {size, points, bbox} = this
 
         return <canvas 
-            width={width} height={height} style={{width: width, height: height, cursor: 'pointer'}}
+            width={size} height={size} style={{width: size, height: size, cursor: 'pointer'}}
             onMouseDown={this.onMouseDown} onMouseUp={this.onMouseUp} onMouseLeave={this.onMouseUp} onMouseMove={this.onMouseMove}
             onTouchStart={this.onMouseDown} onTouchEnd={this.onMouseUp} onTouchMove={this.onMouseMove}
         />
@@ -188,8 +194,7 @@ class SunflowerMain extends Component {
 
 @observer
 export default class Sunflower extends Component {
-    @observable width
-    @observable height    
+    @observable size
 
     constructor() {
         super()
@@ -200,15 +205,13 @@ export default class Sunflower extends Component {
     }
 
     @action.bound onResize() {
-        this.width = this.base.clientWidth
-        this.height = this.width
+        this.size = Math.floor(Math.min(this.base.clientWidth, this.base.clientHeight))
     }
 
     render() {
-        const {width, height} = this
-
-        return <Resizable onResize={this.onResize} class={styles.sunflower}>
-            <SunflowerMain x={0} y={0} width={width} height={height}/>
+        const {size, onResize} = this
+        return <Resizable onResize={onResize} class={styles.sunflower}>
+            <SunflowerMain x={0} y={0} size={size}/>
         </Resizable>
     }
 }

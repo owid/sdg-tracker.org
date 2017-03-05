@@ -1,3 +1,4 @@
+//import 'babel-polyfill'
 import React, {Component} from 'react'
 import {renderToString} from 'react-dom/server'
 import Homepage from './Homepage'
@@ -8,35 +9,33 @@ class App extends Component {
         const {path} = this.props
 
         if (path == "/") {
-            return <Homepage/>
+            return <Homepage class="homepage"/>
         } else {
             return <Post params={{slug: path.replace('/', '')}}/>
         }           
     }
 
     render() {
-        const {assets} = this.props
-        const js = assets.filter(value => value.match(/\.js$/))
-        const css = assets.filter(value => value.match(/\.css$/))
+        const {manifest} = this.props
 
         return <html>
             <head>
                 <meta charset="UTF-8"/>
                 <meta name="viewport" content="width=device-width; initial-scale=1"/>
-                {css.map(path =>
-                    <link rel="stylesheet" type="text/css" href={'/'+path}/>  
-                )}                
+                <link rel="stylesheet" type="text/css" href={'/'+manifest['main.css']}/>  
             </head>
             <body>
-                {js.map(path =>
-                    <script src={'/'+path}/>  
-                )}
+                <script src={'/'+manifest['main.js']}/>  
                 {this.content()}
             </body>
         </html>
     }
 }
 
-export default (locals, callback) => {    
-    callback(null, renderToString(<App path={locals.path} assets={Object.keys(locals.webpackStats.compilation.assets)}/>))
+export default (locals, callback) => {
+    const manifest = locals.isProduction ? JSON.parse(locals.fs.readFileSync('build/manifest.json').toString()) : {
+        'main.js': 'mispy.js',
+        'main.css': 'mispy.css'
+    }
+    callback(null, renderToString(<App path={locals.path} manifest={manifest}/>))
 };
