@@ -1,6 +1,8 @@
 {
   "scripts": {
-    "dev": "webpack-dev-server"
+    "dev": "webpack-dev-server",
+    "build": "rm -rf build/* && webpack -p",
+    "deploy": "netlify deploy -p build -s mispy"
   },
   "dependencies": {
     "autoprefixer": "^6.7.6",

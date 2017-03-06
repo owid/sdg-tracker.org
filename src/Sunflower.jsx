@@ -66,7 +66,7 @@ class SunflowerMain extends Component {
             points[i].y = y
         }
     }
-
+π
     @action componentDidMount() {
         this.finalCtx = this.base.getContext('2d')
 //        this.updatePoints()
@@ -82,8 +82,7 @@ class SunflowerMain extends Component {
             colorScale: d3.scaleSequential(d3_chromatic.interpolateYlOrBr).domain([0, this.size*0.9]),
             radius: this.size,
             priority: 0
-        }))            
-
+        }))
 
         this.offscreenCanvas.width = this.base.width
         this.offscreenCanvas.height = this.base.height        
@@ -111,7 +110,7 @@ class SunflowerMain extends Component {
     }
 
     @action.bound frame() {
-        this.rotation += 0.000001//0.000001///Math.pow(dist(this.mouse, { x: this.width/2, y: this.height/2 }), 2)
+        this.rotation += 0.000002//0.000001///Math.pow(dist(this.mouse, { x: this.width/2, y: this.height/2 }), 2)
 
         this.updatePoints()
         this.expandRipples()
