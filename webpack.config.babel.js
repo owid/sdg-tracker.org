@@ -34,7 +34,7 @@ export default {
             },
             {
                 test: /\.png$/,
-                loader: 'url-loader?limit=10000&publicPath=assets/&outputPath=assets/'
+                loader: 'url-loader?limit=10000&publicPath=/assets/&outputPath=assets/'
             },
             {
                 test: /\.md$/,
