@@ -1,4 +1,4 @@
-import React, {Component} from 'react'
+import React, {Component, cloneElement} from 'react'
 import {render} from 'react-dom'
 import {observable, computed, action} from 'mobx'
 import {observer} from 'mobx-react'
@@ -9,86 +9,94 @@ import Sunflower from './Sunflower'
 import styles from './Homepage.css'
 import mispyImg from './mispy.png'
 import sunflowerImg from './sunflower.png'
-//import posts from '../posts'
+import * as d3 from 'd3'
+import {interpolateSpectral} from 'd3-scale-chromatic'
 
-class HomepageSummary extends Component {
-    render() {
-        return <div class={styles.homepageSummary}>
-            <header>
-                <Link to="/"><img class={styles.profile} src={mispyImg} alt="Jaiden Mispy"/></Link>
-                <h1>Jaiden Mispy</h1>
-            </header>
-            <main>
-                <div class={styles.writing}>
-                    <h2>Writing</h2>
-                    <ul>
-                        {/*posts.map(post =>
-                            <li>
-                                <h3><Link to={post.slug}>{post.title}</Link></h3>
-                                <time datetime={post.date}>{moment(post.date).format('DD MMMM YYYY')}</time>
-                            </li>
-                        )*/}
-                    </ul>
-                </div>
-                {/*<div class={styles.links}>
-                    <h2>Links</h2>
-                    <ul>
-                        <li><a href="https://twitter.com/m1sp">Twitter</a></li>
-                        <li><a href="https://github.com/mispy">Github</a></li>
-                        <li><a href="http://www.oxfordmartin.ox.ac.uk/people/745">Oxford</a></li>
-                    </ul>
-                </div>*/}
-            </main>        
-        </div>
+window.homepageStart = function() {
+    render(<Forest width={window.innerWidth} height={window.innerHeight}/>, document.body)
+}
+
+class Grid {
+    @observable width
+    @observable height
+
+    @computed get centerX() { return Math.floor(this.width/2) }
+    @computed get centerY() { return Math.floor(this.height/2) }
+
+    constructor(width, height) {
+        this.width = width
+        this.height = height
+    }
+
+    distFromCenter(i, j) {
+        return Math.sqrt((i-this.centerX)**2 + (j-this.centerY)**2)
+    }
+
+    map(callback) {
+        const results = []
+        for (let i = 0; i < this.width; i++) {
+            for (let j = 0; j < this.height; j++) {
+                results.push(callback(i, j))
+            }
+        }
+        return results
     }
 }
 
-window.homepageStart = function() {
-    render(<Homepage isClient={true}/>, document.body)
+@observer
+class Forest extends Component {
+    @computed get width() { return this.props.width }
+    @computed get height() { return this.props.height }
+
+    @computed get grid() {
+        const size = 51
+        return new Grid(size, Math.floor(size * (this.height/this.width)))  
+    }
+
+    @observable offset = 0
+
+    componentDidMount() {
+    }
+
+    @action.bound frame() {
+        this.offset += 0.01
+        this.draw()
+        requestAnimationFrame(this.frame)        
+    }
+
+    start(canvas) {
+        this.ctx = canvas.getContext('2d')
+        requestAnimationFrame(this.frame)
+    }
+
+    draw() {
+        const {grid, offset, ctx} = this
+        const tileWidth = this.props.width/grid.width
+        const tileHeight = this.props.height/grid.height
+        const colorScale = interpolateSpectral
+
+        grid.map((i, j) => {
+            const distFromCenter = grid.distFromCenter(i, j)
+            
+            let v = (1-distFromCenter/grid.distFromCenter(0, 0) + this.offset)
+            v = v % 2 < 1 ? 1 - v%1 : v%1
+
+            const color = colorScale(v)
+
+            ctx.fillStyle = color
+            ctx.fillRect(tileWidth*i, tileHeight*j, tileWidth, tileHeight)
+        })        
+    }
+
+    render() {
+        return <canvas width={this.props.width} height={this.props.height} ref={e => this.start(e)}/>
+    }
+
 }
 
 @observer
 export default class Homepage extends Component {
 	render() {
-        const {isClient} = this.props
-
-        return <main class={styles.homepage}>
-            <section class={styles.cover}>
-                {isClient && <Sunflower/>}
-                {!isClient && <img class={styles.sunflower} src={sunflowerImg}/>}
-                <h1>Jaiden Mispy</h1>
-                <hr/>
-                <p>Data Visualization Developer</p>
-
-                <i class="fa fa-angle-down"/>
-            </section>
-            <section class={styles.currentProject}>
-                <h2>Current Project</h2>
-                <hr/>
-                <div class="project">
-                    <a href="https://ourworldindata.org" target="_blank"><img src="https://ourworldindata.org/wp-content/uploads/2016/06/OurWorldInData.png"/></a>
-                    <p>Since 2016 I have been working with <a href="https://maxroser.com">Max Roser</a> and the <a href="http://www.oxfordmartin.ox.ac.uk/">Oxford Martin School</a> on <a href="https://ourworldindata.org">Our World In Data</a>. This project aims to make verifiable quantitative information about issues of global importance accessible and freely available to all of humanity.</p>
-                </div>
-            </section>
-            <section class={styles.contact}>
-                <h2>Contact</h2>
-                <hr/>
-                <form action="https://formspree.io/jaiden@mispy.me" method="POST">
-                    <input type="text" name="name" placeholder="Name" required/>
-                    <input type="email" name="_replyto" placeholder="Email Address" required/>
-                    <textarea name="message" rows={5} placeholder="Message" required/>
-                    <input type="submit" value="Send"/>
-                </form>
-            </section>
-            <footer>
-                <a href="mailto:jaiden@mispy.me">jaiden@mispy.me</a>
-                <div class={styles.socialLinks}>
-                    <a href="https://twitter.com/m1sp" target="_blank"><i class="fa fa-twitter"/></a>
-                    <a href="https://facebook.com/misprime" target="_blank"><i class="fa fa-facebook"/></a>
-                    <a href="https://github.com/mispy" target="_blank"><i class="fa fa-github"/></a>
-                </div>            
-            </footer>
-            <script async dangerouslySetInnerHTML={{__html: "window.homepageStart()"}}></script>
-        </main>
+        return <script async dangerouslySetInnerHTML={{__html: "window.homepageStart()"}}></script>
 	}
 }

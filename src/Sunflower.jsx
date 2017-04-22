@@ -26,7 +26,7 @@ class Ripple {
 }
 
 @observer
-class SunflowerMain extends Component {
+export default class Sunflower extends Component {
     colorScales = _(d3_chromatic).keys().filter(k => k.indexOf('interpolate') !== -1).map(k => d3_chromatic[k]).value()
     colorScalesIndex = 0
     @observable rotation = +(new Date())/1000000000//0.1952444
@@ -35,10 +35,6 @@ class SunflowerMain extends Component {
     @observable mouse = { x: 0, y: 0 }
     @observable ripples = []
     @observable ripplePriority = 0
-
-    @computed get size() {
-        return this.props.size
-    }
 
     @computed get theta() {
         return Math.PI * (3 - Math.sqrt(5))
@@ -49,6 +45,10 @@ class SunflowerMain extends Component {
         this.points = d3.range(1000).map(i => {return { x: 0, y: 0 }})
         this.offscreenCanvas = document.createElement('canvas')
         this.ctx = this.offscreenCanvas.getContext('2d')
+    }
+
+    @computed get size() {
+        return 100
     }
 
     updatePoints() {
@@ -66,7 +66,7 @@ class SunflowerMain extends Component {
             points[i].y = y
         }
     }
-π
+
     @action componentDidMount() {
         this.finalCtx = this.base.getContext('2d')
 //        this.updatePoints()
@@ -131,8 +131,6 @@ class SunflowerMain extends Component {
 
         this.finalCtx.clearRect(0, 0, this.base.width, this.base.height);
         this.finalCtx.drawImage(this.offscreenCanvas, 0, 0)
-
-        requestAnimationFrame(this.frame)
     }
 
     @action.bound onMouseDown(e) {
@@ -181,36 +179,9 @@ class SunflowerMain extends Component {
     }
 
     render() {
-        let {size, points, bbox} = this
+        const {cx, cy, r} = this.props
+        const {points, bbox, size} = this
 
-        return <canvas 
-            width={size} height={size} style={{width: size, height: size, cursor: 'pointer'}}
-            onMouseDown={this.onMouseDown} onMouseUp={this.onMouseUp} onMouseLeave={this.onMouseUp} onMouseMove={this.onMouseMove}
-            onTouchStart={this.onMouseDown} onTouchEnd={this.onMouseUp} onTouchMove={this.onMouseMove}
-        />
-    }
-}
-
-@observer
-export default class Sunflower extends Component {
-    @observable size
-
-    constructor() {
-        super()
-    }
-
-    componentDidMount() {
-        this.onResize()
-    }
-
-    @action.bound onResize() {
-        this.size = Math.floor(Math.min(this.base.clientWidth, this.base.clientHeight))
-    }
-
-    render() {
-        const {size, onResize} = this
-        return <Resizable onResize={onResize} class={styles.sunflower}>
-            <SunflowerMain x={0} y={0} size={size}/>
-        </Resizable>
+        return <canvas width={size} height={size} style={{position: 'absolute', left: cx, top: cy, width: this.props.r, height: this.props.r, cursor: 'pointer'}}/>
     }
 }

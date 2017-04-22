@@ -2,7 +2,6 @@
 import React, {Component} from 'react'
 import {renderToString} from 'react-dom/server'
 import Homepage from './Homepage'
-import Post from './Post'
 import Helmet from 'react-helmet'
 import faviconImg from './favicon.png'
 import sunflowerImg from './sunflower.png'
@@ -11,18 +10,14 @@ class Body extends Component {
     content() {
         const {path} = this.props
 
-        if (path == "/") {
-            return <Homepage class="homepage"/>
-        } else {
-            return <Post params={{slug: path.replace('/', '')}}/>
-        }           
+        return <Homepage class="homepage"/>
     }
 
     render() {
         const {assets} = this.props
         const js = assets.filter(value => value.match(/\.js$/))
 
-        return <body>
+        return <body style={{margin: 0}}>
             <Helmet title="Jaiden Mispy"/>
             {js.map(path =>
                 <script src={'/'+path}/>  
@@ -60,7 +55,7 @@ class Head extends Component {
             {css.map(cssPath =>
                 <link rel="stylesheet" type="text/css" href={'/'+cssPath}/>  
             )}       
-            <link rel="icon" href={faviconImg}/>         
+            <link rel="icon" href={faviconImg}/>
             {head.link.toComponent()}
         </head>
     }

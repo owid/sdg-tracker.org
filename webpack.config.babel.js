@@ -9,14 +9,13 @@ import fs from 'fs'
 import fm from 'front-matter'
 
 const isProduction = process.argv.indexOf('-p') !== -1;
-const postSlugs = fs.readdirSync(path.join(__dirname, 'posts')).filter(file => !file.match(/.jsx$/))
 
 export default {
     context: __dirname,    
     entry: path.join(__dirname, 'src/index.jsx'),
     output: {
         path: path.join(__dirname, 'build'),
-        filename: (isProduction ? 'assets/mispy.[chunkhash].js' : 'assets/mispy.js'),
+        filename: (isProduction ? 'assets/main.[chunkhash].js' : 'assets/main.js'),
         libraryTarget: 'umd'
     },
     resolve: {
@@ -36,10 +35,6 @@ export default {
                 test: /\.png$/,
                 loader: 'url-loader?limit=10000&publicPath=/assets/&outputPath=assets/'
             },
-            {
-                test: /\.md$/,
-                loader: ['json-loader', 'markdown-it-front-matter-loader'],
-            },        
             { test: /\.woff(2)?(\?v=[0-9]\.[0-9]\.[0-9])?$/, loader: "url-loader?limit=10000&mimetype=application/font-woff&outputPath=assets/" },
             { test: /\.(ttf|eot|svg)(\?v=[0-9]\.[0-9]\.[0-9])?$/, loader: "file-loader?limit=10000&outputPath=assets/" },
             {
@@ -58,26 +53,13 @@ export default {
     },
     devtool: (isProduction ? false : "cheap-module-eval-source-map"),
     plugins: [
-        new webpack.LoaderOptionsPlugin({
-            options: {
-                'markdown-it-front-matter': {
-                    html: true
-                }
-            }
-        }),
-
-        new ExtractTextPlugin(isProduction ? 'assets/mispy.[chunkhash].css' : 'assets/mispy.css'),
+        new ExtractTextPlugin(isProduction ? 'assets/main.[chunkhash].css' : 'assets/main.css'),
 
         new StaticSiteGeneratorPlugin({
-            paths: ['/'].concat(postSlugs.map(slug => '/'+slug)),
+            paths: ['/'],
             locals: { 'isProduction': isProduction },
             globals: { window: {} }
         }),
-
-        // Copy the post assets (images and such)
-        new CopyWebpackPlugin([
-            { context: 'posts', from: '**/*' }
-        ], { ignore: ['index.jsx'] })
     ].concat(isProduction ? [
         new OptimizeCssAssetsPlugin({
             assetNameRegExp: /\.bundle.*\.css$/,
