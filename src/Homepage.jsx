@@ -49,17 +49,17 @@ class Forest extends Component {
     @computed get height() { return this.props.height }
 
     @computed get grid() {
-        const size = 51
-        return new Grid(size, Math.floor(size * (this.height/this.width)))  
+        const size = 101
+        return new Grid(size, 2*Math.floor(size * (this.height/this.width) / 2)+1)  
     }
 
-    @observable offset = 0
+    @observable offset = 0.1
 
     componentDidMount() {
     }
 
     @action.bound frame() {
-        this.offset += 0.01
+        this.offset += 0.005
         this.draw()
         requestAnimationFrame(this.frame)        
     }
