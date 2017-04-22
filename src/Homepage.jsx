@@ -10,7 +10,7 @@ import styles from './Homepage.css'
 import mispyImg from './mispy.png'
 import sunflowerImg from './sunflower.png'
 import * as d3 from 'd3'
-import {interpolateSpectral} from 'd3-scale-chromatic'
+import * as d3_chromatic from 'd3-scale-chromatic'
 
 window.homepageStart = function() {
     render(<Forest width={window.innerWidth} height={window.innerHeight}/>, document.body)
@@ -49,7 +49,7 @@ class Forest extends Component {
     @computed get height() { return this.props.height }
 
     @computed get grid() {
-        const size = 101
+        const size = 51
         return new Grid(size, 2*Math.floor(size * (this.height/this.width) / 2)+1)  
     }
 
@@ -73,15 +73,17 @@ class Forest extends Component {
         const {grid, offset, ctx} = this
         const tileWidth = this.props.width/grid.width
         const tileHeight = this.props.height/grid.height
-        const colorScale = interpolateSpectral
+        const schemes = ["Spectral"]//["Greens", "Greys", "Oranges", "Purples", "Reds", "BuGn", "BuPu", "GnBu", "OrRd", "PuBuGn", "PuBu", "PuRd", "RdPu", "YlGnBu", "YlGn", "YlOrBr", "YlOrRd"]
+        const scales = schemes.map(k => d3_chromatic["interpolate"+k])//Object.keys(d3_chromatic).filter(k => k.startsWith("interpolate")).map(k => d3_chromatic[k])
 
         grid.map((i, j) => {
             const distFromCenter = grid.distFromCenter(i, j)
             
             let v = (1-distFromCenter/grid.distFromCenter(0, 0) + this.offset)
-            v = v % 2 < 1 ? 1 - v%1 : v%1
+            const index = Math.floor(v/2 % scales.length)
+            v = v % 2 < 1 ? v%1 : 1 - v%1
 
-            const color = colorScale(v)
+            const color = scales[index](v)
 
             ctx.fillStyle = color
             ctx.fillRect(tileWidth*i, tileHeight*j, tileWidth, tileHeight)
