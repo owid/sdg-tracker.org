@@ -2,7 +2,7 @@
   "scripts": {
     "dev": "webpack-dev-server",
     "build": "rm -rf build/* && webpack -p",
-    "deploy": "netlify deploy -p build -s mispy"
+    "deploy": "rm -rf ~/mispy.me/content/code/spectral-pulse && cp -r build ~/mispy.me/content/code/spectral-pulse && rm -rf ~/mispy.me/build/code/spectral-pulse && cp -r build ~/mispy.me/build/code/spectral-pulse && cd ~/mispy.me && yarn deploy"
   },
   "dependencies": {
     "autoprefixer": "^6.7.6",

@@ -13,7 +13,11 @@ import * as d3 from 'd3'
 import * as d3_chromatic from 'd3-scale-chromatic'
 
 window.homepageStart = function() {
-    render(<Forest width={window.innerWidth} height={window.innerHeight}/>, document.body)
+    const el = render(<Forest width={window.innerWidth} height={window.innerHeight}/>, document.body)
+
+    window.onresize = function() {
+        render(<Forest width={window.innerWidth} height={window.innerHeight}/>, document.body, el)
+    }
 }
 
 class Grid {
@@ -55,18 +59,17 @@ class Forest extends Component {
 
     @observable offset = 0.1
 
-    componentDidMount() {
-    }
-
     @action.bound frame() {
-        this.offset += 0.005
+        this.offset += 0.004
         this.draw()
         requestAnimationFrame(this.frame)        
     }
 
     start(canvas) {
+        const first = !this.ctx
         this.ctx = canvas.getContext('2d')
-        requestAnimationFrame(this.frame)
+        if (first)
+            requestAnimationFrame(this.frame)
     }
 
     draw() {

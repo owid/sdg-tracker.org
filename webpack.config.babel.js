@@ -33,7 +33,7 @@ export default {
             },
             {
                 test: /\.png$/,
-                loader: 'url-loader?limit=10000&publicPath=/assets/&outputPath=assets/'
+                loader: 'url-loader?limit=10000&publicPath=assets/&outputPath=assets/'
             },
             { test: /\.woff(2)?(\?v=[0-9]\.[0-9]\.[0-9])?$/, loader: "url-loader?limit=10000&mimetype=application/font-woff&outputPath=assets/" },
             { test: /\.(ttf|eot|svg)(\?v=[0-9]\.[0-9]\.[0-9])?$/, loader: "file-loader?limit=10000&outputPath=assets/" },
