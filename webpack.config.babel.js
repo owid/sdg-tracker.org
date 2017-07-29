@@ -12,14 +12,14 @@ const isProduction = process.argv.indexOf('-p') !== -1;
 
 export default {
     context: __dirname,    
-    entry: path.join(__dirname, 'src/index.jsx'),
+    entry: path.join(__dirname, 'src/index.tsx'),
     output: {
         path: path.join(__dirname, 'build'),
         filename: (isProduction ? 'assets/main.[chunkhash].js' : 'assets/main.js'),
         libraryTarget: 'umd'
     },
     resolve: {
-        extensions: [".js", ".jsx", ".css"],
+        extensions: [".js", ".jsx", ".ts", ".tsx", ".css"],
         alias: {
             'react': 'preact-compat',
             'react-dom': 'preact-compat'
@@ -27,6 +27,10 @@ export default {
     },
     module: {
         rules: [
+            {
+                test: /\.tsx?$/,
+                loader: "awesome-typescript-loader"
+            },
             {
                 test: /preact-compat|\.jsx$/,
                 use: "babel-loader",

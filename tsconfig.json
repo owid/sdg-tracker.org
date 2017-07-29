@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+        "allowJs": false,
+        "alwaysStrict": true,
+        "noImplicitAny": true,
+        "outDir": "./tmp/dist/",
+        "sourceMap": true,
+        "module": "commonjs",
+        "target": "es6",
+        "jsx": "react",
+        "experimentalDecorators": true,
+        "strictNullChecks": true
+    },
+    "exclude": ["node_modules"],
+    "awesomeTypescriptLoaderOptions": {
+        "useBabel": true,
+        "useCache": true
+    }
+}

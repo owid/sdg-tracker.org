@@ -1,42 +1,42 @@
-import React, {Component, cloneElement} from 'react'
-import {render} from 'react-dom'
+import * as React from 'react'
+import * as ReactDOM from 'react-dom'
 import {observable, computed, action} from 'mobx'
 import {observer} from 'mobx-react'
-import Link from './Link'
-import moment from 'moment'
-import Sunflower from './Sunflower'
 
-import styles from './Homepage.css'
-import mispyImg from './mispy.png'
-import sunflowerImg from './sunflower.png'
 import * as d3 from 'd3'
 import * as d3_chromatic from 'd3-scale-chromatic'
 
+declare global {
+  interface Window {
+    homepageStart: Function
+  }
+}
+
 window.homepageStart = function() {
-    const el = render(<Forest width={window.innerWidth} height={window.innerHeight}/>, document.body)
+    const el = ReactDOM.render(<Forest width={window.innerWidth} height={window.innerHeight}/>, document.body)
 
     window.onresize = function() {
-        render(<Forest width={window.innerWidth} height={window.innerHeight}/>, document.body, el)
+        ReactDOM.render(<Forest width={window.innerWidth} height={window.innerHeight}/>, document.body)
     }
 }
 
 class Grid {
-    @observable width
-    @observable height
+    @observable width: number
+    @observable height: number
 
     @computed get centerX() { return Math.floor(this.width/2) }
     @computed get centerY() { return Math.floor(this.height/2) }
 
-    constructor(width, height) {
+    constructor(width: number, height: number) {
         this.width = width
         this.height = height
     }
 
-    distFromCenter(i, j) {
+    distFromCenter(i: number, j: number) {
         return Math.sqrt((i-this.centerX)**2 + (j-this.centerY)**2)
     }
 
-    map(callback) {
+    map<T>(callback: (x: number, y: number) => T) {
         const results = []
         for (let i = 0; i < this.width; i++) {
             for (let j = 0; j < this.height; j++) {
@@ -48,7 +48,7 @@ class Grid {
 }
 
 @observer
-class Forest extends Component {
+class Forest extends React.Component<{ width: number, height: number }> {
     @computed get width() { return this.props.width }
     @computed get height() { return this.props.height }
 
@@ -65,11 +65,11 @@ class Forest extends Component {
         requestAnimationFrame(this.frame)        
     }
 
-    start(canvas) {
-        const first = !this.ctx
-        this.ctx = canvas.getContext('2d')
-        if (first)
-            requestAnimationFrame(this.frame)
+    base: HTMLCanvasElement
+    ctx: CanvasRenderingContext2D
+    componentDidMount() {
+        this.ctx = this.base.getContext('2d') as CanvasRenderingContext2D
+        requestAnimationFrame(this.frame)
     }
 
     draw() {
@@ -77,7 +77,7 @@ class Forest extends Component {
         const tileWidth = this.props.width/grid.width
         const tileHeight = this.props.height/grid.height
         const schemes = ["Spectral"]//["Greens", "Greys", "Oranges", "Purples", "Reds", "BuGn", "BuPu", "GnBu", "OrRd", "PuBuGn", "PuBu", "PuRd", "RdPu", "YlGnBu", "YlGn", "YlOrBr", "YlOrRd"]
-        const scales = schemes.map(k => d3_chromatic["interpolate"+k])//Object.keys(d3_chromatic).filter(k => k.startsWith("interpolate")).map(k => d3_chromatic[k])
+        const scales = schemes.map(k => (d3_chromatic as any)["interpolate"+k])//Object.keys(d3_chromatic).filter(k => k.startsWith("interpolate")).map(k => d3_chromatic[k])
 
         grid.map((i, j) => {
             const distFromCenter = grid.distFromCenter(i, j)
@@ -94,13 +94,13 @@ class Forest extends Component {
     }
 
     render() {
-        return <canvas width={this.props.width} height={this.props.height} ref={e => this.start(e)}/>
+        return <canvas width={this.props.width} height={this.props.height}/>
     }
 
 }
 
 @observer
-export default class Homepage extends Component {
+export default class Homepage extends React.Component {
 	render() {
         return <script async dangerouslySetInnerHTML={{__html: "window.homepageStart()"}}></script>
 	}
