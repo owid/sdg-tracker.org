@@ -6,6 +6,7 @@ import Homepage from './Homepage'
 
 declare var require: any
 const faviconImg = require('./favicon.png')
+const styles = require('./index.css')
 
 class Body extends React.Component<{path: string, assets: string[]}> {
     content() {
