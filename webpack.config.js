@@ -30,10 +30,6 @@ module.exports = {
                 loader: "awesome-typescript-loader"
             },
             {
-                test: /preact-compat|\.jsx$/,
-                use: "babel-loader",
-            },
-            {
                 test: /\.png$/,
                 loader: 'url-loader?limit=10000&publicPath=assets/&outputPath=assets/'
             },
