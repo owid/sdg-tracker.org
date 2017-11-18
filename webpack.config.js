@@ -1,16 +1,14 @@
-import webpack from 'webpack'
-import path from 'path'
-import StaticSiteGeneratorPlugin from 'static-site-generator-webpack-plugin'
-import ExtractTextPlugin from 'extract-text-webpack-plugin'
-import CopyWebpackPlugin from 'copy-webpack-plugin'
-import OptimizeCssAssetsPlugin from 'optimize-css-assets-webpack-plugin'
-import ManifestPlugin from 'webpack-manifest-plugin'
-import fs from 'fs'
-import fm from 'front-matter'
+const webpack = require('webpack')
+const path = require('path')
+const StaticSiteGeneratorPlugin = require('static-site-generator-webpack-plugin')
+const ExtractTextPlugin = require('extract-text-webpack-plugin')
+const CopyWebpackPlugin = require('copy-webpack-plugin')
+const fs = require('fs')
+const fm = require('front-matter')
 
 const isProduction = process.argv.indexOf('-p') !== -1;
 
-export default {
+module.exports = {
     context: __dirname,    
     entry: path.join(__dirname, 'src/index.tsx'),
     output: {
