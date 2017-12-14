@@ -41,7 +41,11 @@ module.exports = {
                     fallback: 'style-loader',
                     use: ['css-loader?modules&importLoaders=1&localIdentName=[local]', 'postcss-loader'],
                 }),
-            }
+            },
+            {
+                test: /\.scss$/,
+                loader: ExtractTextPlugin.extract({ fallback: 'style-loader', use: ['css-loader?modules&importLoaders=1&localIdentName=[local]', 'sass-loader'] })
+            },
         ]
     },
     devServer: {
@@ -54,10 +58,14 @@ module.exports = {
         new ExtractTextPlugin(isProduction ? 'assets/main.[chunkhash].css' : 'assets/main.css'),
 
         new StaticSiteGeneratorPlugin({
-            paths: ['/'],
+            paths: ['/', "/no-poverty"],
             locals: { 'isProduction': isProduction },
             globals: { window: {} }
         }),
+
+        new CopyWebpackPlugin([
+            { context: 'img', from: '**/*' },
+        ])
     ].concat(isProduction ? [
         new OptimizeCssAssetsPlugin({
             assetNameRegExp: /\.bundle.*\.css$/,
