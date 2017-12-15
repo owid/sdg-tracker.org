@@ -73,7 +73,7 @@ module.exports = {
             cssProcessorOptions: { discardComments: { removeAll: true } }
         }),
 
-        new webpack.optimize.UglifyJsPlugin({
+        /*new webpack.optimize.UglifyJsPlugin({
             compress: {
               warnings: false,
               screw_ie8: true,
@@ -86,6 +86,6 @@ module.exports = {
               if_return: true,
               join_vars: true
             },
-        })
+        })*/
     ] : [])
 }
