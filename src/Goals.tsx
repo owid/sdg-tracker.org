@@ -784,14 +784,11 @@ const GlobalPartnerships: Goal = {
             title: "Promote the development, transfer, dissemination and diffusion of environmentally sound technologies to developing countries on favourable terms, including on concessional and preferential terms, as mutually agreed"
         },
         {
-            // 17.8
             title: "Fully operationalize the technology bank and science, technology and innovation capacity-building mechanism for least developed countries by 2017 and enhance the use of enabling technology, in particular information and communications technology",
             figures: ["share-of-individuals-using-the-internet?map"]
         },
         {
-            // 17.9
             title: "Enhance international support for implementing effective and targeted capacity-building in developing countries to support national plans to implement all the sustainable development goals, including through North-South, South-South and triangular cooperation",
-            figures: ["completeness-of-birth-registration?tab=map"]
         },
         {
             title: "Promote a universal, rules-based, open, non-discriminatory and equitable multilateral trading system under the World Trade Organization, including through the conclusion of negotiations under its Doha Development Agenda"
@@ -821,7 +818,8 @@ const GlobalPartnerships: Goal = {
             title: "By 2020, enhance capacity-building support to developing countries, including for least developed countries and small island developing States, to increase significantly the availability of high-quality, timely and reliable data disaggregated by income, gender, age, race, ethnicity, migratory status, disability, geographic location and other characteristics relevant in national contexts"
         },
         {
-            title: "By 2030, build on existing initiatives to develop measurements of progress on sustainable development that complement gross domestic product, and support statistical capacity-building in developing countries"
+            title: "By 2030, build on existing initiatives to develop measurements of progress on sustainable development that complement gross domestic product, and support statistical capacity-building in developing countries",
+            figures: ["completeness-of-birth-registration?tab=map"]
         }
     ]
 }
