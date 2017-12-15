@@ -255,7 +255,7 @@ section.target:not(.multiFigure) {
 section.target.multiFigure {
 	figure {
 		width: 40%;
-		display: inline-block;
+		display: inline-flex;
 		height: 500px;
 	}
 }
