@@ -75,8 +75,8 @@ $padding: 50px;
 	}
 }*/
 
-header {
-	height: 60px;
+body > header {
+	height: 70px;
 	background: #001c3d;
 
 	a.logo {
@@ -85,8 +85,8 @@ header {
 	}
 
 	a {
-		height: 60px;
-		line-height: 60px;
+		height: 70px;
+		line-height: 70px;
 		color: rgba(255, 255, 255, 0.8);
 		padding: 22px 0;
 	}
@@ -133,7 +133,7 @@ nav.goalNav {
 	border-bottom: 1px solid rgba(0, 0, 0, 0.1);	
 }
 
-.goalTitle {
+section.goal > header {
 	max-width: 1120px;
 	margin: auto;
 	padding: 2rem;
@@ -209,7 +209,7 @@ article {
 	padding-top: 2rem;
 }
 
-section {
+section:not(.multiFigure) {
 	width: 1120px;
 	margin: auto;
 	display: flex;
@@ -223,6 +223,17 @@ section {
 	img {
 		max-width: 100%;
 	}
+}
+
+section.multiFigure {
+	width: 1120px;
+	margin: auto;
+
+	figure {
+		width: 40%;
+		display: inline-block;
+	}
+
 }
 
 figure {

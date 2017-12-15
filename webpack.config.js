@@ -3,6 +3,7 @@ const path = require('path')
 const StaticSiteGeneratorPlugin = require('static-site-generator-webpack-plugin')
 const ExtractTextPlugin = require('extract-text-webpack-plugin')
 const CopyWebpackPlugin = require('copy-webpack-plugin')
+const OptimizeCssAssetsPlugin = require('optimize-css-assets-webpack-plugin')
 const fs = require('fs')
 const fm = require('front-matter')
 
@@ -64,7 +65,7 @@ module.exports = {
         }),
 
         new CopyWebpackPlugin([
-            { context: 'img', from: '**/*' },
+            { from: 'img', to: 'img' },
         ])
     ].concat(isProduction ? [
         new OptimizeCssAssetsPlugin({
