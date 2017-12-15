@@ -239,18 +239,16 @@ const GenderEquality: Goal = {
             // 5.2
             title: "Eliminate all forms of violence against all women and girls in the public and private spheres, including trafficking and sexual and other types of exploitation",
             figureDesc: `
-                The first visualization presents data on the share of ever-partnered women and girls aged 15 or older who reported being victim to some form of violence by a current or former partner within the previous year. As shown as a time-series [accessed by clicking the "Chart" tab or any country on the map], data coverage is highly incomplete and infrequent when viewed over time. Recent data for many countries is not currently available — for example, the latest data reference for India dates back to 2006.
+The first visualization presents data on the share of ever-partnered women and girls aged 15 or older who reported being victim to some form of violence by a current or former partner within the previous year. As shown as a time-series (accessed by clicking the "Chart" tab or any country on the map), data coverage is highly incomplete and infrequent when viewed over time. Recent data for many countries is not currently available — for example, the latest data reference for India dates back to 2006.
 
-                or a select number of countries, data is available on the percentage of young girls (ages 15 to 19 years old) who report having been victims of sexual abuse. This data is presented in the chart to the right; as shown, such data is also infrequently collected with a wide range of reference years
+For a select number of countries, data is available on the percentage of young girls (ages 15 to 19 years old) who report having been victims of sexual abuse. This data is presented in the chart to the right; as shown, such data is also infrequently collected with a wide range of reference years
             `,
             figures: ["women-subjected-to-violence-last-year", "percentage-of-girls-15-to-19-who-report-having-been-victims-of-sexual-abuse"]
         },
         {
             // 5.3
             title: "Eliminate all harmful practices, such as child, early and forced marriage and female genital mutilation",
-            figureDesc: `
-                The map below presents coverage of the percentage of women (aged between 20 and 24) who report being married or in a union before the age of 18. This metric for some countries is typically more consistently measured/estimated providing a useful time-series trend. However for some countries, measurement is still a key issue; data for India and Brazil, for example, has not been recorded within the last decade.
-            `,
+            figureDesc: `The map below presents coverage of the percentage of women (aged between 20 and 24) who report being married or in a union before the age of 18. This metric for some countries is typically more consistently measured/estimated providing a useful time-series trend. However for some countries, measurement is still a key issue; data for India and Brazil, for example, has not been recorded within the last decade.`,
             figures: ["women-married-by-age-18", "female-genital-mutilation"]
         },
         {
@@ -259,9 +257,7 @@ const GenderEquality: Goal = {
         {
             // 5.5
             title: "Ensure women’s full and effective participation and equal opportunities for leadership at all levels of decisionmaking in political, economic and public life",
-            figureDesc: `
-                The series of charts below present data on political participation and management positions held by women at various levels. Data coverage on political participation is typically complete and up-to-date for nearly all countries, however, data on female management is less well-covered.
-            `,
+            figureDesc: `The series of charts below present data on political participation and management positions held by women at various levels. Data coverage on political participation is typically complete and up-to-date for nearly all countries, however, data on female management is less well-covered.`,
             figures: [
                 "countries-that-have-ever-elected-a-woman-to-parliament",
                 "seats-held-by-women-in-national-parliaments?country=BGD+IND+NPL+PAK+South%20Asia+OWID_WRL",
@@ -273,9 +269,7 @@ const GenderEquality: Goal = {
         {
             // 5.6
             title: "Ensure universal access to sexual and reproductive health and reproductive rights as agreed in accordance with the Programme of Action of the International Conference on Population and Development and the Beijing Platform for Action and the outcome documents of their review conferences",
-            figureDesc: `
-                This chart shows the percentage of interviewed, married women aged 15-49 who report making their own informed decisions on healthcare-related issues. As is the case with many gender-related metrics, data for many countries is infrequently reported and often insufficient to develop trends over time.
-            `,
+            figureDesc: `This chart shows the percentage of interviewed, married women aged 15-49 who report making their own informed decisions on healthcare-related issues. As is the case with many gender-related metrics, data for many countries is infrequently reported and often insufficient to develop trends over time.`,
             figures: ["proportion-of-women-who-make-their-own-informed-health-care-decisions"]
         },
         {

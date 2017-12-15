@@ -58,6 +58,7 @@
     "react": "^15.4.2",
     "react-component-resizable": "^1.1.0-rc1",
     "react-helmet": "^5.0.0",
+    "react-markdown": "^3.1.1",
     "sass-loader": "^6.0.6",
     "static-site-generator-webpack-plugin": "^3.2.0",
     "style-loader": "^0.13.2",

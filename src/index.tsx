@@ -1,5 +1,6 @@
 import * as React from 'react'
 import * as ReactDOMServer from 'react-dom/server'
+import * as Markdown from 'react-markdown'
 import { Helmet, HelmetData } from 'react-helmet'
 import { Goals, Goal } from './Goals'
 import Homepage from './Homepage'
@@ -8,7 +9,7 @@ declare var require: any
 const faviconImg = require('./favicon.png')
 const styles = require('./index.scss')
 
-const RootUrl = "/"
+const RootUrl = "/sdgs"
 
 const SiteHeader = () => {
     return <header>
@@ -55,7 +56,7 @@ const GoalPage = (props: { goal: Goal, assets: string[] }) => {
                     <img src={`img/goals/${goalNum}.png`} />
                     <div>
                         <h1>Goal {goalNum}: {goal.title}</h1>
-                        {goal.description && <p>{goal.description}</p>}
+                        {goal.description && <Markdown source={goal.description}/>}
                         <p style={{ color: 'red' }}>Draft version; do not distribute</p>
                     </div>
                 </header>
@@ -64,7 +65,7 @@ const GoalPage = (props: { goal: Goal, assets: string[] }) => {
                         <div>
                             <h3>Target {goalNum}.{index+1}</h3>
                             <p><em>{target.title}</em></p>
-                            {target.figureDesc && <p>{target.figureDesc}</p>}
+                            {target.figureDesc && <Markdown source={target.figureDesc}/>}
                         </div>
                         <div>
                             {target.figures.map(path => 
