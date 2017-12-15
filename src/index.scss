@@ -209,7 +209,7 @@ article {
 	padding-top: 2rem;
 }
 
-section:not(.multiFigure) {
+section.target:not(.multiFigure) {
 	width: 1120px;
 	margin: auto;
 	display: flex;
@@ -223,20 +223,20 @@ section:not(.multiFigure) {
 	img {
 		max-width: 100%;
 	}
+
+	figure {
+		width: 720px;
+		height: 540px;
+	}
 }
 
-section.multiFigure {
+section.target.multiFigure {
 	width: 1120px;
 	margin: auto;
 
 	figure {
 		width: 40%;
 		display: inline-block;
+		height: 500px;
 	}
-
-}
-
-figure {
-	width: 720px;
-	height: 540px;
 }

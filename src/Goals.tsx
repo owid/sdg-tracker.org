@@ -1,28 +1,38 @@
+
 export interface Goal {
     slug: string
     name: string
     title: string
     targets: {
-        title: string
+        title: string,
+        figureDesc?: string
+        figures?: string[]
     }[]
 }
 
+// Goal 1
 const NoPoverty: Goal = {
     slug: "no-poverty",
     name: "No poverty",
     title: "End poverty in all its forms everywhere",
     targets: [
         {
-            title: "By 2030, eradicate extreme poverty for all people everywhere, currently measured as people living on less than $1.25 a day"
+            // 1.1
+            title: "By 2030, eradicate extreme poverty for all people everywhere, currently measured as people living on less than $1.25 a day",
+            figures: ["share-of-the-population-living-in-extreme-poverty?tab=map&minimal=1"]
         },
         {
-            title: "By 2030, reduce at least by half the proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions"
+            // 1.2
+            title: "By 2030, reduce at least by half the proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",
+            figures: ["share-of-population-living-in-poverty-by-national-poverty-lines?country=BGD+IND+NPL+PAK"]
         },
         {
             title: "Implement nationally appropriate social protection systems and measures for all, including floors, and by 2030 achieve substantial coverage of the poor and the vulnerable"
         },
         {
-            title: "By 2030, ensure that all men and women, in particular the poor and the vulnerable, have equal rights to economic resources, as well as access to basic services, ownership and control over land and other forms of property, inheritance, natural resources, appropriate new technology and financial services, including microfinance"
+            // 1.3
+            title: "By 2030, ensure that all men and women, in particular the poor and the vulnerable, have equal rights to economic resources, as well as access to basic services, ownership and control over land and other forms of property, inheritance, natural resources, appropriate new technology and financial services, including microfinance",
+            figures: ["share-of-population-with-access-to-basic-infrastructure-services?country=WLD"]
         },
         {
             title: "By 2030, build the resilience of the poor and those in vulnerable situations and reduce their exposure and vulnerability to climate-related extreme events and other economic, social and environmental shocks and disasters"
@@ -36,13 +46,16 @@ const NoPoverty: Goal = {
     ]
 }
 
+// Goal 2
 const ZeroHunger: Goal = {
     slug: "zero-hunger",
     name: "Zero hunger",
     title: "End hunger, achieve food security and improved nutrition and promote sustainable agriculture",
     targets: [
         {
-            title: "By 2030, end hunger and ensure access by all people, in particular the poor and people in vulnerable situations, including infants, to safe, nutritious and sufficient food all year round"
+            // 2.1
+            title: "By 2030, end hunger and ensure access by all people, in particular the poor and people in vulnerable situations, including infants, to safe, nutritious and sufficient food all year round",
+            figures: ["prevalence-of-undernourishment?tab=chart&country=BGD+IND+NPL+PAK+South%20Asia+OWID_WRL"]
         },
         {
             title: "By 2030, end all forms of malnutrition, including achieving, by 2025, the internationally agreed targets on stunting and wasting in children under 5 years of age, and address the nutritional needs of adolescent girls, pregnant and lactating women and older persons"
@@ -68,43 +81,69 @@ const ZeroHunger: Goal = {
     ]
 }
 
+// Goal 3
 const GoodHealth: Goal = {
     slug: "good-health",
     name: "Good health and well-being",
     title: "Ensure healthy lives and promote well-being for all at all ages",
     targets: [
         {
-            title: "By 2030, reduce the global maternal mortality ratio to less than 70 per 100,000 live births"
+            // 3.1
+            title: "By 2030, reduce the global maternal mortality ratio to less than 70 per 100,000 live births",
+            figures: ["maternal-mortality?country=BGD+IND+NPL+PAK+South%20Asia+OWID_WRL"]
         },
         {
-            title: "By 2030, end preventable deaths of newborns and children under 5 years of age, with all countries aiming to reduce neonatal mortality to at least as low as 12 per 1,000 live births and under-5 mortality to at least as low as 25 per 1,000 live births"
+            // 3.2
+            title: "By 2030, end preventable deaths of newborns and children under 5 years of age, with all countries aiming to reduce neonatal mortality to at least as low as 12 per 1,000 live births and under-5 mortality to at least as low as 25 per 1,000 live births",
+            figures: ["child-mortality-rate-per-1000-live-births"]
         },
         {
-            title: "By 2030, end the epidemics of AIDS, tuberculosis, malaria and neglected tropical diseases and combat hepatitis, water-borne diseases and other communicable diseases"
+            // 3.3
+            title: "By 2030, end the epidemics of AIDS, tuberculosis, malaria and neglected tropical diseases and combat hepatitis, water-borne diseases and other communicable diseases",
+            figureDesc: `The visualisations below present global-level data on communicable diseases including AIDS, tuberculosis and malaria. Broader and long-term coverage is available on some of these health issues at our entries on [HIV/AIDS](/hiv-aids/) and [Malaria](/malaria/).`,
+            figures: [
+                "number-of-new-hiv-infections-per-1000-uninfected-population-aged-15-49?country=BGD+IND+NPL+PAK+ZAF+OWID_WRL",
+                "tuberculosis-incidence-per-100000-people?tab=map",
+                "malaria-incidence-per-1000-population",
+                "global-malaria-deaths-by-world-region"
+            ]
         },
         {
-            title: "By 2030, reduce by one third premature mortality from non-communicable diseases through prevention and treatment and promote mental health and well-being"
+            // 3.4
+            title: "By 2030, reduce by one third premature mortality from non-communicable diseases through prevention and treatment and promote mental health and well-being",
+            figures: ["mortality-from-non-communicable-diseases", "suicide-mortality-rate"]
         },
         {
             title: "Strengthen the prevention and treatment of substance abuse, including narcotic drug abuse and harmful use of alcohol"
         },
         {
-            title: "By 2020, halve the number of global deaths and injuries from road traffic accidents"
+            // 3.6
+            title: "By 2020, halve the number of global deaths and injuries from road traffic accidents",
+            figures: ["/mortality-road-injuries?tab=chart"]
         },
         {
-            title: "By 2030, ensure universal access to sexual and reproductive health-care services, including for family planning, information and education, and the integration of reproductive health into national strategies and programmes"
+            // 3.7
+            title: "By 2030, ensure universal access to sexual and reproductive health-care services, including for family planning, information and education, and the integration of reproductive health into national strategies and programmes",
+            figures: ["demand-for-family-planning", "adolescent-birth-rate?tab=chart"]
         },
         {
             title: "Achieve universal health coverage, including financial risk protection, access to quality essential health-care services and access to safe, effective, quality and affordable essential medicines and vaccines for all"
         },
         {
-            title: "By 2030, substantially reduce the number of deaths and illnesses from hazardous chemicals and air, water and soil pollution and contamination"
+            // 3.9
+            title: "By 2030, substantially reduce the number of deaths and illnesses from hazardous chemicals and air, water and soil pollution and contamination",
+            figures: ["death-rate-by-source-from-air-pollution", "death-rate-from-ambient-particulate-air-pollution-per-100000?tab=map&amp;year=2015&amp;country=BGD+IND+NPL+PAK"]
         },
         {
-            title: "Strengthen the implementation of the World Health Organization Framework Convention on Tobacco Control in all countries, as appropriate"
+            // 3.a
+            title: "Strengthen the implementation of the World Health Organization Framework Convention on Tobacco Control in all countries, as appropriate",
+            figureDesc: `The charts below provide a global overview of the prevalence of smoking in people aged 15 years and older, by gender. We cover the topic of smoking — including attributable deaths and secondhand smoke — in our entry available [here](/smoking/).`,
+            figures: ["share-of-men-who-are-smoking?country=BGD+IND+NPL+PAK+South%20Asia+OWID_WRL", "share-of-women-who-are-smoking"]
         },
         {
-            title: "Support the research and development of vaccines and medicines for the communicable and noncommunicable diseases that primarily affect developing countries, provide access to affordable essential medicines and vaccines, in accordance with the Doha Declaration on the TRIPS Agreement and Public Health, which affirms the right of developing countries to use to the full the provisions in the Agreement on Trade Related Aspects of Intellectual Property Rights regarding flexibilities to protect public health, and, in particular, provide access to medicines for all"
+            // 3.b
+            title: "Support the research and development of vaccines and medicines for the communicable and noncommunicable diseases that primarily affect developing countries, provide access to affordable essential medicines and vaccines, in accordance with the Doha Declaration on the TRIPS Agreement and Public Health, which affirms the right of developing countries to use to the full the provisions in the Agreement on Trade Related Aspects of Intellectual Property Rights regarding flexibilities to protect public health, and, in particular, provide access to medicines for all",
+            figures: ["immunization-dpt-children"]
         },
         {
             title: "Substantially increase health financing and the recruitment, development, training and retention of the health workforce in developing countries, especially in least developed countries and small island developing States"
@@ -115,13 +154,21 @@ const GoodHealth: Goal = {
     ]
 }
 
+// Goal 4
 const QualityEducation: Goal = {
     slug: "quality-education",
     name: "Quality education",
     title: "Ensure inclusive and quality education for all and promote lifelong learning",
     targets: [
         {
-            title: "By 2030, ensure that all girls and boys complete free, equitable and quality primary and secondary education leading to relevant and Goal-4 effective learning outcomes"
+            // 4.1
+            title: "By 2030, ensure that all girls and boys complete free, equitable and quality primary and secondary education leading to relevant and Goal-4 effective learning outcomes",
+            figures: [
+                "existence-of-nationally-representative-learning-assessment-at-the-end-of-primary-education",
+                "students-in-grade-2-who-cant-read-a-single-word-ca-2015",
+                "existence-of-nationally-representative-learning-assessment-at-the-end-of-primary-education",
+                "share-of-students-at-end-of-primary-education-achieving-minimum-maths-proficiency-2010-2015"
+            ]
         },
         {
             title: "By 2030, ensure that all girls and boys have access to quality early childhood development, care and preprimary education so that they are ready for primary education"
@@ -136,7 +183,14 @@ const QualityEducation: Goal = {
             title: "By 2030, eliminate gender disparities in education and ensure equal access to all levels of education and vocational training for the vulnerable, including persons with disabilities, indigenous peoples and children in vulnerable situations"
         },
         {
-            title: "By 2030, ensure that all youth and a substantial proportion of adults, both men and women, achieve literacy and numeracy"
+            // 4.6
+            title: "By 2030, ensure that all youth and a substantial proportion of adults, both men and women, achieve literacy and numeracy",
+            figures: [
+                "youth-literacy-males",
+                "youth-literacy-female",
+                "adult-literacy-male",
+                "adult-literacy-female"
+            ]
         },
         {
             title: "By 2030, ensure that all learners acquire the knowledge and skills needed to promote sustainable development, including, among others, through education for sustainable development and sustainable lifestyles, human rights, gender equality, promotion of a culture of peace and non-violence, global citizenship and appreciation of cultural diversity and of culture’s contribution to sustainable development"
@@ -153,28 +207,70 @@ const QualityEducation: Goal = {
     ]
 }
 
+// Goal 5
 const GenderEquality: Goal = {
     slug: "gender-equality",
     name: "Gender equality",
     title: "Achieve gender equality and empower all women and girls",
     targets: [
         {
-            title: "End all forms of discrimination against all women and girls everywhere"
+            // 5.1
+            title: "End all forms of discrimination against all women and girls everywhere",
+            figureDesc: `The following visualisations present global-level data on the legal basis of nondiscrimation and gender equality across various measures, including hiring, equal pay, marital rape and property rights, among others. Also shown below is the long-term global progression of universal suffrage — an important indicator of gender equality.`,
+            figures: [
+                "universal-suffrage-granted-to-women",
+                "law-mandate-nondiscrimination-hiring",
+                "law-mandate-equal-pay",
+                "does-legislation-explicitly-criminalise-marital-rape",
+                "gender-rights-to-property",
+                "women-required-to-obey-husband",
+                "does-law-mandate-paid-or-unpaid-maternity-leave",
+                "nondiscrimination-clause-gender",
+                "testimony-weight-gender"
+            ]
         },
         {
-            title: "Eliminate all forms of violence against all women and girls in the public and private spheres, including trafficking and sexual and other types of exploitation"
+            // 5.2
+            title: "Eliminate all forms of violence against all women and girls in the public and private spheres, including trafficking and sexual and other types of exploitation",
+            figureDesc: `
+                The first visualization presents data on the share of ever-partnered women and girls aged 15 or older who reported being victim to some form of violence by a current or former partner within the previous year. As shown as a time-series [accessed by clicking the "Chart" tab or any country on the map], data coverage is highly incomplete and infrequent when viewed over time. Recent data for many countries is not currently available — for example, the latest data reference for India dates back to 2006.
+
+                or a select number of countries, data is available on the percentage of young girls (ages 15 to 19 years old) who report having been victims of sexual abuse. This data is presented in the chart to the right; as shown, such data is also infrequently collected with a wide range of reference years
+            `,
+            figures: ["women-subjected-to-violence-last-year", "percentage-of-girls-15-to-19-who-report-having-been-victims-of-sexual-abuse"]
         },
         {
-            title: "Eliminate all harmful practices, such as child, early and forced marriage and female genital mutilation"
+            // 5.3
+            title: "Eliminate all harmful practices, such as child, early and forced marriage and female genital mutilation",
+            figureDesc: `
+                The map below presents coverage of the percentage of women (aged between 20 and 24) who report being married or in a union before the age of 18. This metric for some countries is typically more consistently measured/estimated providing a useful time-series trend. However for some countries, measurement is still a key issue; data for India and Brazil, for example, has not been recorded within the last decade.
+            `,
+            figures: ["women-married-by-age-18", "female-genital-mutilation"]
         },
         {
             title: "Recognize and value unpaid care and domestic work through the provision of public services, infrastructure and social protection policies and the promotion of shared responsibility within the household and the family as nationally appropriate"
         },
         {
-            title: "Ensure women’s full and effective participation and equal opportunities for leadership at all levels of decisionmaking in political, economic and public life"
+            // 5.5
+            title: "Ensure women’s full and effective participation and equal opportunities for leadership at all levels of decisionmaking in political, economic and public life",
+            figureDesc: `
+                The series of charts below present data on political participation and management positions held by women at various levels. Data coverage on political participation is typically complete and up-to-date for nearly all countries, however, data on female management is less well-covered.
+            `,
+            figures: [
+                "countries-that-have-ever-elected-a-woman-to-parliament",
+                "seats-held-by-women-in-national-parliaments?country=BGD+IND+NPL+PAK+South%20Asia+OWID_WRL",
+                "proportion-of-women-in-ministerial-positions",
+                "share-firms-top-female-manager?country=BGD+IND+NPL+PAK+South%20Asia+OWID_WRL",
+                "female-employment-in-management"
+            ]
         },
         {
-            title: "Ensure universal access to sexual and reproductive health and reproductive rights as agreed in accordance with the Programme of Action of the International Conference on Population and Development and the Beijing Platform for Action and the outcome documents of their review conferences"
+            // 5.6
+            title: "Ensure universal access to sexual and reproductive health and reproductive rights as agreed in accordance with the Programme of Action of the International Conference on Population and Development and the Beijing Platform for Action and the outcome documents of their review conferences",
+            figureDesc: `
+                This chart shows the percentage of interviewed, married women aged 15-49 who report making their own informed decisions on healthcare-related issues. As is the case with many gender-related metrics, data for many countries is infrequently reported and often insufficient to develop trends over time.
+            `,
+            figures: ["proportion-of-women-who-make-their-own-informed-health-care-decisions"]
         },
         {
             title: "Undertake reforms to give women equal rights to economic resources, as well as access to ownership and control over land and other forms of property, financial services, inheritance and natural resources, in accordance with national laws"
@@ -188,22 +284,29 @@ const GenderEquality: Goal = {
     ]    
 }
 
+// Goal 6
 const WaterAndSanitation: Goal = {
     slug: "water-and-sanitation",
     name: "Clean water and sanitation",
     title: "Ensure access to water and sanitation for all",
     targets: [
         {
-            title: "By 2030, achieve universal and equitable access to safe and affordable drinking water for all"
+            // 6.1
+            title: "By 2030, achieve universal and equitable access to safe and affordable drinking water for all",
+            figures: ["share-of-the-population-with-access-to-improved-drinking-water?country=BGD+IND+NPL+PAK+South%20Asia+OWID_WRL", "number-without-access-water-source"]
         },
         {
-            title: "By 2030, achieve access to adequate and equitable sanitation and hygiene for all and end open defecation, paying special attention to the needs of women and girls and those in vulnerable situations"
+            // 6.2
+            title: "By 2030, achieve access to adequate and equitable sanitation and hygiene for all and end open defecation, paying special attention to the needs of women and girls and those in vulnerable situations",
+            figures: ["share-of-population-with-improved-sanitation-faciltities", "number-without-access-sanitation", "people-practicing-open-defecation-of-population?country=BGD+IND+NPL+PAK+South%20Asia+OWID_WRL"]
         },
         { 
             title: "By 2030, improve water quality by reducing pollution, eliminating dumping and minimizing release of hazardous chemicals and materials, halving the proportion of untreated wastewater and substantially increasing recycling and safe reuse globally" 
         }, 
         {
-            title: "By 2030, substantially increase water-use efficiency across all sectors and ensure sustainable withdrawals and supply of freshwater to address water scarcity and substantially reduce the number of people suffering from water scarcity" 
+            // 6.4
+            title: "By 2030, substantially increase water-use efficiency across all sectors and ensure sustainable withdrawals and supply of freshwater to address water scarcity and substantially reduce the number of people suffering from water scarcity" ,
+            figures: ["freshwater-withdrawals-as-a-share-of-internal-resources?country=BGD+IND+NPL+PAK+South%20Asia+OWID_WRL"]
         }, 
         { 
             title: "By 2030, implement integrated water resources management at all levels, including through transboundary cooperation as appropriate" 
@@ -220,19 +323,26 @@ const WaterAndSanitation: Goal = {
     ]    
 }
 
+// Goal 7
 const Energy: Goal = {
     slug: "energy",
     name: "Affordable and clean energy",
     title: "Ensure access to affordable, reliable, sustainable and modern energy for all",
     targets: [
         {
-            title: "By 2030, ensure universal access to affordable, reliable and modern energy services"
+            // 7.1
+            title: "By 2030, ensure universal access to affordable, reliable and modern energy services",
+            figures: ["number-of-people-in-the-world-with-and-without-electricity-access", "access-to-clean-fuels-and-technologies-for-cooking?country=BGD+IND+NPL+PAK+South%20Asia+OWID_WRL"]
         },
         {
-            title: "By 2030, increase substantially the share of renewable energy in the global energy mix"
+            // 7.2
+            title: "By 2030, increase substantially the share of renewable energy in the global energy mix",
+            figures: ["renewables-share-final-energy?tab=chart", "world-electricity-by-source?country=OWID_WRL"]
         },
         {
-            title: "By 2030, double the global rate of improvement in energy efficiency"
+            // 7.3
+            title: "By 2030, double the global rate of improvement in energy efficiency",
+            figures: ["energy-intensity-of-economies?country=OWID_WRL+South%20Asia+IND+BGD+NPL+PAK"]
         },
         {
             title: "By 2030, enhance international cooperation to facilitate access to clean energy research and technology, including renewable energy, energy efficiency and advanced and cleaner fossil-fuel technology, and promote investment in energy infrastructure and clean energy technology"
@@ -243,13 +353,16 @@ const Energy: Goal = {
     ]
 }
 
+// Goal 8
 const EconomicGrowth: Goal = {
     slug: "economic-growth",
     name: "Decent work and economic growth",
     title: "Promote inclusive and sustainable economic growth, employment and decent work for all",
     targets: [
         {
-            title: "Sustain per capita economic growth in accordance with national circumstances and, in particular, at least 7 per cent gross domestic product growth per annum in the least developed countries"
+            // 8.1
+            title: "Sustain per capita economic growth in accordance with national circumstances and, in particular, at least 7 per cent gross domestic product growth per annum in the least developed countries",
+            figures: ["gdp-per-capita-growth?tab=chart"]
         },
         {
             title: "Achieve higher levels of economic productivity through diversification, technological upgrading and innovation, including through a focus on high-value added and labour-intensive sectors"
@@ -261,13 +374,19 @@ const EconomicGrowth: Goal = {
             title: "Improve progressively, through 2030, global resource efficiency in consumption and production and endeavour to decouple economic growth from environmental degradation, in accordance with the 10-year framework of programmes on sustainable consumption and production, with developed countries taking the lead"
         },
         {
-            title: "By 2030, achieve full and productive employment and decent work for all women and men, including for young people and persons with disabilities, and equal pay for work of equal value"
+            // 8.5
+            title: "By 2030, achieve full and productive employment and decent work for all women and men, including for young people and persons with disabilities, and equal pay for work of equal value",
+            figures: ["average-hourly-earnings", "hourly-earnings-male-vs-female", "unemployment-rate", "unemployment-rate-of-males-vs-females"]
         },
         {
-            title: "By 2020, substantially reduce the proportion of youth not in employment, education or training"
+            // 8.6
+            title: "By 2020, substantially reduce the proportion of youth not in employment, education or training",
+            figures: ["youth-not-in-education-employment-training"]
         },
         {
-            title: "Take immediate and effective measures to eradicate forced labour, end modern slavery and human trafficking and secure the prohibition and elimination of the worst forms of child labour, including recruitment and use of child soldiers, and by 2025 end child labour in all its forms"
+            // 8.7
+            title: "Take immediate and effective measures to eradicate forced labour, end modern slavery and human trafficking and secure the prohibition and elimination of the worst forms of child labour, including recruitment and use of child soldiers, and by 2025 end child labour in all its forms",
+            figures: ["incidence-of-child-labour?tab=map&amp;year=2015&amp;country=BGD+IND+NPL+PAK", "average-working-hours-of-children"]
         },
         {
             title: "Protect labour rights and promote safe and secure working environments for all workers, including migrant workers, in particular women migrants, and those in precarious employment"
@@ -279,7 +398,9 @@ const EconomicGrowth: Goal = {
             title: "Strengthen the capacity of domestic financial institutions to encourage and expand access to banking, insurance and financial services for all"
         },
         {
-            title: "Increase Aid for Trade support for developing countries, in particular least developed countries, including through the Enhanced Integrated Framework for Trade-Related Technical Assistance to Least Developed Countries"
+            // 8.10
+            title: "Increase Aid for Trade support for developing countries, in particular least developed countries, including through the Enhanced Integrated Framework for Trade-Related Technical Assistance to Least Developed Countries",
+            figures: ["number-of-commercial-bank-branches-per-100000-adults", "automated-teller-machines-atms-per-100000-adults"]
         },
         {
             title: "By 2020, develop and operationalize a global strategy for youth employment and implement the Global Jobs Pact of the International Labour Organization"
@@ -287,6 +408,7 @@ const EconomicGrowth: Goal = {
     ]
 }
 
+// Goal 9
 const InfrastructureIndustrialization: Goal = {
     slug: "infrastructure-industrialization",
     name: "Industry, innovation and infrastructure",
@@ -296,16 +418,22 @@ const InfrastructureIndustrialization: Goal = {
             title: "Develop quality, reliable, sustainable and resilient infrastructure, including regional and transborder infrastructure, to support economic development and human well-being, with a focus on affordable and equitable access for all"
         },
         {
-            title: "Promote inclusive and sustainable industrialization and, by 2030, significantly raise industry’s share of employment and gross domestic product, in line with national circumstances, and double its share in least developed countries"
+            // 9.2
+            title: "Promote inclusive and sustainable industrialization and, by 2030, significantly raise industry’s share of employment and gross domestic product, in line with national circumstances, and double its share in least developed countries",
+            figures: ["manufacturing-value-added-to-gdp", "industry-share-of-total-emplyoment"]
         },
         {
             title: "Increase the access of small-scale industrial and other enterprises, in particular in developing countries, to financial services, including affordable credit, and their integration into value chains and markets"
         },
         {
-            title: "By 2030, upgrade infrastructure and retrofit industries to make them sustainable, with increased resource-use efficiency and greater adoption of clean and environmentally sound technologies and industrial processes, with all countries taking action in accordance with their respective capabilities"
+            // 9.4
+            title: "By 2030, upgrade infrastructure and retrofit industries to make them sustainable, with increased resource-use efficiency and greater adoption of clean and environmentally sound technologies and industrial processes, with all countries taking action in accordance with their respective capabilities",
+            figures: ["carbon-emission-intensity-of-economies?country=OWID_WRL+South%20Asia+IND+PAK+BGD+NPL"]
         },
         {
-            title: "Enhance scientific research, upgrade the technological capabilities of industrial sectors in all countries, in particular developing countries, including, by 2030, encouraging innovation and substantially increasing the number of research and development workers per 1 million people and public and private research and development spending"
+            // 9.5
+            title: "Enhance scientific research, upgrade the technological capabilities of industrial sectors in all countries, in particular developing countries, including, by 2030, encouraging innovation and substantially increasing the number of research and development workers per 1 million people and public and private research and development spending",
+            figures: ["research-and-development-expenditure-of-gdp", "researchers-in-rd-per-million-people?year=2015"]
         },
         {
             title: "Facilitate sustainable and resilient infrastructure development in developing countries through enhanced financial, technological and technical support to African countries, least developed countries, landlocked developing countries and small island developing States 18"
@@ -319,13 +447,16 @@ const InfrastructureIndustrialization: Goal = {
     ]
 }
 
+// Goal 10
 const Inequality: Goal = {
     slug: "inequality",
     name: "Reduced inequalities",
     title: "Reduce inequality within and among countries",
     targets: [
         {
-            title: "By 2030, progressively achieve and sustain income growth of the bottom 40 per cent of the population at a rate higher than the national average"
+            // 10.1
+            title: "By 2030, progressively achieve and sustain income growth of the bottom 40 per cent of the population at a rate higher than the national average",
+            figures: ["annualized-average-growth-rate-in-per-capita-real-survey-mean-consumption-or-income-bottom-40-of-population"]
         },
         {
             title: "By 2030, empower and promote the social, economic and political inclusion of all, irrespective of age, sex, disability, race, ethnicity, origin, religion or economic or other status"
@@ -357,13 +488,16 @@ const Inequality: Goal = {
     ]
 }
 
+// Goal 11
 const Cities: Goal = {
     slug: "cities",
     name: "Sustainable cities and communities",
     title: "Make cities inclusive, safe, resilient and sustainable",
     targets: [
         {
-            title: "By 2030, ensure access for all to adequate, safe and affordable housing and basic services and upgrade slums"
+            // 11.1
+            title: "By 2030, ensure access for all to adequate, safe and affordable housing and basic services and upgrade slums",
+            figures: ["share-of-urban-population-living-in-slums?country=BGD+IND+NPL+PAK+South%20Asia"]
         },
         {
             title: "By 2030, provide access to safe, affordable, accessible and sustainable transport systems for all, improving road safety, notably by expanding public transport, with special attention to the needs of those in vulnerable situations, women, children, persons with disabilities and older persons"
@@ -375,10 +509,14 @@ const Cities: Goal = {
             title: "Strengthen efforts to protect and safeguard the world’s cultural and natural heritage"
         },
         {
-            title: "By 2030, significantly reduce the number of deaths and the number of people affected and substantially decrease the direct economic losses relative to global gross domestic product caused by disasters, including water-related disasters, with a focus on protecting the poor and people in vulnerable situations"
+            // 11.5
+            title: "By 2030, significantly reduce the number of deaths and the number of people affected and substantially decrease the direct economic losses relative to global gross domestic product caused by disasters, including water-related disasters, with a focus on protecting the poor and people in vulnerable situations",
+            figures: ["death-rates-from-disasters?tab=chart"]
         },
         {
-            title: "By 2030, reduce the adverse per capita environmental impact of cities, including by paying special attention to air quality and municipal and other waste management"
+            // 11.6
+            title: "By 2030, reduce the adverse per capita environmental impact of cities, including by paying special attention to air quality and municipal and other waste management",
+            figures: ["PM25-air-pollution?country=BGD+IND+NPL+PAK+South%20Asia+OWID_WRL"]
         },
         {
             title: "By 2030, provide universal access to safe, inclusive and accessible, green and public spaces, in particular for women and children, older persons and persons with disabilities"
@@ -395,6 +533,7 @@ const Cities: Goal = {
     ]
 }
 
+// Goal 12
 const SustainableConsumptionProduction: Goal = {
     slug: "sustainable-consumption-production",
     name: "Responsible consumption and production",
@@ -436,16 +575,21 @@ const SustainableConsumptionProduction: Goal = {
     ]
 }
 
+// Goal 13
 const ClimateChange: Goal = {
     slug: "climate-change",
     name: "Climate action",
     title: "Take urgent action to combat climate change and its impacts",
     targets: [
         {
-            title: "Strengthen resilience and adaptive capacity to climate-related hazards and natural disasters in all countries"
+            // 13.1
+            title: "Strengthen resilience and adaptive capacity to climate-related hazards and natural disasters in all countries",
+            figures: ["death-rates-from-disasters?tab=chart"]
         },
         {
-            title: "Integrate climate change measures into national policies, strategies and planning"
+            // 13.2
+            title: "Integrate climate change measures into national policies, strategies and planning",
+            figures: ["number-of-parties-env-agreements", "co-emissions-per-capita?tab=chart&amp;country=IND+PAK+BGD+NPL", "carbon-emission-intensity-of-economies?country=OWID_WRL+South%20Asia+IND+PAK+BGD+NPL"]
         },
         {
             title: "Improve education, awareness-raising and human and institutional capacity on climate change mitigation, adaptation, impact reduction and early warning"
@@ -459,6 +603,7 @@ const ClimateChange: Goal = {
     ]    
 }
 
+// Goal 14
 const Oceans: Goal = {
     slug: "oceans",
     name: "Life below water",
@@ -477,7 +622,9 @@ const Oceans: Goal = {
             title: "By 2020, effectively regulate harvesting and end overfishing, illegal, unreported and unregulated fishing and destructive fishing practices and implement science-based management plans, in order to restore fish stocks in the shortest time feasible, at least to levels that can produce maximum sustainable yield as determined by their biological characteristics"
         },
         {
-            title: "By 2020, conserve at least 10 per cent of coastal and marine areas, consistent with national and international law and based on the best available scientific information"
+            // 14.5
+            title: "By 2020, conserve at least 10 per cent of coastal and marine areas, consistent with national and international law and based on the best available scientific information",
+            figures: ["marine-protected-areas"]
         },
         {
             title: "By 2020, prohibit certain forms of fisheries subsidies which contribute to overcapacity and overfishing, eliminate subsidies that contribute to illegal, unreported and unregulated fishing and refrain from introducing new such subsidies, recognizing that appropriate and effective special and differential treatment for developing and least developed countries should be an integral part of the World Trade Organization fisheries subsidies negotiation"
@@ -497,13 +644,16 @@ const Oceans: Goal = {
     ]
 }
 
+// Goal 15
 const Biodiversity: Goal = {
     slug: "biodiversity",
     name: "Life on land",
     title: "Sustainably manage forests, combat desertification, halt and reverse land degradation, halt biodiversity loss",
     targets: [
         {
-            title: "By 2020, ensure the conservation, restoration and sustainable use of terrestrial and inland freshwater ecosystems and their services, in particular forests, wetlands, mountains and drylands, in line with obligations under international agreements"
+            // 15.1
+            title: "By 2020, ensure the conservation, restoration and sustainable use of terrestrial and inland freshwater ecosystems and their services, in particular forests, wetlands, mountains and drylands, in line with obligations under international agreements",
+            figures: ["forest-area-as-share-of-land-area?map", "terrestrial-protected-areas"]
         },
         {
             title: "By 2020, promote the implementation of sustainable management of all types of forests, halt deforestation, restore degraded forests and substantially increase afforestation and reforestation globally"
@@ -541,16 +691,21 @@ const Biodiversity: Goal = {
     ]
 }
 
+// Goal 16
 const PeaceJustice: Goal = {
     slug: "peace-justice",
     name: "Peace, justice and strong institutions",
     title: "Promote just, peaceful and inclusive societies",
     targets: [
         {
-            title: "Significantly reduce all forms of violence and related death rates everywhere"
+            // 16.1
+            title: "Significantly reduce all forms of violence and related death rates everywhere",
+            figures: ["intentional-homicides-per-100000-people", "deaths-conflict-terrorism-per-100000?tab=chart"]
         },
         {
-            title: "End abuse, exploitation, trafficking and all forms of violence against and torture of children"
+            // 16.2
+            title: "End abuse, exploitation, trafficking and all forms of violence against and torture of children",
+            figures: ["percentage-of-children-214-who-experience-violent-discipline-at-home?tab=map", "percentage-of-girls-15-to-19-who-report-having-been-victims-of-sexual-abuse"]
         },
         {
             title: "Promote the rule of law at the national and international levels and ensure equal access to justice for all"
@@ -585,13 +740,16 @@ const PeaceJustice: Goal = {
     ]
 }
 
+// Goal 17
 const GlobalPartnerships: Goal = {
     slug: "global-partnerships",
     name: "Partnerships for the goals",
     title: "Revitalize the global partnership for sustainable development",
     targets: [
         {
-            title: "Strengthen domestic resource mobilization, including through international support to developing countries, to improve domestic capacity for tax and other revenue collection"
+            // 17.1
+            title: "Strengthen domestic resource mobilization, including through international support to developing countries, to improve domestic capacity for tax and other revenue collection",
+            figures: ["total-government-revenue-of-gdp", "proportion-of-domestic-budget-funded-by-domestic-taxes-of-gdp"]
         },
         {
             title: "Developed countries to implement fully their official development assistance commitments, including the commitment by many developed countries to achieve the target of 0.7 per cent of ODA/GNI to developing countries and 0.15 to 0.20 per cent of ODA/GNI to least developed countries ODA providers are encouraged to consider setting a target to provide at least 0.20 per cent of ODA/GNI to least developed countries"
@@ -606,16 +764,22 @@ const GlobalPartnerships: Goal = {
             title: "Adopt and implement investment promotion regimes for least developed countries"
         },
         {
-            title: "Enhance North-South, South-South and triangular regional and international cooperation on and access to science, technology and innovation and enhance knowledge sharing on mutually agreed terms, including through improved coordination among existing mechanisms, in particular at the United Nations level, and through a global technology facilitation mechanism"
+            // 17.6
+            title: "Enhance North-South, South-South and triangular regional and international cooperation on and access to science, technology and innovation and enhance knowledge sharing on mutually agreed terms, including through improved coordination among existing mechanisms, in particular at the United Nations level, and through a global technology facilitation mechanism",
+            figures: ["fixed-broadband-subscriptions-per-100-people?tab=chart"]
         },
         {
             title: "Promote the development, transfer, dissemination and diffusion of environmentally sound technologies to developing countries on favourable terms, including on concessional and preferential terms, as mutually agreed"
         },
         {
-            title: "Fully operationalize the technology bank and science, technology and innovation capacity-building mechanism for least developed countries by 2017 and enhance the use of enabling technology, in particular information and communications technology"
+            // 17.8
+            title: "Fully operationalize the technology bank and science, technology and innovation capacity-building mechanism for least developed countries by 2017 and enhance the use of enabling technology, in particular information and communications technology",
+            figures: ["share-of-individuals-using-the-internet?map"]
         },
         {
-            title: "Enhance international support for implementing effective and targeted capacity-building in developing countries to support national plans to implement all the sustainable development goals, including through North-South, South-South and triangular cooperation"
+            // 17.9
+            title: "Enhance international support for implementing effective and targeted capacity-building in developing countries to support national plans to implement all the sustainable development goals, including through North-South, South-South and triangular cooperation",
+            figures: ["completeness-of-birth-registration?tab=map"]
         },
         {
             title: "Promote a universal, rules-based, open, non-discriminatory and equitable multilateral trading system under the World Trade Organization, including through the conclusion of negotiations under its Doha Development Agenda"
