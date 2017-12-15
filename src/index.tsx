@@ -38,6 +38,7 @@ const GoalPage = (props: { goal: Goal, assets: string[] }) => {
             {css.map(cssPath =>
                 <link rel="stylesheet" type="text/css" href={"../"+cssPath} />
             )}
+            <link rel='stylesheet' id='font-awesome-owid-css' href='https://ourworldindata.org/wp-content/themes/owid-theme/css/font-awesome.min.css?ver=4.9.1' type='text/css' media='all' />
         </head>
         <body>
             <SiteHeader/>
@@ -87,6 +88,7 @@ const SiteIndex = (props: { assets: string[] }) => {
             {css.map(cssPath =>
                 <link rel="stylesheet" type="text/css" href={cssPath} />
             )}
+            <link rel='stylesheet' id='font-awesome-owid-css' href='https://ourworldindata.org/wp-content/themes/owid-theme/css/font-awesome.min.css?ver=4.9.1' type='text/css' media='all' />
         </head>
         <body>
             <SiteHeader/>

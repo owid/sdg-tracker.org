@@ -89,3 +89,6 @@ module.exports = {
         })*/
     ] : [])
 }
+
+const paths = [ '', 'no-poverty', 'zero-hunger', 'good-health', 'quality-education', 'gender-equality', 'water-and-sanitation', 'energy', 'economic-growth', 'infrastructure-industrialization', 'inequality', 'cities', 'sustainable-consumption-production', 'climate-change', 'oceans', 'biodiversity', 'peace-justice', 'global-partnerships' ]
+paths.map(path => console.log("https://ourworldindata.org/mispy/sdgs/"+path))
