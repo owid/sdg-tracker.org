@@ -3,6 +3,7 @@ export interface Goal {
     slug: string
     name: string
     title: string
+    description?: string
     targets: {
         title: string,
         figureDesc?: string
@@ -13,8 +14,9 @@ export interface Goal {
 // Goal 1
 const NoPoverty: Goal = {
     slug: "no-poverty",
-    name: "No poverty",
+    name: "No Poverty",
     title: "End poverty in all its forms everywhere",
+    description: `Extreme poverty rates have been cut by more than half since 1990. While this is a remarkable achievement, one in five people in developing regions still live on less than $1.90 a day, and there are millions more who make little more than this daily amount, plus many people risk slipping back into poverty.`,
     targets: [
         {
             // 1.1
@@ -49,8 +51,9 @@ const NoPoverty: Goal = {
 // Goal 2
 const ZeroHunger: Goal = {
     slug: "zero-hunger",
-    name: "Zero hunger",
+    name: "Zero Hunger",
     title: "End hunger, achieve food security and improved nutrition and promote sustainable agriculture",
+    description: `A profound change of the global food and agriculture system is needed if we are to nourish today’s 795 million hungry and the additional 2 billion people expected by 2050.`
     targets: [
         {
             // 2.1
@@ -84,8 +87,9 @@ const ZeroHunger: Goal = {
 // Goal 3
 const GoodHealth: Goal = {
     slug: "good-health",
-    name: "Good health and well-being",
+    name: "Good Health and Well-Being",
     title: "Ensure healthy lives and promote well-being for all at all ages",
+    description: `Ensuring healthy lives and promoting the well-being for all at all ages is essential to sustainable development. Significant strides have been made in increasing life expectancy and reducing some of the common killers associated with child and maternal mortality. Major progress has been made on increasing access to clean water and sanitation, reducing malaria, tuberculosis, polio and the spread of HIV/AIDS. However, many more efforts are needed to fully eradicate a wide range of diseases and address many different persistent and emerging health issues.`,
     targets: [
         {
             // 3.1
@@ -119,7 +123,7 @@ const GoodHealth: Goal = {
         {
             // 3.6
             title: "By 2020, halve the number of global deaths and injuries from road traffic accidents",
-            figures: ["/mortality-road-injuries?tab=chart"]
+            figures: ["mortality-road-injuries?tab=chart"]
         },
         {
             // 3.7
@@ -157,8 +161,9 @@ const GoodHealth: Goal = {
 // Goal 4
 const QualityEducation: Goal = {
     slug: "quality-education",
-    name: "Quality education",
+    name: "Quality Education",
     title: "Ensure inclusive and quality education for all and promote lifelong learning",
+    description: `Obtaining a quality education is the foundation to improving people’s lives and sustainable development. Major progress has been made towards increasing access to education at all levels and increasing enrolment rates in schools particularly for women and girls. Basic literacy skills have improved tremendously, yet bolder efforts are needed to make even greater strides for achieving universal education goals. For example, the world has achieved equality in primary education between girls and boys, but few countries have achieved that target at all levels of education.`,
     targets: [
         {
             // 4.1
@@ -210,8 +215,9 @@ const QualityEducation: Goal = {
 // Goal 5
 const GenderEquality: Goal = {
     slug: "gender-equality",
-    name: "Gender equality",
+    name: "Gender Equality",
     title: "Achieve gender equality and empower all women and girls",
+    description: `Gender equality is not only a fundamental human right, but a necessary foundation for a peaceful, prosperous and sustainable world. Providing women and girls with equal access to education, health care, decent work, and representation in political and economic decision-making processes will fuel sustainable economies and benefit societies and humanity at large.`,
     targets: [
         {
             // 5.1
@@ -287,8 +293,9 @@ const GenderEquality: Goal = {
 // Goal 6
 const WaterAndSanitation: Goal = {
     slug: "water-and-sanitation",
-    name: "Clean water and sanitation",
+    name: "Clean Water and Sanitation",
     title: "Ensure access to water and sanitation for all",
+    description: `Clean, accessible water for all is an essential part of the world we want to live in. There is sufficient fresh water on the planet to achieve this. But due to bad economics or poor infrastructure, every year millions of people, most of them children, die from diseases associated with inadequate water supply, sanitation and hygiene.`,
     targets: [
         {
             // 6.1
@@ -326,8 +333,9 @@ const WaterAndSanitation: Goal = {
 // Goal 7
 const Energy: Goal = {
     slug: "energy",
-    name: "Affordable and clean energy",
+    name: "Affordable and Clean Energy",
     title: "Ensure access to affordable, reliable, sustainable and modern energy for all",
+    description: `Energy is central to nearly every major challenge and opportunity the world faces today. Be it for jobs, security, climate change, food production or increasing incomes, access to energy for all is essential. Sustainable energy is opportunity – it transforms lives, economies and the planet.`,
     targets: [
         {
             // 7.1
@@ -356,8 +364,9 @@ const Energy: Goal = {
 // Goal 8
 const EconomicGrowth: Goal = {
     slug: "economic-growth",
-    name: "Decent work and economic growth",
+    name: "Decent Work and Economic Growth",
     title: "Promote inclusive and sustainable economic growth, employment and decent work for all",
+    description: `Roughly half the world’s population still lives on the equivalent of about US$2 a day. And in too many places, having a job doesn’t guarantee the ability to escape from poverty. This slow and uneven progress requires us to rethink and retool our economic and social policies aimed at eradicating poverty.`,
     targets: [
         {
             // 8.1
@@ -411,8 +420,9 @@ const EconomicGrowth: Goal = {
 // Goal 9
 const InfrastructureIndustrialization: Goal = {
     slug: "infrastructure-industrialization",
-    name: "Industry, innovation and infrastructure",
+    name: "Industry, Innovation and Infrastructure",
     title: "Build resilient infrastructure, promote sustainable industrialization and foster innovation",
+    description: `Investments in infrastructure – transport, irrigation, energy and information and communication technology – are crucial to achieving sustainable development and empowering communities in many countries. It has long been recognized that growth in productivity and incomes, and improvements in health and education outcomes require investment in infrastructure.`,
     targets: [
         {
             title: "Develop quality, reliable, sustainable and resilient infrastructure, including regional and transborder infrastructure, to support economic development and human well-being, with a focus on affordable and equitable access for all"
@@ -450,8 +460,9 @@ const InfrastructureIndustrialization: Goal = {
 // Goal 10
 const Inequality: Goal = {
     slug: "inequality",
-    name: "Reduced inequalities",
+    name: "Reduced Inequalities",
     title: "Reduce inequality within and among countries",
+    description: `The international community has made significant strides towards lifting people out of poverty.  The most vulnerable nations – the least developed countries, the landlocked developing countries and the small island developing states – continue to make inroads into poverty reduction.  However, inequality still persists and large disparities remain in access to health and education services and other assets.`,
     targets: [
         {
             // 10.1
@@ -491,8 +502,9 @@ const Inequality: Goal = {
 // Goal 11
 const Cities: Goal = {
     slug: "cities",
-    name: "Sustainable cities and communities",
+    name: "Sustainable Cities and Communities",
     title: "Make cities inclusive, safe, resilient and sustainable",
+    description: `The challenges cities face can be overcome in ways that allow them to continue to thrive and grow, while improving resource use and reducing pollution and poverty. The future we want includes cities of opportunities for all, with access to basic services, energy, housing, transportation and more.`,
     targets: [
         {
             // 11.1
@@ -536,8 +548,9 @@ const Cities: Goal = {
 // Goal 12
 const SustainableConsumptionProduction: Goal = {
     slug: "sustainable-consumption-production",
-    name: "Responsible consumption and production",
+    name: "Responsible Consumption and Production",
     title: "Ensure sustainable consumption and production patterns",
+    description: `Sustainable consumption and production is about promoting resource and energy efficiency, sustainable infrastructure, and providing access to basic services, green and decent jobs and a better quality of life for all. Its implementation helps to achieve overall development plans, reduce future economic, environmental and social costs, strengthen economic competitiveness and reduce poverty.`,
     targets: [
         {
             title: "Implement the 10-year framework of programmes on sustainable consumption and production, all countries taking action, with developed countries taking the lead, taking into account the development and capabilities of developing countries"
@@ -578,8 +591,9 @@ const SustainableConsumptionProduction: Goal = {
 // Goal 13
 const ClimateChange: Goal = {
     slug: "climate-change",
-    name: "Climate action",
+    name: "Climate Action",
     title: "Take urgent action to combat climate change and its impacts",
+    description: `Affordable, scalable solutions are now available to enable countries to leapfrog to cleaner, more resilient economies. The pace of change is quickening as more people are turning to renewable energy and a range of other measures that will reduce emissions and increase adaptation efforts.`,
     targets: [
         {
             // 13.1
@@ -606,8 +620,9 @@ const ClimateChange: Goal = {
 // Goal 14
 const Oceans: Goal = {
     slug: "oceans",
-    name: "Life below water",
+    name: "Life below Water",
     title: "Conserve and sustainably use the oceans, seas and marine resources",
+    description: `Our rainwater, drinking water, weather, climate, coastlines, much of our food, and even the oxygen in the air we breathe, are all ultimately provided and regulated by the sea. Throughout history, oceans and seas have been vital conduits for trade and transportation. Careful management of this essential global resource is a key feature of a sustainable future.`,
     targets: [
         {
             title: "By 2025, prevent and significantly reduce marine pollution of all kinds, in particular from land-based activities, including marine debris and nutrient pollution"
@@ -647,8 +662,9 @@ const Oceans: Goal = {
 // Goal 15
 const Biodiversity: Goal = {
     slug: "biodiversity",
-    name: "Life on land",
+    name: "Life on Land",
     title: "Sustainably manage forests, combat desertification, halt and reverse land degradation, halt biodiversity loss",
+    description: `Forests cover 30 per cent of the Earth’s surface and in addition to providing food security and shelter, forests are key to combating climate change, protecting biodiversity and the homes of the indigenous population.  Thirteen million hectares of forests are being lost every year while the persistent degradation of drylands has led to the desertification of 3.6 billion hectares.`,
     targets: [
         {
             // 15.1
@@ -694,8 +710,9 @@ const Biodiversity: Goal = {
 // Goal 16
 const PeaceJustice: Goal = {
     slug: "peace-justice",
-    name: "Peace, justice and strong institutions",
+    name: "Peace, Justice and Strong Institutions",
     title: "Promote just, peaceful and inclusive societies",
+    description: `Goal 16 of the Sustainable Development Goals is dedicated to the promotion of peaceful and inclusive societies for sustainable development, the provision of access to justice for all, and building effective, accountable institutions at all levels.`,
     targets: [
         {
             // 16.1
@@ -743,8 +760,9 @@ const PeaceJustice: Goal = {
 // Goal 17
 const GlobalPartnerships: Goal = {
     slug: "global-partnerships",
-    name: "Partnerships for the goals",
+    name: "Partnerships for the Goals",
     title: "Revitalize the global partnership for sustainable development",
+    description: `A successful sustainable development agenda requires partnerships between governments, the private sector and civil society. These inclusive partnerships built upon principles and values, a shared vision, and shared goals that place people and the planet at the centre, are needed at the global, regional, national and local level.`,
     targets: [
         {
             // 17.1

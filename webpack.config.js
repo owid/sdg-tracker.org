@@ -59,7 +59,7 @@ module.exports = {
         new ExtractTextPlugin(isProduction ? 'assets/main.[chunkhash].css' : 'assets/main.css'),
 
         new StaticSiteGeneratorPlugin({
-            paths: ['/', "/no-poverty"],
+            paths: [ '/', 'no-poverty', 'zero-hunger', 'good-health', 'quality-education', 'gender-equality', 'water-and-sanitation', 'energy', 'economic-growth', 'infrastructure-industrialization', 'inequality', 'cities', 'sustainable-consumption-production', 'climate-change', 'oceans', 'biodiversity', 'peace-justice', 'global-partnerships' ],
             locals: { 'isProduction': isProduction },
             globals: { window: {} }
         }),
