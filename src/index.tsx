@@ -30,12 +30,30 @@ const GoalPage = (props: { goal: Goal, assets: string[] }) => {
     const {goal} = props
     const goalNum = Goals.indexOf(props.goal) + 1
     const css = props.assets.filter(value => value.match(/\.css$/))
-    
+    const baseUrl = "https://ourworldindata.org/mispy/sdgs"
+    const canonicalUrl = `${baseUrl}/${goal.slug}`
+    const pageTitle = `Goal ${goalNum}: ${goal.title}`
+    const pageDesc = goal.description
+    const pageImage = `${baseUrl}/img/goals/${goalNum}.png`
+
     return <html>
         <head>
-            <title>Goal {goalNum}: {goal.title} - Our World in Data</title>
+            <title>{pageTitle} - Our World in Data</title>
             <meta name="viewport" content="width=device-width, initial-scale=1" />
-            <meta name="description" content="Measuring progress towards the Sustainable Development Goals"/>
+            <meta name="description" content={pageDesc}/>
+            <meta property="fb:app_id" content="1149943818390250"/>
+            <meta property="og:type" content="article"/>
+            <meta property="og:url" content={canonicalUrl}/>
+            <meta property="og:title" content={pageTitle}/>
+            <meta property="og:description" content={pageDesc}/>
+            <meta property="og:image" content={pageImage}/>
+            <meta property="og:site_name" content="Our World in Data"/>
+            <meta name="twitter:card" content="summary"/>
+            <meta name="twitter:site" content="@OurWorldInData"/>
+            <meta name="twitter:creator" content="@OurWorldInData"/>
+            <meta name="twitter:title" content={pageTitle}/>
+            <meta name="twitter:description" content={pageDesc}/>
+            <meta name="twitter:image" content={pageImage}/>
             {css.map(cssPath =>
                 <link rel="stylesheet" type="text/css" href={"../"+cssPath} />
             )}
@@ -76,15 +94,33 @@ const GoalPage = (props: { goal: Goal, assets: string[] }) => {
 
 
 const SiteIndex = (props: { assets: string[] }) => {
-    const title = "Measuring progress towards the Sustainable Development Goals"
-    const description = "The UN sustainable development goals are a set of targets for human progress adopted by world leaders in September 2015. Here we present data from the OWID database showing progress towards these goals around the world."
+    const canonicalUrl = `https://ourworldindata.org/mispy/sdgs`
+    const pageTitle = "Measuring progress towards the Sustainable Development Goals"
+    const pageImage = `${canonicalUrl}/img/sdg-poster.png`
+    const pageDesc = "The UN sustainable development goals are a set of targets for global development adopted by world leaders in September 2015. Here we present data from the OWID database showing progress towards these goals around the world."
     const css = props.assets.filter(value => value.match(/\.css$/))
 
     return <html>
         <head>
-            <title>{title} - Our World in Data</title>
+            <title>{pageTitle} - Our World in Data</title>
             <meta name="viewport" content="width=device-width, initial-scale=1" />
-            <meta name="description" content={description} />
+            <meta name="description" content={pageDesc}/>
+            <meta property="fb:app_id" content="1149943818390250"/>
+            <meta property="og:type" content="article"/>
+            <meta property="og:url" content={canonicalUrl}/>
+            <meta property="og:title" content={pageTitle}/>
+            <meta property="og:description" content={pageDesc}/>
+            <meta property="og:image" content={pageImage}/>
+            <meta property="og:image:width" content="1200"/>
+            <meta property="og:image:height" content="630"/>
+            <meta property="og:site_name" content="Our World in Data"/>
+            <meta name="twitter:card" content="summary_large_image"/>
+            <meta name="twitter:site" content="@OurWorldInData"/>
+            <meta name="twitter:creator" content="@OurWorldInData"/>
+            <meta name="twitter:title" content={pageTitle}/>
+            <meta name="twitter:description" content={pageDesc}/>
+            <meta name="twitter:image" content={pageImage}/>
+            <meta name="viewport" content="width=device-width, initial-scale=1" />
             {css.map(cssPath =>
                 <link rel="stylesheet" type="text/css" href={cssPath} />
             )}
