@@ -66,6 +66,7 @@ module.exports = {
 
         new CopyWebpackPlugin([
             { from: 'img', to: 'img' },
+            { from: '_redirects' }
         ])
     ].concat(isProduction ? [
         new OptimizeCssAssetsPlugin({
