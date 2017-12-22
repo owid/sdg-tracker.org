@@ -87,7 +87,7 @@ const GoalPage = (props: { goal: Goal, assets: string[] }) => {
                     </section>
                 )}
             </article>
-            <script src="/grapher/embedCharts.js"/>
+            <script src="https://ourworldindata.org/grapher/embedCharts.js"/>
         </body>
     </html>
 }
