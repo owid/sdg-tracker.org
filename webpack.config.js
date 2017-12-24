@@ -11,18 +11,17 @@ const isProduction = process.argv.indexOf('-p') !== -1;
 
 module.exports = {
     context: __dirname,    
-    entry: path.join(__dirname, 'src/index.tsx'),
+    entry: {
+        sdgs: path.join(__dirname, 'js/sdgs.tsx'),
+        admin: path.join(__dirname, 'src/admin.entry.tsx')
+    },
     output: {
         path: path.join(__dirname, 'build'),
-        filename: (isProduction ? 'assets/main.[chunkhash].js' : 'assets/main.js'),
+        filename: 'assets/[name].js',
         libraryTarget: 'umd'
     },
     resolve: {
-        extensions: [".js", ".jsx", ".ts", ".tsx", ".css"],
-        alias: {
-            'react': 'preact-compat',
-            'react-dom': 'preact-compat'
-        },      
+        extensions: [".js", ".jsx", ".ts", ".tsx", ".css"]
     },
     module: {
         rules: [
@@ -56,7 +55,7 @@ module.exports = {
     },
     devtool: (isProduction ? false : "cheap-module-eval-source-map"),
     plugins: [
-        new ExtractTextPlugin(isProduction ? 'assets/main.[chunkhash].css' : 'assets/main.css'),
+        new ExtractTextPlugin('assets/[name].css'),
 
         new StaticSiteGeneratorPlugin({
             paths: [ '/', 'no-poverty', 'zero-hunger', 'good-health', 'quality-education', 'gender-equality', 'water-and-sanitation', 'energy', 'economic-growth', 'infrastructure-industrialization', 'inequality', 'cities', 'sustainable-consumption-production', 'climate-change', 'oceans', 'biodiversity', 'peace-justice', 'global-partnerships' ],

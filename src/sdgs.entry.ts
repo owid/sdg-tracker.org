@@ -122,7 +122,6 @@ const SiteIndex = (props: { assets: string[] }) => {
             <meta name="twitter:description" content={pageDesc}/>
             <meta name="twitter:image" content={pageImage}/>
             <meta name="viewport" content="width=device-width, initial-scale=1" />
-            <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
             {css.map(cssPath =>
                 <link rel="stylesheet" type="text/css" href={cssPath} />
             )}
@@ -141,17 +140,6 @@ const SiteIndex = (props: { assets: string[] }) => {
                     <img src="./img/goals/18.png" />
                 </div>
             </nav>
-            <script>
-                {`if (window.netlifyIdentity) {
-                    window.netlifyIdentity.on("init", user => {
-                    if (!user) {
-                        window.netlifyIdentity.on("login", () => {
-                        document.location.href = "/admin/";
-                        });
-                    }
-                    });
-                }`}
-            </script>
         </body>
     </html>
 }
