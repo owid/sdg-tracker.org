@@ -1,11 +1,18 @@
 ---
 layout: goal
-name: No Poverty
-title: 'Goal 1: End poverty in all its forms everywhere'
+name: Quality Education
+title: >-
+  Goal 4: Ensure inclusive and quality education for all and promote lifelong
+  learning
 description: >-
-  Extreme poverty rates have been cut by more than half since 1990. While this
-  is a remarkable achievement, one in five people in developing regions still
-  live on less than $1.90 a day, and there are millions more who make little
-  more than this daily amount, plus many people risk slipping back into poverty.
-thumbnail: /img/uploads/1.png
+  Obtaining a quality education is the foundation to improving people’s lives
+  and sustainable development. Major progress has been made towards increasing
+  access to education at all levels and increasing enrolment rates in schools
+  particularly for women and girls. Basic literacy skills have improved
+  tremendously, yet bolder efforts are needed to make even greater strides for
+  achieving universal education goals. For example, the world has achieved
+  equality in primary education between girls and boys, but few countries have
+  achieved that target at all levels of education.
+featuredImage: /img/uploads/4.png
 ---
+test
