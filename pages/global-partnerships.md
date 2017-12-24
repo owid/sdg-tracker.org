@@ -1,11 +1,13 @@
 ---
 layout: goal
-name: No Poverty
-title: 'Goal 1: End poverty in all its forms everywhere'
+name: Partnerships for the Goals
+title: 'Goal 17: Revitalize the global partnership for sustainable development'
 description: >-
-  Extreme poverty rates have been cut by more than half since 1990. While this
-  is a remarkable achievement, one in five people in developing regions still
-  live on less than $1.90 a day, and there are millions more who make little
-  more than this daily amount, plus many people risk slipping back into poverty.
-thumbnail: /img/uploads/1.png
+  A successful sustainable development agenda requires partnerships between
+  governments, the private sector and civil society. These inclusive
+  partnerships built upon principles and values, a shared vision, and shared
+  goals that place people and the planet at the centre, are needed at the
+  global, regional, national and local level.
+featuredImage: /img/uploads/17.png
 ---
+test
