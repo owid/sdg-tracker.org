@@ -1,11 +1,13 @@
 ---
 layout: goal
-name: No Poverty
-title: 'Goal 1: End poverty in all its forms everywhere'
+name: Life below Water
+title: 'Goal 14: Conserve and sustainably use the oceans, seas and marine resources'
 description: >-
-  Extreme poverty rates have been cut by more than half since 1990. While this
-  is a remarkable achievement, one in five people in developing regions still
-  live on less than $1.90 a day, and there are millions more who make little
-  more than this daily amount, plus many people risk slipping back into poverty.
-thumbnail: /img/uploads/1.png
+  Our rainwater, drinking water, weather, climate, coastlines, much of our food,
+  and even the oxygen in the air we breathe, are all ultimately provided and
+  regulated by the sea. Throughout history, oceans and seas have been vital
+  conduits for trade and transportation. Careful management of this essential
+  global resource is a key feature of a sustainable future.
+featuredImage: /img/uploads/14.png
 ---
+test
