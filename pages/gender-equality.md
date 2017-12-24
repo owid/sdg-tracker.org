@@ -1,11 +1,13 @@
 ---
 layout: goal
-name: No Poverty
-title: 'Goal 1: End poverty in all its forms everywhere'
+name: Gender Equality
+title: 'Goal 5: Achieve gender equality and empower all women and girls'
 description: >-
-  Extreme poverty rates have been cut by more than half since 1990. While this
-  is a remarkable achievement, one in five people in developing regions still
-  live on less than $1.90 a day, and there are millions more who make little
-  more than this daily amount, plus many people risk slipping back into poverty.
-thumbnail: /img/uploads/1.png
+  Gender equality is not only a fundamental human right, but a necessary
+  foundation for a peaceful, prosperous and sustainable world. Providing women
+  and girls with equal access to education, health care, decent work, and
+  representation in political and economic decision-making processes will fuel
+  sustainable economies and benefit societies and humanity at large.
+featuredImage: /img/uploads/5.png
 ---
+test
