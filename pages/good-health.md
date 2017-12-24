@@ -1,11 +1,16 @@
 ---
 layout: goal
-name: No Poverty
-title: 'Goal 1: End poverty in all its forms everywhere'
+name: Good Health and Well-Being
+title: 'Goal 3: Ensure healthy lives and promote well-being for all at all ages'
 description: >-
-  Extreme poverty rates have been cut by more than half since 1990. While this
-  is a remarkable achievement, one in five people in developing regions still
-  live on less than $1.90 a day, and there are millions more who make little
-  more than this daily amount, plus many people risk slipping back into poverty.
-thumbnail: /img/uploads/1.png
+  Ensuring healthy lives and promoting the well-being for all at all ages is
+  essential to sustainable development. Significant strides have been made in
+  increasing life expectancy and reducing some of the common killers associated
+  with child and maternal mortality. Major progress has been made on increasing
+  access to clean water and sanitation, reducing malaria, tuberculosis, polio
+  and the spread of HIV/AIDS. However, many more efforts are needed to fully
+  eradicate a wide range of diseases and address many different persistent and
+  emerging health issues.
+featuredImage: /img/uploads/3.png
 ---
+test
