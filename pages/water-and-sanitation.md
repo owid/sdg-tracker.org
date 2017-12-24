@@ -1,11 +1,13 @@
 ---
 layout: goal
-name: No Poverty
-title: 'Goal 1: End poverty in all its forms everywhere'
+name: Clean Water and Sanitation
+title: 'Goal 6: Ensure access to water and sanitation for all'
 description: >-
-  Extreme poverty rates have been cut by more than half since 1990. While this
-  is a remarkable achievement, one in five people in developing regions still
-  live on less than $1.90 a day, and there are millions more who make little
-  more than this daily amount, plus many people risk slipping back into poverty.
-thumbnail: /img/uploads/1.png
+  Clean, accessible water for all is an essential part of the world we want to
+  live in. There is sufficient fresh water on the planet to achieve this. But
+  due to bad economics or poor infrastructure, every year millions of people,
+  most of them children, die from diseases associated with inadequate water
+  supply, sanitation and hygiene.
+featuredImage: /img/uploads/6.png
 ---
+### Target 6.1
