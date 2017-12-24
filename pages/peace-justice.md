@@ -1,11 +1,12 @@
 ---
 layout: goal
-name: No Poverty
-title: 'Goal 1: End poverty in all its forms everywhere'
+name: 'Peace, Justice and Strong Institutions'
+title: 'Goal 16: Promote just, peaceful and inclusive societies'
 description: >-
-  Extreme poverty rates have been cut by more than half since 1990. While this
-  is a remarkable achievement, one in five people in developing regions still
-  live on less than $1.90 a day, and there are millions more who make little
-  more than this daily amount, plus many people risk slipping back into poverty.
-thumbnail: /img/uploads/1.png
+  Goal 16 of the Sustainable Development Goals is dedicated to the promotion of
+  peaceful and inclusive societies for sustainable development, the provision of
+  access to justice for all, and building effective, accountable institutions at
+  all levels.
+featuredImage: /img/uploads/16.png
 ---
+test
