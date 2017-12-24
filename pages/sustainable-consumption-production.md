@@ -1,11 +1,14 @@
 ---
 layout: goal
-name: No Poverty
-title: 'Goal 1: End poverty in all its forms everywhere'
+name: Responsible Consumption and Production
+title: 'Goal 12: Ensure sustainable consumption and production patterns'
 description: >-
-  Extreme poverty rates have been cut by more than half since 1990. While this
-  is a remarkable achievement, one in five people in developing regions still
-  live on less than $1.90 a day, and there are millions more who make little
-  more than this daily amount, plus many people risk slipping back into poverty.
-thumbnail: /img/uploads/1.png
+  Sustainable consumption and production is about promoting resource and energy
+  efficiency, sustainable infrastructure, and providing access to basic
+  services, green and decent jobs and a better quality of life for all. Its
+  implementation helps to achieve overall development plans, reduce future
+  economic, environmental and social costs, strengthen economic competitiveness
+  and reduce poverty.
+featuredImage: /img/uploads/12.png
 ---
+test
