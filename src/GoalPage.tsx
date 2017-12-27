@@ -25,16 +25,18 @@ export default function GoalPage(props: GoalPageProps) {
         <Head canonicalUrl={canonicalUrl} pageTitle={pageTitle} pageDesc={description} imageUrl={featuredImage}/>
         <body>
             <SiteHeader/>
-            <article className="goal">
-                <div className="breadcrumb">
-                    <span><a href="../">Sustainable Development Goals</a> <i className="fa fa-angle-right"/> {name}</span>
-                </div>
+            <article className="GoalPage">
                 <header>
-                    <img src={featuredImage} />
-                    <div>
-                        <h1>{pageTitle}</h1>
-                        <div dangerouslySetInnerHTML={{__html: parseMarkdown(description)}}/>
-                        <p style={{ color: 'red' }}>Draft version; do not distribute</p>
+                    <div className="breadcrumb">
+                        <span><a href="../">Sustainable Development Goals</a> <i className="fa fa-angle-right"/> {name}</span>
+                    </div>
+                    <div className="goalIntro">
+                        <img src={featuredImage} />
+                        <div>
+                            <h1>{pageTitle}</h1>
+                            <div dangerouslySetInnerHTML={{__html: parseMarkdown(description)}}/>
+                            <p style={{ color: 'red' }}>Draft version; do not distribute</p>
+                        </div>
                     </div>
                 </header>
                 <div className="content" dangerouslySetInnerHTML={{__html: formatSDG(body)}}/>

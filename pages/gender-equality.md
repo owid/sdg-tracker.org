@@ -11,6 +11,7 @@ description: >-
   sustainable economies and benefit societies and humanity at large.
 featuredImage: /img/uploads/5.png
 ---
-# test
+## Target 5.1
+*End all forms of discrimination against all women and girls everywhere*
 
 @[grapher](https://ourworldindata.org/grapher/universal-suffrage-granted-to-women https://ourworldindata.org/grapher/law-mandate-nondiscrimination-hiring)

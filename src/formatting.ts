@@ -12,7 +12,7 @@ md.use(customBlock, {
         if (embeds.length === 1)
             return embeds[0]
         else
-            return `${embeds.join("")}`
+            return `<div class="embeds">${embeds.join("")}</div>`
     }
 })
 

@@ -13,21 +13,23 @@ export default function IndexPage(props: { goals: GoalPageProps[] }) {
 
     return <html>
         <Head canonicalUrl={BAKED_URL} pageTitle={pageTitle} pageDesc={pageDesc} imageUrl={pageImage}/>
-        <body>
+        <body className="IndexPage">
             <SiteHeader/>
-            <div className="intro container">
+            <div className="siteIntro container">
                 <h1>Measuring progress towards the Sustainable Development Goals</h1>
                 <p>The UN <a href="http://www.un.org/sustainabledevelopment/">sustainable development goals</a> are a set of targets for global development adopted by world leaders in September 2015. Here we present data from the OWID database tracking progress towards these goals around the world.</p>
                 <p style={{ color: 'red' }}>Draft version; do not distribute</p>
             </div>
-            <nav className="goalNav">
+            <nav>
                 <div className="goals">
                     {goals.map(goal => 
                         <a href={goal.slug}>
                             <img src={goal.featuredImage} alt={goal.name}/>
                         </a>
                     )}
-                <img src="./img/uploads/18.png" />
+                    <a>
+                        <img src="./img/uploads/18.png" />
+                    </a>
                 </div>
             </nav>
         </body>
