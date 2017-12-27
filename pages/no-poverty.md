@@ -1,6 +1,7 @@
 ---
 layout: goal
-title: 'Goal 1: End poverty in all its forms everywhere'
+title: 'End poverty in all its forms everywhere'
+goalNum: 1
 name: No Poverty
 description: >-
   Extreme poverty rates have been cut by more than half since 1990. While this

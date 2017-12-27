@@ -1,7 +1,8 @@
 ---
 layout: goal
 name: Clean Water and Sanitation
-title: 'Goal 6: Ensure access to water and sanitation for all'
+title: 'Ensure access to water and sanitation for all'
+goalNum: 6
 description: >-
   Clean, accessible water for all is an essential part of the world we want to
   live in. There is sufficient fresh water on the planet to achieve this. But

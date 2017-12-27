@@ -1,6 +1,7 @@
 ---
 layout: goal
-title: 'Goal 13: Take urgent action to combat climate change and its impacts'
+title: 'Take urgent action to combat climate change and its impacts'
+goalNum: 13
 name: Climate Action
 description: >-
   Affordable, scalable solutions are now available to enable countries to

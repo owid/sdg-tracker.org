@@ -1,7 +1,8 @@
 ---
 layout: goal
 name: Responsible Consumption and Production
-title: 'Goal 12: Ensure sustainable consumption and production patterns'
+title: 'Ensure sustainable consumption and production patterns'
+goalNum: 12
 description: >-
   Sustainable consumption and production is about promoting resource and energy
   efficiency, sustainable infrastructure, and providing access to basic

@@ -1,7 +1,8 @@
 ---
 layout: goal
 name: Life below Water
-title: 'Goal 14: Conserve and sustainably use the oceans, seas and marine resources'
+title: 'Conserve and sustainably use the oceans, seas and marine resources'
+goalNum: 14
 description: >-
   Our rainwater, drinking water, weather, climate, coastlines, much of our food,
   and even the oxygen in the air we breathe, are all ultimately provided and

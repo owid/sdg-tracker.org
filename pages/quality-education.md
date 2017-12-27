@@ -2,8 +2,9 @@
 layout: goal
 name: Quality Education
 title: >-
-  Goal 4: Ensure inclusive and quality education for all and promote lifelong
+  Ensure inclusive and quality education for all and promote lifelong
   learning
+goalNum: 14
 description: >-
   Obtaining a quality education is the foundation to improving people’s lives
   and sustainable development. Major progress has been made towards increasing

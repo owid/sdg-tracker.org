@@ -2,8 +2,9 @@
 layout: goal
 name: Affordable and Clean Energy
 title: >-
-  Goal 7: Ensure access to affordable, reliable, sustainable and modern energy
+  Ensure access to affordable, reliable, sustainable and modern energy
   for all
+goalNum: 7
 description: >-
   Energy is central to nearly every major challenge and opportunity the world
   faces today. Be it for jobs, security, climate change, food production or

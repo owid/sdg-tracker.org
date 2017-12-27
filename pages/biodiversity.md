@@ -1,8 +1,9 @@
 ---
 layout: goal
 title: >-
-  Goal 15: Sustainably manage forests, combat desertification, halt and reverse
+  Sustainably manage forests, combat desertification, halt and reverse
   land degradation, halt biodiversity loss
+goalNum: 15
 name: Life on Land
 description: >-
   Extreme poverty rates have been cut by more than half since 1990. While this

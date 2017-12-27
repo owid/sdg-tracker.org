@@ -1,6 +1,7 @@
 ---
 layout: goal
-title: 'Goal 11: Make cities inclusive, safe, resilient and sustainable'
+title: 'Make cities inclusive, safe, resilient and sustainable'
+goalNum: 11
 name: Sustainable Cities and Communities
 description: >-
   The challenges cities face can be overcome in ways that allow them to continue

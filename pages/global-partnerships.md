@@ -1,7 +1,8 @@
 ---
 layout: goal
 name: Partnerships for the Goals
-title: 'Goal 17: Revitalize the global partnership for sustainable development'
+title: 'Revitalize the global partnership for sustainable development'
+goalNum: 17
 description: >-
   A successful sustainable development agenda requires partnerships between
   governments, the private sector and civil society. These inclusive

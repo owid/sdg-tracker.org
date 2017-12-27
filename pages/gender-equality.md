@@ -1,7 +1,8 @@
 ---
 layout: goal
 name: Gender Equality
-title: 'Goal 5: Achieve gender equality and empower all women and girls'
+title: 'Achieve gender equality and empower all women and girls'
+goalNum: 5
 description: >-
   Gender equality is not only a fundamental human right, but a necessary
   foundation for a peaceful, prosperous and sustainable world. Providing women

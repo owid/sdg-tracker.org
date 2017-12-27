@@ -1,7 +1,8 @@
 ---
 layout: goal
 name: Good Health and Well-Being
-title: 'Goal 3: Ensure healthy lives and promote well-being for all at all ages'
+title: 'Ensure healthy lives and promote well-being for all at all ages'
+goalNum: 3
 description: >-
   Ensuring healthy lives and promoting the well-being for all at all ages is
   essential to sustainable development. Significant strides have been made in

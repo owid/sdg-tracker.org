@@ -2,8 +2,9 @@
 layout: goal
 name: 'Industry, Innovation and Infrastructure'
 title: >-
-  Goal 9: Build resilient infrastructure, promote sustainable industrialization
+  Build resilient infrastructure, promote sustainable industrialization
   and foster innovation
+goalNum: 9
 description: >-
   Investments in infrastructure – transport, irrigation, energy and information
   and communication technology – are crucial to achieving sustainable
