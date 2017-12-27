@@ -7,6 +7,7 @@ import {parseMarkdown} from './formatting'
 
 export interface GoalPageProps {
     slug: string
+    goalNum: number
     name: string
     title: string
     description: string
@@ -14,15 +15,14 @@ export interface GoalPageProps {
     body: string
 }
 
-export const GoalPage = (props: GoalPageProps) => {
-    const {slug, name, title, description, featuredImage, body} = props
-    console.log(body)
+export default function GoalPage(props: GoalPageProps) {
+    const {slug, goalNum, name, title, description, featuredImage, body} = props
 
     const canonicalUrl = `${BAKED_URL}/${slug}`
-    const pageDesc = "Hmm"
+    const pageTitle = `Goal ${goalNum}: ${title}`
 
     return <html>
-        <Head canonicalUrl={canonicalUrl} pageTitle={title} pageDesc={description} imageUrl={featuredImage}/>
+        <Head canonicalUrl={canonicalUrl} pageTitle={pageTitle} pageDesc={description} imageUrl={featuredImage}/>
         <body>
             <SiteHeader/>
             <article className="goal">
@@ -32,7 +32,7 @@ export const GoalPage = (props: GoalPageProps) => {
                 <header id="goal">
                     <img src={featuredImage} />
                     <div>
-                        <h1>{title}</h1>
+                        <h1>{pageTitle}</h1>
                         <div dangerouslySetInnerHTML={{__html: parseMarkdown(description)}}/>
                         <p style={{ color: 'red' }}>Draft version; do not distribute</p>
                     </div>

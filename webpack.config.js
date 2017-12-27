@@ -46,6 +46,10 @@ module.exports = {
                 test: /\.scss$/,
                 loader: ExtractTextPlugin.extract({ fallback: 'style-loader', use: ['css-loader?modules&importLoaders=1&localIdentName=[local]', 'sass-loader'] })
             },
+            {
+                test: /\.md$/,
+                loader: ['json-loader', 'markdown-it-front-matter-loader'],
+            },
         ]
     },
     devServer: {
@@ -58,7 +62,7 @@ module.exports = {
         new ExtractTextPlugin('assets/[name].css'),
 
         new StaticSiteGeneratorPlugin({
-            paths: [ '/', 'no-poverty', 'zero-hunger', 'good-health', 'quality-education', 'gender-equality', 'water-and-sanitation', 'energy', 'economic-growth', 'infrastructure-industrialization', 'inequality', 'cities', 'sustainable-consumption-production', 'climate-change', 'oceans', 'biodiversity', 'peace-justice', 'global-partnerships' ],
+            entry: 'sdgs',
             locals: { 'isProduction': isProduction },
             globals: { window: {} }
         }),
@@ -90,6 +94,3 @@ module.exports = {
         })*/
     ] : [])
 }
-
-const paths = [ '', 'no-poverty', 'zero-hunger', 'good-health', 'quality-education', 'gender-equality', 'water-and-sanitation', 'energy', 'economic-growth', 'infrastructure-industrialization', 'inequality', 'cities', 'sustainable-consumption-production', 'climate-change', 'oceans', 'biodiversity', 'peace-justice', 'global-partnerships' ]
-paths.map(path => console.log("https://ourworldindata.org/mispy/sdgs/"+path+"/"))

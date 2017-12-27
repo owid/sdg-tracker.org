@@ -1,6 +1,6 @@
 import * as React from 'react'
 import {parseMarkdown} from './formatting'
-import {GoalPage, GoalPageProps} from './GoalPage'
+import GoalPage, {GoalPageProps} from './GoalPage'
 
 
 function renderGoalPage(pageInfo: any) {

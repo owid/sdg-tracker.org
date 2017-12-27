@@ -10,8 +10,9 @@ collections:
     slug: "{{slug}}"
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "goal"}
-      - {label: "Short Name", name: "name", widget: "string"}
       - {label: "Page Title", name: "title", widget: "string"}
+      - {label: "Goal Number", name: "goalNum", widget: "number", valueType: 'int', min: 1}
+      - {label: "Short Name", name: "name", widget: "string"}
       - {label: "Description", name: "description", widget: "markdown" }
       - {label: "Featured Image", name: "featuredImage", widget: "image"}
       - {label: "Body", name: "body", widget: "markdown"}
