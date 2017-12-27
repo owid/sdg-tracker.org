@@ -1,11 +1,14 @@
 ---
 layout: goal
-name: No Poverty
-title: 'Goal 1: End poverty in all its forms everywhere'
+title: 'Goal 10: Reduce inequality within and among countries'
+name: Reduced Inequalities
 description: >-
-  Extreme poverty rates have been cut by more than half since 1990. While this
-  is a remarkable achievement, one in five people in developing regions still
-  live on less than $1.90 a day, and there are millions more who make little
-  more than this daily amount, plus many people risk slipping back into poverty.
-thumbnail: /img/uploads/1.png
+  The international community has made significant strides towards lifting
+  people out of poverty.  The most vulnerable nations – the least developed
+  countries, the landlocked developing countries and the small island developing
+  states – continue to make inroads into poverty reduction.  However, inequality
+  still persists and large disparities remain in access to health and education
+  services and other assets.
+featuredImage: /img/uploads/10.png
 ---
+test
