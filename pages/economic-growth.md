@@ -1,11 +1,15 @@
 ---
 layout: goal
-name: No Poverty
-title: 'Goal 1: End poverty in all its forms everywhere'
+name: Decent Work and Economic Growth
+goalNum: 8
+title: >-
+  Promote inclusive and sustainable economic growth, employment and decent work
+  for all
 description: >-
-  Extreme poverty rates have been cut by more than half since 1990. While this
-  is a remarkable achievement, one in five people in developing regions still
-  live on less than $1.90 a day, and there are millions more who make little
-  more than this daily amount, plus many people risk slipping back into poverty.
-thumbnail: /img/uploads/1.png
+  Roughly half the world’s population still lives on the equivalent of about
+  US$2 a day. And in too many places, having a job doesn’t guarantee the ability
+  to escape from poverty. This slow and uneven progress requires us to rethink
+  and retool our economic and social policies aimed at eradicating poverty.
+featuredImage: /img/uploads/8.png
 ---
+test
