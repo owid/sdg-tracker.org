@@ -1,11 +1,12 @@
 ---
 layout: goal
-name: No Poverty
-title: 'Goal 1: End poverty in all its forms everywhere'
+title: 'Goal 13: Take urgent action to combat climate change and its impacts'
+name: Climate Action
 description: >-
-  Extreme poverty rates have been cut by more than half since 1990. While this
-  is a remarkable achievement, one in five people in developing regions still
-  live on less than $1.90 a day, and there are millions more who make little
-  more than this daily amount, plus many people risk slipping back into poverty.
-thumbnail: /img/uploads/1.png
+  Affordable, scalable solutions are now available to enable countries to
+  leapfrog to cleaner, more resilient economies. The pace of change is
+  quickening as more people are turning to renewable energy and a range of other
+  measures that will reduce emissions and increase adaptation efforts.
+featuredImage: /img/uploads/13.png
 ---
+test
