@@ -5,7 +5,6 @@ const ExtractTextPlugin = require('extract-text-webpack-plugin')
 const CopyWebpackPlugin = require('copy-webpack-plugin')
 const OptimizeCssAssetsPlugin = require('optimize-css-assets-webpack-plugin')
 const fs = require('fs')
-const fm = require('front-matter')
 
 const isProduction = process.argv.indexOf('-p') !== -1;
 
@@ -48,7 +47,7 @@ module.exports = {
             },
             {
                 test: /\.md$/,
-                loader: ['json-loader', 'markdown-it-front-matter-loader'],
+                loader: ['json-loader', 'front-matter-loader'],
             },
         ]
     },

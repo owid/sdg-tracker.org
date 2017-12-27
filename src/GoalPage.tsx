@@ -3,7 +3,7 @@ import * as React from 'react'
 import {SiteHeader} from './SiteHeader'
 import {Head} from './Head'
 import {BAKED_URL} from './settings'
-import {parseMarkdown} from './formatting'
+import {formatSDG, parseMarkdown} from './formatting'
 
 export interface GoalPageProps {
     slug: string
@@ -29,7 +29,7 @@ export default function GoalPage(props: GoalPageProps) {
                 <div className="breadcrumb">
                     <span><a href="../">Sustainable Development Goals</a> <i className="fa fa-angle-right"/> {name}</span>
                 </div>
-                <header id="goal">
+                <header>
                     <img src={featuredImage} />
                     <div>
                         <h1>{pageTitle}</h1>
@@ -37,7 +37,7 @@ export default function GoalPage(props: GoalPageProps) {
                         <p style={{ color: 'red' }}>Draft version; do not distribute</p>
                     </div>
                 </header>
-                <div dangerouslySetInnerHTML={{__html: parseMarkdown(body)}}/>
+                <div className="content" dangerouslySetInnerHTML={{__html: formatSDG(body)}}/>
             </article>
             <script src="https://ourworldindata.org/grapher/embedCharts.js"/>
         </body>

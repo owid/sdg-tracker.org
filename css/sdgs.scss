@@ -225,12 +225,17 @@ article {
 	padding-top: 2rem;
 }
 
-section.target {
+article > .content > section {
 	padding-top: 2rem;
 	padding-bottom: 2rem;
 	width: 1120px;
 	margin: auto;
 	border-bottom: 1px solid rgba(0, 0, 0, 0.1);	
+
+	figure {
+		width: 720px;
+		height: 540px;
+	}
 }
 
 section.target:not(.multiFigure) {

@@ -11,4 +11,6 @@ description: >-
   sustainable economies and benefit societies and humanity at large.
 featuredImage: /img/uploads/5.png
 ---
-test
+# test
+
+@[grapher](https://ourworldindata.org/grapher/universal-suffrage-granted-to-women https://ourworldindata.org/grapher/law-mandate-nondiscrimination-hiring)

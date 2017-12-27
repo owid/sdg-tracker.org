@@ -2806,20 +2806,14 @@ fresh@0.5.0:
   version "0.5.0"
   resolved "https://registry.yarnpkg.com/fresh/-/fresh-0.5.0.tgz#f474ca5e6a9246d6fd8e0953cfa9b9c805afa78e"
 
-front-matter-loader@^0.1.2:
-  version "0.1.2"
-  resolved "https://registry.yarnpkg.com/front-matter-loader/-/front-matter-loader-0.1.2.tgz#c4655d565da0a38444154556542433e5dcab7734"
+front-matter-loader@^0.2.0:
+  version "0.2.0"
+  resolved "https://registry.yarnpkg.com/front-matter-loader/-/front-matter-loader-0.2.0.tgz#3d5a34e5498672d78cb639bda45f8b0c360e63df"
   dependencies:
-    front-matter "^2.0.0"
-    loader-utils "^0.2.11"
+    front-matter "^2.0.2"
+    loader-utils "^1.1.0"
 
-front-matter@^2.0.0:
-  version "2.1.2"
-  resolved "https://registry.yarnpkg.com/front-matter/-/front-matter-2.1.2.tgz#f75983b9f2f413be658c93dfd7bd8ce4078f5cdb"
-  dependencies:
-    js-yaml "^3.4.6"
-
-front-matter@^2.3.0:
+front-matter@^2.0.2, front-matter@^2.3.0:
   version "2.3.0"
   resolved "https://registry.yarnpkg.com/front-matter/-/front-matter-2.3.0.tgz#7203af896ce357ee04e2aa45169ea91ed7f67504"
   dependencies:
@@ -3652,7 +3646,7 @@ js-yaml@^3.10.0:
     argparse "^1.0.7"
     esprima "^4.0.0"
 
-js-yaml@^3.4.6, js-yaml@^3.5.2:
+js-yaml@^3.5.2:
   version "3.9.0"
   resolved "https://registry.yarnpkg.com/js-yaml/-/js-yaml-3.9.0.tgz#4ffbbf25c2ac963b8299dc74da7e3740de1c18ce"
   dependencies:
@@ -3835,7 +3829,7 @@ loader-runner@^2.3.0:
   version "2.3.0"
   resolved "https://registry.yarnpkg.com/loader-runner/-/loader-runner-2.3.0.tgz#f482aea82d543e07921700d5a46ef26fdac6b8a2"
 
-loader-utils@^0.2.11, loader-utils@^0.2.12, loader-utils@^0.2.15, loader-utils@^0.2.16, loader-utils@^0.2.5:
+loader-utils@^0.2.12, loader-utils@^0.2.15, loader-utils@^0.2.16, loader-utils@^0.2.5:
   version "0.2.17"
   resolved "https://registry.yarnpkg.com/loader-utils/-/loader-utils-0.2.17.tgz#f86e6374d43205a6e6c60e9196f17c0299bfb348"
   dependencies:
@@ -3991,9 +3985,17 @@ markdown-escapes@^1.0.0:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/markdown-escapes/-/markdown-escapes-1.0.1.tgz#1994df2d3af4811de59a6714934c2b2292734518"
 
+markdown-it-custom-block@^0.1.1:
+  version "0.1.1"
+  resolved "https://registry.yarnpkg.com/markdown-it-custom-block/-/markdown-it-custom-block-0.1.1.tgz#91fc4a586290d36636c8aacb15fac793e9fe98a0"
+
 markdown-it-front-matter-loader@^0.0.7:
   version "0.0.7"
   resolved "https://registry.yarnpkg.com/markdown-it-front-matter-loader/-/markdown-it-front-matter-loader-0.0.7.tgz#a4c52355f72d5f78607a3f4bf3d78c27727c860f"
+
+markdown-it-header-sections@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/markdown-it-header-sections/-/markdown-it-header-sections-1.0.0.tgz#f9097fbe15188f671beff362c22e706b4d286090"
 
 markdown-it@^8.3.0:
   version "8.3.1"
