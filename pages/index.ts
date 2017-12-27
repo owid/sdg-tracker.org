@@ -10,4 +10,4 @@ function requireAll(requireContext: any): any[] {
   })
 }
 const pages = requireAll(require.context("../pages", true, /.md$/)) as GoalPageProps[]
-export default _.sortBy(pages, page => page)
+export default _.sortBy(pages, page => page.goalNum)

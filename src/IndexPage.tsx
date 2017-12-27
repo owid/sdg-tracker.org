@@ -27,7 +27,7 @@ export default function IndexPage(props: { goals: GoalPageProps[] }) {
                             <img src={goal.featuredImage} alt={goal.name}/>
                         </a>
                     )}
-                <img src="./img/goals/18.png" />
+                <img src="./img/uploads/18.png" />
                 </div>
             </nav>
         </body>
