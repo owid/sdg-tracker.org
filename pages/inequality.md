@@ -1,6 +1,7 @@
 ---
 layout: goal
-title: 'Goal 10: Reduce inequality within and among countries'
+title: Reduce inequality within and among countries
+goalNum: 10
 name: Reduced Inequalities
 description: >-
   The international community has made significant strides towards lifting
