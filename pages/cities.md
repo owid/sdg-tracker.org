@@ -1,11 +1,12 @@
 ---
 layout: goal
-name: No Poverty
-title: 'Goal 1: End poverty in all its forms everywhere'
+title: 'Goal 11: Make cities inclusive, safe, resilient and sustainable'
+name: Sustainable Cities and Communities
 description: >-
-  Extreme poverty rates have been cut by more than half since 1990. While this
-  is a remarkable achievement, one in five people in developing regions still
-  live on less than $1.90 a day, and there are millions more who make little
-  more than this daily amount, plus many people risk slipping back into poverty.
-thumbnail: /img/uploads/1.png
+  The challenges cities face can be overcome in ways that allow them to continue
+  to thrive and grow, while improving resource use and reducing pollution and
+  poverty. The future we want includes cities of opportunities for all, with
+  access to basic services, energy, housing, transportation and more.
+featuredImage: /img/uploads/11.png
 ---
+test
