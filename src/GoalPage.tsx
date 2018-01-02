@@ -15,33 +15,44 @@ export interface GoalPageProps {
     body: string
 }
 
-export default function GoalPage(props: GoalPageProps) {
-    const {slug, goalNum, name, title, description, featuredImage, body} = props
+export default class GoalPage extends React.Component<GoalPageProps> {
+    body: HTMLBodyElement
+    // HACK (Mispy): Make chart embeds work in Netlify CMS preview
+    componentDidMount() {
+        const script = document.createElement("script")
+        script.src = "https://ourworldindata.org/grapher/embedCharts.js"
+        script.async = true
+        this.body.appendChild(script)
+    }
 
-    const canonicalUrl = `${BAKED_URL}/${slug}`
-    const pageTitle = `Goal ${goalNum}: ${title}`
+    render() {
+        const {slug, goalNum, name, title, description, featuredImage, body} = this.props
 
-    return <html>
-        <Head canonicalUrl={canonicalUrl} pageTitle={pageTitle} pageDesc={description} imageUrl={featuredImage}/>
-        <body>
-            <SiteHeader/>
-            <article className="GoalPage">
-                <header>
-                    <div className="breadcrumb">
-                        <span><a href="../">Sustainable Development Goals</a> <i className="fa fa-angle-right"/> {name}</span>
-                    </div>
-                    <div className="goalIntro">
-                        <img src={featuredImage} />
-                        <div>
-                            <h1>{pageTitle}</h1>
-                            <div dangerouslySetInnerHTML={{__html: parseMarkdown(description)}}/>
-                            <p style={{ color: 'red' }}>Draft version; do not distribute</p>
+        const canonicalUrl = `${BAKED_URL}/${slug}`
+        const pageTitle = `Goal ${goalNum}: ${title}`
+    
+        return <html>
+            <Head canonicalUrl={canonicalUrl} pageTitle={pageTitle} pageDesc={description} imageUrl={featuredImage}/>
+            <body ref={e => this.body = e as HTMLBodyElement}>
+                <SiteHeader/>
+                <article className="GoalPage">
+                    <header>
+                        <div className="breadcrumb">
+                            <span><a href="../">Sustainable Development Goals</a> <i className="fa fa-angle-right"/> {name}</span>
                         </div>
-                    </div>
-                </header>
-                <div className="content" dangerouslySetInnerHTML={{__html: formatSDG(body)}}/>
-            </article>
-            <script src="https://ourworldindata.org/grapher/embedCharts.js"/>
-        </body>
-    </html>
+                        <div className="goalIntro">
+                            <img src={featuredImage} />
+                            <div>
+                                <h1>{pageTitle}</h1>
+                                <div dangerouslySetInnerHTML={{__html: parseMarkdown(description)}}/>
+                                <p style={{ color: 'red' }}>Draft version; do not distribute</p>
+                            </div>
+                        </div>
+                    </header>
+                    <div className="content" dangerouslySetInnerHTML={{__html: formatSDG(body)}}/>
+                </article>
+                <script src="https://ourworldindata.org/grapher/embedCharts.js"/>
+            </body>
+        </html>    
+    }
 }
