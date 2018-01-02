@@ -6,6 +6,7 @@ import {BAKED_URL} from './settings'
 import {formatSDG, parseMarkdown} from './formatting'
 
 export interface GoalPageProps {
+    isPreview?: boolean
     slug: string
     goalNum: number
     name: string
@@ -18,15 +19,15 @@ export interface GoalPageProps {
 export default class GoalPage extends React.Component<GoalPageProps> {
     body: HTMLBodyElement
     // HACK (Mispy): Make chart embeds work in Netlify CMS preview
-    componentDidMount() {
+    /*componentDidMount() {
         const script = document.createElement("script")
-        script.src = "http://l:8080/grapher/embedCharts.js"
+        script.src = "https://ourworldindata.org/grapher/embedCharts.js"
         script.async = true
         this.body.appendChild(script)
-    }
+    }*/
 
     render() {
-        const {slug, goalNum, name, title, description, featuredImage, body} = this.props
+        const {isPreview, slug, goalNum, name, title, description, featuredImage, body} = this.props
 
         const canonicalUrl = `${BAKED_URL}/${slug}`
         const pageTitle = `Goal ${goalNum}: ${title}`
@@ -49,7 +50,7 @@ export default class GoalPage extends React.Component<GoalPageProps> {
                             </div>
                         </div>
                     </header>
-                    <div className="content">{formatSDG(body)}</div>
+                    <div className="content">{formatSDG(body, isPreview)}</div>
                 </article>
                 <script src="https://ourworldindata.org/grapher/embedCharts.js"/>
             </body>

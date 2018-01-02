@@ -175,11 +175,6 @@ body > header {
 		@extend .container;
 		padding: 2rem 0;
 		border-bottom: 1px solid rgba(0, 0, 0, 0.1);	
-	
-		/*figure {
-			width: 720px;
-			height: 540px;
-		}*/
 	}
 
 	section > h2 {
@@ -192,6 +187,9 @@ a {
 	text-decoration: none;
 }
 
+iframe {
+	border: none;
+}
 
 .embeds {
 	width: 100%;
@@ -199,15 +197,10 @@ a {
 	justify-content: space-evenly;
 }
 
-.embeds figure {
+.embeds figure, .embeds iframe {
 	width: 45%;
 	height: 500px;
-	margin-top: 1em;
-	margin-bottom: 1em;
-}
-
-figure {
-	margin: 0;
+	margin: 1em 0;
 }
 
 $mobileWidth: 767px;
@@ -216,7 +209,7 @@ $mobileWidth: 767px;
 	.embeds {
 		display: block;
 
-		> figure {
+		> figure, > iframe {
 			width: 100%;
 			margin-bottom: 1rem;
 		}
