@@ -132,7 +132,9 @@ body > header {
 .GoalPage {
 	> header {
 		@extend .container;
-		padding-top: 2rem;
+		padding-top: 3rem;
+		max-width: 1020px;
+		margin: auto;
 	}
 
 	> header > .goalIntro {
@@ -173,6 +175,10 @@ body > header {
 			height: 540px;
 		}*/
 	}
+
+	section > h2 {
+		font-size: 1.3em;
+	}
 }
 
 a {
@@ -188,8 +194,10 @@ a {
 }
 
 .embeds figure {
-	width: 40%;
+	width: 45%;
 	height: 500px;
+	margin-top: 1em;
+	margin-bottom: 1em;
 }
 
 figure {
@@ -245,6 +253,6 @@ $mobileWidth: 767px;
 
 @media only screen and (min-width: 1140px) {
 	.container {
-		width: 1120px;
+		width: 1020px;
 	}
 }

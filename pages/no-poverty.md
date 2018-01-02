@@ -10,4 +10,7 @@ description: >-
   more than this daily amount, plus many people risk slipping back into poverty.
 featuredImage: /img/uploads/1.png
 ---
-test
+## Target 1.1
+*By 2030, eradicate extreme poverty for all people everywhere, currently measured as people living on less than $1.25 a day*
+
+@[grapher](https://ourworldindata.org/grapher/share-of-the-population-living-in-extreme-poverty?tab=map)

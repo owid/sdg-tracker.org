@@ -9,9 +9,9 @@ md.use(require('markdown-it-header-sections'))
 md.use(customBlock, {
     grapher(argStr: string) {
         const embeds = argStr.trim().split(/\s+/).map(target => `<figure data-grapher-src="${target}"></figure>`)
-        if (embeds.length === 1)
-            return embeds[0]
-        else
+//        if (embeds.length === 1)
+//            return embeds[0]
+ //       else
             return `<div class="embeds">${embeds.join("")}</div>`
     }
 })
