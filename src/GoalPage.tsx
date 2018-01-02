@@ -20,7 +20,7 @@ export default class GoalPage extends React.Component<GoalPageProps> {
     // HACK (Mispy): Make chart embeds work in Netlify CMS preview
     componentDidMount() {
         const script = document.createElement("script")
-        script.src = "https://ourworldindata.org/grapher/embedCharts.js"
+        script.src = "http://l:8080/grapher/embedCharts.js"
         script.async = true
         this.body.appendChild(script)
     }
@@ -44,12 +44,12 @@ export default class GoalPage extends React.Component<GoalPageProps> {
                             <img src={featuredImage} />
                             <div>
                                 <h1>{pageTitle}</h1>
-                                <div dangerouslySetInnerHTML={{__html: parseMarkdown(description)}}/>
+                                <div>{parseMarkdown(description)}</div>
                                 <p style={{ color: 'red' }}>Draft version; do not distribute</p>
                             </div>
                         </div>
                     </header>
-                    <div className="content" dangerouslySetInnerHTML={{__html: formatSDG(body)}}/>
+                    <div className="content">{formatSDG(body)}</div>
                 </article>
                 <script src="https://ourworldindata.org/grapher/embedCharts.js"/>
             </body>
