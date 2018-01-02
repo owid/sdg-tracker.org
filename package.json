@@ -1,8 +1,7 @@
 {
   "scripts": {
     "dev": "webpack-dev-server",
-    "build": "rm -rf build/* && webpack -p",
-    "deploy": "netlify deploy -p build -s mispy"
+    "build": "rm -rf build/* && webpack"
   },
   "dependencies": {
     "@types/d3": "^4.10.0",

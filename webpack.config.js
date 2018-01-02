@@ -72,10 +72,10 @@ module.exports = {
             { from: '_redirects' }
         ])
     ].concat(isProduction ? [
-        new OptimizeCssAssetsPlugin({
+        /*new OptimizeCssAssetsPlugin({
             assetNameRegExp: /\.bundle.*\.css$/,
             cssProcessorOptions: { discardComments: { removeAll: true } }
-        }),
+        }),*/
 
         /*new webpack.optimize.UglifyJsPlugin({
             compress: {
