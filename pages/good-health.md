@@ -131,3 +131,27 @@ The visualisations below present a global-level perspective of mortality rates r
 <iframe style="width: 100%; height: 600px; border: 0px none;" src="https://ourworldindata.org/grapher/death-rate-by-source-from-indoor-air-pollution?tab=map" width="300" height="150"></iframe>
 
 <iframe src="https://ourworldindata.org/grapher/absolute-number-of-deaths-from-household-air-pollution" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+
+
+## Target 3.a
+
+_**Strengthen the implementation of the World Health Organization Framework Convention on Tobacco Control.**_
+
+The charts below provide a global overview of the prevalence of smoking in people aged 15 years and older, by gender. We cover the topic of smoking — including attributable deaths and secondhand smoke — in our entry available <a href="https://ourworldindata.org/smoking/">here</a>.
+
+<iframe style="width: 100%; height: 600px; border: 0px none;" src="https://ourworldindata.org/grapher/share-of-men-who-are-smoking?tab=map" width="300" height="150"></iframe>
+
+<iframe style="width: 100%; height: 600px; border: 0px none;" src="https://ourworldindata.org/grapher/share-of-women-who-are-smoking" width="300" height="150"></iframe>
+
+<iframe style="width: 100%; height: 600px; border: 0px none;" src="https://ourworldindata.org/grapher/comparing-the-share-of-men-and-women-who-are-smoking" width="300" height="150"></iframe>
+
+## Target 3.b
+
+_**Support the research and development of vaccines and medicines for the communicable and non‑communicable diseases that primarily affect developing countries, provide access to affordable essential medicines and vaccines.**_
+
+Vaccinations have greatly reduced the prevalence of diseases and they continue to be important for global health today. In the charts below we see the share of children (aged 12-23 months) who received the DPT3 (for Diptheria, Tetanus and Pertussis) and measles vaccine. More information on vaccination can be found at our full entry [here](https://ourworldindata.org/vaccination).
+
+<iframe src="https://ourworldindata.org/grapher/share-of-children-immunized-dtp3" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/share-of-children-vaccinated-against-measles" style="width: 100%; height: 600px; border: 0px none;"></iframe>
