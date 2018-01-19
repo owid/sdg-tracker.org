@@ -47,3 +47,9 @@ _**Implement nationally appropriate social protection systems and measures for a
 In the chart below we see the share of the total population with access to basic services, including an improved water source, electricity, sanitation facilities and clean cooking fuels. Access to improved water, sanitation, electricity and clean fuels are essential for health and wellbeing for disease prevention, nutrition, hygeiene and preventing deaths related to indoor air pollution. 
 
 <iframe src="https://ourworldindata.org/grapher/share-of-population-with-access-to-basic-infrastructure-services?country=WLD" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+
+
+<iframe src="https://ourworldindata.org/grapher/share-of-the-population-with-access-to-electricity" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/access-to-clean-fuels-and-technologies-for-cooking" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/share-of-the-population-with-access-to-improved-drinking-water" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/share-of-population-with-improved-sanitation-faciltities" style="width: 100%; height: 600px; border: 0px none;"></iframe>
