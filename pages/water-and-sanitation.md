@@ -19,23 +19,21 @@ featuredImage: /img/uploads/6.png
 ---
 ## Target 6.1
 
-_**By 2030, achieve universal and equitable access to safe and affordable drinking water for all.**_
+**_By 2030, achieve universal and equitable access to safe and affordable drinking water for all._**
 
 In the charts below we present data on the share of the total population with access to an improved drinking water source; the difference in access between urban and rural populations; and the total number of people without access to an improved drinking water source by continent.
 
 An improved drinking water source includes piped water on premises (piped household water connection located inside the user’s dwelling, plot or yard), and other improved drinking water sources (public taps or standpipes, tube wells or boreholes, protected dug wells, protected springs, and rainwater collection).
 
-_<iframe style="width: 100%; height: 600px; border: 0px none;" src="https://ourworldindata.org/grapher/share-of-the-population-with-access-to-improved-drinking-water?tab=map" width="300" height="150"></iframe>_
+_<iframe style="width: 100%; height: 600px; border: 0px none;" src="https://ourworldindata.org/grapher/share-of-the-population-with-access-to-improved-drinking-water?tab=map" width="500" height="250"></iframe>_
 
 _<iframe src="https://ourworldindata.org/grapher/urban-improved-water-access-vs-rural-water-access" style="width: 100%; height: 600px; border: 0px none;"></iframe>_
 
 _<iframe style="width: 100%; height: 600px; border: 0px none;" src="https://ourworldindata.org/grapher/number-without-access-water-source" width="300" height="150"></iframe>_
 
-
-
 ## Target 6.2
 
-_**By 2030, achieve access to adequate and equitable sanitation and hygiene for all and end open defecation, paying special attention to the needs of women and girls and those in vulnerable situations.**_
+**_By 2030, achieve access to adequate and equitable sanitation and hygiene for all and end open defecation, paying special attention to the needs of women and girls and those in vulnerable situations._**
 
 Improved sanitation facilities are crucial for sufficient hygeine standards, the prevention of disease, and health and nutritional outcomes. The charts below show the share of the total population with improved sanitation facilities; this comparison between urban and rural areas; the total number of people witout access to improved sanitation facilities; and the share of the population who still practice open defecation.
 
@@ -51,11 +49,9 @@ Improved sanitation facilities include flush/pour flush (to piped sewer system, 
 
 <iframe src="https://ourworldindata.org/grapher/open-defecation-in-rural-areas-vs-urban-areas" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
-
-
 ## Target 6.4
 
-**_By 2030, substantially increase water-use efficiency across all sectors and ensure sustainable withdrawals and supply of freshwater to address water scarcity and substantially reduce the number of people suffering from water scarcity._**
+_**By 2030, substantially increase water-use efficiency across all sectors and ensure sustainable withdrawals and supply of freshwater to address water scarcity and substantially reduce the number of people suffering from water scarcity.**_
 
 Water-efficient economies are those which achieve a high gross domestic product (GDP) per unit of freshwater withdrawal. In the chart below we see trends in water productivity which is measured as a country's total GDP, measured in constant 2010 US$ divided by total freshwater withdrawals in cubic metres.
 
