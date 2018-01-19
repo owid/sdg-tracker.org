@@ -48,8 +48,14 @@ In the chart below we see the share of the total population with access to basic
 
 <iframe src="https://ourworldindata.org/grapher/share-of-population-with-access-to-basic-infrastructure-services?country=WLD" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
-
-
 <iframe src="https://ourworldindata.org/grapher/share-of-the-population-with-access-to-electricity" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/access-to-clean-fuels-and-technologies-for-cooking" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 <iframe src="https://ourworldindata.org/grapher/share-of-the-population-with-access-to-improved-drinking-water" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/share-of-population-with-improved-sanitation-faciltities" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+## Target 1.5
+
+_**By 2030, build the resilience of the poor and those in vulnerable situations and reduce their exposure and vulnerability to climate-related extreme events and other economic, social and environmental shocks and disasters.**_
+
+<iframe src="https://ourworldindata.org/grapher/death-rates-from-disasters?tab=chart&country=OWID_WRL+NPL+BGD+USA+JPN" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/internally-displaced-persons-from-disasters" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://owid.cloud/grapher/disaster-risk-reduction-progress" style="width: 100%; height: 600px; border: 0px none;"></iframe>
