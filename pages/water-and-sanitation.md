@@ -57,6 +57,10 @@ Improved sanitation facilities include flush/pour flush (to piped sewer system, 
 
 **_By 2030, substantially increase water-use efficiency across all sectors and ensure sustainable withdrawals and supply of freshwater to address water scarcity and substantially reduce the number of people suffering from water scarcity._**
 
-Water scarcity is typically defined basic on the total quantity of freshwater withdrawals as a share of international resources. This includes water withdrawn from agricultural, industrial and domestic uses. The chart below shows levels of water stress by country, based on the following categories: <10% is low stress; 10-20% is low-to-medium; 20-40% medium-to-high; 40-80% high; >80% extremely high.
+Water-efficient economies are those which achieve a high gross domestic product (GDP) per unit of freshwater withdrawal. In the chart below we see trends in water productivity which is measured as a country's total GDP, measured in constant 2010 US$ divided by total freshwater withdrawals in cubic metres.
+
+<iframe src="https://owid.cloud/grapher/water-productivity" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+Water scarcity is typically defined basic on the total quantity of freshwater withdrawals as a share of international resources. This includes water withdrawn from agricultural, industrial and domestic uses. The chart below shows levels of water stress by country, based on the following categories: < 10% is low stress; 10-20% is low-to-medium; 20-40% medium-to-high; 40-80% high; >80% extremely high.
 
 <iframe style="width: 100%; height: 600px; border: 0px none;" src="https://ourworldindata.org/grapher/freshwater-withdrawals-as-a-share-of-internal-resources?tap=map" width="300" height="150"></iframe>
