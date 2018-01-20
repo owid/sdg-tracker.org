@@ -12,7 +12,7 @@ featuredImage: /img/uploads/1.png
 ---
 ## Target 1.1
 
-_**By 2030, eradicate extreme poverty for all people everywhere, currently measured as people living on less than $1.90 a day.**_
+**_By 2030, eradicate extreme poverty for all people everywhere, currently measured as people living on less than $1.90 a day._**
 
 The chart below shoes the share of the total population living in extreme poverty by year. Extreme poverty is here defined by a $1.90 per day threshold, which has been corrected for inflation and cross-country differences in prices (i.e. given in purchasing power parity, PPP terms). This data is only measured countries defined as low or middle-income by World Bank definitions.
 
@@ -20,7 +20,7 @@ The chart below shoes the share of the total population living in extreme povert
 
 ## **Target 1.2**
 
-_**By 2030, reduce at least by half the share of the population living in poverty according to national definitions.**_
+**_By 2030, reduce at least by half the share of the population living in poverty according to national definitions._**
 
 The chart below shows the share of the total population who are defined as living in poverty relative to the national poverty lines set by their own countries. National poverty lines are used for estimating poverty prevalence which is consistent with the country's specific economic and social circumstances. National poverty lines reflect local perceptions of the level and composition of consumption or income needed to be non-poor. 
 
@@ -34,7 +34,7 @@ The chart below also differentiates this share living below national poverty lin
 
 ## Target 1.3
 
-_**Implement nationally appropriate social protection systems and measures for all, including floors, and by 2030 achieve substantial coverage of the poor and the vulnerable.**_
+**_Implement nationally appropriate social protection systems and measures for all, including floors, and by 2030 achieve substantial coverage of the poor and the vulnerable._**
 
 <iframe src="https://owid.cloud/grapher/coverage-of-social-insurance-programs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
@@ -42,7 +42,7 @@ _**Implement nationally appropriate social protection systems and measures for a
 
 ## Target 1.4
 
-**_By 2030, ensure that everyone (particularly the poor and vulnerable) have equal rights to economic resources, as well as access to basic services, ownership and control over land and other forms of property, inheritance, natural resources, appropriate new technology and financial services, including microfinance._**
+_**By 2030, ensure that everyone (particularly the poor and vulnerable) have equal rights to economic resources, as well as access to basic services, ownership and control over land and other forms of property, inheritance, natural resources, appropriate new technology and financial services, including microfinance.**_
 
 In the chart below we see the share of the total population with access to basic services, including an improved water source, electricity, sanitation facilities and clean cooking fuels. Access to improved water, sanitation, electricity and clean fuels are essential for health and wellbeing for disease prevention, nutrition, hygeiene and preventing deaths related to indoor air pollution. 
 
@@ -54,8 +54,16 @@ In the chart below we see the share of the total population with access to basic
 
 ## Target 1.5
 
-_**By 2030, build the resilience of the poor and those in vulnerable situations and reduce their exposure and vulnerability to climate-related extreme events and other economic, social and environmental shocks and disasters.**_
+**_By 2030, build the resilience of the poor and those in vulnerable situations and reduce their exposure and vulnerability to climate-related extreme events and other economic, social and environmental shocks and disasters._**
 
 <iframe src="https://ourworldindata.org/grapher/death-rates-from-disasters?tab=chart&country=OWID_WRL+NPL+BGD+USA+JPN" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/internally-displaced-persons-from-disasters" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 <iframe src="https://owid.cloud/grapher/disaster-risk-reduction-progress" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+
+
+## Target 1.a
+
+_**Ensure significant mobilization of resources from a variety of sources, including through enhanced development cooperation, to implement programmes and policies to end poverty in all its dimensions.**_
+
+<iframe src="https://owid.cloud/grapher/health-expenditure-government-expenditure" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/government-expenditure-education" style="width: 100%; height: 600px; border: 0px none;"></iframe>
