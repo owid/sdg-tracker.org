@@ -19,17 +19,19 @@ featuredImage: /img/uploads/2.png
 ---
 ## Target 2.1
 
-_**By 2030, end hunger and ensure access by all people, in particular the poor and people in vulnerable situations, including infants, to safe, nutritious and sufficient food all year round.**_
+**_By 2030, end hunger and ensure access by all people, in particular the poor and people in vulnerable situations, including infants, to safe, nutritious and sufficient food all year round._**
 
 The chart below shows the share of the total population defined as undernourished. This is defined as the share of the population which fall below the defined minimum level of dietary energy (caloric) consumption. Data therefore refers to the percentage of the population whose food intake is insufficient to consistently meet dietary energy requirements.
 
 Data for high-income countries where the prevalence of undernourishment is below 5% is not included.
 
-<iframe src="https://ourworldindata.org/grapher/prevalence-of-undernourishment?tab=map" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/prevalence-of-undernourishment?tab=map" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/share-of-population-with-moderate-or-severe-food-insecurity" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/share-of-population-with-severe-food-insecurity" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/number-of-severely-food-insecure-people-by-region" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 ## **Target 2.2**
 
-_**By 2030, end all forms of malnutrition, including achieving, by 2025, the internationally agreed targets on stunting and wasting in children under 5 years of age, and address the nutritional needs of adolescent girls, pregnant and lactating women and older persons.**_
+**_By 2030, end all forms of malnutrition, including achieving, by 2025, the internationally agreed targets on stunting and wasting in children under 5 years of age, and address the nutritional needs of adolescent girls, pregnant and lactating women and older persons._**
 
 Malnutrition in children can arise in several forms — two of the main indicators of childhood development and nutrition is 'stunting' and 'wasting'.  The share of children (under 5 years old) defined as stunted or wasted are shown in the two charts below.
 
@@ -52,3 +54,9 @@ The charts below show the share of pregnant women, women of reproductive age, an
 **Prevalence of night blindness**
 
 <iframe src="https://ourworldindata.org/grapher/prevalence-of-night-blindness-in-pregnant-women" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/prevalence-of-night-blindness-in-pre-school-children" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+## Target 2.4
+
+_**Proportion of agricultural area under productive and sustainable agriculture.**_
+
+<iframe src="https://ourworldindata.org/grapher/organic-agricultural-area" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/organic-arable-land-area" style="width: 100%; height: 600px; border: 0px none;"></iframe>
