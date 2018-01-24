@@ -60,3 +60,13 @@ The charts below show the share of pregnant women, women of reproductive age, an
 _**Proportion of agricultural area under productive and sustainable agriculture.**_
 
 <iframe src="https://ourworldindata.org/grapher/organic-agricultural-area" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/organic-arable-land-area" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+## Target 2.5
+
+_**By 2020, maintain the genetic diversity of seeds, cultivated plants and farmed and domesticated animals and their related wild species.**_
+
+## **Target 2a**
+
+_**Increase investment in rural infrastructure, agricultural research and extension services, technology development and plant and livestock gene banks.**_
+
+<iframe src="https://owid.cloud/grapher/agriculture-orientation-index" style="width: 100%; height: 600px; border: 0px none;"></iframe>
