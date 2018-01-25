@@ -162,3 +162,9 @@ Vaccinations have greatly reduced the prevalence of diseases and they continue t
 The chart below shows the gross official development assistance (ODA) to medical research and basic health sectors, measured in constant 2015 US$ per year.
 
 <iframe src="https://owid.cloud/grapher/gross-oda-for-medical-research-and-basic-heath-sectors" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+## Target 3.c
+
+_**Substantially increase health financing and the recruitment, development, training and retention of the health workforce in developing countries.**_
+
+<iframe src="https://owid.cloud/grapher/nurses-and-midwives-per-1000-people" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/surgeons-per-100000" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/physicians-per-1000-people" style="width: 100%; height: 600px; border: 0px none;"></iframe>
