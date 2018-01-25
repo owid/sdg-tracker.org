@@ -34,9 +34,25 @@ The charts below show the share of students in early education (grades 2 or 3), 
 
 _**By 2030, ensure that all girls and boys have access to quality early childhood development, care and pre-primary education so that they are ready for primary education. **_
 
+**Proportion of children under 5 years of age who are developmentally on track in health, learning and psychosocial well-being**
+
+The chart below shows the share of children under 5 years old who are defined as developmentally on track in at least three of the following four domains: literacy-numeracy, physical, socio-emotional and learning.
+
+<iframe src="https://owid.cloud/grapher/proportion-of-children-developmentally-on-track" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+**Participation rate in organized learning (one year before the official primary entry age)**
+
 The charts below show the share of children of pre-primary age who are enroled in pre-primary education. This is given as the total across both sexes, with a further comparison of enrolment rates between boys and girls.
 
 <iframe src="https://owid.cloud/grapher/net-enrolment-rate-pre-primary" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/net-enrolment-pre-primary-boys-vs-girls" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+## Target 4.5
+
+_**By 2030, substantially increase the number of youth and adults who have relevant skills, including technical and vocational skills, for employment, decent jobs and entrepreneurship.**_
+
+The charts below show the share of youths and adults (over 15 years of age) with information and communications technology (ICT) skills (here defined based on the skills of creating electronic presentations), as a total share of the population and by sex.
+
+<iframe src="https://owid.cloud/grapher/proportion-with-ict-skills-in-presentations" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/proportion-with-ict-skills-by-sex" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 ## Target 4.6
 
