@@ -22,11 +22,13 @@ A pre-requisite for assessing whether children achieve relevant and expected lea
 
 <iframe src="<iframe style="width: 100%; height: 600px; border: 0px none;" src="https://ourworldindata.org/grapher/existence-of-nationally-representative-learning-assessment-at-the-end-of-primary-education" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
-The charts below show the share of students in early education (grades 2 or 3) and at the end of primary education who achieve at least a minimum proficiency in reading, and mathematics.
+The charts below show the share of students in early education (grades 2 or 3), at the end of primary, and the end of lower secondary education who achieve at least a minimum proficiency in reading, and mathematics.
 
 <iframe src="https://ourworldindata.org/grapher/share-of-students-in-early-primary-education-achieving-minimum-reading-proficiency-2010-2015" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/share-of-students-in-early-primary-education-achieving-minimum-math-proficiency-2010-2015" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 <iframe src="https://ourworldindata.org/grapher/share-of-students-at-end-of-primary-education-achieving-minimum-reading-proficiency-2010-2015" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/share-of-students-at-end-of-primary-education-achieving-minimum-maths-proficiency-2010-2015" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/share-of-students-at-end-of-lower-secondary-education-achieving-minimum-reading-proficiency-2010-2015" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/share-of-students-at-end-of-lower-secondary-education-achieving-minimum-reading-proficiency-2010-2015" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 ## Target 4.2
 
