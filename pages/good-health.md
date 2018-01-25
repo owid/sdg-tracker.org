@@ -84,9 +84,21 @@ The chart below shows the percentage of 30-year-olds who would die before their 
 
 **Mental wellbeing**
 
-The visualisation below presents global-level data on suicide mortality rates (per 100,000 people). More in-depth data on suicide, its correlates and determinants are available at our <a href="https://ourworldindata.org/suicide/">full entry</a>.
+The visualisation below presents global-level data on suicide mortality rates (per 100,000 people). More in-depth data on suicide, its correlates and determinants are available at our <a href="https://ourworldindata.org/suicide/">full entry</a>. Also shown is the share of the total population suffering from depression, which refers to the sum of those suffering from 'major depressive disorder' and 'persistent depressive disorder'.
 
-<iframe src="https://ourworldindata.org/grapher/suicide-mortality-rate" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/suicide-mortality-rate" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/share-of-population-suffering-from-depression" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+## Target 3.5
+
+_**Strengthen the prevention and treatment of substance abuse, including narcotic drug abuse and harmful use of alcohol.**_
+
+Recorded alcohol per capita (for those aged 15+) consumption of pure alcohol is calculated as the sum of beverage specific alcohol consumption of pure alcohol (beer, wine, spirits, other) from different sources. The average pure alcohol consumption per capita per year is shown in the chart below.
+
+Also detailed below are the share of the population suffering from drug use and alcohol use disorders. Drug dependence is defined by the International Classification of Diseases as the presence of three or more indicators of dependence for at least a month within the previous year. Such indicators are detailed in the charts below. 
+
+<iframe src="https://ourworldindata.org/grapher/total-alcohol-consumption-per-capita-litres-of-pure-alcohol" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/share-of-the-population-with-alcohol-use-disorders" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://owid.cloud/grapher/share-of-population-with-drug-use-disorders" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 ## Target 3.6
 
