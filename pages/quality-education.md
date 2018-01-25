@@ -16,19 +16,21 @@ featuredImage: /img/uploads/4.png
 ---
 ## Target 4.1
 
-**_By 2030, ensure that all girls and boys complete free, equitable and quality primary and secondary education leading to relevant and effective learning outcomes._**
+_**By 2030, ensure that all girls and boys complete free, equitable and quality primary and secondary education leading to relevant and effective learning outcomes.**_
 
 A pre-requisite for assessing whether children achieve relevant and expected learning outcomes is the existence of nationally representative learning assessments. The chart below shows whether each country has a nationally representative learning assessment at the end of primary education.
 
 <iframe src="<iframe style="width: 100%; height: 600px; border: 0px none;" src="https://ourworldindata.org/grapher/existence-of-nationally-representative-learning-assessment-at-the-end-of-primary-education" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
-The charts below show the share of students at the end of primary education who achieve at least a minimum proficiency in reading, and mathematics.
+The charts below show the share of students in early education (grades 2 or 3) and at the end of primary education who achieve at least a minimum proficiency in reading, and mathematics.
+
+<iframe src="https://ourworldindata.org/grapher/share-of-students-in-early-primary-education-achieving-minimum-reading-proficiency-2010-2015" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/share-of-students-in-early-primary-education-achieving-minimum-math-proficiency-2010-2015" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 <iframe src="https://ourworldindata.org/grapher/share-of-students-at-end-of-primary-education-achieving-minimum-reading-proficiency-2010-2015" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/share-of-students-at-end-of-primary-education-achieving-minimum-maths-proficiency-2010-2015" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 ## Target 4.2
 
-**_By 2030, ensure that all girls and boys have access to quality early childhood development, care and pre-primary education so that they are ready for primary education. _**
+_**By 2030, ensure that all girls and boys have access to quality early childhood development, care and pre-primary education so that they are ready for primary education. **_
 
 The charts below show the share of children of pre-primary age who are enroled in pre-primary education. This is given as the total across both sexes, with a further comparison of enrolment rates between boys and girls.
 
@@ -36,7 +38,7 @@ The charts below show the share of children of pre-primary age who are enroled i
 
 ## Target 4.6
 
-**_By 2030, ensure that all youth and a substantial proportion of adults, both men and women, achieve literacy and numeracy._**
+_**By 2030, ensure that all youth and a substantial proportion of adults, both men and women, achieve literacy and numeracy.**_
 
 The charts below show the share of the population who can both read and write with understanding of a short statement on their everyday life. In most cases 'literacy' also includes 'numeracy', which is the ability to make simple arithmetic calculations.
 
