@@ -120,6 +120,8 @@ Access to modern methods of family planning, and sexual health services has an i
 
 **_By 2030, substantially reduce the number of deaths and illnesses from hazardous chemicals and air, water and soil pollution and contamination._**
 
+**Air Pollution**
+
 The visualisations below present a global-level perspective of mortality rates related to household and ambient (outdoor) air pollution. These topics are covered in detail in our entries on <a href="https://ourworldindata.org/air-pollution/">Air Pollution</a> and <a href="https://ourworldindata.org/indoor-air-pollution/">Indoor Air Pollution</a>.
 
 <iframe src="https://ourworldindata.org/grapher/death-rate-by-source-from-air-pollution" style="width: 100%; height: 600px; border: 0px none;"></iframe>
@@ -127,6 +129,12 @@ The visualisations below present a global-level perspective of mortality rates r
 <iframe src="https://ourworldindata.org/grapher/death-rate-from-ambient-particulate-air-pollution-per-100000?tab=map" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/absolute-number-of-deaths-from-outdoor-air-pollution" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 <iframe src="https://ourworldindata.org/grapher/death-rate-by-source-from-indoor-air-pollution?tab=map" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/absolute-number-of-deaths-from-household-air-pollution" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+**Water, Sanitation and Hygiene for All (WASH)**
+
+Clean drinking water, safe and adequate sanitation facilities and proper hygiene (WASH) are all essential services to reducing the global burden of preventable diseases, malnutrition and improving child development. The charts below show the attributed burden of unsafe water and sanitation sources as the attributed death rate per 100,000 people.
+
+<iframe src="https://owid.cloud/grapher/death-rate-unsafe-water-source" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/death-rate-from-unsafe-sanitation" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 ## Target 3.a
 
