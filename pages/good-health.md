@@ -121,6 +121,8 @@ Access to modern methods of family planning, and sexual health services has an i
 
 _**Achieve universal health coverage, including financial risk protection, access to quality essential health-care services and access to safe, effective, quality and affordable essential medicines and vaccines for all.**_
 
+The charts below detail the access, quality and affordability of healthcare for all. Below we see the Healthcare Access and Quality (HAQ) index, measured on a scale from 0 (worst) to 100 (best). This index is based on death rates from 32 causes of death which could be preventable with timely and adequate healthcare. Also shown is the share of healthcare expenditure which is out-of-pocket by households and individuals, and the share of the population at risk of catastrophic or impoverishing expenditure if they were to require surgical care. 
+
 <iframe src="https://owid.cloud/grapher/healthcare-access-and-quality-index" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/share-of-out-of-pocket-expenditure-on-healthcare" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 <iframe src="https://owid.cloud/grapher/risk-of-catastrophic-expenditure-for-surgical-care" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/risk-of-impoverishing-expenditure-for-surgical-care" style="width: 100%; height: 600px; border: 0px none;"></iframe>
