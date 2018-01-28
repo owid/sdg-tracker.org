@@ -85,3 +85,11 @@ _**By 2030, ensure that all learners acquire the knowledge and skills needed to 
 **By 2020, substantially expand globally the number of scholarships available to developing countries for enrolment in higher education, including vocational training.**
 
 <iframe src="https://owid.cloud/grapher/oda-for-scholarships" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+## Target 4.c
+
+_**By 2030, substantially increase the supply of qualified teachers.**_
+
+<iframe src="https://owid.cloud/grapher/percentage-of-teachers-in-pre-primary-education-who-are-qualified" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/percentage-of-teachers-in-primary-education-who-are-qualified" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://owid.cloud/grapher/percentage-of-teachers-in-lower-secondary-education-who-are-qualified" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/percentage-of-teachers-in-upper-secondary-education-who-are-qualified" style="width: 100%; height: 600px; border: 0px none;"></iframe>
