@@ -72,6 +72,16 @@ _**By 2030, eliminate gender disparities in education and ensure equal access to
 
 The charts below show the share of the population who can both read and write with understanding of a short statement on their everyday life. In most cases 'literacy' also includes 'numeracy', which is the ability to make simple arithmetic calculations.
 
-<iframe src="https://ourworldindata.org/grapher/youth-literacy-males" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/youth-literacy-female" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/youth-literacy-males" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/youth-literacy-females" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 <iframe src="https://ourworldindata.org/grapher/adult-literacy-male" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/adult-literacy-female" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+## Target 4.a
+
+_**By 2030, ensure that all learners acquire the knowledge and skills needed to promote sustainable development.**_
+
+## **Target 4.b**
+
+**By 2020, substantially expand globally the number of scholarships available to developing countries for enrolment in higher education, including vocational training.**
+
+<iframe src="https://owid.cloud/grapher/oda-for-scholarships" style="width: 100%; height: 600px; border: 0px none;"></iframe>
