@@ -62,7 +62,7 @@ _**By 2030, eliminate gender disparities in education and ensure equal access to
 
 <iframe src="https://ourworldindata.org/grapher/out-of-school-children-of-primary-school-age-by-world-region" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/total-net-enrollment-rate-in-primary-education" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
-<iframe src="https://owid.cloud/grapher/net-enrolment-rate-primary-gender-parity-index-gpi" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/school-life-expectancy-primary-gender-parity-index-gpi" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/primary-completion-rate-of-relevant-age-group" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://owid.cloud/grapher/net-enrolment-rate-primary-gender-parity-index-gpi" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/school-life-expectancy-primary-gender-parity-index-gpi" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/primary-completion-rate-gender-parity-index" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 <iframe src="https://owid.cloud/grapher/school-life-expectancy-in-secondary-education-by-sex" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
