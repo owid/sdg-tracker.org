@@ -16,7 +16,7 @@ featuredImage: /img/uploads/4.png
 ---
 ## Target 4.1
 
-_**By 2030, ensure that all girls and boys complete free, equitable and quality primary and secondary education leading to relevant and effective learning outcomes.**_
+**_By 2030, ensure that all girls and boys complete free, equitable and quality primary and secondary education leading to relevant and effective learning outcomes._**
 
 A pre-requisite for assessing whether children achieve relevant and expected learning outcomes is the existence of nationally representative learning assessments. The chart below shows whether each country has a nationally representative learning assessment at the end of primary education.
 
@@ -32,7 +32,7 @@ The charts below show the share of students in early education (grades 2 or 3), 
 
 ## Target 4.2
 
-_**By 2030, ensure that all girls and boys have access to quality early childhood development, care and pre-primary education so that they are ready for primary education. **_
+**_By 2030, ensure that all girls and boys have access to quality early childhood development, care and pre-primary education so that they are ready for primary education. _**
 
 **Proportion of children under 5 years of age who are developmentally on track in health, learning and psychosocial well-being**
 
@@ -46,17 +46,29 @@ The charts below show the share of children of pre-primary age who are enroled i
 
 <iframe src="https://owid.cloud/grapher/net-enrolment-rate-pre-primary" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/net-enrolment-pre-primary-boys-vs-girls" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
-## Target 4.5
+## Target 4.4
 
-_**By 2030, substantially increase the number of youth and adults who have relevant skills, including technical and vocational skills, for employment, decent jobs and entrepreneurship.**_
+**_By 2030, substantially increase the number of youth and adults who have relevant skills, including technical and vocational skills, for employment, decent jobs and entrepreneurship._**
 
 The charts below show the share of youths and adults (over 15 years of age) with information and communications technology (ICT) skills (here defined based on the skills of creating electronic presentations), as a total share of the population and by sex.
 
 <iframe src="https://owid.cloud/grapher/proportion-with-ict-skills-in-presentations" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/proportion-with-ict-skills-by-sex" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
+## Target 4.5
+
+_**By 2030, eliminate gender disparities in education and ensure equal access to all levels of education and vocational training.**_
+
+<iframe src="https://ourworldindata.org/grapher/gender-gap-in-pre-primary-education" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/school-life-expectancy-of-boys-and-girls-at-the-pre-primary-education-level" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/out-of-school-children-of-primary-school-age-by-world-region" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/total-net-enrollment-rate-in-primary-education" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://owid.cloud/grapher/net-enrolment-rate-primary-gender-parity-index-gpi" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/school-life-expectancy-primary-gender-parity-index-gpi" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/primary-completion-rate-of-relevant-age-group" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://owid.cloud/grapher/school-life-expectancy-in-secondary-education-by-sex" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
 ## Target 4.6
 
-_**By 2030, ensure that all youth and a substantial proportion of adults, both men and women, achieve literacy and numeracy.**_
+**_By 2030, ensure that all youth and a substantial proportion of adults, both men and women, achieve literacy and numeracy._**
 
 The charts below show the share of the population who can both read and write with understanding of a short statement on their everyday life. In most cases 'literacy' also includes 'numeracy', which is the ability to make simple arithmetic calculations.
 
