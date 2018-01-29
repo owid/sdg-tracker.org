@@ -19,7 +19,7 @@ featuredImage: /img/uploads/6.png
 ---
 ## Target 6.1
 
-**_By 2030, achieve universal and equitable access to safe and affordable drinking water for all._**
+_**By 2030, achieve universal and equitable access to safe and affordable drinking water for all.**_
 
 In the charts below we present data on the share of the total population with access to an improved drinking water source; the difference in access between urban and rural populations; and the total number of people without access to an improved drinking water source by continent.
 
@@ -29,7 +29,7 @@ An improved drinking water source includes piped water on premises (piped househ
 
 ## Target 6.2
 
-**_By 2030, achieve access to adequate and equitable sanitation and hygiene for all and end open defecation, paying special attention to the needs of women and girls and those in vulnerable situations._**
+_**By 2030, achieve access to adequate and equitable sanitation and hygiene for all and end open defecation, paying special attention to the needs of women and girls and those in vulnerable situations.**_
 
 Improved sanitation facilities are crucial for sufficient hygeine standards, the prevention of disease, and health and nutritional outcomes. The charts below show the share of the total population with improved sanitation facilities; this comparison between urban and rural areas; the total number of people witout access to improved sanitation facilities; and the share of the population who still practice open defecation.
 
@@ -41,7 +41,7 @@ Improved sanitation facilities include flush/pour flush (to piped sewer system, 
 
 ## Target 6.4
 
-_**By 2030, substantially increase water-use efficiency across all sectors and ensure sustainable withdrawals and supply of freshwater to address water scarcity and substantially reduce the number of people suffering from water scarcity.**_
+**_By 2030, substantially increase water-use efficiency across all sectors and ensure sustainable withdrawals and supply of freshwater to address water scarcity and substantially reduce the number of people suffering from water scarcity._**
 
 Water-efficient economies are those which achieve a high gross domestic product (GDP) per unit of freshwater withdrawal. In the chart below we see trends in water productivity which is measured as a country's total GDP, measured in constant 2010 US$ divided by total freshwater withdrawals in cubic metres.
 
@@ -50,3 +50,15 @@ Water-efficient economies are those which achieve a high gross domestic product 
 Water scarcity is typically defined basic on the total quantity of freshwater withdrawals as a share of international resources. This includes water withdrawn from agricultural, industrial and domestic uses. The chart below shows levels of water stress by country, based on the following categories: < 10% is low stress; 10-20% is low-to-medium; 20-40% medium-to-high; 40-80% high; >80% extremely high.
 
 <iframe src="https://ourworldindata.org/grapher/freshwater-withdrawals-as-a-share-of-internal-resources?tap=map" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+## Target 6.5
+
+_**By 2030, implement integrated water resources management at all levels, including through transboundary cooperation as appropriate.**_
+
+## **Target 6.a**
+
+_**By 2030, expand international cooperation and capacity-building support to developing countries in water- and sanitation-related activities and programmes.**_
+
+## **Target 6.b**
+
+**_Support and strengthen the participation of local communities in improving water and sanitation management._**
