@@ -23,17 +23,19 @@ featuredImage: /img/uploads/7.png
 ---
 ## Target 7.1
 
-**_By 2030, ensure universal access to affordable, reliable and modern energy services._**
+_**By 2030, ensure universal access to affordable, reliable and modern energy services.**_
 
 Modern energy services encompass both reliable provision to electricity, as well as access to clean fuels and technologies for cooking and heating. Electricity provides access to essential services such as light, technological and communication devices. Access to clean fuels for cooking is a key health indicator in reducing the burden of indoor air pollution (estimated to have resulted in [2.6 million premature deaths](https://ourworldindata.org/indoor-air-pollution#deaths-from-indoor-air-pollution) in 2016).
 
-<iframe src="https://ourworldindata.org/grapher/share-of-the-population-with-access-to-electricity" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/number-of-people-in-the-world-with-and-without-electricity-access" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/power-outages-in-firms-per-month" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/share-of-the-population-with-access-to-electricity" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/share-of-rural-population-with-electricity-access-vs-share-of-total-population-with-electricity-access" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/number-of-people-in-the-world-with-and-without-electricity-access" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/power-outages-in-firms-per-month" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 <iframe src="https://ourworldindata.org/grapher/access-to-clean-fuels-and-technologies-for-cooking" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 ## Target 7.2
 
-_**By 2030, increase substantially the share of renewable energy in the global energy mix.**_
+**_By 2030, increase substantially the share of renewable energy in the global energy mix._**
 
 [Renewable energy](https://ourworldindata.org/renewables) is one of the two forms of low-carbon energy (the other being nuclear). Increasing the share of renewable and low-carbon energy is not only crucial in tackling climate change and reducing [greenhouse gas emissions](https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions) but also in reducing the health burden from outdoor [air pollution](https://ourworldindata.org/air-pollution).
 
@@ -43,7 +45,7 @@ Energy is inclusive of electricity, but extends to other sources including those
 
 ## Target 7.3
 
-_**By 2030, double the global rate of improvement in energy efficiency.**_
+**_By 2030, double the global rate of improvement in energy efficiency._**
 
 Reducing or limiting global energy demand whilst continuing global and economic development are two goals which can conflict with one another. A useful measure we can use to track progress on both is 'energy intensity' which measures the quantity of energy needed to produce one unit of gross domestic product (GDP).
 
