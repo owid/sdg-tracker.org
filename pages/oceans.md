@@ -11,8 +11,14 @@ description: >-
   global resource is a key feature of a sustainable future.
 featuredImage: /img/uploads/14.png
 ---
+## Target 14.4
+
+_**By 2020, effectively regulate harvesting and end overfishing, illegal, unreported and unregulated fishing and destructive fishing practices.**_
+
 ## Target 14.5
 
-_**By 2020, conserve at least 10 per cent of coastal and marine areas, consistent with national and international law and based on the best available scientific information.**_
+**_By 2020, conserve at least 10 per cent of coastal and marine areas, consistent with national and international law and based on the best available scientific information._**
 
 <iframe src="https://ourworldindata.org/grapher/marine-protected-areas" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://owid.cloud/grapher/fish-species-threatened" style="width: 100%; height: 600px; border: 0px none;"></iframe>
