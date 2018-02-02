@@ -42,6 +42,8 @@ _**Implement the principle of special and differential treatment for developing 
 
 _**Encourage official development assistance and financial flows, including foreign direct investment, to States where the need is greatest.**_
 
+<iframe src="https://owid.cloud/grapher/net-official-development-assistance-and-aid-received" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
 
 
 ## **Target 10.c**
