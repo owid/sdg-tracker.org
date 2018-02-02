@@ -54,9 +54,17 @@ _**Achieve higher levels of economic productivity through diversification, techn
 
 <iframe src="https://ourworldindata.org/grapher/average-working-hours-of-children" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
+## Target 8.8
+
+_**Protect labour rights and promote safe and secure working environments for all workers, including migrant workers.**_
+
+
+
 ## Target 8.10
 
 **_Strengthen the capacity of domestic financial institutions to encourage and expand access to banking, insurance and financial services for all.
 _**
 
 <iframe src="https://ourworldindata.org/grapher/number-of-commercial-bank-branches-per-100000-adults" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/automated-teller-machines-atms-per-100000-adults" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/account-at-financial-institution" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/registered-mobile-money-accounts-by-region" style="width: 100%; height: 600px; border: 0px none;"></iframe>
