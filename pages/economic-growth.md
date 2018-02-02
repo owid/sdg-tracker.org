@@ -14,13 +14,23 @@ featuredImage: /img/uploads/8.png
 ---
 ## Target 8.1
 
-_**Sustain per capita economic growth in accordance with national circumstances and, in particular, at least 7 per cent gross domestic product growth per annum in the least developed countries.**_
+**_Sustain per capita economic growth in accordance with national circumstances and, in particular, at least 7 per cent gross domestic product growth per annum in the least developed countries._**
 
 <iframe src="https://ourworldindata.org/grapher/gdp-per-capita-growth?tab=chart" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
+## Target 8.2
+
+_**Achieve higher levels of economic productivity through diversification, technological upgrading and innovation, including through a focus on high-value added and labour-intensive sectors.**_
+
+## **Target 8.3**
+
+**_Proportion of informal employment in non‑agriculture employment._**
+
+<iframe src="https://owid.cloud/grapher/informal-employment-of-total-non-agricultural-employment" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/informal-employment-by-sex" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
 ## Target 8.5
 
-_**By 2030, achieve full and productive employment and decent work for all women and men, including for young people and persons with disabilities, and equal pay for work of equal value.**_
+**_By 2030, achieve full and productive employment and decent work for all women and men, including for young people and persons with disabilities, and equal pay for work of equal value._**
 
 **Hourly earnings**
 
@@ -32,18 +42,21 @@ _**By 2030, achieve full and productive employment and decent work for all women
 
 ## Target 8.6
 
-_**By 2020, substantially reduce the proportion of youth not in employment, education or training.**_
+**_By 2020, substantially reduce the proportion of youth not in employment, education or training._**
 
 <iframe src="https://ourworldindata.org/grapher/youth-not-in-education-employment-training" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 ## Target 8.7
 
-_**Take immediate and effective measures to eradicate forced labour, end modern slavery and human trafficking and secure the prohibition and elimination of the worst forms of child labour, including recruitment and use of child soldiers, and by 2025 end child labour in all its forms.**_
+**_Take immediate and effective measures to eradicate forced labour, end modern slavery and human trafficking and secure the prohibition and elimination of the worst forms of child labour, including recruitment and use of child soldiers, and by 2025 end child labour in all its forms._**
 
-<iframe src="https://ourworldindata.org/grapher/incidence-of-child-labour?tab=map" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/average-working-hours-of-children" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/incidence-of-child-labour?tab=map" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/percentage-of-children-in-employment-by-sex" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/average-working-hours-of-children" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 ## Target 8.10
 
-_**Strengthen the capacity of domestic financial institutions to encourage and expand access to banking, insurance and financial services for all.**_
+**_Strengthen the capacity of domestic financial institutions to encourage and expand access to banking, insurance and financial services for all.
+_**
 
 <iframe src="https://ourworldindata.org/grapher/number-of-commercial-bank-branches-per-100000-adults" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/automated-teller-machines-atms-per-100000-adults" style="width: 100%; height: 600px; border: 0px none;"></iframe>
