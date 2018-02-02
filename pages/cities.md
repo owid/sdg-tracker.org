@@ -12,18 +12,26 @@ featuredImage: /img/uploads/11.png
 ---
 ## **Target 11.1**
 
-_**By 2030, ensure access for all to adequate, safe and affordable housing and basic services and upgrade slums.**_
+**_By 2030, ensure access for all to adequate, safe and affordable housing and basic services and upgrade slums._**
 
 <iframe src="https://ourworldindata.org/grapher/share-of-urban-population-living-in-slums" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
+## 
+
 ## Target 11.5
 
-_**By 2030, significantly reduce the number of deaths and the number of people affected and substantially decrease the direct economic losses relative to global gross domestic product caused by disasters, including water-related disasters, with a focus on protecting the poor and people in vulnerable situations.**_
+**_By 2030, significantly reduce the number of deaths and the number of people affected and substantially decrease the direct economic losses relative to global gross domestic product caused by disasters._**
 
-<iframe src="https://ourworldindata.org/grapher/death-rates-from-disasters?tab=chart" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://owid.cloud/grapher/natural-disaster-deaths-ihme" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/death-rates-from-disasters?tab=chart" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/internally-displaced-persons-from-disasters" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 ## Target 11.6
 
-_**By 2030, reduce the adverse per capita environmental impact of cities, including by paying special attention to air quality and municipal and other waste management.**_
+**_By 2030, reduce the adverse per capita environmental impact of cities, including by paying special attention to air quality and municipal and other waste management._**
 
 <iframe src="https://ourworldindata.org/grapher/PM25-air-pollution" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+## Target 11.b
+
+_**By 2020, substantially increase the number of cities and human settlements adopting and implementing integrated policies and plans towards climate change mitigation, adaptation, and disaster management plans.**_
