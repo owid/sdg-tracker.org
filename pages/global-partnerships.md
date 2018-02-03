@@ -70,8 +70,22 @@ _**Realize timely implementation of duty-free and quota-free market access on a 
 
 <iframe src="https://owid.cloud/grapher/tariff-rates" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
+## Target 17.15
+
+_**Respect each country’s policy space and leadership to establish and implement policies for poverty eradication and sustainable development.**_
+
+## **Target 17.16**
+
+_**Enhance the Global Partnership for Sustainable Development, complemented by multi-stakeholder partnerships that mobilize and share knowledge, expertise, technology and financial resources.**_
+
 ## Target 17.18
 
 _**By 2020, enhance capacity-building support to developing countries, including for least developed countries and small island developing States, to increase significantly the availability of high-quality, timely and reliable data.**_
 
 <iframe src="https://owid.cloud/grapher/statistical-capacity-indicator" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+## Target 17.19
+
+_**By 2030, build on existing initiatives to develop measurements of progress on sustainable development that complement gross domestic product, and support statistical capacity-building in developing countries.**_
+
+<iframe src="https://owid.cloud/grapher/completeness-population-census" style="width: 100%; height: 600px; border: 0px none;"></iframe></iframe><iframe src="https://ourworldindata.org/grapher/completeness-of-birth-registration" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/completeness-of-death-reporting" style="width: 100%; height: 600px; border: 0px none;"></iframe>
