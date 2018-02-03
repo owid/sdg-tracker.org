@@ -7,14 +7,26 @@ goalNum: 2
 name: Zero Hunger
 description: >-
   Food and nutrition is a basic requirement for health and wellbeing. Whilst
-  globally we produce more than enough food for today's population, 815 million
-  people remained undernourished in 2016. 
+  globally we produce more than enough food for today's population, [815 million
+  people remained
+  undernourished](https://ourworldindata.org/grapher/global-population-defined-as-undernourished)
+  in 2016. 
 
 
   Improving nutrition extends beyond basic caloric needs and incorporates all
-  forms of malnutrition including childhood wasting, stunting, micronutrient
-  deficiencies (particularly in children, pregnant and lactating women), and
-  obesity. Malnutrition is therefore highly relevant to all countries.
+  forms of malnutrition including [childhood wasting,
+  stunting](https://ourworldindata.org/hunger-and-undernourishment#undernourishment-of-children),
+  micronutrient deficiencies (particularly in children, pregnant and lactating
+  women), and obesity. Malnutrition is therefore highly relevant to all
+  countries.
+
+
+  You can find many more visuals and statistics on [hunger and
+  undernourishment](https://ourworldindata.org/hunger-and-undernourishment),
+  [micronutrient
+  deficiencies](https://ourworldindata.org/micronutrient-deficiency) and
+  [obesity](https://ourworldindata.org/obesity) at our full entries on these
+  topics.
 featuredImage: /img/uploads/2.png
 ---
 ## Target 2.1
