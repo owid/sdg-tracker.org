@@ -8,6 +8,23 @@ description: >-
   peaceful and inclusive societies for sustainable development, the provision of
   access to justice for all, and building effective, accountable institutions at
   all levels.
+
+
+  This aims to promote peaceful societies at national levels, as well as the
+  role of cooperation at the international level.
+
+
+  You can find further details on the topics aligned to peace, cooperation and
+  justice in our entries on [War and
+  Peace](https://ourworldindata.org/war-and-peace),
+  [Terrorism](https://ourworldindata.org/terrorism), [Military
+  Spending](https://ourworldindata.org/military-spending), [Nuclear
+  Weapons](https://ourworldindata.org/nuclear-weapons),
+  [Homicides](https://ourworldindata.org/homicides), [Human
+  Rights](https://ourworldindata.org/human-rights),
+  [Corruption](https://ourworldindata.org/corruption) and [Violence Against &
+  Rights for
+  Children](https://ourworldindata.org/violence-against-rights-for-children).
 featuredImage: /img/uploads/16.png
 ---
 ## **Target 16.1**
