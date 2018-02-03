@@ -32,7 +32,7 @@ A pre-requisite for assessing whether children achieve relevant and expected lea
 
 <iframe src="<iframe style="width: 100%; height: 600px; border: 0px none;" src="https://ourworldindata.org/grapher/existence-of-nationally-representative-learning-assessment-at-the-end-of-primary-education" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
-The charts below show the share of students in early education (grades 2 or 3), at the end of primary, and the end of lower secondary education who achieve at least a minimum proficiency in reading, and mathematics.
+The charts below show the share of students in early education (grades 2 or 3), at the end of [primary](https://ourworldindata.org/primary-and-secondary-education), and the end of lower [secondary education](https://ourworldindata.org/primary-and-secondary-education) who achieve at least a minimum proficiency in reading, and mathematics.
 
 <iframe src="https://ourworldindata.org/grapher/share-of-students-in-early-primary-education-achieving-minimum-reading-proficiency-2010-2015" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/share-of-students-in-early-primary-education-achieving-minimum-math-proficiency-2010-2015" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
@@ -52,7 +52,7 @@ The chart below shows the share of children under 5 years old who are defined as
 
 **Participation rate in organized learning (one year before the official primary entry age)**
 
-The charts below show the share of children of pre-primary age who are enroled in pre-primary education. This is given as the total across both sexes, with a further comparison of enrolment rates between boys and girls.
+The charts below show the share of children of pre-primary age who are enroled in [pre-primary education](https://ourworldindata.org/pre-primary-education). This is given as the total across both sexes, with a further comparison of enrolment rates between boys and girls.
 
 <iframe src="https://owid.cloud/grapher/net-enrolment-rate-pre-primary" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/net-enrolment-pre-primary-boys-vs-girls" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
@@ -68,6 +68,10 @@ The charts below show the share of youths and adults (over 15 years of age) with
 
 **_By 2030, eliminate gender disparities in education and ensure equal access to all levels of education and vocational training._**
 
+The world has made significant progress in closing gender gaps in access to primary education in particular in recent decades. However, disparities remain, especially towards secondary and tertiary education. Closing these disparities in education access and attainment underpins a range of development drivers.
+
+The charts below provide a global overview of gender disparities across enrollment, school life expectancy and completion rates.
+
 <iframe src="https://ourworldindata.org/grapher/gender-gap-in-pre-primary-education" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/school-life-expectancy-of-boys-and-girls-at-the-pre-primary-education-level" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 <iframe src="https://ourworldindata.org/grapher/out-of-school-children-of-primary-school-age-by-world-region" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/total-net-enrollment-rate-in-primary-education" style="width: 100%; height: 600px; border: 0px none;"></iframe>
@@ -80,7 +84,7 @@ The charts below show the share of youths and adults (over 15 years of age) with
 
 _**By 2030, ensure that all youth and a substantial proportion of adults, both men and women, achieve literacy and numeracy.**_
 
-The charts below show the share of the population who can both read and write with understanding of a short statement on their everyday life. In most cases 'literacy' also includes 'numeracy', which is the ability to make simple arithmetic calculations.
+The charts below show the share of the population who can both read and write with understanding of a short statement on their everyday life. In most cases '[literacy](https://ourworldindata.org/literacy)' also includes 'numeracy', which is the ability to make simple arithmetic calculations.
 
 <iframe src="https://ourworldindata.org/grapher/youth-literacy-males" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/youth-literacy-females" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
@@ -92,7 +96,7 @@ The charts below show the share of the population who can both read and write wi
 
 ## **Target 4.b**
 
-**By 2020, substantially expand globally the number of scholarships available to developing countries for enrolment in higher education, including vocational training.**
+**By 2020, substantially expand globally the number of scholarships available to developing countries for enrollment in higher education, including vocational training.**
 
 Closing global inequities in educational access and attainment will require significant investment in public services, but also in financial support to learners who would otherwise be unable to stay in formal education or vocational training. The chart below shows the levels of financial support and development assistance provided for education and training scholarships.
 
