@@ -58,10 +58,10 @@ Water-efficient economies are those which achieve a high gross domestic product 
 
 **_By 2030, implement integrated water resources management at all levels, including through transboundary cooperation as appropriate._**
 
-## **Target 6.a**
+## Target 6.a
 
 **_By 2030, expand international cooperation and capacity-building support to developing countries in water- and sanitation-related activities and programmes._**
 
-## **Target 6.b**
+## Target 6.b
 
 _**Support and strengthen the participation of local communities in improving water and sanitation management.**_
