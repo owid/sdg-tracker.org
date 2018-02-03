@@ -108,7 +108,9 @@ Further data and visuals on investment and financial support for education is av
 
 **_By 2030, substantially increase the supply of qualified teachers._**
 
+Ensuring children, adolescents, and increasingly adults within further education receive equal and affordable opportunities for schooling is a vital first step in educational attainment. However, making sure learners receive [high-quality education](https://ourworldindata.org/quality-of-education) is also fundamental. This begins with ensuring [teachers](https://ourworldindata.org/teachers-and-professors) are sufficiently trained and qualified.
 
+The charts below provide available data on the shares of teachers across educational levels who are sufficiently qualified. You can find more data on these trends in our entry on [Teachers and Professors](https://ourworldindata.org/teachers-and-professors).
 
 <iframe src="https://owid.cloud/grapher/percentage-of-teachers-in-pre-primary-education-who-are-qualified" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/percentage-of-teachers-in-primary-education-who-are-qualified" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
