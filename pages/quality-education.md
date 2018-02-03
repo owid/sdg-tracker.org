@@ -4,14 +4,24 @@ title: Ensure inclusive and quality education for all and promote lifelong learn
 goalNum: 4
 name: Quality Education
 description: >-
-  Obtaining a quality education is the foundation to improving people’s lives
-  and sustainable development. Major progress has been made towards increasing
-  access to education at all levels and increasing enrolment rates in schools
-  particularly for women and girls. Basic literacy skills have improved
-  tremendously, yet bolder efforts are needed to make even greater strides for
-  achieving universal education goals. For example, the world has achieved
+  Obtaining a quality education underpins a range of fundamental development
+  drivers. . Major progress has been made towards increasing access to education
+  at all levels, particularly for women and girls. Basic literacy skills across
+  the world have improved tremendously, yet bolder efforts are needed to achieve
+  universal education goals for all. For example, the world has achieved
   equality in primary education between girls and boys, but few countries have
   achieved that target at all levels of education.
+
+
+  The charts and visuals below provide data on the major developments in global
+  education in relation to the Sustainable Development Goal (SDG) targets.
+  Further information on education and learning can be found across a range of
+  entries on our publication including the [Global Rise of
+  Education](https://ourworldindata.org/global-rise-of-education);
+  [Pre-Primary](https://ourworldindata.org/pre-primary-education); [Primary and
+  Secondary](https://ourworldindata.org/primary-and-secondary-education);
+  [Tertiary](https://ourworldindata.org/tertiary-education); and
+  [Literacy](https://ourworldindata.org/literacy).
 featuredImage: /img/uploads/4.png
 ---
 ## Target 4.1
