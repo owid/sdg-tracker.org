@@ -74,6 +74,10 @@ The charts below show the share of pregnant women, women of reproductive age, an
 
 **_Proportion of agricultural area under productive and sustainable agriculture._**
 
+Maintaining high-quality land and soil is crucial to productive agriculture, not only today, but also in ensuring our agricultural systems are sustainable over the long-run. Our metrics for tracking productive and sustainable agricultural land are currently poorly-defined.
+
+In the charts below we present the World Bank measures of agricultural land organically managed (although such data for most countries is currently unavailable). These metrics, however, do not guarantee that lands are productive or sustainable. We cover a range of questions related to agricultural land use, environmental impacts and crop yields in our entry on [Yields and Land Use in Agriculture](https://ourworldindata.org/yields-and-land-use-in-agriculture).
+
 <iframe src="https://ourworldindata.org/grapher/organic-agricultural-area" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/organic-arable-land-area" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/share-of-arable-land-which-is-organic" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 ## Target 2.5
@@ -84,10 +88,18 @@ The charts below show the share of pregnant women, women of reproductive age, an
 
 **_Increase investment in rural infrastructure, agricultural research and extension services, technology development and plant and livestock gene banks._**
 
+Improving crop production, agricultural practices and the welfare of farmers is crucial to building resilient and secure food systems.
+
+Investment in rural infrastructure (to connect rural and [increasingly urbanizing populations](https://ourworldindata.org/grapher/urban-and-rural-population-sizes)) are vital to building supply chains which work for both urban population centres and agricultural producers. Investing in research, technological innovations and gene banks will also help to develop increasingly productive and sustainable food production systems.
+
 <iframe src="https://owid.cloud/grapher/agriculture-orientation-index" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 ## Target 2c
 
 _**Adopt measures to ensure the proper functioning of food commodity markets and their derivatives and facilitate timely access to market information, including on food reserves, in order to help limit extreme food price volatility.**_
+
+Producing enough food for all is not the only challenge in ending hunger and malnutrition. Distribution, access and affordability are also essential. Food pricing is not only important for consumer affordability, but also to ensure food producers maintain a steady and sufficient income. Market and pricing is stability (and avoiding large volatility) is therefore crucial — below we see national data on food price volatility.
+
+Further trends and data on food prices can be found at our entry [here](https://ourworldindata.org/food-prices).
 
 <iframe src="https://owid.cloud/grapher/domestic-food-price-volatility-index" style="width: 100%; height: 600px; border: 0px none;"></iframe>
