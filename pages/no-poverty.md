@@ -4,10 +4,11 @@ title: End poverty in all its forms everywhere
 goalNum: 1
 name: No Poverty
 description: >-
-  Extreme poverty rates have fallen by more than half since 1990. While this is
-  a remarkable achievement, one-in-five people in developing regions still live
-  on less than $1.90 a day. Millions more make little more than this daily
-  amount and are at risk of slipping back into extreme poverty.
+  [Extreme poverty](https://ourworldindata.org/extreme-poverty) rates have
+  fallen by more than half since 1990. While this is a remarkable achievement,
+  one-in-five people in developing regions still live on less than $1.90 a day.
+  Millions more make little more than this daily amount and are at risk of
+  slipping back into extreme poverty.
 
 
   Sustainable Development Goal 1 (SDG1) aims to eradicate extreme poverty by
