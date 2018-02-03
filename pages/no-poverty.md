@@ -55,7 +55,7 @@ The charts below provide the latest data on coverage of social insurance program
 
 **_By 2030, ensure that everyone (particularly the poor and vulnerable) have equal rights to economic resources, as well as access to basic services, ownership and control over land and other forms of property, inheritance, natural resources, appropriate new technology and financial services, including microfinance._**
 
-In the chart below we see the share of the total population with access to basic services, including an improved water source, electricity, sanitation facilities and clean cooking fuels. Access to improved water, sanitation, electricity and clean fuels are essential for health and wellbeing for disease prevention, nutrition, hygeiene and preventing deaths related to indoor air pollution. 
+In the chart below we see the share of the total population with access to basic services, including an improved water source, electricity, sanitation facilities and clean cooking fuels. [Access to improved water](https://ourworldindata.org/water-access-resources-sanitation), [sanitation](https://ourworldindata.org/water-access-resources-sanitation#access-to-improved-sanitation), [electricity](https://ourworldindata.org/energy-production-and-changing-energy-sources#access-to-electricity) and [clean fuels](https://ourworldindata.org/indoor-air-pollution#access-to-clean-fuels-and-technologies-for-cooking) are essential for health and wellbeing for disease prevention, nutrition, hygiene and preventing deaths related to [indoor air pollution](https://ourworldindata.org/indoor-air-pollution). 
 
 <iframe src="https://ourworldindata.org/grapher/share-of-population-with-access-to-basic-infrastructure-services?country=WLD" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
@@ -67,6 +67,8 @@ In the chart below we see the share of the total population with access to basic
 
 _**By 2030, build the resilience of the poor and those in vulnerable situations and reduce their exposure and vulnerability to climate-related extreme events and other economic, social and environmental shocks and disasters.**_
 
+The charts below visualise annual impacts of natural disaster events, including deaths and displacement. Increasing resilience to the range of potential disaster events will be crucial for nations to reduce negative impacts of recurrent events as well as adapt to climate-related extremes. Further trends and information on natural catastrophes can be found at our entry [here](https://ourworldindata.org/natural-catastrophes).
+
 <iframe src="https://ourworldindata.org/grapher/death-rates-from-disasters?tab=chart&country=OWID_WRL+NPL+BGD+USA+JPN" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/internally-displaced-persons-from-disasters" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 <iframe src="https://owid.cloud/grapher/disaster-risk-reduction-progress" style="width: 100%; height: 600px; border: 0px none;"></iframe>
@@ -74,6 +76,8 @@ _**By 2030, build the resilience of the poor and those in vulnerable situations 
 ## Target 1.a
 
 **_Ensure significant mobilization of resources from a variety of sources, including through enhanced development cooperation, to implement programmes and policies to end poverty in all its dimensions._**
+
+Reducing poverty and improving living standards for all will require significant financial investment in poverty-reducing policies, as well as in essential public services. The charts below show the share of governmental expenditure on healthcare and education, as well as the size of financial developmental assistance. 
 
 <iframe src="https://owid.cloud/grapher/health-expenditure-government-expenditure" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/government-expenditure-education" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
