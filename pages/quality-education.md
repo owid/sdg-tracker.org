@@ -26,7 +26,7 @@ featuredImage: /img/uploads/4.png
 ---
 ## Target 4.1
 
-**_By 2030, ensure that all girls and boys complete free, equitable and quality primary and secondary education leading to relevant and effective learning outcomes._**
+_**By 2030, ensure that all girls and boys complete free, equitable and quality primary and secondary education leading to relevant and effective learning outcomes.**_
 
 A pre-requisite for assessing whether children achieve relevant and expected learning outcomes is the existence of nationally representative learning assessments. The chart below shows whether each country has a nationally representative learning assessment at the end of primary education.
 
@@ -42,7 +42,7 @@ The charts below show the share of students in early education (grades 2 or 3), 
 
 ## Target 4.2
 
-**_By 2030, ensure that all girls and boys have access to quality early childhood development, care and pre-primary education so that they are ready for primary education. _**
+_**By 2030, ensure that all girls and boys have access to quality early childhood development, care and pre-primary education so that they are ready for primary education. **_
 
 **Proportion of children under 5 years of age who are developmentally on track in health, learning and psychosocial well-being**
 
@@ -58,7 +58,7 @@ The charts below show the share of children of pre-primary age who are enroled i
 
 ## Target 4.4
 
-**_By 2030, substantially increase the number of youth and adults who have relevant skills, including technical and vocational skills, for employment, decent jobs and entrepreneurship._**
+_**By 2030, substantially increase the number of youth and adults who have relevant skills, including technical and vocational skills, for employment, decent jobs and entrepreneurship.**_
 
 The charts below show the share of youths and adults (over 15 years of age) with information and communications technology (ICT) skills (here defined based on the skills of creating electronic presentations), as a total share of the population and by sex.
 
@@ -66,7 +66,7 @@ The charts below show the share of youths and adults (over 15 years of age) with
 
 ## Target 4.5
 
-_**By 2030, eliminate gender disparities in education and ensure equal access to all levels of education and vocational training.**_
+**_By 2030, eliminate gender disparities in education and ensure equal access to all levels of education and vocational training._**
 
 <iframe src="https://ourworldindata.org/grapher/gender-gap-in-pre-primary-education" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/school-life-expectancy-of-boys-and-girls-at-the-pre-primary-education-level" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
@@ -78,7 +78,7 @@ _**By 2030, eliminate gender disparities in education and ensure equal access to
 
 ## Target 4.6
 
-**_By 2030, ensure that all youth and a substantial proportion of adults, both men and women, achieve literacy and numeracy._**
+_**By 2030, ensure that all youth and a substantial proportion of adults, both men and women, achieve literacy and numeracy.**_
 
 The charts below show the share of the population who can both read and write with understanding of a short statement on their everyday life. In most cases 'literacy' also includes 'numeracy', which is the ability to make simple arithmetic calculations.
 
@@ -88,17 +88,23 @@ The charts below show the share of the population who can both read and write wi
 
 ## Target 4.a
 
-_**By 2030, ensure that all learners acquire the knowledge and skills needed to promote sustainable development.**_
+**_By 2030, ensure that all learners acquire the knowledge and skills needed to promote sustainable development._**
 
 ## **Target 4.b**
 
 **By 2020, substantially expand globally the number of scholarships available to developing countries for enrolment in higher education, including vocational training.**
 
+Closing global inequities in educational access and attainment will require significant investment in public services, but also in financial support to learners who would otherwise be unable to stay in formal education or vocational training. The chart below shows the levels of financial support and development assistance provided for education and training scholarships.
+
+Further data and visuals on investment and financial support for education is available at our entry on [Financing Education](https://ourworldindata.org/financing-education).
+
 <iframe src="https://owid.cloud/grapher/oda-for-scholarships" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 ## Target 4.c
 
-_**By 2030, substantially increase the supply of qualified teachers.**_
+**_By 2030, substantially increase the supply of qualified teachers._**
+
+
 
 <iframe src="https://owid.cloud/grapher/percentage-of-teachers-in-pre-primary-education-who-are-qualified" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/percentage-of-teachers-in-primary-education-who-are-qualified" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
