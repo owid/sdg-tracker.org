@@ -26,7 +26,10 @@ description: >-
   [micronutrient
   deficiencies](https://ourworldindata.org/micronutrient-deficiency) and
   [obesity](https://ourworldindata.org/obesity) at our full entries on these
-  topics.
+  topics. Our entries on [famines](https://ourworldindata.org/famines), [food
+  per person](https://ourworldindata.org/food-per-person), and [diet
+  compositions](https://ourworldindata.org/diet-compositions) also tie closely
+  to these topics.
 featuredImage: /img/uploads/2.png
 ---
 ## Target 2.1
