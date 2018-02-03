@@ -39,6 +39,10 @@ The charts below show rates of death across the world resultant from [homicide](
 
 _**End abuse, exploitation, trafficking and all forms of violence against and torture of children.**_
 
+Violations of children's rights — including violence and child labour — in addition to human trafficking remain tragically common across the world. The visuals below show rates of childhood violence, labour, sexual abuse and human trafficking across the world. 
+
+Additional information and data can be found at our entry on [Violence Against & Rights for Children](https://ourworldindata.org/violence-against-rights-for-children).
+
 <iframe src="https://ourworldindata.org/grapher/percentage-of-children-214-who-experience-violent-discipline-at-home?tab=map" style="width: 100%; height: 600px; border: 0px none;">
 
 <iframe src="https://ourworldindata.org/grapher/proportion-of-women-subjected-to-physical-or-sexual-violence" style="width: 100%; height: 600px; border: 0px none;"></iframe></iframe><iframe src="https://ourworldindata.org/grapher/percentage-of-girls-15-to-19-who-report-having-been-victims-of-sexual-abuse" style="width: 100%; height: 600px; border: 0px none;"></iframe>
