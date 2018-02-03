@@ -55,6 +55,10 @@ Additional information and data can be found at our entry on [Violence Against &
 
 **_Substantially reduce corruption and bribery in all their forms._**
 
+Corruption is an issue imposing political, economic, and environmental costs to societies around the world. The effective functioning of institutions and political systems requires the development of trust and in transparent governance. 
+
+The illegal nature of corruption makes [data collection and availability](https://ourworldindata.org/corruption#definitions-measurement-and-data-quality) difficult. Below we present global trends in bribery incidence. Further details on Corruption can be found at our entry [here](https://ourworldindata.org/corruption).
+
 <iframe src="https://owid.cloud/grapher/bribery-incidence-of-firms-experiencing-at-least-one-bribe-payment-request" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 ## Target 16.8
@@ -64,6 +68,8 @@ Additional information and data can be found at our entry on [Violence Against &
 ## Target 16.9
 
 **_By 2030, provide legal identity for all, including birth registration._**
+
+An important indicator of the effectiveness of governance and institutional systems is the completeness of basic records, including birth and death registrations. Ensuring human, legal rights and justice for all requires the acknowledgement of all within official records. The chart below shows the completeness of birth registration across the world.
 
 <iframe src="https://ourworldindata.org/grapher/completeness-of-birth-registration" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
