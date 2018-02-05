@@ -31,7 +31,7 @@ Further information on these topics can be found at our entries on [Internationa
 
 With economic growth, most countries move through a significant economic transition from agriculture to industrialisation. Ensuring this process of industrialisation is inclusive is essential in making such economic transitions sustainable, and closely linked with positive employment outcomes.
 
-The charts below show the share of manufacturing, both with a country's gross domestic product (GDP) and in its share of total employment. Further information on 
+The charts below show the share of manufacturing, both with a country's gross domestic product (GDP) and in its share of total employment. Further context of these transitions can be found at our blog posts on [Structural Transformation](https://ourworldindata.org/structural-transformation-and-deindustrialization-evidence-from-todays-rich-countries) and [Are Emerging Economies Deindustrializing Too Quickly?](https://ourworldindata.org/growth-and-structural-transformation-are-emerging-economies-industrializing-too-quickly)
 
 <iframe src="https://ourworldindata.org/grapher/manufacturing-value-added-to-gdp" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/industry-share-of-total-emplyoment" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
@@ -39,11 +39,17 @@ The charts below show the share of manufacturing, both with a country's gross do
 
 _**By 2030, upgrade infrastructure and retrofit industries to make them sustainable, with increased resource-use efficiency and greater adoption of clean and environmentally sound technologies and industrial processes, with all countries taking action in accordance with their respective capabilities.**_
 
+Ensuring that economic growth is achieved in an environmentally sustainable way will require a significant reduction in the resource consumption per unit of gross domestic product (GDP). In the chart below we see the carbon emissions intensity - that is the quantity of carbon dioxide emitted per unit of GDP.
+
+More statistics and visualisations on carbon dioxide and greenhouse emissions in our entry [here](https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions).
+
 <iframe src="https://ourworldindata.org/grapher/carbon-emission-intensity-of-economies?tab=map" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 ## **Target 9.5**
 
 _**Enhance scientific research, upgrade the technological capabilities of industrial sectors in all countries, in particular developing countries, including, by 2030, encouraging innovation and substantially increasing the number of research and development workers per 1 million people and public and private research and development spending.**_
+
+
 
 <iframe src="https://ourworldindata.org/grapher/research-and-development-expenditure-of-gdp" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/researchers-in-rd-per-million-people" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
