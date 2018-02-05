@@ -12,6 +12,22 @@ description: >-
   and the spread of HIV/AIDS. However, many more efforts are needed to fully
   eradicate a wide range of diseases and address many different persistent and
   emerging health issues.
+
+
+  In-depth analysis across a range of health-related topics can be found at our
+  entries on: [Global Health](https://ourworldindata.org/health-meta),
+  [Polio](https://ourworldindata.org/polio), [Life
+  Expectancy](https://ourworldindata.org/life-expectancy), [Maternal
+  Mortality](https://ourworldindata.org/maternal-mortality), [Child
+  Mortality](https://ourworldindata.org/child-mortality),
+  [Malaria](https://ourworldindata.org/malaria),
+  [HIV/AIDS](https://ourworldindata.org/hiv-aids),
+  [Suicide](https://ourworldindata.org/suicide), [Burden of
+  Disease](https://ourworldindata.org/burden-of-disease), [Eradication of
+  Diseases](https://ourworldindata.org/eradication-of-diseases), [Causes of
+  Death](https://ourworldindata.org/causes-of-death), [Financing
+  Healthcare](https://ourworldindata.org/financing-healthcare), and
+  [Smoking](https://ourworldindata.org/smoking).
 featuredImage: /img/uploads/3.png
 ---
 ## Target 3.1
