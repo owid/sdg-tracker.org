@@ -49,7 +49,7 @@ More statistics and visualisations on carbon dioxide and greenhouse emissions in
 
 _**Enhance scientific research, upgrade the technological capabilities of industrial sectors in all countries, in particular developing countries, including, by 2030, encouraging innovation and substantially increasing the number of research and development workers per 1 million people and public and private research and development spending.**_
 
-
+The charts below provide statistics on the magnitude of research and development (R&D) expenditure, measured as a share of gross domestic product (GDP) and the number of researchers per million people across the world's countries.
 
 <iframe src="https://ourworldindata.org/grapher/research-and-development-expenditure-of-gdp" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/researchers-in-rd-per-million-people" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
@@ -64,6 +64,10 @@ _**Enhance scientific research, upgrade the technological capabilities of indust
 ## Target 9.c
 
 **_Significantly increase access to information and communications technology._**
+
+The world is becoming increasingly connected - largely as a result of major technological innovations. It is essential that these connections are available to all. 
+
+In the charts below we see the numbers of mobile phone subscriptions, and internet users across the world. Further data on technological access can be found at our entries on [Technology Diffusion & Adoption](https://ourworldindata.org/technology-adoption), and the [Internet](https://ourworldindata.org/internet).
 
 <iframe src="https://ourworldindata.org/grapher/mobile-cellular-subscriptions-per-100-people" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/mobile-cellular-subscriptions-by-country?tab=chart&country=NGA+IND+PAK+THA+GBR" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
