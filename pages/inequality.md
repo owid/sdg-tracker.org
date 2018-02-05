@@ -10,6 +10,14 @@ description: >-
   states – continue to make inroads into poverty reduction.  However, inequality
   still persists and large disparities remain in access to health and education
   services and other assets.
+
+
+  Further statistics, analysis and visuals on inequality can be found at our
+  entries on [Income Inequality](https://ourworldindata.org/income-inequality),
+  [Incomes across the
+  Distribution](https://ourworldindata.org/incomes-across-the-distribution) and
+  [Global Economic
+  Inequality](https://ourworldindata.org/global-economic-inequality).
 featuredImage: /img/uploads/10.png
 ---
 ## Target 10.1
