@@ -86,6 +86,8 @@ The charts below detail global export value (in US$) by income category, and the
 
 **_Realize timely implementation of duty-free and quota-free market access on a lasting basis for all least developed countries._**
 
+Tariffs and duty charges can act as a key barrier to free trade between countries - particularly developing and least-developed nations. The chart below details the average tariff rates across the world.
+
 <iframe src="https://owid.cloud/grapher/tariff-rates" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 ## Target 17.15
@@ -100,10 +102,14 @@ The charts below detail global export value (in US$) by income category, and the
 
 **_By 2020, enhance capacity-building support to developing countries, including for least developed countries and small island developing States, to increase significantly the availability of high-quality, timely and reliable data._**
 
+Tracking progress towards the Sustainable Development Goals (SDGs) requires the capacity to gather and report high-quality and reliable data. This is strongly dependent on institutions and nations development capacity in statistical management. The chart below highlights the Statistical Capacity Indicator for countries across the world.
+
 <iframe src="https://owid.cloud/grapher/statistical-capacity-indicator" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 ## Target 17.19
 
 **_By 2030, build on existing initiatives to develop measurements of progress on sustainable development that complement gross domestic product, and support statistical capacity-building in developing countries._**
 
-<iframe src="https://owid.cloud/grapher/completeness-population-census" style="width: 100%; height: 600px; border: 0px none;"></iframe></iframe><iframe src="https://ourworldindata.org/grapher/completeness-of-birth-registration" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/completeness-of-death-reporting" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+Tracking progress towards the Sustainable Development Goals (SDGs) requires improvements of measurement and statistical capacity at all levels. Statistical capacity in itself is an additional indicator of national and institutional progress. The charts below show levels of data completeness in terms of population censuses, birth and death registrations.
+
+<iframe src="https://owid.cloud/grapher/completeness-population-census" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/completeness-of-birth-registration" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/completeness-of-death-reporting" style="width: 100%; height: 600px; border: 0px none;"></iframe>
