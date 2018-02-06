@@ -48,6 +48,8 @@ Achieving full and productive employment entails two key components: low levels 
 
 _**By 2020, substantially reduce the proportion of youth not in employment, education or training.**_
 
+The unemployment rate within young demographics in some countries remains high. Promoting the inclusion of youth within the labour force through further education, training or employment will be crucial in improving such trends. The chart below shows the share of youth (aged 15-29) who are not in education, employment or training (NEET).
+
 <iframe src="https://ourworldindata.org/grapher/youth-not-in-education-employment-training" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 ## Target 8.7
