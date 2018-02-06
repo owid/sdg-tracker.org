@@ -56,6 +56,8 @@ Technological connections provide an ideal platform for global-scale cooperation
 
 _**Fully operationalize the technology bank and science, technology and innovation capacity-building mechanism for least developed countries by 2017 and enhance the use of enabling technology, in particular information and communications technology.**_
 
+Communication technologies are an important driver of connectivity, enhanced productivity and knowledge-sharing. It is crucial that this capacity is developed, particularly in least developed countries. The charts below provide an overview of global access and use of the internet._** **_More information on communication developments are available at our entries on [Technology Diffusion & Adoption](https://ourworldindata.org/technology-adoption), and the [Internet](https://ourworldindata.org/internet).
+
 <iframe src="https://ourworldindata.org/grapher/share-of-individuals-using-the-internet?map" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/internet-users-by-world-region" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 ## Target 17.9
