@@ -16,7 +16,9 @@ featuredImage: /img/uploads/15.png
 ---
 ## Target 15.1
 
-**_By 2020, ensure the conservation, restoration and sustainable use of terrestrial and inland freshwater ecosystems and their services, in particular forests, wetlands, mountains and drylands, in line with obligations under international agreements._**
+_**By 2020, ensure the conservation, restoration and sustainable use of terrestrial and inland freshwater ecosystems and their services, in particular forests, wetlands, mountains and drylands, in line with obligations under international agreements.**_
+
+The charts below provide data across the world on forested land cover (given as a share of total land area) and the prevalence of terrestrially-protected areas.
 
 **Forest area as a share of land area**
 
@@ -28,20 +30,20 @@ featuredImage: /img/uploads/15.png
 
 ## Target 15.2
 
-_**By 2020, promote the implementation of sustainable management of all types of forests, halt deforestation, restore degraded forests and substantially increase afforestation and reforestation globally.**_
+**_By 2020, promote the implementation of sustainable management of all types of forests, halt deforestation, restore degraded forests and substantially increase afforestation and reforestation globally._**
 
 ## Target 15.4
 
-_**By 2030, ensure the conservation of mountain ecosystems, including their biodiversity.**_
+**_By 2030, ensure the conservation of mountain ecosystems, including their biodiversity._**
 
 ## Target 15.5
 
-_**Take urgent and significant action to reduce the degradation of natural habitats, halt the loss of biodiversity and, by 2020, protect and prevent the extinction of threatened species.**_
+**_Take urgent and significant action to reduce the degradation of natural habitats, halt the loss of biodiversity and, by 2020, protect and prevent the extinction of threatened species._**
 
 ## Target 15.a
 
-_**Mobilize and significantly increase financial resources from all sources to conserve and sustainably use biodiversity and ecosystems.**_
+**_Mobilize and significantly increase financial resources from all sources to conserve and sustainably use biodiversity and ecosystems._**
 
 ## Target 15.b
 
-_**Mobilize significant resources from all sources and at all levels to finance sustainable forest management.**_
+**_Mobilize significant resources from all sources and at all levels to finance sustainable forest management._**
