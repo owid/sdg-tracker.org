@@ -54,7 +54,11 @@ The unemployment rate within young demographics in some countries remains high. 
 
 ## Target 8.7
 
-_**Take immediate and effective measures to eradicate forced labour, end modern slavery and human trafficking and secure the prohibition and elimination of the worst forms of child labour, including recruitment and use of child soldiers, and by 2025 end child labour in all its forms.**_
+Take immediate and effective measures to eradicate forced labour, end modern slavery and human trafficking and secure the prohibition and elimination of the worst forms of child labour, including recruitment and use of child soldiers, and by 2025 end child labour in all its forms.
+
+Mistreatment of children, and the incidence of child labour is sadly still prevalent across many countries in the world. The charts below provide data on the incidence of child labour, average working hours of children, and differentiation by sex. 
+
+Further information on these issues can be found at our entry on [Violence Against & Rights for Children](https://ourworldindata.org/violence-against-rights-for-children).
 
 <iframe src="https://ourworldindata.org/grapher/incidence-of-child-labour?tab=map" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/percentage-of-children-in-employment-by-sex" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
@@ -66,8 +70,9 @@ _**Take immediate and effective measures to eradicate forced labour, end modern 
 
 ## Target 8.10
 
-_**Strengthen the capacity of domestic financial institutions to encourage and expand access to banking, insurance and financial services for all.
-**_
+_**Strengthen the capacity of domestic financial institutions to encourage and expand access to banking, insurance and financial services for all.**_
+
+The charts below provide data on the availability of financial services (either through bank branches, or by ATMs), and the uptake of financial accounts (either traditional or mobile money accounts) by a given population.
 
 <iframe src="https://ourworldindata.org/grapher/number-of-commercial-bank-branches-per-100000-adults" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/automated-teller-machines-atms-per-100000-adults" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
