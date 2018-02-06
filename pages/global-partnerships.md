@@ -68,9 +68,17 @@ _**By 2030, build on existing initiatives to develop measurements of progress on
 
 ## Target 17.10
 
+**_Promote a universal, rules-based, open, non-discriminatory and equitable multilateral trading system under the World Trade Organization._**
+
+Attaining an open and equitable trading system can bring benefits to both importing and exporting countries. Inequitable or high tariff rates can place significant barriers to open and free trade. The chart below shows the average weighted tariff rate across all products. 
+
 <iframe src="https://owid.cloud/grapher/tariff-rate-applied-weighted-mean-all-products" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 ## Target 17.11
+
+**_Significantly increase the exports of developing countries, in particular with a view to at least doubling least developed countries' share in global exports by 2020._**
+
+The charts below detail global export value (in US$) by income category, and the distribution of trade between developed and developing countries. Further data and visualisations on these topics can be found at our entry on [International Trade](https://ourworldindata.org/international-trade).
 
 <iframe src="https://owid.cloud/grapher/exports-of-goods-and-services-income" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/trade-shares-by-type-of-trade?country=ZAF" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
