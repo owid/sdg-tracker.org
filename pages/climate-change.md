@@ -31,6 +31,12 @@ The charts below track deaths, death rates and displacements from natural disast
 
 _**Integrate climate change measures into national policies, strategies and planning.**_
 
+Nations have committed within the United Nation's Framework Convention on Climate Change's (UNFCCC) [Paris Agreement](http://unfccc.int/paris_agreement/items/9485.php) to "strengthen the global response to the threat of climate change by keeping a global temperature rise this century well below 2 degrees Celsius above pre-industrial levels and to pursue efforts to limit the temperature increase even further to 1.5 degrees Celsius."
+
+The chart below shows the number of parties within a range of multilateral environmental agreements - including the UNFCCC - by year. 
+
+Commitments within the Paris Agreement vary by country, depending on their own submitted 'Nationally Determined Contributions' (NDCs). These must therefore be tracked on an individual basis. However, in the charts below we present data on total national carbon dioxide emissions, per capita emissions and the carbon intensity of economies. Further data on these topics are available at our entry on CO<sub>2</sub> and Other Greenhouse Gas Emissions.
+
 <iframe src="https://ourworldindata.org/grapher/number-of-parties-env-agreements" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 <iframe src="https://ourworldindata.org/grapher/co-emissions-per-capita" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/annual-co-emissions-per-country" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/carbon-emission-intensity-of-economies?tab=map" style="width: 100%; height: 600px; border: 0px none;"></iframe>
