@@ -92,6 +92,10 @@ In the charts below we present the World Bank measures of agricultural land orga
 
 _**By 2020, maintain the genetic diversity of seeds, cultivated plants and farmed and domesticated animals and their related wild species.**_
 
+Our agricultural systems rely on genetic diversity - in both seeds, plants and livestock breeds. The numbers and share of plant varieties and livestock breeds stored in medium to long-term conservation facilities, and the number of livestock breeds at risk of extinction are shown in the charts below.
+
+<iframe src="https://owid.cloud/grapher/number-of-accessions-of-plant-genetic-resources-secured-in-conservation-facilities" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/proportion-of-animal-breeds-genetic-conservation" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/proportion-of-local-breeds-at-risk-of-extinction" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
 ## Target 2a
 
 _**Increase investment in rural infrastructure, agricultural research and extension services, technology development and plant and livestock gene banks.**_
