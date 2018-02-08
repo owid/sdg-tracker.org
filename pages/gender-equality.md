@@ -13,7 +13,7 @@ featuredImage: /img/uploads/5.png
 ---
 ## Target 5.1
 
-_**End all forms of discrimination against all women and girls everywhere.**_
+**_End all forms of discrimination against all women and girls everywhere._**
 
 The following visualisations present global-level data on the legal basis of nondiscrimation and gender equality across various measures, including hiring, equal pay, marital rape and property rights, among others. Also shown below is the long-term global progression of universal suffrage — an important indicator of gender equality.
 
@@ -33,13 +33,13 @@ The following visualisations present global-level data on the legal basis of non
 
 ## Target 5.2
 
-_**Eliminate all forms of violence against all women and girls in the public and private spheres, including trafficking and sexual and other types of exploitation.**_
+**_Eliminate all forms of violence against all women and girls in the public and private spheres, including trafficking and sexual and other types of exploitation._**
 
 <iframe src="https://owid.cloud/grapher/proportion-of-women-subjected-to-physical-or-sexual-violence" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 ## Target 5.3
 
-_**Eliminate all harmful practices, such as child, early and forced marriage and female genital mutilation.**_
+**_Eliminate all harmful practices, such as child, early and forced marriage and female genital mutilation._**
 
 The map below presents coverage of the percentage of women (aged between 20 and 24) who report being married or in a union before the age of 18. This metric for some countries is typically more consistently measured/estimated providing a useful time-series trend. However for some countries, measurement is still a key issue; data for India and Brazil, for example, has not been recorded within the last decade.
 
@@ -48,25 +48,24 @@ The map below presents coverage of the percentage of women (aged between 20 and 
 
 ## Target 5.4
 
-_**Recognize and value unpaid care and domestic work through the provision of public services, infrastructure and social protection policies and the promotion of shared responsibility within the household and the family.**_
+**_Recognize and value unpaid care and domestic work through the provision of public services, infrastructure and social protection policies and the promotion of shared responsibility within the household and the family._**
 
 <iframe src="https://ourworldindata.org/grapher/average-daily-time-spent-by-women-on-domestic-work-paid-and-unpaid?tab=map" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/time-spent-in-domestic-work-female-vs-male" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 ## Target 5.5
 
-_**Ensure women’s full and effective participation and equal opportunities for leadership at all levels of decisionmaking in political, economic and public life.**_
+**_Ensure women’s full and effective participation and equal opportunities for leadership at all levels of decisionmaking in political, economic and public life._**
 
 The series of charts below present data on political participation and management positions held by women at various levels. Data coverage on political participation is typically complete and up-to-date for nearly all countries, however, data on female management is less well-covered.
 
 <iframe src="https://ourworldindata.org/grapher/countries-that-have-ever-elected-a-woman-to-parliament" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 <iframe src="https://ourworldindata.org/grapher/seats-held-by-women-in-national-parliaments?tab=map" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/proportion-of-women-in-ministerial-positions" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
-
 <iframe src="https://ourworldindata.org/grapher/share-firms-top-female-manager?tab=map" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/female-employment-in-management" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 ## Target 5.6
 
-_**Ensure universal access to sexual and reproductive health and reproductive rights as agreed in accordance with the Programme of Action of the International Conference on Population and Development and the Beijing Platform for Action and the outcome documents of their review conferences.**_
+**_Ensure universal access to sexual and reproductive health and reproductive rights as agreed in accordance with the Programme of Action of the International Conference on Population and Development and the Beijing Platform for Action and the outcome documents of their review conferences._**
 
 This chart shows the percentage of interviewed, married women aged 15-49 who report making their own informed decisions on healthcare-related issues. As is the case with many gender-related metrics, data for many countries is infrequently reported and often insufficient to develop trends over time.
 
@@ -76,4 +75,8 @@ This chart shows the percentage of interviewed, married women aged 15-49 who rep
 
 ## Target 5.b
 
-_**Enhance the use of enabling technology, in particular information and communications technology, to promote the empowerment of women.**_
+**_Enhance the use of enabling technology, in particular information and communications technology, to promote the empowerment of women._**
+
+Data availability on mobile phone ownership - particularly by sex is currently very limited. Only a few countries have such data. However, it's expected that the number of countries collecting such data will increase. Available data on mobile phone ownership by sex is shown in the chart below.
+
+<iframe src="https://owid.cloud/grapher/proportion-of-individuals-who-own-a-mobile-by-sex" style="width: 100%; height: 600px; border: 0px none;"></iframe>
