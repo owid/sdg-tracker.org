@@ -104,7 +104,7 @@ Improving crop production, agricultural practices and the welfare of farmers is 
 
 Investment in rural infrastructure (to connect rural and [increasingly urbanizing populations](https://ourworldindata.org/grapher/urban-and-rural-population-sizes)) are vital to building supply chains which work for both urban population centres and agricultural producers. Investing in research, technological innovations and gene banks will also help to develop increasingly productive and sustainable food production systems.
 
-<iframe src="https://owid.cloud/grapher/agriculture-orientation-index" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://owid.cloud/grapher/agriculture-orientation-index" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/total-financial-assistance-and-flows-for-agriculture-by-recipient" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 ## Target 2c
 
