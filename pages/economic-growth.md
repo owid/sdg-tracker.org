@@ -14,25 +14,33 @@ featuredImage: /img/uploads/8.png
 ---
 ## Target 8.1
 
-_**Sustain per capita economic growth in accordance with national circumstances and, in particular, at least 7 per cent gross domestic product growth per annum in the least developed countries.**_
+**_Sustain per capita economic growth in accordance with national circumstances and, in particular, at least 7 per cent gross domestic product growth per annum in the least developed countries._**
 
 The chart below shows the annual growth rate in gross domestic product (GDP) per capita. Further data and statistics can be found in our entry on [Economic Growth](https://ourworldindata.org/economic-growth).
 
 <iframe src="https://ourworldindata.org/grapher/gdp-per-capita-growth?tab=chart" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
+
+
 ## Target 8.2
 
-**_Achieve higher levels of economic productivity through diversification, technological upgrading and innovation, including through a focus on high-value added and labour-intensive sectors._**
+_**Achieve higher levels of economic productivity through diversification, technological upgrading and innovation, including through a focus on high-value added and labour-intensive sectors.**_
+
+The chart below shows the annual rate of change in gross domestic product (GDP) per employed person. This provides an overall measure of the change in productivity of a country's labour force and use of resources.
+
+<iframe src="https://owid.cloud/grapher/growth-rate-of-real-gdp-per-employed-person" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+
 
 ## **Target 8.3**
 
-_**Proportion of informal employment in non‑agriculture employment.**_
+**_Proportion of informal employment in non‑agriculture employment._**
 
 <iframe src="https://owid.cloud/grapher/informal-employment-of-total-non-agricultural-employment" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/informal-employment-by-sex" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 ## Target 8.5
 
-_**By 2030, achieve full and productive employment and decent work for all women and men, including for young people and persons with disabilities, and equal pay for work of equal value.**_
+**_By 2030, achieve full and productive employment and decent work for all women and men, including for young people and persons with disabilities, and equal pay for work of equal value._**
 
 Achieving full and productive employment entails two key components: low levels of unemployment and good hourly earnings. Trends in these two parameters are shown in charts below, differentiated by sex.
 
@@ -46,7 +54,7 @@ Achieving full and productive employment entails two key components: low levels 
 
 ## Target 8.6
 
-_**By 2020, substantially reduce the proportion of youth not in employment, education or training.**_
+**_By 2020, substantially reduce the proportion of youth not in employment, education or training._**
 
 The unemployment rate within young demographics in some countries remains high. Promoting the inclusion of youth within the labour force through further education, training or employment will be crucial in improving such trends. The chart below shows the share of youth (aged 15-29) who are not in education, employment or training (NEET).
 
@@ -66,11 +74,11 @@ Further information on these issues can be found at our entry on [Violence Again
 
 ## Target 8.8
 
-**_Protect labour rights and promote safe and secure working environments for all workers, including migrant workers._**
+_**Protect labour rights and promote safe and secure working environments for all workers, including migrant workers.**_
 
 ## Target 8.10
 
-_**Strengthen the capacity of domestic financial institutions to encourage and expand access to banking, insurance and financial services for all.**_
+**_Strengthen the capacity of domestic financial institutions to encourage and expand access to banking, insurance and financial services for all._**
 
 The charts below provide data on the availability of financial services (either through bank branches, or by ATMs), and the uptake of financial accounts (either traditional or mobile money accounts) by a given population.
 
