@@ -22,7 +22,7 @@ featuredImage: /img/uploads/10.png
 ---
 ## Target 10.1
 
-_**By 2030, progressively achieve and sustain income growth of the bottom 40 per cent of the population at a rate higher than the national average.**_
+**_By 2030, progressively achieve and sustain income growth of the bottom 40 per cent of the population at a rate higher than the national average._**
 
 Economic growth in low-income countries is essential to attaining SDG1: ending global poverty. However, average gross domestic product (GDP) can fail to capture the large inequalities in growth across the distribution. To reduce poverty, those at the bottom of the distribution must growth as much as (if not more) than elsewhere across the spectrum. In the chart below we see the annual average growth rate per capita of income/consumption in the bottom 40 percent of the population.
 
@@ -30,19 +30,25 @@ Economic growth in low-income countries is essential to attaining SDG1: ending g
 
 ## Target 10.4
 
-**_Adopt policies, especially fiscal, wage and social protection policies, and progressively achieve greater equality._**
+_**Adopt policies, especially fiscal, wage and social protection policies, and progressively achieve greater equality.**_
+
+The chart below shows the percentage of gross domestic product (GDP) derived from labour, which is inclusive of wages and social protection transfers.
+
+<iframe src="https://ourworldindata.org/grapher/labour-share-of-gdp" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+_** **_
 
 ## **Target 10.6**
 
-_**Ensure enhanced representation and voice for developing countries in decision-making in global international economic and financial institutions.**_
+**_Ensure enhanced representation and voice for developing countries in decision-making in global international economic and financial institutions._**
 
 ## Target 10.a
 
-**_Implement the principle of special and differential treatment for developing countries._**
+_**Implement the principle of special and differential treatment for developing countries.**_
 
 ## **Target 10.b**
 
-**_Encourage official development assistance and financial flows, including foreign direct investment, to States where the need is greatest._**
+_**Encourage official development assistance and financial flows, including foreign direct investment, to States where the need is greatest.**_
 
 Global inequalities have the potential to be reduced through the transfer of finance from higher-income to lower-income countries. In the chart below we see the net official development assistance (ODA) and aid lower-to-middle income countries receive from all donors.
 
@@ -50,4 +56,4 @@ Global inequalities have the potential to be reduced through the transfer of fin
 
 ## **Target 10.c**
 
-**_By 2030, reduce to less than 3 per cent the transaction costs of migrant remittances and eliminate remittance corridors with costs higher than 5 per cent._**
+_**By 2030, reduce to less than 3 per cent the transaction costs of migrant remittances and eliminate remittance corridors with costs higher than 5 per cent.**_
