@@ -38,9 +38,15 @@ _**By 2030, achieve access to adequate and equitable sanitation and hygiene for 
 
 Improved [sanitation facilities include](https://ourworldindata.org/water-access-resources-sanitation#water-access-and-sanitation-facilities) flush/pour flush (to piped sewer system, septic tank, pit latrine), ventilated improved pit (VIP) latrine, pit latrine with slab, and composting toilet. Open defecation refers to defecation in the open, such as in fields, forest, bushes, open bodies of water, on beaches, in other open spaces or disposed of with solid waste.
 
+Basic handwashing facilities are defined as a device to contain, transport or regulate the flow of water to facilitate handwashing with soap and water in the household. 
+
 <iframe src="https://ourworldindata.org/grapher/share-of-population-with-improved-sanitation-faciltities" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/urban-sanitation-facilities-vs-rural-sanitation-facilities" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/number-without-access-sanitation" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 <iframe src="https://ourworldindata.org/grapher/people-practicing-open-defecation-of-population?tab=map" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/open-defecation-in-rural-areas-vs-urban-areas" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://owid.cloud/grapher/proportion-of-population-with-basic-handwashing-facilities-on-premises" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/proportion-with-basic-handwashing-facilities-urban-vs-rural" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+
 
 ## Target 6.4
 
@@ -65,6 +71,10 @@ Many of our environmental systems - including our water, land, food, air and eco
 ## Target 6.a
 
 _**By 2030, expand international cooperation and capacity-building support to developing countries in water- and sanitation-related activities and programmes.**_
+
+The chart below shows the levels of total official development assistance (ODA) and other financial flows which are allocated to water and sanitation-related development.
+
+<iframe src="https://owid.cloud/grapher/total-oda-for-water-supply-and-sanitation-by-recipient" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 ## Target 6.b
 
