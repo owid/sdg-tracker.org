@@ -76,6 +76,10 @@ Further information on these issues can be found at our entry on [Violence Again
 
 _**Protect labour rights and promote safe and secure working environments for all workers, including migrant workers.**_
 
+Safe and secure working environments are important for all, regardless of employment status or area of work. The charts below show the rates of fatal and non-fatal occupational injuries per 100,000 employees.
+
+<iframe src="https://owid.cloud/grapher/non-fatal-occupational-injuries-per-100000" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/fatal-occupational-injuries-among-employees" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
 ## Target 8.10
 
 **_Strengthen the capacity of domestic financial institutions to encourage and expand access to banking, insurance and financial services for all._**
