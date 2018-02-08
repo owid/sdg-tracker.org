@@ -89,3 +89,13 @@ The charts below provide data on the availability of financial services (either 
 <iframe src="https://ourworldindata.org/grapher/number-of-commercial-bank-branches-per-100000-adults" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/automated-teller-machines-atms-per-100000-adults" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 <iframe src="https://ourworldindata.org/grapher/account-at-financial-institution" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/registered-mobile-money-accounts-by-region" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+
+
+## Target 8.a
+
+_**Increase Aid for Trade support for developing countries, in particular least developed countries.**_
+
+The charts below show the annual transfer of official development assistance (ODA) for use as aid for trade, by recipient and by donor country.
+
+<iframe src="https://owid.cloud/grapher/total-oda-for-aid-for-trade-by-recipient" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/total-oda-for-aid-for-trade-by-donor" style="width: 100%; height: 600px; border: 0px none;"></iframe>
