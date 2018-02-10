@@ -69,7 +69,7 @@ The illegal nature of corruption makes [data collection and availability](https:
 
 **_Broaden and strengthen the participation of developing countries in the institutions of global governance._**
 
-Developing equal representation in international organizations between States is an important target of the United Nations. The charts below show the proportion of membership from developing countries across a range of international organizations, the proportion of voting rights each country is allocated across such organizations, and adoption of guarantees to public access to information.
+Developing equal representation in international organizations between States is an important target of the United Nations. The charts below show the proportion of membership from developing countries across a range of international organizations, and the proportion of voting rights each country is allocated across such organizations.
 
 <iframe src="https://owid.cloud/grapher/proportion-of-members-of-developing-countries-in-international-organizations" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/proportion-of-voting-rights-in-international-organizations" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
@@ -84,6 +84,8 @@ An important indicator of the effectiveness of governance and institutional syst
 ## Target 16.10
 
 **_Ensure public access to information and protect fundamental freedoms, in accordance with national legislation and international agreements._**
+
+Open access to information and freedom of press represents an important institutional freedom. The charts below show the number of cases of killings of journalists and media personnel, and countries that adopt guarantees within policy and constitutions for public access to information.
 
 <iframe src="https://owid.cloud/grapher/cases-of-killings-of-journalists-and-media-personnel?tab=chart" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/countries-that-adopt-guarantees-for-public-access-to-information" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
