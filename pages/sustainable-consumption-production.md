@@ -27,3 +27,7 @@ DMC is a production-side, whereas MF is a consumption-side measure. DMC does not
 ## Target 12.4
 
 **_Number of parties to international multilateral environmental agreements on hazardous waste, and other chemicals that meet their commitments and obligations in transmitting information as required by each relevant agreement._**
+
+There are a number of international multilateral agreements on hazardous waste and other chemicals (including the Montreal Protocol, Basel Convention, Rotterdam Convention and Stockholm Convention). The chart below shows the percentage of countries meeting commitments and obligations within each agreement.
+
+<iframe src="https://owid.cloud/grapher/parties-to-multilateral-agreements-on-hazardous-waste" style="width: 100%; height: 600px; border: 0px none;"></iframe>
