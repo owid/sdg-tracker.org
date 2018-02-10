@@ -110,6 +110,10 @@ The chart below shows the percentage of indicator results which were drawn from 
 
 **_Enhance the Global Partnership for Sustainable Development, complemented by multi-stakeholder partnerships that mobilize and share knowledge, expertise, technology and financial resources._**
 
+The map below displays countries which have and have not yet reported progress in multistakeholder monitoring frameworks on commitments to the SDGs.
+
+<iframe src="https://owid.cloud/grapher/progress-in-multistakeholder-monitoring-frameworks" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
 ## Target 17.18
 
 **_By 2020, enhance capacity-building support to developing countries, including for least developed countries and small island developing States, to increase significantly the availability of high-quality, timely and reliable data._**
