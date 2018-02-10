@@ -16,7 +16,7 @@ featuredImage: /img/uploads/15.png
 ---
 ## Target 15.1
 
-_**By 2020, ensure the conservation, restoration and sustainable use of terrestrial and inland freshwater ecosystems and their services, in particular forests, wetlands, mountains and drylands, in line with obligations under international agreements.**_
+**_By 2020, ensure the conservation, restoration and sustainable use of terrestrial and inland freshwater ecosystems and their services, in particular forests, wetlands, mountains and drylands, in line with obligations under international agreements._**
 
 The charts below provide data across the world on forested land cover (given as a share of total land area) and the prevalence of terrestrially-protected areas.
 
@@ -30,7 +30,7 @@ The charts below provide data across the world on forested land cover (given as 
 
 ## Target 15.2
 
-**_By 2020, promote the implementation of sustainable management of all types of forests, halt deforestation, restore degraded forests and substantially increase afforestation and reforestation globally._**
+_**By 2020, promote the implementation of sustainable management of all types of forests, halt deforestation, restore degraded forests and substantially increase afforestation and reforestation globally.**_
 
 Sustainable Forest Management (SFM) is composed of five sub-indicators that measure progress towards all dimensions of sustainable forest management. 
 
@@ -44,7 +44,7 @@ Data for the five sub-indicators included in this metric of SFM are shown in the
 
 ## Target 15.4
 
-**_By 2030, ensure the conservation of mountain ecosystems, including their biodiversity._**
+_**By 2030, ensure the conservation of mountain ecosystems, including their biodiversity.**_
 
 The visualisations below provide global perspectives on the protection of mountain ecosystems and their biodiversity. These metrics show the share of important biodiversity sites covered as protected areas, and the share of mountainous areas covered by some form of green vegetation.
 
@@ -52,7 +52,7 @@ The visualisations below provide global perspectives on the protection of mounta
 
 ## Target 15.5
 
-**_Take urgent and significant action to reduce the degradation of natural habitats, halt the loss of biodiversity and, by 2020, protect and prevent the extinction of threatened species._**
+_**Take urgent and significant action to reduce the degradation of natural habitats, halt the loss of biodiversity and, by 2020, protect and prevent the extinction of threatened species.**_
 
 The chart below provides a key measure of global biodiversity and extinction threat: the Red List Index (RLI). 
 
@@ -60,10 +60,18 @@ The [Red List Index (RLI)](https://www.iucn.org/theme/species/our-work/iucn-red-
 
 <iframe src="https://owid.cloud/grapher/red-list-index" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
+## Target 15.6
+
+**_Promote fair and equitable sharing of the benefits arising from the utilization of genetic resources and promote appropriate access to such resources._**
+
+<iframe src="https://owid.cloud/grapher/countries-to-access-and-benefit-sharing-clearing-house" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
 ## Target 15.a
 
-**_Mobilize and significantly increase financial resources from all sources to conserve and sustainably use biodiversity and ecosystems._**
+_**Mobilize and significantly increase financial resources from all sources to conserve and sustainably use biodiversity and ecosystems.**_
+
+
 
 ## Target 15.b
 
-**_Mobilize significant resources from all sources and at all levels to finance sustainable forest management._**
+_**Mobilize significant resources from all sources and at all levels to finance sustainable forest management.**_
