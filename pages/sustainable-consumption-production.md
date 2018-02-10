@@ -14,10 +14,12 @@ featuredImage: /img/uploads/12.png
 ---
 ## Target 12.2
 
-_**By 2030, achieve the sustainable management and efficient use of natural resources.**_
+**_By 2030, achieve the sustainable management and efficient use of natural resources._**
 
+Definitions of sustainable management and use of natural resources are currently poorly defined. The charts below show the UN indicators of material footprint per capita, and footprint per unit of gross domestic product (GDP). This material footprint includes that from biomass, fossil fuels, metal ores and non-metal ores.
 
+<iframe src="https://ourworldindata.org/grapher/material-footprint-per-capita" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/material-footprint-per-unit-of-gdp" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 ## Target 12.4
 
-_**Number of parties to international multilateral environmental agreements on hazardous waste, and other chemicals that meet their commitments and obligations in transmitting information as required by each relevant agreement.**_
+**_Number of parties to international multilateral environmental agreements on hazardous waste, and other chemicals that meet their commitments and obligations in transmitting information as required by each relevant agreement._**
