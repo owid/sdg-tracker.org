@@ -95,4 +95,4 @@ Open access to information and freedom of press represents an important institut
 
 The charts below show the share of countries that applied for accreditation within the Paris Principles for Human Rights Institutions, and those countries which have complied with these principles.
 
-<iframe src="https://owid.cloud/grapher/countries-that-applied-for-accreditation-in-paris-principles" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/countries-with-national-human-rights-institutions-in-compliance-with-the-paris-principles" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://owid.cloud/grapher/countries-that-applied-for-accreditation-in-paris-principles" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/countries-in-compliance-with-paris-principles" style="width: 100%; height: 600px; border: 0px none;"></iframe>
