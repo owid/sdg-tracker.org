@@ -10,6 +10,10 @@ description: >-
   implementation helps to achieve overall development plans, reduce future
   economic, environmental and social costs, strengthen economic competitiveness
   and reduce poverty.
+
+
+  Definitions of, and indicators for sustainable resource consumption is
+  currently limited, as shown in the data available below.
 featuredImage: /img/uploads/12.png
 ---
 ## Target 12.2
