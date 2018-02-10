@@ -59,3 +59,9 @@ Global inequalities have the potential to be reduced through the transfer of fin
 ## **Target 10.c**
 
 _**By 2030, reduce to less than 3 per cent the transaction costs of migrant remittances and eliminate remittance corridors with costs higher than 5 per cent.**_
+
+Remittances (the transfer of money from non-residents to residents of a given country, such as foreign workers sending money to family and friends) can be an important source of income for a number of countries. For some, this can constitute up to 30 percent of gross domestic product (GDP). High remittance costs can limit or reduce the impact of such transfers.
+
+The chart below shows remittance costs as a percentage of the amount remitted. The UN notes that this is a proposed indicator for this target, but it is not yet well-defined.
+
+<iframe src="https://owid.cloud/grapher/remittance-costs-as-share-of-amount-remitted" style="width: 100%; height: 600px; border: 0px none;"></iframe>
