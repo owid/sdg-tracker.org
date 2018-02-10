@@ -98,6 +98,10 @@ Tariffs and duty charges can act as a key barrier to free trade between countrie
 
 **_Respect each country’s policy space and leadership to establish and implement policies for poverty eradication and sustainable development._**
 
+International cooperation as we work towards 2030 will be crucial if we are to meet our Sustainable Development Goals (SDGs). However, this cooperation involves two-way collaboration between providers and recipients of development assistance. Recipients must be given the capacity and responsibility to implement their own frameworks for results, interventions and monitoring.
+
+The chart below shows the percentage of indicator results which were drawn from country-led frameworks developed by providers or recipients of development assistance. The aim is to increase the number of indicators drawn from country-led frameworks in recipient countries.
+
 <iframe src="https://owid.cloud/grapher/use-of-crf-tools-by-providers-of-dev-cooperation" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 
