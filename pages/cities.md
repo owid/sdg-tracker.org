@@ -49,3 +49,7 @@ The charts below provide data on levels of air pollution and waste across the wo
 ## Target 11.b
 
 _**By 2020, substantially increase the number of cities and human settlements adopting and implementing integrated policies and plans towards climate change mitigation, adaptation, and disaster management plans.**_
+
+Building resilience to natural disasters requires integrated policies at international, national and sub-national levels - particularly within cities with dense populations and vulnerable infrastructure. The chart below shows the number of countries with legislative or regulatory provisions for managing disaster risks.
+
+<iframe src="https://owid.cloud/grapher/countries-with-legislative-regulatory-provisions-for-managing-disaster-risk" style="width: 100%; height: 600px; border: 0px none;"></iframe>
