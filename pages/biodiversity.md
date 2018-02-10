@@ -72,8 +72,16 @@ The visualisations below show, where data is available, countries which are part
 
 _**Mobilize and significantly increase financial resources from all sources to conserve and sustainably use biodiversity and ecosystems.**_
 
+The charts below show the total official development assistance (ODA) flows to biodiversity protection and conservation projects, shown by recipient and donor.
+
+<iframe src="https://owid.cloud/grapher/total-oda-for-biodiversity-by-recipient" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/total-oda-for-biodiversity-by-donor" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
 
 
 ## Target 15.b
 
 _**Mobilize significant resources from all sources and at all levels to finance sustainable forest management.**_
+
+Currently data is not available to distinguish total official development assistance (ODA) utilised for sustainable forest management relative to other biodiversity management policies or programmes. As such, these indicators are the same as those shown for Target 15a (above).
+
+<iframe src="https://owid.cloud/grapher/total-oda-for-biodiversity-by-recipient" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/total-oda-for-biodiversity-by-donor" style="width: 100%; height: 600px; border: 0px none;"></iframe>
