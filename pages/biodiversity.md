@@ -48,6 +48,10 @@ Data for the five sub-indicators included in this metric of SFM are shown in the
 
 _**By 2030, ensure the conservation of mountain ecosystems, including their biodiversity.**_
 
+The visualisations below provide global perspectives on the protection of mountain ecosystems and their biodiversity. These metrics show the share of important biodiversity sites covered as protected areas, and the share of mountainous areas covered by some form of green vegetation.
+
+<iframe src="https://owid.cloud/grapher/coverage-by-protected-areas-of-important-sites-for-mountain-biodiversity" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/mountain-green-cover-index" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
 ## Target 15.5
 
 _**Take urgent and significant action to reduce the degradation of natural habitats, halt the loss of biodiversity and, by 2020, protect and prevent the extinction of threatened species.**_
