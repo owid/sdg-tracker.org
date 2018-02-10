@@ -64,7 +64,9 @@ The [Red List Index (RLI)](https://www.iucn.org/theme/species/our-work/iucn-red-
 
 **_Promote fair and equitable sharing of the benefits arising from the utilization of genetic resources and promote appropriate access to such resources._**
 
-<iframe src="https://owid.cloud/grapher/countries-to-access-and-benefit-sharing-clearing-house" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+The visualisations below show, where data is available, countries which are parties to protocols concerned with the promotion and sharing of genetic resources for plants, food and agriculture.
+
+<iframe src="https://owid.cloud/grapher/countries-to-access-and-benefit-sharing-clearing-house" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/countries-to-the-international-treaty-on-plant-genetic-resources" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/countries-that-are-parties-to-the-nagoya-protocol" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 ## Target 15.a
 
