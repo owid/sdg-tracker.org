@@ -118,7 +118,7 @@ The map below displays countries which have and have not yet reported progress i
 
 **_By 2020, enhance capacity-building support to developing countries, including for least developed countries and small island developing States, to increase significantly the availability of high-quality, timely and reliable data._**
 
-Tracking progress towards the Sustainable Development Goals (SDGs) requires the capacity to gather and report high-quality and reliable data. This is strongly dependent on institutions and nations development capacity in statistical management. The chart below highlights the Statistical Capacity Indicator for countries across the world.
+Tracking progress towards the Sustainable Development Goals (SDGs) requires the capacity to gather and report high-quality and reliable data. This is strongly dependent on institutions and nations development capacity in statistical management. The chart below highlights the Statistical Capacity Indicator for countries across the world. Also show is number of countries with a statistical plan implemented, by source of funding.
 
 <iframe src="https://owid.cloud/grapher/statistical-capacity-indicator" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/countries-with-stats-plan-funded-by-source" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
