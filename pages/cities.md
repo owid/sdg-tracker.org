@@ -44,6 +44,8 @@ The charts below provide data on levels of air pollution and waste across the wo
 
 <iframe src="https://ourworldindata.org/grapher/PM25-air-pollution" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
+<iframe src="https://owid.cloud/grapher/proportion-of-population-served-by-municipal-waste-collection" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
 ## Target 11.b
 
 _**By 2020, substantially increase the number of cities and human settlements adopting and implementing integrated policies and plans towards climate change mitigation, adaptation, and disaster management plans.**_
