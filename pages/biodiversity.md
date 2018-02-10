@@ -38,9 +38,11 @@ The environmental values of forests are covered by three sub-indicators focused 
 
 Data for the five sub-indicators included in this metric of SFM are shown in the charts below.
 
-<iframe src="https://owid.cloud/grapher/proportion-of-forest-area-with-long-term-management-plan" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/proportion-of-forest-area-within-legally-established-protected-areas" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/proportion-of-forest-area-certified-under-an-independently-verified-certification-scheme" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://owid.cloud/grapher/forest-area-net-change-rate" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/above-ground-biomass-in-forest-per-hectare" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/proportion-of-forest-area-within-legally-established-protected-areas" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
-<iframe src="https://owid.cloud/grapher/forest-area-net-change-rate" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/above-ground-biomass-in-forest-per-hectare" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://owid.cloud/grapher/proportion-of-forest-area-with-long-term-management-plan" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/proportion-of-forest-area-certified-under-an-independently-verified-certification-scheme" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+
 
 ## Target 15.4
 
