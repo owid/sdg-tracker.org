@@ -13,7 +13,7 @@ featuredImage: /img/uploads/17.png
 ---
 ## Target 17.1
 
-**_Strengthen domestic resource mobilization, including through international support to developing countries, to improve domestic capacity for tax and other revenue collection._**
+_**Strengthen domestic resource mobilization, including through international support to developing countries, to improve domestic capacity for tax and other revenue collection.**_
 
 The charts below show the total government revenue as a share of a country's gross domestic product (GDP), and the proportion of a country's domestic budget which is funded by domestic taxes._\*\*
 \*\*_
@@ -22,7 +22,7 @@ The charts below show the total government revenue as a share of a country's gro
 
 ## Target 17.2
 
-**_Developed countries to implement fully their official development assistance commitments. _**
+_**Developed countries to implement fully their official development assistance commitments. **_
 
 These commitments include: the commitment by many developed countries to achieve the target of 0.7 per cent of gross national income for official development assistance (ODA/GNI) to developing countries and 0.15 to 0.20 per cent of ODA/GNI to least developed countries; ODA providers are encouraged to consider setting a target to provide at least 0.20 per cent of ODA/GNI to least developed countries.
 
@@ -32,7 +32,7 @@ These commitments include: the commitment by many developed countries to achieve
 
 ## Target 17.3
 
-**_Mobilize additional financial resources for developing countries from multiple sources._**
+_**Mobilize additional financial resources for developing countries from multiple sources.**_
 
 Financial resources into developing countries can come from various sources. The contribution of several are shown below. 
 
@@ -44,13 +44,13 @@ Foreign direct investment (FDI) is the direct investment equity flows in an econ
 
 ## Target 17.4
 
-**_Debt service as a proportion of exports of goods and services._**
+_**Debt service as a proportion of exports of goods and services.**_
 
 <iframe src="https://owid.cloud/grapher/debt-service-of-exports-of-goods-services" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 ## Target 17.6
 
-**_Enhance North-South, South-South and triangular regional and international cooperation on and access to science, technology and innovation and enhance knowledge-sharing._**
+_**Enhance North-South, South-South and triangular regional and international cooperation on and access to science, technology and innovation and enhance knowledge-sharing.**_
 
 Technological connections provide an ideal platform for global-scale cooperation and knowledge-sharing. Below we see the scale of communication infrastructure across the world in the form of broadband subscriptions per 100 people. More information on communication developments are available at our entries on [Technology Diffusion & Adoption](https://ourworldindata.org/technology-adoption), and the [Internet](https://ourworldindata.org/internet).
 
@@ -58,7 +58,7 @@ Technological connections provide an ideal platform for global-scale cooperation
 
 ## Target 17.8
 
-**_Fully operationalize the technology bank and science, technology and innovation capacity-building mechanism for least developed countries by 2017 and enhance the use of enabling technology, in particular information and communications technology._**
+_**Fully operationalize the technology bank and science, technology and innovation capacity-building mechanism for least developed countries by 2017 and enhance the use of enabling technology, in particular information and communications technology.**_
 
 Communication technologies are an important driver of connectivity, enhanced productivity and knowledge-sharing. It is crucial that this capacity is developed, particularly in least developed countries. The charts below provide an overview of global access and use of the internet._\*\* \*\*_More information on communication developments are available at our entries on [Technology Diffusion & Adoption](https://ourworldindata.org/technology-adoption), and the [Internet](https://ourworldindata.org/internet).
 
@@ -66,13 +66,13 @@ Communication technologies are an important driver of connectivity, enhanced pro
 
 ## Target 17.9
 
-**_By 2030, build on existing initiatives to develop measurements of progress on sustainable development that complement gross domestic product, and support statistical capacity-building in developing countries._**
+_**By 2030, build on existing initiatives to develop measurements of progress on sustainable development that complement gross domestic product, and support statistical capacity-building in developing countries.**_
 
 <iframe src="https://ourworldindata.org/grapher/net-official-development-assistance-and-aid-received" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 ## Target 17.10
 
-_**Promote a universal, rules-based, open, non-discriminatory and equitable multilateral trading system under the World Trade Organization.**_
+**_Promote a universal, rules-based, open, non-discriminatory and equitable multilateral trading system under the World Trade Organization._**
 
 Attaining an open and equitable trading system can bring benefits to both importing and exporting countries. Inequitable or high tariff rates can place significant barriers to open and free trade. The chart below shows the average weighted tariff rate across all products. 
 
@@ -80,7 +80,7 @@ Attaining an open and equitable trading system can bring benefits to both import
 
 ## Target 17.11
 
-_**Significantly increase the exports of developing countries, in particular with a view to at least doubling least developed countries' share in global exports by 2020.**_
+**_Significantly increase the exports of developing countries, in particular with a view to at least doubling least developed countries' share in global exports by 2020._**
 
 The charts below detail global export value (in US$) by income category, and the distribution of trade between developed and developing countries. Further data and visualisations on these topics can be found at our entry on [International Trade](https://ourworldindata.org/international-trade).
 
@@ -88,7 +88,7 @@ The charts below detail global export value (in US$) by income category, and the
 
 ## Target 17.12
 
-_**Realize timely implementation of duty-free and quota-free market access on a lasting basis for all least developed countries.**_
+**_Realize timely implementation of duty-free and quota-free market access on a lasting basis for all least developed countries._**
 
 Tariffs and duty charges can act as a key barrier to free trade between countries - particularly developing and least-developed nations. The chart below details the average tariff rates across the world.
 
@@ -96,15 +96,19 @@ Tariffs and duty charges can act as a key barrier to free trade between countrie
 
 ## Target 17.15
 
-_**Respect each country’s policy space and leadership to establish and implement policies for poverty eradication and sustainable development.**_
+**_Respect each country’s policy space and leadership to establish and implement policies for poverty eradication and sustainable development._**
+
+<iframe src="https://owid.cloud/grapher/use-of-crf-tools-by-providers-of-dev-cooperation" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+
 
 ## **Target 17.16**
 
-_**Enhance the Global Partnership for Sustainable Development, complemented by multi-stakeholder partnerships that mobilize and share knowledge, expertise, technology and financial resources.**_
+**_Enhance the Global Partnership for Sustainable Development, complemented by multi-stakeholder partnerships that mobilize and share knowledge, expertise, technology and financial resources._**
 
 ## Target 17.18
 
-_**By 2020, enhance capacity-building support to developing countries, including for least developed countries and small island developing States, to increase significantly the availability of high-quality, timely and reliable data.**_
+**_By 2020, enhance capacity-building support to developing countries, including for least developed countries and small island developing States, to increase significantly the availability of high-quality, timely and reliable data._**
 
 Tracking progress towards the Sustainable Development Goals (SDGs) requires the capacity to gather and report high-quality and reliable data. This is strongly dependent on institutions and nations development capacity in statistical management. The chart below highlights the Statistical Capacity Indicator for countries across the world.
 
@@ -112,7 +116,7 @@ Tracking progress towards the Sustainable Development Goals (SDGs) requires the 
 
 ## Target 17.19
 
-_**By 2030, build on existing initiatives to develop measurements of progress on sustainable development that complement gross domestic product, and support statistical capacity-building in developing countries.**_
+**_By 2030, build on existing initiatives to develop measurements of progress on sustainable development that complement gross domestic product, and support statistical capacity-building in developing countries._**
 
 Tracking progress towards the Sustainable Development Goals (SDGs) requires improvements of measurement and statistical capacity at all levels. Statistical capacity in itself is an additional indicator of national and institutional progress. The charts below show levels of data completeness in terms of population censuses, birth and death registrations.
 
