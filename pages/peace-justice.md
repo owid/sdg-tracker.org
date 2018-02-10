@@ -73,8 +73,6 @@ Developing equal representation in international organizations between States is
 
 <iframe src="https://owid.cloud/grapher/proportion-of-members-of-developing-countries-in-international-organizations" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/proportion-of-voting-rights-in-international-organizations" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
-<iframe src="https://owid.cloud/grapher/countries-that-adopt-guarantees-for-public-access-to-information" style="width: 100%; height: 600px; border: 0px none;"></iframe>
-
 ## Target 16.9
 
 **_By 2030, provide legal identity for all, including birth registration._**
@@ -86,6 +84,8 @@ An important indicator of the effectiveness of governance and institutional syst
 ## Target 16.10
 
 **_Ensure public access to information and protect fundamental freedoms, in accordance with national legislation and international agreements._**
+
+<iframe src="https://owid.cloud/grapher/cases-of-killings-of-journalists-and-media-personnel?tab=chart" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/countries-that-adopt-guarantees-for-public-access-to-information" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 ## Target 16.a
 
