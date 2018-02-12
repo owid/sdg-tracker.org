@@ -48,13 +48,13 @@ The charts below show the share of students in early education (grades 2 or 3), 
 
 The chart below shows the share of children under 5 years old who are defined as developmentally on track in at least three of the following four domains: literacy-numeracy, physical, socio-emotional and learning.
 
-<iframe src="https://owid.cloud/grapher/proportion-of-children-developmentally-on-track" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/proportion-of-children-developmentally-on-track" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 **Participation rate in organized learning (one year before the official primary entry age)**
 
 The charts below show the share of children of pre-primary age who are enroled in [pre-primary education](https://ourworldindata.org/pre-primary-education). This is given as the total across both sexes, with a further comparison of enrolment rates between boys and girls.
 
-<iframe src="https://owid.cloud/grapher/net-enrolment-rate-pre-primary" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/net-enrolment-pre-primary-boys-vs-girls" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/net-enrolment-rate-pre-primary" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/net-enrolment-pre-primary-boys-vs-girls" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 ## Target 4.4
 
@@ -62,7 +62,7 @@ The charts below show the share of children of pre-primary age who are enroled i
 
 The charts below show the share of youths and adults (over 15 years of age) with information and communications technology (ICT) skills (here defined based on the skills of creating electronic presentations), as a total share of the population and by sex.
 
-<iframe src="https://owid.cloud/grapher/proportion-with-ict-skills-in-presentations" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/proportion-with-ict-skills-by-sex" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/proportion-with-ict-skills-in-presentations" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/proportion-with-ict-skills-by-sex" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 ## Target 4.5
 
@@ -76,9 +76,9 @@ The charts below provide a global overview of gender disparities across enrollme
 
 <iframe src="https://ourworldindata.org/grapher/out-of-school-children-of-primary-school-age-by-world-region" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/total-net-enrollment-rate-in-primary-education" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
-<iframe src="https://owid.cloud/grapher/net-enrolment-rate-primary-gender-parity-index-gpi" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/school-life-expectancy-primary-gender-parity-index-gpi" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/primary-completion-rate-gender-parity-index" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/net-enrolment-rate-primary-gender-parity-index-gpi" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/school-life-expectancy-primary-gender-parity-index-gpi" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/primary-completion-rate-gender-parity-index" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
-<iframe src="https://owid.cloud/grapher/school-life-expectancy-in-secondary-education-by-sex" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/school-life-expectancy-in-secondary-education-by-sex" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 ## Target 4.6
 
@@ -98,7 +98,7 @@ Closing global inequities in educational access and attainment will require sign
 
 Further data and visuals on investment and financial support for education is available at our entry on [Financing Education](https://ourworldindata.org/financing-education).
 
-<iframe src="https://owid.cloud/grapher/oda-for-scholarships" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/oda-for-scholarships" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 ## Target 4.c
 
@@ -108,6 +108,6 @@ Ensuring children, adolescents, and increasingly adults within further education
 
 The charts below provide available data on the shares of teachers across educational levels who are sufficiently qualified. You can find more data on these trends in our entry on [Teachers and Professors](https://ourworldindata.org/teachers-and-professors).
 
-<iframe src="https://owid.cloud/grapher/percentage-of-teachers-in-pre-primary-education-who-are-qualified" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/percentage-of-teachers-in-primary-education-who-are-qualified" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/percentage-of-teachers-in-pre-primary-education-who-are-qualified" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/percentage-of-teachers-in-primary-education-who-are-qualified" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
-<iframe src="https://owid.cloud/grapher/percentage-of-teachers-in-lower-secondary-education-who-are-qualified" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/percentage-of-teachers-in-upper-secondary-education-who-are-qualified" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/percentage-of-teachers-in-lower-secondary-education-who-are-qualified" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/percentage-of-teachers-in-upper-secondary-education-who-are-qualified" style="width: 100%; height: 600px; border: 0px none;"></iframe>

@@ -42,7 +42,7 @@ _**Ensure enhanced representation and voice for developing countries in decision
 
 Developing equal representation in international organizations between States is an important target of the United Nations. The charts below show the proportion of membership from developing countries across a range of international organizations, as well as the proportion of voting rights each country is allocated across such organizations.
 
-<iframe src="https://owid.cloud/grapher/proportion-of-members-of-developing-countries-in-international-organizations" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/proportion-of-voting-rights-in-international-organizations" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/proportion-of-members-of-developing-countries-in-international-organizations" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/proportion-of-voting-rights-in-international-organizations" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 ## Target 10.a
 
@@ -50,7 +50,7 @@ Developing equal representation in international organizations between States is
 
 The chart below shows the proportion of tariff lines (i.e. product categories) for which imports from least-developed countries are given a 0% tariff rate.
 
-<iframe src="https://owid.cloud/grapher/proportion-tariff-lines-applied-to-imports-from-ldcs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/proportion-tariff-lines-applied-to-imports-from-ldcs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 ## **Target 10.b**
 
@@ -58,7 +58,7 @@ The chart below shows the proportion of tariff lines (i.e. product categories) f
 
 Global inequalities have the potential to be reduced through the transfer of finance from higher-income to lower-income countries. In the charts below we see total assistance for development by recipient and donor.
 
-<iframe src="https://owid.cloud/grapher/total-assistance-for-development-by-recipient" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/total-assistance-for-development-by-donor" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/total-assistance-for-development-by-recipient" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/total-assistance-for-development-by-donor" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 ## **Target 10.c**
 
@@ -68,4 +68,4 @@ Remittances (the transfer of money from non-residents to residents of a given co
 
 The chart below shows remittance costs as a percentage of the amount remitted. The UN notes that this is a proposed indicator for this target, but it is not yet well-defined.
 
-<iframe src="https://owid.cloud/grapher/remittance-costs-as-share-of-amount-remitted" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/remittance-costs-as-share-of-amount-remitted" style="width: 100%; height: 600px; border: 0px none;"></iframe>

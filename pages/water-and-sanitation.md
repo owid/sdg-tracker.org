@@ -44,7 +44,7 @@ Basic handwashing facilities are defined as a device to contain, transport or re
 
 <iframe src="https://ourworldindata.org/grapher/people-practicing-open-defecation-of-population?tab=map" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/open-defecation-in-rural-areas-vs-urban-areas" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
-<iframe src="https://owid.cloud/grapher/proportion-of-population-with-basic-handwashing-facilities-on-premises" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/proportion-with-basic-handwashing-facilities-urban-vs-rural" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/proportion-of-population-with-basic-handwashing-facilities-on-premises" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/proportion-with-basic-handwashing-facilities-urban-vs-rural" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 ## Target 6.4
 
@@ -52,7 +52,7 @@ _**By 2030, substantially increase water-use efficiency across all sectors and e
 
 Water-efficient economies are those which achieve a high gross domestic product (GDP) per unit of freshwater withdrawal. In the chart below we see trends in water productivity which is measured as a country's total GDP, measured in constant 2010 US$ divided by total freshwater withdrawals in cubic metres.
 
-<iframe src="https://owid.cloud/grapher/water-productivity" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/water-productivity" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 [Water scarcity or stress](https://ourworldindata.org/water-access-resources-sanitation#water-stress-and-scarcity) is typically defined basic on the total quantity of freshwater withdrawals as a share of international resources. This includes water withdrawn from [agricultural](https://ourworldindata.org/water-access-resources-sanitation#agricultural-water-withdrawals), [industrial](https://ourworldindata.org/water-access-resources-sanitation#industrial-water-withdrawals) and [domestic uses](https://ourworldindata.org/water-access-resources-sanitation#municipal-water-withdrawals). The chart below shows levels of water stress by country, based on the following categories: < 10% is low stress; 10-20% is low-to-medium; 20-40% medium-to-high; 40-80% high; >80% extremely high.
 
@@ -64,7 +64,7 @@ Water-efficient economies are those which achieve a high gross domestic product 
 
 Many of our environmental systems - including our water, land, food, air and ecosystems - strongly interact and impact on one another. Developing integrated plans for all components of these systems is therefore crucial. The chart below shows the status of national development and implementation of Integrated Water Resource Management (IWRM) plans across the world.
 
-<iframe src="https://owid.cloud/grapher/status-of-the-development-and-implementation-of-integrated-national-water-resource-management-plans" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/status-of-the-development-and-implementation-of-integrated-national-water-resource-management-plans" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 ## Target 6.a
 
@@ -72,4 +72,4 @@ Many of our environmental systems - including our water, land, food, air and eco
 
 The chart below shows the levels of total official development assistance (ODA) and other financial flows which are allocated to water and sanitation-related development.
 
-<iframe src="https://owid.cloud/grapher/total-oda-for-water-supply-and-sanitation-by-recipient" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/total-oda-for-water-supply-and-sanitation-by-recipient" style="width: 100%; height: 600px; border: 0px none;"></iframe>

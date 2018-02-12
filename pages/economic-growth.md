@@ -28,7 +28,7 @@ _**Achieve higher levels of economic productivity through diversification, techn
 
 The chart below shows the annual rate of change in gross domestic product (GDP) per employed person. This provides an overall measure of the change in productivity of a country's labour force and use of resources.
 
-<iframe src="https://owid.cloud/grapher/growth-rate-of-real-gdp-per-employed-person" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/growth-rate-of-real-gdp-per-employed-person" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 
 
@@ -36,7 +36,7 @@ The chart below shows the annual rate of change in gross domestic product (GDP) 
 
 **_Proportion of informal employment in non‑agriculture employment._**
 
-<iframe src="https://owid.cloud/grapher/informal-employment-of-total-non-agricultural-employment" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/informal-employment-by-sex" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/informal-employment-of-total-non-agricultural-employment" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/informal-employment-by-sex" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 ## Target 8.5
 
@@ -68,7 +68,7 @@ Mistreatment of children, and the incidence of child labour is sadly still preva
 
 Further information on these issues can be found at our entry on [Violence Against & Rights for Children](https://ourworldindata.org/violence-against-rights-for-children).
 
-<iframe src="https://ourworldindata.org/grapher/incidence-of-child-labour?tab=map" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/percentage-of-children-in-employment-by-sex" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/incidence-of-child-labour?tab=map" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/percentage-of-children-in-employment-by-sex" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 <iframe src="https://ourworldindata.org/grapher/average-working-hours-of-children" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
@@ -78,7 +78,7 @@ _**Protect labour rights and promote safe and secure working environments for al
 
 Safe and secure working environments are important for all, regardless of employment status or area of work. The charts below show the rates of fatal and non-fatal occupational injuries per 100,000 employees.
 
-<iframe src="https://owid.cloud/grapher/non-fatal-occupational-injuries-per-100000" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/fatal-occupational-injuries-among-employees" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/non-fatal-occupational-injuries-per-100000" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/fatal-occupational-injuries-among-employees" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 ## Target 8.10
 
@@ -98,4 +98,4 @@ _**Increase Aid for Trade support for developing countries, in particular least 
 
 The charts below show the annual transfer of official development assistance (ODA) for use as aid for trade, by recipient and by donor country.
 
-<iframe src="https://owid.cloud/grapher/total-oda-for-aid-for-trade-by-recipient" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/total-oda-for-aid-for-trade-by-donor" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/total-oda-for-aid-for-trade-by-recipient" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/total-oda-for-aid-for-trade-by-donor" style="width: 100%; height: 600px; border: 0px none;"></iframe>

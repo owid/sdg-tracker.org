@@ -24,9 +24,9 @@ Definitions of sustainable management and use of natural resources are currently
 
 DMC is a production-side, whereas MF is a consumption-side measure. DMC does not account for supply chain inputs or exports, meaning a country could have a lower DMC value if it outsources a large proportion of its materials. MF corrects for this factor.
 
-<iframe src="https://ourworldindata.org/grapher/material-footprint-per-capita" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/material-footprint-per-unit-of-gdp" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/material-footprint-per-capita" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/material-footprint-per-unit-of-gdp" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
-<iframe src="https://owid.cloud/grapher/domestic-material-consumption-per-capita" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/domestic-material-consumption-per-unit-of-gdp" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/domestic-material-consumption-per-capita" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/domestic-material-consumption-per-unit-of-gdp" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 ## Target 12.4
 
@@ -34,4 +34,4 @@ DMC is a production-side, whereas MF is a consumption-side measure. DMC does not
 
 There are a number of international multilateral agreements on hazardous waste and other chemicals (including the Montreal Protocol, Basel Convention, Rotterdam Convention and Stockholm Convention). The chart below shows the percentage of countries meeting commitments and obligations within each agreement.
 
-<iframe src="https://owid.cloud/grapher/parties-to-multilateral-agreements-on-hazardous-waste" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/parties-to-multilateral-agreements-on-hazardous-waste" style="width: 100%; height: 600px; border: 0px none;"></iframe>

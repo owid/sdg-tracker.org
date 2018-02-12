@@ -35,7 +35,7 @@ The following visualisations present global-level data on the legal basis of non
 
 **_Eliminate all forms of violence against all women and girls in the public and private spheres, including trafficking and sexual and other types of exploitation._**
 
-<iframe src="https://owid.cloud/grapher/proportion-of-women-subjected-to-physical-or-sexual-violence" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/proportion-of-women-subjected-to-physical-or-sexual-violence" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 ## Target 5.3
 
@@ -50,7 +50,7 @@ The map below presents coverage of the percentage of women (aged between 20 and 
 
 **_Recognize and value unpaid care and domestic work through the provision of public services, infrastructure and social protection policies and the promotion of shared responsibility within the household and the family._**
 
-<iframe src="https://ourworldindata.org/grapher/average-daily-time-spent-by-women-on-domestic-work-paid-and-unpaid?tab=map" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/time-spent-in-domestic-work-female-vs-male" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/average-daily-time-spent-by-women-on-domestic-work-paid-and-unpaid?tab=map" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/time-spent-in-domestic-work-female-vs-male" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 ## Target 5.5
 
@@ -79,4 +79,4 @@ This chart shows the percentage of interviewed, married women aged 15-49 who rep
 
 Data availability on mobile phone ownership - particularly by sex is currently very limited. Only a few countries have such data. However, it's expected that the number of countries collecting such data will increase. Available data on mobile phone ownership by sex is shown in the chart below.
 
-<iframe src="https://owid.cloud/grapher/proportion-of-individuals-who-own-a-mobile-by-sex" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/proportion-of-individuals-who-own-a-mobile-by-sex" style="width: 100%; height: 600px; border: 0px none;"></iframe>

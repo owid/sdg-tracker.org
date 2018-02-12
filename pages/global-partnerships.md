@@ -26,9 +26,9 @@ _**Developed countries to implement fully their official development assistance 
 
 These commitments include: the commitment by many developed countries to achieve the target of 0.7 per cent of gross national income for official development assistance (ODA/GNI) to developing countries and 0.15 to 0.20 per cent of ODA/GNI to least developed countries; ODA providers are encouraged to consider setting a target to provide at least 0.20 per cent of ODA/GNI to least developed countries.
 
-<iframe src="https://owid.cloud/grapher/net-oda-from-oecd-dac-countries" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/net-oda-to-ldcs-from-oecd-countries" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/net-oda-from-oecd-dac-countries" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/net-oda-to-ldcs-from-oecd-countries" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
-<iframe src="https://owid.cloud/grapher/net-oda-as-percentage-of-oecd-donors-gni" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/net-oda-to-ldcs-as-percentage-of-donors-gni" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/net-oda-as-percentage-of-oecd-donors-gni" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/net-oda-to-ldcs-as-percentage-of-donors-gni" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 ## Target 17.3
 
@@ -38,15 +38,15 @@ Financial resources into developing countries can come from various sources. The
 
 Foreign direct investment (FDI) is the direct investment equity flows in an economy. Financial resources can also be mobilized through migration; when workers move to work in other countries across the world, they can in many cases send earnings back to their (former) resident countries. This transfer of 'personal remittances' can account for a large share of GDP in some countries (up to 30 percent across several).
 
-<iframe src="https://owid.cloud/grapher/foreign-direct-investment-net-outflows-of-gdp" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/foreign-direct-investment-net-outflows-of-gdp" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
-<iframe src="https://owid.cloud/grapher/personal-remittances-received-of-gdp" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/personal-remittances-received-of-gdp" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 ## Target 17.4
 
 _**Debt service as a proportion of exports of goods and services.**_
 
-<iframe src="https://owid.cloud/grapher/debt-service-of-exports-of-goods-services" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/debt-service-of-exports-of-goods-services" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 ## Target 17.6
 
@@ -76,7 +76,7 @@ _**By 2030, build on existing initiatives to develop measurements of progress on
 
 Attaining an open and equitable trading system can bring benefits to both importing and exporting countries. Inequitable or high tariff rates can place significant barriers to open and free trade. The chart below shows the average weighted tariff rate across all products. 
 
-<iframe src="https://owid.cloud/grapher/tariff-rate-applied-weighted-mean-all-products" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/tariff-rate-applied-weighted-mean-all-products" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 ## Target 17.11
 
@@ -84,7 +84,7 @@ Attaining an open and equitable trading system can bring benefits to both import
 
 The charts below detail global export value (in US$) by income category, and the distribution of trade between developed and developing countries. Further data and visualisations on these topics can be found at our entry on [International Trade](https://ourworldindata.org/international-trade).
 
-<iframe src="https://owid.cloud/grapher/exports-of-goods-and-services-income" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/trade-shares-by-type-of-trade?country=ZAF" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/exports-of-goods-and-services-income" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/trade-shares-by-type-of-trade?country=ZAF" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 ## Target 17.12
 
@@ -92,7 +92,7 @@ The charts below detail global export value (in US$) by income category, and the
 
 Tariffs and duty charges can act as a key barrier to free trade between countries - particularly developing and least-developed nations. The chart below details the average tariff rates across the world.
 
-<iframe src="https://owid.cloud/grapher/tariff-rates" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/tariff-rates" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 ## Target 17.15
 
@@ -102,7 +102,7 @@ International cooperation as we work towards 2030 will be crucial if we are to m
 
 The chart below shows the percentage of indicator results which were drawn from country-led frameworks developed by providers or recipients of development assistance. The aim is to increase the number of indicators drawn from country-led frameworks in recipient countries.
 
-<iframe src="https://owid.cloud/grapher/use-of-crf-tools-by-providers-of-dev-cooperation" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/use-of-crf-tools-by-providers-of-dev-cooperation" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 
 
@@ -112,7 +112,7 @@ The chart below shows the percentage of indicator results which were drawn from 
 
 The map below displays countries which have and have not yet reported progress in multistakeholder monitoring frameworks on commitments to the SDGs.
 
-<iframe src="https://owid.cloud/grapher/progress-in-multistakeholder-monitoring-frameworks" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/progress-in-multistakeholder-monitoring-frameworks" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 ## Target 17.18
 
@@ -120,7 +120,7 @@ The map below displays countries which have and have not yet reported progress i
 
 Tracking progress towards the Sustainable Development Goals (SDGs) requires the capacity to gather and report high-quality and reliable data. This is strongly dependent on institutions and nations development capacity in statistical management. The chart below highlights the Statistical Capacity Indicator for countries across the world. Also show is number of countries with a statistical plan implemented, by source of funding.
 
-<iframe src="https://owid.cloud/grapher/statistical-capacity-indicator" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/countries-with-stats-plan-funded-by-source" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/statistical-capacity-indicator" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/countries-with-stats-plan-funded-by-source" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 ## Target 17.19
 
@@ -128,4 +128,4 @@ Tracking progress towards the Sustainable Development Goals (SDGs) requires the 
 
 Tracking progress towards the Sustainable Development Goals (SDGs) requires improvements of measurement and statistical capacity at all levels. Statistical capacity in itself is an additional indicator of national and institutional progress. The charts below show levels of data completeness in terms of population censuses, birth and death registrations.
 
-<iframe src="https://owid.cloud/grapher/completeness-population-census" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/completeness-of-birth-registration" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/completeness-of-death-reporting" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/completeness-population-census" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/completeness-of-birth-registration" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/completeness-of-death-reporting" style="width: 100%; height: 600px; border: 0px none;"></iframe>

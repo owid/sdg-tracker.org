@@ -82,11 +82,11 @@ The charts below provide data on the incidence, as well as the number of annual 
 
 **Hepatitis**
 
-<iframe src="https://owid.cloud/grapher/heptatitis-death-rate" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/heptatitis-death-rate" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 **Number of people requiring interventions against neglected tropical diseases**
 
-<iframe src="https://owid.cloud/grapher/number-of-people-requiring-treatment-for-neglected-tropical-diseases" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/number-requiring-treatment-for-ntds-by-region" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/number-of-people-requiring-treatment-for-neglected-tropical-diseases" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/number-requiring-treatment-for-ntds-by-region" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 ## Target 3.4
 
@@ -113,9 +113,9 @@ Recorded alcohol per capita (for those aged 15+) consumption of pure alcohol is 
 
 Also detailed below are the share of the population suffering from drug use and alcohol use disorders. Drug dependence is defined by the International Classification of Diseases as the presence of three or more indicators of dependence for at least a month within the previous year. Such indicators are detailed in the charts below. 
 
-<iframe src="https://ourworldindata.org/grapher/total-alcohol-consumption-per-capita-litres-of-pure-alcohol" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/share-of-the-population-with-alcohol-use-disorders" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/total-alcohol-consumption-per-capita-litres-of-pure-alcohol" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/share-of-the-population-with-alcohol-use-disorders" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
-<iframe src="https://owid.cloud/grapher/share-of-population-with-drug-use-disorders" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/share-of-population-with-drug-use-disorders" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 ## Target 3.6
 
@@ -139,9 +139,9 @@ _**Achieve universal health coverage, including financial risk protection, acces
 
 The charts below detail the access, quality and affordability of healthcare for all. Below we see the Healthcare Access and Quality (HAQ) index, measured on a scale from 0 (worst) to 100 (best). This index is based on death rates from 32 causes of death which could be preventable with timely and adequate healthcare. Also shown is the share of healthcare expenditure which is out-of-pocket by households and individuals, and the share of the population at risk of catastrophic or impoverishing expenditure if they were to require surgical care. 
 
-<iframe src="https://owid.cloud/grapher/healthcare-access-and-quality-index" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/share-of-out-of-pocket-expenditure-on-healthcare" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/healthcare-access-and-quality-index" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/share-of-out-of-pocket-expenditure-on-healthcare" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
-<iframe src="https://owid.cloud/grapher/risk-of-catastrophic-expenditure-for-surgical-care" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/risk-of-impoverishing-expenditure-for-surgical-care" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/risk-of-catastrophic-expenditure-for-surgical-care" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/risk-of-impoverishing-expenditure-for-surgical-care" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 ## Target 3.9
 
@@ -161,7 +161,7 @@ The visualisations below present a global-level perspective of mortality rates r
 
 Clean drinking water, safe and adequate sanitation facilities and proper hygiene (WASH) are all essential services to reducing the global burden of preventable diseases, malnutrition and improving child development. The charts below show the attributed burden of unsafe water and sanitation sources as the attributed death rate per 100,000 people.
 
-<iframe src="https://owid.cloud/grapher/death-rate-unsafe-water-source" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/death-rate-from-unsafe-sanitation" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/death-rate-unsafe-water-source" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/death-rate-from-unsafe-sanitation" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 ## Target 3.a
 
@@ -185,7 +185,7 @@ Vaccinations have greatly reduced the prevalence of diseases and they continue t
 
 The chart below shows the gross official development assistance (ODA) to medical research and basic health sectors, measured in constant 2015 US$ per year.
 
-<iframe src="https://owid.cloud/grapher/gross-oda-for-medical-research-and-basic-heath-sectors" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/gross-oda-for-medical-research-and-basic-heath-sectors" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 ## Target 3.c
 
@@ -193,4 +193,4 @@ The chart below shows the gross official development assistance (ODA) to medical
 
 The charts below show the ratio of health professionals in the workforce to the total population, measured as the number per 1,000 or 100,000 individuals.
 
-<iframe src="https://owid.cloud/grapher/nurses-and-midwives-per-1000-people" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/surgeons-per-100000" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/physicians-per-1000-people" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/nurses-and-midwives-per-1000-people" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/surgeons-per-100000" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/physicians-per-1000-people" style="width: 100%; height: 600px; border: 0px none;"></iframe>

@@ -38,7 +38,7 @@ The perceived boundary between poor and non-poor typically rises with the averag
 
 The chart below also differentiates this share living below national poverty lines by rural and urban populations. In general we see that the share living in poverty is higher in rural areas.
 
-<iframe src="https://ourworldindata.org/grapher/share-of-population-living-in-poverty-by-national-poverty-lines?tab=map" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/urban-poverty-at-national-poverty-lines" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/rural-population-poverty-at-national-poverty-lines" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/share-of-population-living-in-poverty-by-national-poverty-lines?tab=map" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/urban-poverty-at-national-poverty-lines" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/rural-population-poverty-at-national-poverty-lines" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 <iframe src="https://ourworldindata.org/grapher/urban-and-rural-poverty-by-national-poverty-lines" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
@@ -48,9 +48,9 @@ _**Implement nationally appropriate social protection systems and measures for a
 
 The charts below provide the latest data on coverage of social insurance programs, as well as the adequacy of these programs and unemployment benefits.
 
-<iframe src="https://owid.cloud/grapher/coverage-of-social-insurance-programs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/coverage-of-social-insurance-programs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
-<iframe src="https://owid.cloud/grapher/adequacy-of-social-insurance-programs" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/adequacy-of-unemployment-benefits" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/adequacy-of-social-safety-net-programs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/adequacy-of-social-insurance-programs" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/adequacy-of-unemployment-benefits" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/adequacy-of-social-safety-net-programs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 ## Target 1.4
 
@@ -72,7 +72,7 @@ The charts below visualise annual impacts of natural disaster events, including 
 
 <iframe src="https://ourworldindata.org/grapher/death-rates-from-disasters?tab=chart&country=OWID_WRL+NPL+BGD+USA+JPN" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/internally-displaced-persons-from-disasters" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
- <iframe src="https://owid.cloud/grapher/direct-economic-loss-attributed-to-disasters" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/disaster-risk-reduction-progress" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+ <iframe src="https://ourworldindata.org/grapher/direct-economic-loss-attributed-to-disasters" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/disaster-risk-reduction-progress" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 
 
@@ -82,6 +82,6 @@ The charts below visualise annual impacts of natural disaster events, including 
 
 Reducing poverty and improving living standards for all will require significant financial investment in poverty-reducing policies, as well as in essential public services. The charts below show the share of governmental expenditure on healthcare and education, as well as the size of financial developmental assistance. 
 
-<iframe src="https://owid.cloud/grapher/health-expenditure-government-expenditure" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/government-expenditure-education" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/health-expenditure-government-expenditure" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/government-expenditure-education" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
-<iframe src="https://owid.cloud/grapher/development-assistance-as-share-of-government-expense" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/development-assistance-as-share-of-government-expense" style="width: 100%; height: 600px; border: 0px none;"></iframe>

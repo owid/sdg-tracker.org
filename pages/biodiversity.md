@@ -26,7 +26,7 @@ The charts below provide data across the world on forested land cover (given as 
 
 **Terrestrial and freshwater protected areas**
 
-<iframe src="https://ourworldindata.org/grapher/terrestrial-protected-areas" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/proportion-of-important-sites-for-terrestrial-biodiversity-covered-by-protected-areas" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/proportion-of-important-sites-for-freshwater-biodiversity-covered-by-protected-areas" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/terrestrial-protected-areas" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/proportion-of-important-sites-for-terrestrial-biodiversity-covered-by-protected-areas" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/proportion-of-important-sites-for-freshwater-biodiversity-covered-by-protected-areas" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 ## Target 15.2
 
@@ -38,9 +38,9 @@ The environmental values of forests are covered by three sub-indicators focused 
 
 Data for the five sub-indicators included in this metric of SFM are shown in the charts below.
 
-<iframe src="https://owid.cloud/grapher/forest-area-net-change-rate" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/above-ground-biomass-in-forest-per-hectare" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/proportion-of-forest-area-within-legally-established-protected-areas" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/forest-area-net-change-rate" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/above-ground-biomass-in-forest-per-hectare" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/proportion-of-forest-area-within-legally-established-protected-areas" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
-<iframe src="https://owid.cloud/grapher/proportion-of-forest-area-with-long-term-management-plan" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/proportion-of-forest-area-certified-under-an-independently-verified-certification-scheme" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/proportion-of-forest-area-with-long-term-management-plan" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/proportion-of-forest-area-certified-under-an-independently-verified-certification-scheme" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 ## Target 15.4
 
@@ -48,7 +48,7 @@ _**By 2030, ensure the conservation of mountain ecosystems, including their biod
 
 The visualisations below provide global perspectives on the protection of mountain ecosystems and their biodiversity. These metrics show the share of important biodiversity sites covered as protected areas, and the share of mountainous areas covered by some form of green vegetation.
 
-<iframe src="https://owid.cloud/grapher/coverage-by-protected-areas-of-important-sites-for-mountain-biodiversity" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/mountain-green-cover-index" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/coverage-by-protected-areas-of-important-sites-for-mountain-biodiversity" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/mountain-green-cover-index" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 ## Target 15.5
 
@@ -58,7 +58,7 @@ The chart below provides a key measure of global biodiversity and extinction thr
 
 The [Red List Index (RLI)](https://www.iucn.org/theme/species/our-work/iucn-red-list-threatened-species/red-list-index) defines the conservation status of major species groups, and measures trends in the proportion of species expected to remain extant in the near future without additional conservation action. An RLI value of 1.0 equates to all species being categorised as 'Least Concern', and hence that none are expected to go extinct in the near future. A value of 0 indicates that all species have gone extinct.
 
-<iframe src="https://owid.cloud/grapher/red-list-index" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/red-list-index" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 ## Target 15.6
 
@@ -66,7 +66,7 @@ The [Red List Index (RLI)](https://www.iucn.org/theme/species/our-work/iucn-red-
 
 The visualisations below show, where data is available, countries which are parties to protocols concerned with the promotion and sharing of genetic resources for plants, food and agriculture.
 
-<iframe src="https://owid.cloud/grapher/countries-to-access-and-benefit-sharing-clearing-house" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/countries-to-the-international-treaty-on-plant-genetic-resources" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/countries-that-are-parties-to-the-nagoya-protocol" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/countries-to-access-and-benefit-sharing-clearing-house" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/countries-to-the-international-treaty-on-plant-genetic-resources" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/countries-that-are-parties-to-the-nagoya-protocol" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 ## Target 15.a
 
@@ -74,7 +74,7 @@ _**Mobilize and significantly increase financial resources from all sources to c
 
 The charts below show the total official development assistance (ODA) flows to biodiversity protection and conservation projects, shown by recipient and donor.
 
-<iframe src="https://owid.cloud/grapher/total-oda-for-biodiversity-by-recipient" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/total-oda-for-biodiversity-by-donor" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/total-oda-for-biodiversity-by-recipient" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/total-oda-for-biodiversity-by-donor" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 
 
@@ -84,4 +84,4 @@ _**Mobilize significant resources from all sources and at all levels to finance 
 
 Currently data is not available to distinguish total official development assistance (ODA) utilised for sustainable forest management relative to other biodiversity management policies or programmes. As such, these indicators are the same as those shown for Target 15a (above).
 
-<iframe src="https://owid.cloud/grapher/total-oda-for-biodiversity-by-recipient" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/total-oda-for-biodiversity-by-donor" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/total-oda-for-biodiversity-by-recipient" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/total-oda-for-biodiversity-by-donor" style="width: 100%; height: 600px; border: 0px none;"></iframe>

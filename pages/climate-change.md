@@ -23,13 +23,13 @@ Mitigating against climate change by reducing greenhouse gas emissions will be e
 
 The charts below track deaths, death rates and displacements from natural disaster events. Further statistics on Natural Catastrophes can be found at our entry [here](https://ourworldindata.org/natural-catastrophes).
 
-<iframe src="https://ourworldindata.org/grapher/death-rates-from-disasters" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/natural-disaster-deaths-ihme" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/death-rates-from-disasters" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/natural-disaster-deaths-ihme" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 <iframe src="https://ourworldindata.org/grapher/internally-displaced-persons-from-disasters" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 Building resilience to natural disasters requires integrated policies at international, national and sub-national levels - particularly within cities with dense populations and vulnerable infrastructure. The chart below shows the number of countries with legislative or regulatory provisions for managing disaster risks.
 
-<iframe src="https://owid.cloud/grapher/countries-with-legislative-regulatory-provisions-for-managing-disaster-risk" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/countries-with-legislative-regulatory-provisions-for-managing-disaster-risk" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 ## Target 13.2
 

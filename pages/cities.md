@@ -28,11 +28,11 @@ Natural disasters are often volatile, unpredictable and therefore difficult to p
 
 The charts below show the annual damage from natural disasters in terms of deaths, death rates, displacement and direct economic losses across the world. Further statistics and visualisations on these trends can be found at our entry on [Natural Catastrophes](https://ourworldindata.org/natural-catastrophes).
 
-<iframe src="https://owid.cloud/grapher/natural-disaster-deaths-ihme" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/death-rates-from-disasters?tab=chart" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/natural-disaster-deaths-ihme" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/death-rates-from-disasters?tab=chart" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 <iframe src="https://ourworldindata.org/grapher/internally-displaced-persons-from-disasters" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
-<iframe src="https://owid.cloud/grapher/direct-disaster-economic-loss?tab=chart" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/direct-economic-loss-attributed-to-disasters" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/direct-disaster-loss-as-a-share-of-gdp" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/direct-disaster-economic-loss?tab=chart" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/direct-economic-loss-attributed-to-disasters" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/direct-disaster-loss-as-a-share-of-gdp" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 ## Target 11.6
 
@@ -42,7 +42,7 @@ As urban populations expand, and infrastructure within cities develops, it's cru
 
 The charts below provide data on levels of air pollution and waste across the world. Further statistics and visualisations can be found at our entries on [Air Pollution](https://ourworldindata.org/air-pollution) and [Indoor Air Pollution](https://ourworldindata.org/indoor-air-pollution).
 
-<iframe src="https://ourworldindata.org/grapher/PM25-air-pollution" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/proportion-of-population-served-by-municipal-waste-collection" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/PM25-air-pollution" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/proportion-of-population-served-by-municipal-waste-collection" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 ## Target 11.b
 
@@ -50,4 +50,4 @@ The charts below provide data on levels of air pollution and waste across the wo
 
 Building resilience to natural disasters requires integrated policies at international, national and sub-national levels - particularly within cities with dense populations and vulnerable infrastructure. The chart below shows the number of countries with legislative or regulatory provisions for managing disaster risks.
 
-<iframe src="https://owid.cloud/grapher/countries-with-legislative-regulatory-provisions-for-managing-disaster-risk" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/countries-with-legislative-regulatory-provisions-for-managing-disaster-risk" style="width: 100%; height: 600px; border: 0px none;"></iframe>

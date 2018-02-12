@@ -86,7 +86,7 @@ Maintaining high-quality land and soil is crucial to productive agriculture, not
 
 In the charts below we present the World Bank measures of agricultural land organically managed (although such data for most countries is currently unavailable). These metrics, however, do not guarantee that lands are productive or sustainable. We cover a range of questions related to agricultural land use, environmental impacts and crop yields in our entry on [Yields and Land Use in Agriculture](https://ourworldindata.org/yields-and-land-use-in-agriculture).
 
-<iframe src="https://ourworldindata.org/grapher/organic-agricultural-area" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/organic-arable-land-area" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/share-of-arable-land-which-is-organic" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/organic-agricultural-area" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/organic-arable-land-area" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/share-of-arable-land-which-is-organic" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 ## Target 2.5
 
@@ -94,7 +94,7 @@ _**By 2020, maintain the genetic diversity of seeds, cultivated plants and farme
 
 Our agricultural systems rely on genetic diversity - in both seeds, plants and livestock breeds. The numbers and share of plant varieties and livestock breeds stored in medium to long-term conservation facilities, and the number of livestock breeds at risk of extinction are shown in the charts below.
 
-<iframe src="https://owid.cloud/grapher/number-of-accessions-of-plant-genetic-resources-secured-in-conservation-facilities" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/proportion-of-animal-breeds-genetic-conservation" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/proportion-of-local-breeds-at-risk-of-extinction" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/number-of-accessions-of-plant-genetic-resources-secured-in-conservation-facilities" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/proportion-of-animal-breeds-genetic-conservation" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/proportion-of-local-breeds-at-risk-of-extinction" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 ## Target 2a
 
@@ -104,7 +104,7 @@ Improving crop production, agricultural practices and the welfare of farmers is 
 
 Investment in rural infrastructure (to connect rural and [increasingly urbanizing populations](https://ourworldindata.org/grapher/urban-and-rural-population-sizes)) are vital to building supply chains which work for both urban population centres and agricultural producers. Investing in research, technological innovations and gene banks will also help to develop increasingly productive and sustainable food production systems.
 
-<iframe src="https://owid.cloud/grapher/agriculture-orientation-index" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/total-financial-assistance-and-flows-for-agriculture-by-recipient" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/agriculture-orientation-index" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/total-financial-assistance-and-flows-for-agriculture-by-recipient" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 ## Target 2c
 
@@ -114,4 +114,4 @@ Producing enough food for all is not the only challenge in ending hunger and mal
 
 Further trends and data on food prices can be found at our entry [here](https://ourworldindata.org/food-prices).
 
-<iframe src="https://owid.cloud/grapher/domestic-food-price-volatility-index" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/domestic-food-price-volatility-index" style="width: 100%; height: 600px; border: 0px none;"></iframe>

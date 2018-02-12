@@ -21,9 +21,9 @@ Developing high quality infrastructure - both within country and transboundary -
 
 Further information on these topics can be found at our entries on [International Trade](https://ourworldindata.org/international-trade) and [Tourism](https://ourworldindata.org/tourism).
 
-<iframe src="https://ourworldindata.org/grapher/number-of-air-transport-passengers-carried?tab=map" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/railways-passengers-carried-passenger-km" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/number-of-air-transport-passengers-carried?tab=map" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/railways-passengers-carried-passenger-km" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
-<iframe src="https://owid.cloud/grapher/air-transport-freight-ton-km" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/air-transport-freight-ton-km" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 ## Target 9.2
 
@@ -59,7 +59,7 @@ _**Facilitate sustainable and resilient infrastructure development in developing
 
 The chart below details levels of total official development assistance (ODA) transferred in support of developing infrastructure within low to middle-income countries. 
 
-<iframe src="https://owid.cloud/grapher/total-oda-for-infrastructure-by-recipient" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/total-oda-for-infrastructure-by-recipient" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 ## Target 9.b
 
@@ -67,7 +67,7 @@ _**Support domestic technology development, research and innovation in developin
 
 Manufacturing products vary in terms of technological complexity and innovation. The chart below shows the share of a country's manufacturing value added which is derived from medium to high-tech industry outputs. Higher values indicate that a country's industrial sector is more focused on high-tech and innovation products.
 
-<iframe src="https://owid.cloud/grapher/total-manufacturing-value-added-from-high-tech" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/total-manufacturing-value-added-from-high-tech" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 ## Target 9.c
 

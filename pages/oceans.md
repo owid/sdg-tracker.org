@@ -23,7 +23,7 @@ Fish and seafood is a primary source of income, and nutrition for many across th
 
 Protecting fish stocks and ensuring sustainable seafood production requires effective regulation and limits on harvesting rates. The charts below provide data on the rates of overfishing across the world. Further data on seafood production can be found at our entry on [Meat & Seafood Production & Consumption](https://ourworldindata.org/meat-and-seafood-production-consumption).
 
-<iframe src="https://owid.cloud/grapher/fish-stocks-within-sustainable-levels" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/fish-stocks-within-sustainable-levels" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 ## Target 14.5
 
@@ -33,4 +33,4 @@ Particular marine areas — specifically those of special scientific interest an
 
 <iframe src="https://ourworldindata.org/grapher/marine-protected-areas" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
-<iframe src="https://owid.cloud/grapher/fish-species-threatened" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/fish-species-threatened" style="width: 100%; height: 600px; border: 0px none;"></iframe>
