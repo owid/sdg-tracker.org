@@ -86,7 +86,7 @@ The charts below provide a global overview of gender disparities across enrollme
 
 The charts below show the share of the population who can both read and write with understanding of a short statement on their everyday life. In most cases '[literacy](https://ourworldindata.org/literacy)' also includes 'numeracy', which is the ability to make simple arithmetic calculations.
 
-<iframe src="https://ourworldindata.org/grapher/youth-literacy-males" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/youth-literacy-females" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/youth-literacy-males" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/youth-literacy-female" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 <iframe src="https://ourworldindata.org/grapher/adult-literacy-male" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/adult-literacy-female" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
