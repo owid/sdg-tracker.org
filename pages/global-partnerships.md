@@ -15,8 +15,7 @@ featuredImage: /img/uploads/17.png
 
 **Strengthen domestic resource mobilization, including through international support to developing countries, to improve domestic capacity for tax and other revenue collection.**
 
-The charts below show the total government revenue as a share of a country's gross domestic product (GDP), and the proportion of a country's domestic budget which is funded by domestic taxes._\*\*
-\*\*_
+The charts below show the total government revenue as a share of a country's gross domestic product (GDP), and the proportion of a country's domestic budget which is funded by domestic taxes.
 
 <iframe src="https://ourworldindata.org/grapher/total-government-revenue-of-gdp" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/proportion-of-domestic-budget-funded-by-domestic-taxes-of-gdp" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
@@ -60,7 +59,7 @@ Technological connections provide an ideal platform for global-scale cooperation
 
 **Fully operationalize the technology bank and science, technology and innovation capacity-building mechanism for least developed countries by 2017 and enhance the use of enabling technology, in particular information and communications technology.**
 
-Communication technologies are an important driver of connectivity, enhanced productivity and knowledge-sharing. It is crucial that this capacity is developed, particularly in least developed countries. The charts below provide an overview of global access and use of the internet._\*\* \*\*_More information on communication developments are available at our entries on [Technology Diffusion & Adoption](https://ourworldindata.org/technology-adoption), and the [Internet](https://ourworldindata.org/internet).
+Communication technologies are an important driver of connectivity, enhanced productivity and knowledge-sharing. It is crucial that this capacity is developed, particularly in least developed countries. The charts below provide an overview of global access and use of the internet. More information on communication developments are available at our entries on [Technology Diffusion & Adoption](https://ourworldindata.org/technology-adoption), and the [Internet](https://ourworldindata.org/internet).
 
 <iframe src="https://ourworldindata.org/grapher/share-of-individuals-using-the-internet?map" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/internet-users-by-world-region" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
@@ -103,8 +102,6 @@ International cooperation as we work towards 2030 will be crucial if we are to m
 The chart below shows the percentage of indicator results which were drawn from country-led frameworks developed by providers or recipients of development assistance. The aim is to increase the number of indicators drawn from country-led frameworks in recipient countries.
 
 <iframe src="https://ourworldindata.org/grapher/use-of-crf-tools-by-providers-of-dev-cooperation" style="width: 100%; height: 600px; border: 0px none;"></iframe>
-
-
 
 ## **Target 17.16**
 
