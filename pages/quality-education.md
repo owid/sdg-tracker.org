@@ -30,7 +30,7 @@ featuredImage: /img/uploads/4.png
 
 A pre-requisite for assessing whether children achieve relevant and expected learning outcomes is the existence of nationally representative learning assessments. The chart below shows whether each country has a nationally representative learning assessment at the end of primary education.
 
-<iframe src="<iframe style="width: 100%; height: 600px; border: 0px none;" src="https://ourworldindata.org/grapher/existence-of-nationally-representative-learning-assessment-at-the-end-of-primary-education" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/existence-of-nationally-representative-learning-assessment-at-the-end-of-primary-education" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 The charts below show the share of students in early education (grades 2 or 3), at the end of [primary](https://ourworldindata.org/primary-and-secondary-education), and the end of lower [secondary education](https://ourworldindata.org/primary-and-secondary-education) who achieve at least a minimum proficiency in reading, and mathematics.
 
