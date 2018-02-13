@@ -17,7 +17,7 @@ featuredImage: /img/uploads/13.png
 ---
 ## Target 13.1
 
-**_Strengthen resilience and adaptive capacity to climate-related hazards and natural disasters in all countries._**
+**Strengthen resilience and adaptive capacity to climate-related hazards and natural disasters in all countries.**
 
 Mitigating against climate change by reducing greenhouse gas emissions will be essential in the coming decades to meet our global climate targets and keep average global temperature rise within a 'safe' range. However, also crucial will lie in our ability to adapt to climate change impacts, and reduce the social costs of natural disasters (which are likely to be affected by climatic change).
 
@@ -33,7 +33,7 @@ Building resilience to natural disasters requires integrated policies at interna
 
 ## Target 13.2
 
-**_Integrate climate change measures into national policies, strategies and planning._**
+**Integrate climate change measures into national policies, strategies and planning.**
 
 Nations have committed within the United Nation's Framework Convention on Climate Change's (UNFCCC) [Paris Agreement](http://unfccc.int/paris_agreement/items/9485.php) to "strengthen the global response to the threat of climate change by keeping a global temperature rise this century well below 2 degrees Celsius above pre-industrial levels and to pursue efforts to limit the temperature increase even further to 1.5 degrees Celsius."
 

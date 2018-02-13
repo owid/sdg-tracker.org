@@ -16,7 +16,7 @@ featuredImage: /img/uploads/15.png
 ---
 ## Target 15.1
 
-**_By 2020, ensure the conservation, restoration and sustainable use of terrestrial and inland freshwater ecosystems and their services, in particular forests, wetlands, mountains and drylands, in line with obligations under international agreements._**
+**By 2020, ensure the conservation, restoration and sustainable use of terrestrial and inland freshwater ecosystems and their services, in particular forests, wetlands, mountains and drylands, in line with obligations under international agreements.**
 
 The charts below provide data across the world on forested land cover (given as a share of total land area) and the prevalence of terrestrially-protected areas.
 
@@ -30,7 +30,7 @@ The charts below provide data across the world on forested land cover (given as 
 
 ## Target 15.2
 
-_**By 2020, promote the implementation of sustainable management of all types of forests, halt deforestation, restore degraded forests and substantially increase afforestation and reforestation globally.**_
+**By 2020, promote the implementation of sustainable management of all types of forests, halt deforestation, restore degraded forests and substantially increase afforestation and reforestation globally.**
 
 Sustainable Forest Management (SFM) is composed of five sub-indicators that measure progress towards all dimensions of sustainable forest management. 
 
@@ -44,7 +44,7 @@ Data for the five sub-indicators included in this metric of SFM are shown in the
 
 ## Target 15.4
 
-_**By 2030, ensure the conservation of mountain ecosystems, including their biodiversity.**_
+**By 2030, ensure the conservation of mountain ecosystems, including their biodiversity.**
 
 The visualisations below provide global perspectives on the protection of mountain ecosystems and their biodiversity. These metrics show the share of important biodiversity sites covered as protected areas, and the share of mountainous areas covered by some form of green vegetation.
 
@@ -52,7 +52,7 @@ The visualisations below provide global perspectives on the protection of mounta
 
 ## Target 15.5
 
-_**Take urgent and significant action to reduce the degradation of natural habitats, halt the loss of biodiversity and, by 2020, protect and prevent the extinction of threatened species.**_
+**Take urgent and significant action to reduce the degradation of natural habitats, halt the loss of biodiversity and, by 2020, protect and prevent the extinction of threatened species.**
 
 The chart below provides a key measure of global biodiversity and extinction threat: the Red List Index (RLI). 
 
@@ -62,7 +62,7 @@ The [Red List Index (RLI)](https://www.iucn.org/theme/species/our-work/iucn-red-
 
 ## Target 15.6
 
-**_Promote fair and equitable sharing of the benefits arising from the utilization of genetic resources and promote appropriate access to such resources._**
+**Promote fair and equitable sharing of the benefits arising from the utilization of genetic resources and promote appropriate access to such resources.**
 
 The visualisations below show, where data is available, countries which are parties to protocols concerned with the promotion and sharing of genetic resources for plants, food and agriculture.
 
@@ -70,7 +70,7 @@ The visualisations below show, where data is available, countries which are part
 
 ## Target 15.a
 
-_**Mobilize and significantly increase financial resources from all sources to conserve and sustainably use biodiversity and ecosystems.**_
+**Mobilize and significantly increase financial resources from all sources to conserve and sustainably use biodiversity and ecosystems.**
 
 The charts below show the total official development assistance (ODA) flows to biodiversity protection and conservation projects, shown by recipient and donor.
 
@@ -80,7 +80,7 @@ The charts below show the total official development assistance (ODA) flows to b
 
 ## Target 15.b
 
-_**Mobilize significant resources from all sources and at all levels to finance sustainable forest management.**_
+**Mobilize significant resources from all sources and at all levels to finance sustainable forest management.**
 
 Currently data is not available to distinguish total official development assistance (ODA) utilised for sustainable forest management relative to other biodiversity management policies or programmes. As such, these indicators are the same as those shown for Target 15a (above).
 

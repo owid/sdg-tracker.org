@@ -17,7 +17,7 @@ featuredImage: /img/uploads/14.png
 ---
 ## Target 14.4
 
-_**By 2020, effectively regulate harvesting and end overfishing, illegal, unreported and unregulated fishing and destructive fishing practices.**_
+**By 2020, effectively regulate harvesting and end overfishing, illegal, unreported and unregulated fishing and destructive fishing practices.**
 
 Fish and seafood is a primary source of income, and nutrition for many across the world. However, overfishing and poorly regulated, illegal and destructive practices have had a major impact on fish stocks in all oceans. 
 
@@ -27,7 +27,7 @@ Protecting fish stocks and ensuring sustainable seafood production requires effe
 
 ## Target 14.5
 
-**_By 2020, conserve at least 10 per cent of coastal and marine areas, consistent with national and international law and based on the best available scientific information._**
+**By 2020, conserve at least 10 per cent of coastal and marine areas, consistent with national and international law and based on the best available scientific information.**
 
 Particular marine areas — specifically those of special scientific interest and high biodiversity — are often reserved and protected within national and international law. The chart below shows the share of territorial waters which are reserved for this protection. Also shown is the distribution of ecologically threatened fish species across the world.
 

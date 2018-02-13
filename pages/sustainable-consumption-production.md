@@ -18,7 +18,7 @@ featuredImage: /img/uploads/12.png
 ---
 ## Target 12.2
 
-**_By 2030, achieve the sustainable management and efficient use of natural resources._**
+**By 2030, achieve the sustainable management and efficient use of natural resources.**
 
 Definitions of sustainable management and use of natural resources are currently poorly defined. The charts below show the UN indicators of material footprint (MF) and Domestic Material Consumption (DMC) per capita, and footprint per unit of gross domestic product (GDP). This material footprint includes that from biomass, fossil fuels, metal ores and non-metal ores.
 
@@ -30,7 +30,7 @@ DMC is a production-side, whereas MF is a consumption-side measure. DMC does not
 
 ## Target 12.4
 
-**_Number of parties to international multilateral environmental agreements on hazardous waste, and other chemicals that meet their commitments and obligations in transmitting information as required by each relevant agreement._**
+**Number of parties to international multilateral environmental agreements on hazardous waste, and other chemicals that meet their commitments and obligations in transmitting information as required by each relevant agreement.**
 
 There are a number of international multilateral agreements on hazardous waste and other chemicals (including the Montreal Protocol, Basel Convention, Rotterdam Convention and Stockholm Convention). The chart below shows the percentage of countries meeting commitments and obligations within each agreement.
 

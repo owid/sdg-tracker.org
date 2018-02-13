@@ -22,7 +22,7 @@ featuredImage: /img/uploads/10.png
 ---
 ## Target 10.1
 
-_**By 2030, progressively achieve and sustain income growth of the bottom 40 per cent of the population at a rate higher than the national average.**_
+**By 2030, progressively achieve and sustain income growth of the bottom 40 per cent of the population at a rate higher than the national average.**
 
 Economic growth in low-income countries is essential to attaining SDG1: ending global poverty. However, average gross domestic product (GDP) can fail to capture the large inequalities in growth across the distribution. To reduce poverty, those at the bottom of the distribution must growth as much as (if not more) than elsewhere across the spectrum. In the chart below we see the annual average growth rate per capita of income/consumption in the bottom 40 percent of the population.
 
@@ -30,7 +30,7 @@ Economic growth in low-income countries is essential to attaining SDG1: ending g
 
 ## Target 10.4
 
-**_Adopt policies, especially fiscal, wage and social protection policies, and progressively achieve greater equality._**
+**Adopt policies, especially fiscal, wage and social protection policies, and progressively achieve greater equality.**
 
 The chart below shows the percentage of gross domestic product (GDP) derived from labour, which is inclusive of wages and social protection transfers.
 
@@ -38,7 +38,7 @@ The chart below shows the percentage of gross domestic product (GDP) derived fro
 
 ## **Target 10.6**
 
-_**Ensure enhanced representation and voice for developing countries in decision-making in global international economic and financial institutions.**_
+**Ensure enhanced representation and voice for developing countries in decision-making in global international economic and financial institutions.**
 
 Developing equal representation in international organizations between States is an important target of the United Nations. The charts below show the proportion of membership from developing countries across a range of international organizations, as well as the proportion of voting rights each country is allocated across such organizations.
 
@@ -46,7 +46,7 @@ Developing equal representation in international organizations between States is
 
 ## Target 10.a
 
-**_Implement the principle of special and differential treatment for developing countries._**
+**Implement the principle of special and differential treatment for developing countries.**
 
 The chart below shows the proportion of tariff lines (i.e. product categories) for which imports from least-developed countries are given a 0% tariff rate.
 
@@ -54,7 +54,7 @@ The chart below shows the proportion of tariff lines (i.e. product categories) f
 
 ## **Target 10.b**
 
-**_Encourage official development assistance and financial flows, including foreign direct investment, to States where the need is greatest._**
+**Encourage official development assistance and financial flows, including foreign direct investment, to States where the need is greatest.**
 
 Global inequalities have the potential to be reduced through the transfer of finance from higher-income to lower-income countries. In the charts below we see total assistance for development by recipient and donor.
 
@@ -62,7 +62,7 @@ Global inequalities have the potential to be reduced through the transfer of fin
 
 ## **Target 10.c**
 
-**_By 2030, reduce to less than 3 per cent the transaction costs of migrant remittances and eliminate remittance corridors with costs higher than 5 per cent._**
+**By 2030, reduce to less than 3 per cent the transaction costs of migrant remittances and eliminate remittance corridors with costs higher than 5 per cent.**
 
 Remittances (the transfer of money from non-residents to residents of a given country, such as foreign workers sending money to family and friends) can be an important source of income for a number of countries. For some, this can constitute up to 30 percent of gross domestic product (GDP). High remittance costs can limit or reduce the impact of such transfers.
 

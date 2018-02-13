@@ -18,7 +18,7 @@ export default function IndexPage(props: { goals: GoalPageProps[] }) {
             <div className="siteIntro container">
                 <h1>Measuring progress towards the Sustainable Development Goals</h1>
                 <p>The UN <a href="http://www.un.org/sustainabledevelopment/">sustainable development goals</a> are a set of targets for global development adopted by world leaders in September 2015. Here we present data from the OWID database tracking progress towards these goals around the world.</p>
-                <p style={{ color: 'red' }}>Draft version; do not distribute</p>
+                <p style={{ color: 'red' }}>Draft version</p>
             </div>
             <nav>
                 <div className="goals">

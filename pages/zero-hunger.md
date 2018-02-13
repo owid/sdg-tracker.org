@@ -34,7 +34,7 @@ featuredImage: /img/uploads/2.png
 ---
 ## Target 2.1
 
-**_By 2030, end hunger and ensure access by all people, in particular the poor and people in vulnerable situations, including infants, to safe, nutritious and sufficient food all year round._**
+**By 2030, end hunger and ensure access by all people, in particular the poor and people in vulnerable situations, including infants, to safe, nutritious and sufficient food all year round.**
 
 The chart below shows the share of the total population defined as undernourished. This [is defined](https://ourworldindata.org/hunger-and-undernourishment#definitions-of-measures-of-hunger-and-undernourishment) as the share of the population which fall below the minimum level of dietary energy (caloric) requirements. Data therefore refers to the percentage of the population whose food intake is insufficient to consistently meet dietary energy requirements.
 
@@ -46,7 +46,7 @@ Data for high-income countries where the prevalence of undernourishment is below
 
 ## Target 2.2
 
-**_By 2030, end all forms of malnutrition, including achieving, by 2025, the internationally agreed targets on stunting and wasting in children under 5 years of age, and address the nutritional needs of adolescent girls, pregnant and lactating women and older persons._**
+**By 2030, end all forms of malnutrition, including achieving, by 2025, the internationally agreed targets on stunting and wasting in children under 5 years of age, and address the nutritional needs of adolescent girls, pregnant and lactating women and older persons.**
 
 Malnutrition in children can arise in several forms — two of the main indicators of childhood development and nutrition is 'stunting' and 'wasting'.  The share of children (under 5 years old) defined as stunted or wasted are shown in the two charts below.
 
@@ -80,7 +80,7 @@ The charts below show the share of pregnant women, women of reproductive age, an
 
 ## Target 2.4
 
-_**Proportion of agricultural area under productive and sustainable agriculture.**_
+**Proportion of agricultural area under productive and sustainable agriculture.**
 
 Maintaining high-quality land and soil is crucial to productive agriculture, not only today, but also in ensuring our agricultural systems are sustainable over the long-run. Our metrics for tracking productive and sustainable agricultural land are currently poorly-defined.
 
@@ -90,7 +90,7 @@ In the charts below we present the World Bank measures of agricultural land orga
 
 ## Target 2.5
 
-_**By 2020, maintain the genetic diversity of seeds, cultivated plants and farmed and domesticated animals and their related wild species.**_
+**By 2020, maintain the genetic diversity of seeds, cultivated plants and farmed and domesticated animals and their related wild species.**
 
 Our agricultural systems rely on genetic diversity - in both seeds, plants and livestock breeds. The numbers and share of plant varieties and livestock breeds stored in medium to long-term conservation facilities, and the number of livestock breeds at risk of extinction are shown in the charts below.
 
@@ -98,7 +98,7 @@ Our agricultural systems rely on genetic diversity - in both seeds, plants and l
 
 ## Target 2a
 
-_**Increase investment in rural infrastructure, agricultural research and extension services, technology development and plant and livestock gene banks.**_
+**Increase investment in rural infrastructure, agricultural research and extension services, technology development and plant and livestock gene banks.**
 
 Improving crop production, agricultural practices and the welfare of farmers is crucial to building resilient and secure food systems.
 
@@ -108,7 +108,7 @@ Investment in rural infrastructure (to connect rural and [increasingly urbanizin
 
 ## Target 2c
 
-**_Adopt measures to ensure the proper functioning of food commodity markets and their derivatives and facilitate timely access to market information, including on food reserves, in order to help limit extreme food price volatility._**
+**Adopt measures to ensure the proper functioning of food commodity markets and their derivatives and facilitate timely access to market information, including on food reserves, in order to help limit extreme food price volatility.**
 
 Producing enough food for all is not the only challenge in ending hunger and malnutrition. Distribution, access and affordability are also essential. Food pricing is not only important for consumer affordability, but also to ensure food producers maintain a steady and sufficient income. Market and pricing is stability (and avoiding large volatility) is therefore crucial — below we see national data on food price volatility.
 

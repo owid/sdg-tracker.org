@@ -22,7 +22,7 @@ featuredImage: /img/uploads/6.png
 ---
 ## Target 6.1
 
-**_By 2030, achieve universal and equitable access to safe and affordable drinking water for all._**
+**By 2030, achieve universal and equitable access to safe and affordable drinking water for all.**
 
 In the charts below we present data on the share of the total population with access to an [improved drinking water source](https://ourworldindata.org/water-access-resources-sanitation#access-to-improved-water-sources); the difference in access between urban and rural populations; and the total number of people without access to an improved drinking water source by continent.
 
@@ -32,7 +32,7 @@ An improved drinking [water source includes](https://ourworldindata.org/water-ac
 
 ## Target 6.2
 
-**_By 2030, achieve access to adequate and equitable sanitation and hygiene for all and end open defecation, paying special attention to the needs of women and girls and those in vulnerable situations._**
+**By 2030, achieve access to adequate and equitable sanitation and hygiene for all and end open defecation, paying special attention to the needs of women and girls and those in vulnerable situations.**
 
 [Improved sanitation facilities](https://ourworldindata.org/water-access-resources-sanitation#access-to-improved-sanitation) are crucial for sufficient hygiene standards, the prevention of disease, and health and nutritional outcomes. The charts below show the share of the total population with improved sanitation facilities; this comparison between urban and rural areas; the total number of people without access to improved sanitation facilities; and the share of the population who [still practice open defecation](https://ourworldindata.org/water-access-resources-sanitation#open-defecation).
 
@@ -48,7 +48,7 @@ Basic handwashing facilities are defined as a device to contain, transport or re
 
 ## Target 6.4
 
-_**By 2030, substantially increase water-use efficiency across all sectors and ensure sustainable withdrawals and supply of freshwater to address water scarcity and substantially reduce the number of people suffering from water scarcity.**_
+**By 2030, substantially increase water-use efficiency across all sectors and ensure sustainable withdrawals and supply of freshwater to address water scarcity and substantially reduce the number of people suffering from water scarcity.**
 
 Water-efficient economies are those which achieve a high gross domestic product (GDP) per unit of freshwater withdrawal. In the chart below we see trends in water productivity which is measured as a country's total GDP, measured in constant 2010 US$ divided by total freshwater withdrawals in cubic metres.
 
@@ -60,7 +60,7 @@ Water-efficient economies are those which achieve a high gross domestic product 
 
 ## Target 6.5
 
-**_By 2030, implement integrated water resources management at all levels, including through transboundary cooperation as appropriate._**
+**By 2030, implement integrated water resources management at all levels, including through transboundary cooperation as appropriate.**
 
 Many of our environmental systems - including our water, land, food, air and ecosystems - strongly interact and impact on one another. Developing integrated plans for all components of these systems is therefore crucial. The chart below shows the status of national development and implementation of Integrated Water Resource Management (IWRM) plans across the world.
 
@@ -68,7 +68,7 @@ Many of our environmental systems - including our water, land, food, air and eco
 
 ## Target 6.a
 
-**_By 2030, expand international cooperation and capacity-building support to developing countries in water- and sanitation-related activities and programmes._**
+**By 2030, expand international cooperation and capacity-building support to developing countries in water- and sanitation-related activities and programmes.**
 
 The chart below shows the levels of total official development assistance (ODA) and other financial flows which are allocated to water and sanitation-related development.
 
