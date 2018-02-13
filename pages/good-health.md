@@ -38,7 +38,7 @@ Maternal mortality is defined as number of women who die from pregnancy-related 
 
 <iframe src="https://ourworldindata.org/grapher/maternal-mortality?tab=map" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/number-of-maternal-deaths-by-region" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
-**Percentage of births attended by trained personnel**
+### Percentage of births attended by trained personnel
 
 The provision of adequate healthcare and support by medical staff can be an important driver in reducing maternal and newborn mortality rates. The chart below shows the percentage of births who were attended by personnel trained to give necessary supervision, care and advice to women during pregnancy, labour (or guidence on how to conduct deliveries on their own) and postpartum period.
 
@@ -48,13 +48,13 @@ The provision of adequate healthcare and support by medical staff can be an impo
 
 **By 2030, end preventable deaths of newborns and children under 5 years of age, with all countries aiming to reduce neonatal mortality to at least as low as 12 per 1,000 live births and under‑5 mortality to at least as low as 25 per 1,000 live births.**
 
-**Neonatal mortality (newborns under 28 days of age)**
+### Neonatal mortality (newborns under 28 days of age)
 
 Neonatal mortality is defined as the share of newborns who die before reaching 28 days of age, measured per 1,000 live births in a given year. The charts below show the neonatal mortality rate, followed by the breakdown of total neonatal deaths by region.
 
 <iframe src="https://ourworldindata.org/grapher/neonatal-mortality-WDI" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/number-of-neonatal-deaths-by-region" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
-**Child mortality (children under 5 years old)**
+### Child mortality (children under 5 years old)
 
 Child mortality is defined as the number of children who die before reaching their 5th birthday. This is measured as the number of deaths per 1,000 live births. In the charts below we see the child mortality rate by country over time; the comparison of child mortality rates between boys and girls; and the total number of child deaths per year differentiated by region.
 
@@ -68,23 +68,23 @@ Child mortality is covered more broadly, and with a longer-term perspective in o
 
 The charts below provide data on the incidence, as well as the number of annual deaths related to communicable diseases. Broader and long-term coverage is available on some of these health issues at our entries on <a href="https://ourworldindata.org/hiv-aids/">HIV/AIDS</a>, <a href="https://ourworldindata.org/malaria/">Malaria</a>, and <a href="https://ourworldindata.org/causes-of-death/">Causes of Death</a>.
 
-**HIV/AIDS**
+### HIV/AIDS
 
 <iframe src="https://ourworldindata.org/grapher/number-of-new-hiv-infections-per-1000-uninfected-population-aged-15-49?tab=map" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/deaths-from-hiv-by-age" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
-**Tuberculosis**
+### Tuberculosis
 
 <iframe src="https://ourworldindata.org/grapher/tuberculosis-incidence-per-100000-people?tab=map" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/tuberculosis-deaths-by-age" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
-**Malaria**
+### Malaria
 
 <iframe src="https://ourworldindata.org/grapher/malaria-incidence-per-1000-population" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/malaria-deaths-by-age" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
-**Hepatitis**
+### Hepatitis
 
 <iframe src="https://ourworldindata.org/grapher/heptatitis-death-rate" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
-**Number of people requiring interventions against neglected tropical diseases**
+### Number of people requiring interventions against neglected tropical diseases
 
 <iframe src="https://ourworldindata.org/grapher/number-of-people-requiring-treatment-for-neglected-tropical-diseases" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/number-requiring-treatment-for-ntds-by-region" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
@@ -92,13 +92,13 @@ The charts below provide data on the incidence, as well as the number of annual 
 
 **By 2030, reduce by one third premature mortality from non-communicable diseases through prevention and treatment and promote mental health and well-being.**
 
-**Non-communicable diseases (NCDs)**
+### Non-communicable diseases (NCDs)
 
 The chart below shows the percentage of 30-year-olds who would die before their 70th birthday (defined as premature) from any non-communicable disease including cardiovascular disease, cancer, diabetes, or chronic respiratory disease. This assumes they would not die from any other cause of death, such as injuries or HIV/AIDS.
 
 <iframe src="https://ourworldindata.org/grapher/mortality-from-non-communicable-diseases" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
-**Mental wellbeing**
+### Mental wellbeing
 
 The visualisation below presents global-level data on suicide mortality rates (per 100,000 people). More in-depth data on suicide, its correlates and determinants are available at our <a href="https://ourworldindata.org/suicide/">full entry</a>. Also shown is the share of the total population suffering from depression, which refers to the sum of those suffering from 'major depressive disorder' and 'persistent depressive disorder'.
 
@@ -147,7 +147,7 @@ The charts below detail the access, quality and affordability of healthcare for 
 
 **By 2030, substantially reduce the number of deaths and illnesses from hazardous chemicals and air, water and soil pollution and contamination.**
 
-**Air Pollution**
+### Air Pollution
 
 The visualisations below present a global-level perspective of mortality rates related to household and ambient (outdoor) air pollution. These topics are covered in detail in our entries on <a href="https://ourworldindata.org/air-pollution/">Air Pollution</a> and <a href="https://ourworldindata.org/indoor-air-pollution/">Indoor Air Pollution</a>.
 
@@ -157,7 +157,7 @@ The visualisations below present a global-level perspective of mortality rates r
 
 <iframe src="https://ourworldindata.org/grapher/death-rate-by-source-from-indoor-air-pollution?tab=map" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/absolute-number-of-deaths-from-household-air-pollution" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
-**Water, Sanitation and Hygiene for All (WASH)**
+### Water, Sanitation and Hygiene for All (WASH)
 
 Clean drinking water, safe and adequate sanitation facilities and proper hygiene (WASH) are all essential services to reducing the global burden of preventable diseases, malnutrition and improving child development. The charts below show the attributed burden of unsafe water and sanitation sources as the attributed death rate per 100,000 people.
 
@@ -181,7 +181,7 @@ Vaccinations have greatly reduced the prevalence of diseases and they continue t
 
 <iframe src="https://ourworldindata.org/grapher/share-of-children-immunized-dtp3" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/share-of-children-vaccinated-against-measles" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
-**Total net official development assistance to medical research and basic health sectors**
+### Total net official development assistance to medical research and basic health sectors
 
 The chart below shows the gross official development assistance (ODA) to medical research and basic health sectors, measured in constant 2015 US$ per year.
 

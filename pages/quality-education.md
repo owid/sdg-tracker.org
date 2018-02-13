@@ -42,15 +42,15 @@ The charts below show the share of students in early education (grades 2 or 3), 
 
 ## Target 4.2
 
-**By 2030, ensure that all girls and boys have access to quality early childhood development, care and pre-primary education so that they are ready for primary education. **
+**By 2030, ensure that all girls and boys have access to quality early childhood development, care and pre-primary education so that they are ready for primary education.**
 
-**Proportion of children under 5 years of age who are developmentally on track in health, learning and psychosocial well-being**
+### Proportion of children under 5 years of age who are developmentally on track in health, learning and psychosocial well-being
 
 The chart below shows the share of children under 5 years old who are defined as developmentally on track in at least three of the following four domains: literacy-numeracy, physical, socio-emotional and learning.
 
 <iframe src="https://ourworldindata.org/grapher/proportion-of-children-developmentally-on-track" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
-**Participation rate in organized learning (one year before the official primary entry age)**
+### Participation rate in organized learning (one year before the official primary entry age)
 
 The charts below show the share of children of pre-primary age who are enroled in [pre-primary education](https://ourworldindata.org/pre-primary-education). This is given as the total across both sexes, with a further comparison of enrolment rates between boys and girls.
 
@@ -90,7 +90,7 @@ The charts below show the share of the population who can both read and write wi
 
 <iframe src="https://ourworldindata.org/grapher/adult-literacy-male" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/adult-literacy-female" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
-## **Target 4.b**
+## Target 4.b
 
 **By 2020, substantially expand globally the number of scholarships available to developing countries for enrollment in higher education, including vocational training.**
 
