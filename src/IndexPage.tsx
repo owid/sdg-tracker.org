@@ -1,4 +1,5 @@
 import * as React from 'react'
+import SiteFooter from './SiteFooter'
 import {SiteHeader} from './SiteHeader'
 import {Head} from './Head'
 import {BAKED_URL} from './settings'
@@ -32,6 +33,7 @@ export default function IndexPage(props: { goals: GoalPageProps[] }) {
                     </a>
                 </div>
             </nav>
+            <SiteFooter/>
         </body>
     </html>
 }

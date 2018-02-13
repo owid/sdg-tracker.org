@@ -52,7 +52,7 @@ html {
 	color: inherit;
 }
 
-body > header {
+.SiteHeader {
 	height: 70px;
 	background: #001c3d;
 
@@ -84,7 +84,30 @@ body > header {
 	}
 }
 
+.SiteFooter {
+	background: #001c3d;
+	border-top: 1px solid rgba(0, 0, 0, 0.1);
+	color: rgba(255, 255, 255, 0.5);
+	text-align: center;
+	padding: 40px 24px;
+	font-weight: 300;
+	word-wrap: initial;
+	margin-top: 60px;
 
+	a {
+		color: rgba(255, 255, 255, 0.8);
+		text-decoration: underline;
+		display: inline-block;
+	}
+
+	nav {
+		margin-top: 12px;
+	}
+
+	nav a {
+		margin-right: 10px;		
+	}
+}
 
 .IndexPage {
 	> .siteIntro {

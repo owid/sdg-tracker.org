@@ -1,6 +1,7 @@
 import * as React from 'react'
 
 import {SiteHeader} from './SiteHeader'
+import SiteFooter from './SiteFooter'
 import {Head} from './Head'
 import {BAKED_URL} from './settings'
 import {formatSDG, parseMarkdown} from './formatting'
@@ -52,7 +53,7 @@ export default class GoalPage extends React.Component<GoalPageProps> {
                     </header>
                     <div className="content">{formatSDG(body, isPreview)}</div>
                 </article>
-                <script src="https://ourworldindata.org/grapher/embedCharts.js"/>
+                <SiteFooter/>
             </body>
         </html>    
     }
