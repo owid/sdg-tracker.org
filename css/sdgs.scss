@@ -177,10 +177,18 @@ body > header {
 		}
 
 		> h2 {
-			font-size: 1.5em;
+			text-transform: uppercase;
+			color: rgba(0, 0, 0, 0.5);
+			font-size: 1.2rem;
+		}
+
+		> h2 + p {
+			font-size: 1.1em;
+			font-weight: 400;
 		}
 
 		> h3 {
+			font-size: 1.1rem;
 			margin-top: 2rem;
 			margin-bottom: 1.5em;
 			border-bottom: 1px solid rgba(0,0,0,.1);
@@ -188,7 +196,6 @@ body > header {
 		}
 
 		> p {
-			font-size: 1.06rem;
 			line-height: 1.7em;
 			margin-bottom: 1em;
 		}
