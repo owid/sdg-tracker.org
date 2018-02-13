@@ -24,7 +24,7 @@ export function parseMarkdown(content: string): JSX.Element[] {
 }
 
 export function formatSDG(content: string, isPreview?: boolean): JSX.Element[] {   
-    content = content.replace(/(<iframe.+<\/iframe>\n?)+/g, val => `<div class="embeds">${val}</div>\n`)
+    content = content.replace(/(<iframe.+<\/iframe>\n?)+/g, val => `<div class="embeds len${(val.match(/<iframe/g)||[]).length}">${val}</div>\n`)
 
     const nodes = parseMarkdown(content)
 

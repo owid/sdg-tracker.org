@@ -18,8 +18,6 @@ Over the past few decades we [have seen](https://ourworldindata.org/grapher/urba
 
 <iframe src="https://ourworldindata.org/grapher/share-of-urban-population-living-in-slums" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
-## 
-
 ## Target 11.5
 
 **By 2030, significantly reduce the number of deaths and the number of people affected and substantially decrease the direct economic losses relative to global gross domestic product caused by disasters.**
