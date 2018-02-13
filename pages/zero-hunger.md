@@ -54,7 +54,7 @@ Malnutrition in children can arise in several forms — two of the main indicato
 
 <iframe src="https://ourworldindata.org/grapher/share-of-children-younger-than-5-who-suffer-from-stunting?map" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/share-of-children-with-a-weight-too-low-for-their-height-wasting?tab=map" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
-**Overweight**
+### Overweight
 
 The chart below shows the share of children under 5 years old who are overweight (children with a weight-for-height more than two standard deviations above the median of the WHO's Child Growth Standards).
 
@@ -64,15 +64,15 @@ Adequate nutrition in adolescent, pregnant and lactating women can have a signif
 
 The charts below show the share of pregnant women, women of reproductive age, and children suffering from anemia, followed by the share of women and children suffering from vitamin-A deficiency (which can result in symptoms including night blindness). 
 
-**Prevalence of anemia**
+### Prevalence of anemia
 
 <iframe src="https://ourworldindata.org/grapher/prevalence-of-anemia-in-pregnant-women-1995-2011" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/prevalence-of-anemia-in-women-of-reproductive-age-aged-15-29" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/prevalence-of-anemia-in-children-1990-2011" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
-**Prevalence of vitamin-A deficiency**
+### Prevalence of vitamin-A deficiency
 
 <iframe src="https://ourworldindata.org/grapher/prevalence-of-vitamin-a-deficiency-in-pregnant-women" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/prevalence-of-vitamin-a-deficiency-in-children" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
-**Prevalence of night blindness**
+### Prevalence of night blindness
 
 <iframe src="https://ourworldindata.org/grapher/prevalence-of-night-blindness-in-pregnant-women" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/prevalence-of-night-blindness-in-pre-school-children" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
