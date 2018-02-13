@@ -5,7 +5,7 @@ goalNum: 4
 name: Quality Education
 description: >-
   Obtaining a quality education underpins a range of fundamental development
-  drivers. . Major progress has been made towards increasing access to education
+  drivers. Major progress has been made towards increasing access to education
   at all levels, particularly for women and girls. Basic literacy skills across
   the world have improved tremendously, yet bolder efforts are needed to achieve
   universal education goals for all. For example, the world has achieved
