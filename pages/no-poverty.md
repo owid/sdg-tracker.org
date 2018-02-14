@@ -24,7 +24,7 @@ featuredImage: /img/uploads/1.png
 
 **By 2030, eradicate extreme poverty for all people everywhere, currently measured as people living on less than $1.90 a day.**
 
-The chart below shoes the share of the total population living in extreme poverty by year. Extreme poverty is here defined by a $1.90 per day threshold, which has been corrected for inflation and cross-country differences in prices (i.e. given in purchasing power parity, PPP terms). This data is only measured countries defined as low or middle-income by World Bank definitions.
+The chart below shows the share of the total population living in extreme poverty by year. Extreme poverty is here defined by a $1.90 per day threshold, which has been corrected for inflation and cross-country differences in prices (i.e. given in purchasing power parity, PPP terms). This data is only measured countries defined as low or middle-income by World Bank definitions.
 
 <iframe src="https://ourworldindata.org/grapher/share-of-the-population-living-in-extreme-poverty?tab=map" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/world-population-in-extreme-poverty-absolute" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
@@ -73,8 +73,6 @@ The charts below visualise annual impacts of natural disaster events, including 
 <iframe src="https://ourworldindata.org/grapher/death-rates-from-disasters?tab=chart&country=OWID_WRL+NPL+BGD+USA+JPN" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/internally-displaced-persons-from-disasters" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
  <iframe src="https://ourworldindata.org/grapher/direct-economic-loss-attributed-to-disasters" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/disaster-risk-reduction-progress" style="width: 100%; height: 600px; border: 0px none;"></iframe>
-
-
 
 ## Target 1.a
 
