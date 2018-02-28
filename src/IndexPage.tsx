@@ -17,7 +17,7 @@ export default function IndexPage(props: { goals: GoalPageProps[] }) {
             <SiteHeader/>
             <div className="siteIntro container">
                 <h1>Measuring progress towards the Sustainable Development Goals</h1>
-                <p>The <a href="http://www.un.org/sustainabledevelopment/">Sustainable Development Goals</a> (SDGs) are a set of targets for global development adopted by the United Nations in September 2015, with targets set to be achieved by 2030. Here we present data across all available indicators from the Our World in Data database tracking progress towards these goals around the world.</p>
+                <p>The United Nations' (UN) <a href="http://www.un.org/sustainabledevelopment/">Sustainable Development Goals</a> (SDGs) are a set of targets for global development adopted by world leaders in September 2015, with targets set to be achieved by 2030. Here we present data across all available indicators from the Our World in Data database tracking progress towards these goals around the world.</p>
                 <p style={{ color: 'red' }}>Draft version</p>
             </div>
             <nav>
