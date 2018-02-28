@@ -1,11 +1,12 @@
 import { BAKED_URL } from './settings'
 import * as React from 'react'
+import * as urljoin from 'url-join'
 
 export const Head = (props: { canonicalUrl: string, pageTitle?: string, pageDesc?: string, imageUrl?: string }) => {
     const {canonicalUrl} = props
     const pageTitle = props.pageTitle ? `${props.pageTitle} - Our World in Data` : `Our World in Data`
     const pageDesc = props.pageDesc || "Living conditions around the world are changing rapidly. Explore how and why."
-    const imageUrl = props.imageUrl || `${BAKED_URL}/wp-content/uploads/2016/06/OurWorldInData.png`
+    let imageUrl = props.imageUrl || `https://ourworldindata.org/wp-content/uploads/2016/06/OurWorldInData.png`
 
     return <head>
         <meta name="viewport" content="width=device-width, initial-scale=1"/>
@@ -24,6 +25,6 @@ export const Head = (props: { canonicalUrl: string, pageTitle?: string, pageDesc
         <meta name="twitter:title" content={pageTitle}/>
         <meta name="twitter:description" content={pageDesc}/>
         <meta name="twitter:image" content={imageUrl}/>
-        <link rel="stylesheet" href={`/assets/sdgs.css`}/>
+        <link rel="stylesheet" href={`${BAKED_URL}/assets/sdgs.css`}/>
     </head>
 }

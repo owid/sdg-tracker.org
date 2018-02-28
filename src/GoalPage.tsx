@@ -3,7 +3,7 @@ import * as React from 'react'
 import {SiteHeader} from './SiteHeader'
 import SiteFooter from './SiteFooter'
 import {Head} from './Head'
-import {BAKED_URL} from './settings'
+import {sdgsUrl, absoluteSdgsUrl} from './settings'
 import {formatSDG, parseMarkdown} from './formatting'
 
 export interface GoalPageProps {
@@ -30,20 +30,19 @@ export default class GoalPage extends React.Component<GoalPageProps> {
     render() {
         const {isPreview, slug, goalNum, name, title, description, featuredImage, body} = this.props
 
-        const canonicalUrl = `${BAKED_URL}/${slug}`
         const pageTitle = `Goal ${goalNum}: ${title}`
     
         return <html>
-            <Head canonicalUrl={canonicalUrl} pageTitle={pageTitle} pageDesc={description} imageUrl={featuredImage}/>
+            <Head canonicalUrl={absoluteSdgsUrl(slug)} pageTitle={pageTitle} pageDesc={description} imageUrl={absoluteSdgsUrl(featuredImage)}/>
             <body ref={e => this.body = e as HTMLBodyElement}>
                 <SiteHeader/>
                 <article className="GoalPage">
                     <header>
                         <div className="breadcrumb">
-                            <span><a href="../">Sustainable Development Goals</a> <i className="fa fa-angle-right"/> {name}</span>
+                            <span><a href={sdgsUrl("/")}>Sustainable Development Goals</a> <i className="fa fa-angle-right"/> {name}</span>
                         </div>
                         <div className="goalIntro">
-                            <img src={featuredImage} />
+                            <img src={sdgsUrl(featuredImage)} />
                             <div>
                                 <h1>{pageTitle}</h1>
                                 <div>{parseMarkdown(description)}</div>

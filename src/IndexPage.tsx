@@ -2,18 +2,17 @@ import * as React from 'react'
 import SiteFooter from './SiteFooter'
 import {SiteHeader} from './SiteHeader'
 import {Head} from './Head'
-import {BAKED_URL} from './settings'
+import {sdgsUrl, absoluteSdgsUrl} from './settings'
 import {GoalPageProps} from './GoalPage'
 
 export default function IndexPage(props: { goals: GoalPageProps[] }) {
     const {goals} = props
-    const canonicalUrl = `https://ourworldindata.org/mispy/sdgs`
     const pageTitle = "Measuring progress towards the Sustainable Development Goals"
-    const pageImage = `${canonicalUrl}/img/sdg-poster.png`
+    const pageImage = `/img/sdg-poster.png`
     const pageDesc = "The UN sustainable development goals are a set of targets for global development adopted by world leaders in September 2015. Here we present data from the OWID database showing progress towards these goals around the world."
 
     return <html>
-        <Head canonicalUrl={BAKED_URL} pageTitle={pageTitle} pageDesc={pageDesc} imageUrl={pageImage}/>
+        <Head canonicalUrl={absoluteSdgsUrl("/")} pageTitle={pageTitle} pageDesc={pageDesc} imageUrl={absoluteSdgsUrl(pageImage)}/>
         <body className="IndexPage">
             <SiteHeader/>
             <div className="siteIntro container">
@@ -24,12 +23,12 @@ export default function IndexPage(props: { goals: GoalPageProps[] }) {
             <nav>
                 <div className="goals">
                     {goals.map(goal => 
-                        <a href={goal.slug}>
-                            <img src={goal.featuredImage} alt={goal.name}/>
+                        <a href={sdgsUrl(goal.slug)}>
+                            <img src={sdgsUrl(goal.featuredImage)} alt={goal.name}/>
                         </a>
                     )}
                     <a>
-                        <img src="./img/uploads/18.png" />
+                        <img src={sdgsUrl("/img/uploads/18.png")} />
                     </a>
                 </div>
             </nav>
