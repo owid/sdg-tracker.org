@@ -46,7 +46,6 @@ export default class GoalPage extends React.Component<GoalPageProps> {
                             <div>
                                 <h1>{pageTitle}</h1>
                                 <div>{parseMarkdown(description)}</div>
-                                <p style={{ color: 'red' }}>Draft version</p>
                             </div>
                         </div>
                     </header>
