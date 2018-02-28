@@ -68,8 +68,7 @@ module.exports = {
 
         new CopyWebpackPlugin([
             { from: 'img', to: 'img' },
-            { from: 'admin', to: 'admin' },
-            { from: '_redirects' }
+            { from: 'admin', to: 'admin' }
         ])
     ].concat(isProduction ? [
         /*new OptimizeCssAssetsPlugin({
