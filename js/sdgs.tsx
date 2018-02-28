@@ -13,9 +13,9 @@ import pages from '../pages'
 
 export default (locals: any, callback: (val: null, resp: any) => void) => {
     const output: {[key: string]: string} = {}
-    output['/sdgs/index.html'] = ReactDOMServer.renderToStaticMarkup(<IndexPage goals={pages}/>)
+    output['/index.html'] = ReactDOMServer.renderToStaticMarkup(<IndexPage goals={pages}/>)
     for (const page of pages) {
-        output[`/sdgs/${page.slug}.html`] = ReactDOMServer.renderToStaticMarkup(<GoalPage {...page}/>)
+        output[`/${page.slug}.html`] = ReactDOMServer.renderToStaticMarkup(<GoalPage {...page}/>)
     }
     callback(null, output)
 };
