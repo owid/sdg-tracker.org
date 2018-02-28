@@ -16,7 +16,7 @@ module.exports = {
     },
     output: {
         path: path.join(__dirname, 'build'),
-        filename: 'assets/[name].js',
+        filename: 'sdgs/assets/[name].js',
         libraryTarget: 'umd'
     },
     resolve: {
@@ -30,10 +30,10 @@ module.exports = {
             },
             {
                 test: /\.png$/,
-                loader: 'url-loader?limit=10000&publicPath=assets/&outputPath=assets/'
+                loader: 'url-loader?limit=10000&publicPath=sdgs/assets/&outputPath=sdgs/assets/'
             },
-            { test: /\.woff(2)?(\?v=[0-9]\.[0-9]\.[0-9])?$/, loader: "url-loader?limit=10000&mimetype=application/font-woff&outputPath=assets/" },
-            { test: /\.(ttf|eot|svg)(\?v=[0-9]\.[0-9]\.[0-9])?$/, loader: "file-loader?limit=10000&outputPath=assets/" },
+            { test: /\.woff(2)?(\?v=[0-9]\.[0-9]\.[0-9])?$/, loader: "url-loader?limit=10000&mimetype=application/font-woff&outputPath=sdgs/assets/" },
+            { test: /\.(ttf|eot|svg)(\?v=[0-9]\.[0-9]\.[0-9])?$/, loader: "file-loader?limit=10000&outputPath=sdgs/assets/" },
             {
                 test: /\.css$/,
                 loader: ExtractTextPlugin.extract({
@@ -58,7 +58,7 @@ module.exports = {
     },
     devtool: (isProduction ? false : "cheap-module-eval-source-map"),
     plugins: [
-        new ExtractTextPlugin('assets/[name].css'),
+        new ExtractTextPlugin('sdgs/assets/[name].css'),
 
         new StaticSiteGeneratorPlugin({
             entry: 'sdgs',
@@ -67,8 +67,8 @@ module.exports = {
         }),
 
         new CopyWebpackPlugin([
-            { from: 'img', to: 'img' },
-            { from: 'admin', to: 'admin' },
+            { from: 'img', to: 'sdgs/img' },
+            { from: 'admin', to: 'sdgs/admin' },
             { from: '_redirects' }
         ])
     ].concat(isProduction ? [
