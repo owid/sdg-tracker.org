@@ -9,7 +9,7 @@ export default function IndexPage(props: { goals: GoalPageProps[] }) {
     const {goals} = props
     const pageTitle = "Measuring progress towards the Sustainable Development Goals"
     const pageImage = `/img/sdg-poster.png`
-    const pageDesc = "The UN sustainable development goals are a set of targets for global development adopted by world leaders in September 2015. Here we present data from the OWID database showing progress towards these goals around the world."
+    const pageDesc = "The United Nations' (UN) Sustainable Development Goals (SDGs) are a set of targets for global development adopted by world leaders in September 2015, with targets set to be achieved by 2030. Here we present data across all available indicators from the Our World in Data database tracking progress towards these goals around the world."
 
     return <html>
         <Head canonicalUrl={absoluteSdgsUrl("/")} pageTitle={pageTitle} pageDesc={pageDesc} imageUrl={absoluteSdgsUrl(pageImage)}/>
@@ -17,7 +17,7 @@ export default function IndexPage(props: { goals: GoalPageProps[] }) {
             <SiteHeader/>
             <div className="siteIntro container">
                 <h1>Measuring progress towards the Sustainable Development Goals</h1>
-                <p>The UN <a href="http://www.un.org/sustainabledevelopment/">sustainable development goals</a> are a set of targets for global development adopted by world leaders in September 2015. Here we present data from the OWID database tracking progress towards these goals around the world.</p>
+                <p>The <a href="http://www.un.org/sustainabledevelopment/">Sustainable Development Goals</a> (SDGs) are a set of targets for global development adopted by the United Nations in September 2015, with targets set to be achieved by 2030. Here we present data across all available indicators from the Our World in Data database tracking progress towards these goals around the world.</p>
                 <p style={{ color: 'red' }}>Draft version</p>
             </div>
             <nav>
