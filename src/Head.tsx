@@ -1,4 +1,4 @@
-import { BAKED_URL } from './settings'
+import { sdgsUrl } from './settings'
 import * as React from 'react'
 import * as urljoin from 'url-join'
 
@@ -25,6 +25,6 @@ export const Head = (props: { canonicalUrl: string, pageTitle?: string, pageDesc
         <meta name="twitter:title" content={pageTitle}/>
         <meta name="twitter:description" content={pageDesc}/>
         <meta name="twitter:image" content={imageUrl}/>
-        <link rel="stylesheet" href={`${BAKED_URL}/assets/sdgs.css`}/>
+        <link rel="stylesheet" href={sdgsUrl("/assets/sdgs.css")}/>
     </head>
 }
