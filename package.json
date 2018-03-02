@@ -36,8 +36,6 @@
     "dotenv": "^4.0.0",
     "extract-text-webpack-plugin": "^2.0.0",
     "file-loader": "^0.10.1",
-    "font-awesome": "^4.7.0",
-    "font-awesome-webpack": "^0.0.5-beta.2",
     "front-matter": "^2.3.0",
     "front-matter-loader": "^0.2.0",
     "fs-extra": "^5.0.0",

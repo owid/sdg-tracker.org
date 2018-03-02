@@ -39,7 +39,7 @@ export default class GoalPage extends React.Component<GoalPageProps> {
                 <article className="GoalPage">
                     <header>
                         <div className="breadcrumb">
-                            <span><a href={sdgsUrl("/")}>Sustainable Development Goals</a> <i className="fa fa-angle-right"/> {name}</span>
+                            <span><a href={sdgsUrl("/")}>Sustainable Development Goals</a><span style={{"padding-left": ".5rem", "padding-right": ".5rem"}}>/</span>{name}</span>
                         </div>
                         <div className="goalIntro">
                             <img src={sdgsUrl(featuredImage)} />
