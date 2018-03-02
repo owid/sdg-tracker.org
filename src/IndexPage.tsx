@@ -9,7 +9,7 @@ export default function IndexPage(props: { goals: GoalPageProps[] }) {
     const {goals} = props
     const pageTitle = "Measuring progress towards the Sustainable Development Goals"
     const pageImage = `/img/sdg-poster.png`
-    const pageDesc = "The United Nations Sustainable Development Goals (SDGs) are a set of targets for global development adopted in September 2015, aiming to be achieved by 2030. Here we present data across all available indicators from the Our World in Data database tracking progress towards these goals around the world."
+    const pageDesc = "The United Nations Sustainable Development Goals (SDGs) are targets for global development adopted in September 2015, set to be achieved by 2030. Here we present data across all available indicators from the Our World in Data database tracking progress towards these goals around the world."
 
     return <html>
         <Head canonicalUrl={absoluteSdgsUrl("/")} pageTitle={pageTitle} pageDesc={pageDesc} imageUrl={absoluteSdgsUrl(pageImage)}/>
