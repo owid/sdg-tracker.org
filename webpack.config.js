@@ -68,7 +68,8 @@ module.exports = {
 
         new CopyWebpackPlugin([
             { from: 'img', to: 'img' },
-            { from: 'admin', to: 'admin' }
+            { from: 'admin', to: 'admin' },
+            { from: 'public' }
         ])
     ].concat(isProduction ? [
         /*new OptimizeCssAssetsPlugin({
