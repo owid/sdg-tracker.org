@@ -100,9 +100,9 @@ The chart below shows the percentage of 30-year-olds who would die before their 
 
 ### Mental wellbeing
 
-The visualisation below presents global-level data on suicide mortality rates (per 100,000 people). More in-depth data on suicide, its correlates and determinants are available at our <a href="https://ourworldindata.org/suicide/">full entry</a>. Also shown is the share of the total population suffering from depression, which refers to the sum of those suffering from 'major depressive disorder' and 'persistent depressive disorder'.
+The visualisation below presents global-level data on suicide mortality rates (per 100,000 people). More in-depth data on suicide, its correlates and determinants are available at our <a href="https://ourworldindata.org/suicide/">full entry</a>. Also shown is the share of the total population with depression, which refers to the sum of those with major depressive disorder and persistent depressive disorder.
 
-<iframe src="https://ourworldindata.org/grapher/suicide-mortality-rate" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/share-suffering-from-depression" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/suicide-mortality-rate" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/share-with-depression" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 ## Target 3.5
 
