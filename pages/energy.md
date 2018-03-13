@@ -33,4 +33,28 @@ Modern energy services encompass both reliable provision to electricity, as well
 
 <iframe src="https://ourworldindata.org/grapher/access-to-clean-fuels-and-technologies-for-cooking" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
+## Target 7.2
+
+**By 2030, increase substantially the share of renewable energy in the global energy mix.**
+
+Renewable energy is one of the two forms of low-carbon energy (the other being nuclear). Increasing the share of renewable and low-carbon energy is not only crucial in tackling climate change and reducing greenhouse gas emissions but also in reducing the health burden from outdoor air pollution.
+
+Energy is inclusive of electricity, but extends to other sources including those for non-electric heating and transport. In the charts below we show the percentage of final energy consumption supplied by renewables by country, and also the share of electricity production by fuel source. This data can be viewed by country, and allows us to see the relative contribution of renewables, nuclear, and fossil fuel sources.
+
+<iframe src="https://ourworldindata.org/grapher/renewables-share-final-energy?tab=chart" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/world-electricity-by-source?country=OWID_WRL" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+## Target 7.3
+
+**By 2030, double the global rate of improvement in energy efficiency.**
+
+Reducing or limiting global energy demand whilst continuing global and economic development are two goals which can conflict with one another. A useful measure we can use to track progress on both is 'energy intensity' which measures the quantity of energy needed to produce one unit of gross domestic product (GDP).
+
+If we are to increase our energy efficiency and continue to promote economic development, we must reduce the amount of energy needed per unit of GDP. This metric is shown in the chart below by country over time. A doubling in energy efficiency or intensity would require a 50% reduction in the quantity of energy used per dollar.
+
+<iframe src="https://ourworldindata.org/grapher/energy-intensity-of-economies" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/energy-intensity-by-sector" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+
+
+
+
 ##
