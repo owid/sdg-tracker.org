@@ -1,9 +1,9 @@
 import * as React from 'react'
-import {absoluteSdgsUrl} from './settings'
+import {absoluteSdgsUrl, GRAPHER_ROOT} from './settings'
 
 export default function SiteFooter() {
     return <footer className="SiteFooter">
         <a href="https://goo.gl/forms/fwJmzRk68IVoPssh2">Give feedback on this project</a>
-        <script src={"https://ourworldindata.org/grapher/embedCharts.js"}/>
+        <script src={`${GRAPHER_ROOT}/embedCharts.js`}/>
     </footer>
 }

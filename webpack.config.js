@@ -4,6 +4,7 @@ const StaticSiteGeneratorPlugin = require('static-site-generator-webpack-plugin'
 const ExtractTextPlugin = require('extract-text-webpack-plugin')
 const CopyWebpackPlugin = require('copy-webpack-plugin')
 const OptimizeCssAssetsPlugin = require('optimize-css-assets-webpack-plugin')
+const Dotenv = require('dotenv-webpack');
 const fs = require('fs')
 
 const isProduction = process.argv.indexOf('-p') !== -1;
@@ -18,6 +19,9 @@ module.exports = {
         path: path.join(__dirname, 'build'),
         filename: 'assets/[name].js',
         libraryTarget: 'umd'
+    },
+    node: {
+        fs: 'empty'
     },
     resolve: {
         extensions: [".js", ".jsx", ".ts", ".tsx", ".css"]
@@ -58,6 +62,8 @@ module.exports = {
     },
     devtool: (isProduction ? false : "cheap-module-eval-source-map"),
     plugins: [
+        new Dotenv(),
+
         new ExtractTextPlugin('assets/[name].css'),
 
         new StaticSiteGeneratorPlugin({
