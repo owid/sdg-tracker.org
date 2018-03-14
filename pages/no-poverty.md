@@ -72,7 +72,7 @@ The charts below visualise annual impacts of natural disaster events, including 
 
 <iframe src="https://ourworldindata.org/grapher/death-rates-from-disasters?tab=chart&country=OWID_WRL+NPL+BGD+USA+JPN" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/internally-displaced-persons-from-disasters" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
- <iframe src="https://ourworldindata.org/grapher/direct-economic-loss-attributed-to-disasters" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/disaster-risk-reduction-progress" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/direct-disaster-economic-loss" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/direct-disaster-loss-as-a-share-of-gdp" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/disaster-risk-reduction-progress" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 ## Target 1.a
 
