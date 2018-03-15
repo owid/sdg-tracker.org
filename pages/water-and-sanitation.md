@@ -24,11 +24,17 @@ featuredImage: /img/uploads/6.png
 
 **By 2030, achieve universal and equitable access to safe and affordable drinking water for all.**
 
-In the charts below we present data on the share of the total population with access to an [improved drinking water source](https://ourworldindata.org/water-access-resources-sanitation#access-to-improved-water-sources); the difference in access between urban and rural populations; and the total number of people without access to an improved drinking water source by continent.
+In the charts below we present data on the share of the total population with access to a safely managed, basic, limited, unimproved and surface water source; and the difference in access between urban and rural populations.
+
+A 'safely managed' drinking water source is one located on premises, available when needed and free from contamination. Measurement of this metric across all countries on this metric is currently not available; we therefore also provide data on basic drinking water sources. 'At least basic' drinking water represents an improved source within 30 minutes’ round trip to collect water; 'limited' constitutes an improved water source more than a 30 minute round-trip away; 'unimproved' is one that by the nature of its construction does not adequately protect the source from outside contamination; and 'surface' is that from surface water sources.
 
 An improved drinking [water source includes](https://ourworldindata.org/water-access-resources-sanitation#water-access-and-sanitation-facilities) piped water on premises (piped household water connection located inside the user’s dwelling, plot or yard), and other improved drinking water sources (public taps or standpipes, tube wells or boreholes, protected dug wells, protected springs, and rainwater collection).
 
-<iframe src="https://ourworldindata.org/grapher/share-of-the-population-with-access-to-improved-drinking-water?tab=map" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/urban-improved-water-access-vs-rural-water-access" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/number-without-access-water-source" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/proportion-using-safely-managed-drinking-water" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/urban-vs-rural-safely-managed-drinking-water-source" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/number-using-safely-managed-drinking-water" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/population-using-at-least-basic-drinking-water" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/urban-vs-rural-using-at-least-basic-drinking-water" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/people-with-access-to-at-least-basic-drinking-water" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/drinking-water-service-coverage" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/drinking-water-services-coverage-urban" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/drinking-water-services-coverage-rural" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 ## Target 6.2
 
