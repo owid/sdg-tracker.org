@@ -46,7 +46,7 @@ Improved [sanitation facilities include](https://ourworldindata.org/water-access
 
 Basic handwashing facilities are defined as a device to contain, transport or regulate the flow of water to facilitate handwashing with soap and water in the household. 
 
-<iframe src="https://ourworldindata.org/grapher/share-of-population-with-improved-sanitation-faciltities" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/urban-sanitation-facilities-vs-rural-sanitation-facilities" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/number-without-access-sanitation" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/share-using-safely-managed-sanitation" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/urban-vs-rural-population-safely-managed-sanitation" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/number-using-safely-managed-sanitation" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 <iframe src="https://ourworldindata.org/grapher/people-practicing-open-defecation-of-population?tab=map" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/open-defecation-in-rural-areas-vs-urban-areas" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
