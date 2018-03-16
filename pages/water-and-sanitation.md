@@ -50,7 +50,7 @@ Basic handwashing facilities are defined as a device to contain, transport or re
 
 <iframe src="https://ourworldindata.org/grapher/share-using-at-least-basic-sanitation" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/urban-vs-rural-population-using-at-least-basic-sanitation" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/number-using-at-least-basic-sanitation" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
-<iframe src="https://ourworldindata.org/grapher/sanitation-facilities-coverage" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/sanitation-facilities-coverage-in-urban-areas" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/sanitation-facilities-coverage-in-rural-areas" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/sanitation-facilities-coverage" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/sanitation-facilities-coverage-in-urban-areas" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 <iframe src="https://ourworldindata.org/grapher/proportion-of-population-with-basic-handwashing-facilities-on-premises" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/proportion-with-basic-handwashing-facilities-urban-vs-rural" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
