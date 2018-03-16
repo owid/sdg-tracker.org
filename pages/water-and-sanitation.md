@@ -34,7 +34,7 @@ An improved drinking [water source includes](https://ourworldindata.org/water-ac
 
 <iframe src="https://ourworldindata.org/grapher/population-using-at-least-basic-drinking-water" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/urban-vs-rural-using-at-least-basic-drinking-water" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/people-with-access-to-at-least-basic-drinking-water" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
-<iframe src="https://ourworldindata.org/grapher/drinking-water-service-coverage" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://owid.cloud/grapher/drinking-water-services-coverage-urban" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/drinking-water-services-coverage-rural" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/drinking-water-service-coverage" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/drinking-water-services-coverage-urban" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/drinking-water-services-coverage-rural" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 ## Target 6.2
 
