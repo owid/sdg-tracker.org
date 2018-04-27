@@ -1,5 +1,4 @@
 import * as _ from 'lodash'
-import {GoalPageProps} from '../src/GoalPage'
 
 declare var require: any
 function requireAll(requireContext: any): any[] {
@@ -12,5 +11,5 @@ function requireAll(requireContext: any): any[] {
     }, obj.attributes)
   })
 }
-const pages = requireAll(require.context("../pages", true, /.md$/)) as GoalPageProps[]
+const pages = requireAll(require.context("../pages", true, /.md$/)) as any[]
 export default _.sortBy(pages, page => page.goalNum)

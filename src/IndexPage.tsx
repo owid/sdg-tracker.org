@@ -26,9 +26,6 @@ export default function IndexPage(props: { goals: GoalPageProps[] }) {
                             <img src={sdgsUrl(goal.featuredImage)} alt={goal.name}/>
                         </a>
                     )}
-                    <a>
-                        <img src={sdgsUrl("/img/uploads/18.png")} />
-                    </a>
                 </div>
             </nav>
             <SiteFooter/>

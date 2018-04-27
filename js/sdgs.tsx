@@ -8,13 +8,15 @@ import * as path from 'path'
 
 import IndexPage from '../src/IndexPage'
 import GoalPage from '../src/GoalPage'
+import AboutPage from '../src/AboutPage'
 import pages from '../pages'
 
 export default (locals: any, callback: (val: null, resp: any) => void) => {
     const output: {[key: string]: string} = {}
     output['/index.html'] = ReactDOMServer.renderToStaticMarkup(<IndexPage goals={pages}/>)
     for (const page of pages) {
-        output[`/${page.slug}.html`] = ReactDOMServer.renderToStaticMarkup(<GoalPage {...page}/>)
+        const el = page.layout === "goal" ? <GoalPage {...page}/> : <AboutPage {...page}/>
+        output[`/${page.slug}.html`] = ReactDOMServer.renderToStaticMarkup(el)
     }
     callback(null, output)
 };

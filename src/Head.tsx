@@ -4,7 +4,7 @@ import * as urljoin from 'url-join'
 
 export const Head = (props: { canonicalUrl: string, pageTitle?: string, pageDesc?: string, imageUrl?: string }) => {
     const {canonicalUrl} = props
-    const pageTitle = props.pageTitle ? `${props.pageTitle}` : `SDG Tracker`
+    const pageTitle = props.pageTitle ? `${props.pageTitle} - SDG Tracker` : `SDG Tracker`
     const pageDesc = props.pageDesc || "Living conditions around the world are changing rapidly. Explore how and why."
     let imageUrl = props.imageUrl || `https://ourworldindata.org/wp-content/uploads/2016/06/OurWorldInData.png`
 
