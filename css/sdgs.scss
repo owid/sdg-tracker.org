@@ -130,10 +130,11 @@ html {
 		margin-right: 14px;
 		margin-bottom: 7px;
 		box-shadow: 0 2px 5px 0 rgba(0,0,0,.16), 0 2px 10px 0 rgba(0,0,0,.12);
+		filter: brightness(95%);
 	}
 
 	.goals img:hover {
-		filter: brightness(80%);
+		filter: brightness(120%);
 	}
 }
 
