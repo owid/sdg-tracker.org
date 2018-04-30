@@ -4,7 +4,7 @@ import {SiteHeader} from './SiteHeader'
 import SiteFooter from './SiteFooter'
 import {Head} from './Head'
 import {sdgsUrl, absoluteSdgsUrl} from './settings'
-import {formatSDG, parseMarkdown} from './formatting'
+import {formatSDG, parseMarkdown, stripMarkdown, firstParagraph} from './formatting'
 
 export interface GoalPageProps {
     isPreview?: boolean
@@ -33,7 +33,7 @@ export default class GoalPage extends React.Component<GoalPageProps> {
         const pageTitle = `${title}`
     
         return <html>
-            <Head canonicalUrl={absoluteSdgsUrl(slug)} pageTitle={pageTitle} pageDesc={description} imageUrl={absoluteSdgsUrl(featuredImage)}/>
+            <Head canonicalUrl={absoluteSdgsUrl(slug)} pageTitle={pageTitle} pageDesc={firstParagraph(stripMarkdown(description))} imageUrl={absoluteSdgsUrl(featuredImage)}/>
             <body ref={e => this.body = e as HTMLBodyElement}>
                 <SiteHeader/>
                 <article className="AboutPage">

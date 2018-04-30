@@ -18,9 +18,19 @@ import * as React from 'react'
 })*/
 
 const compiler = require('markdown-to-jsx').compiler
+const removeMd = require('remove-markdown')
 
 export function parseMarkdown(content: string): JSX.Element[] {
     return compiler(content).props.children||[]
+}
+
+// Convert markdown text to plaintext e.g. for meta tags
+export function stripMarkdown(content: string): string {
+    return removeMd(content)
+}
+
+export function firstParagraph(content: string): string {
+    return content.split("\n\n")[0]
 }
 
 export function formatSDG(content: string, isPreview?: boolean): JSX.Element[] {   
