@@ -230,6 +230,10 @@ iframe {
 
 $mobileWidth: 767px;
 
+html, body {
+	color: green !important;
+}
+
 @media only screen and (max-width: 767px) {
 	.content > section {
 		> p, > h1, > h2, > h3, > h4, > h5, > h6, > .embeds {
@@ -238,14 +242,17 @@ $mobileWidth: 767px;
 		}
 	}
 
-	.embeds {
+	.blocks {
 		display: block;
 
-		> figure {
+		> .block {
 			width: 100%;
-			height: 550px;
 			margin: 0;
 			margin-bottom: 1rem;
+		}
+
+		figure {
+			height: 550px;
 		}
 	}
 
@@ -282,26 +289,47 @@ $mobileWidth: 767px;
 		font-size: 50px;
 	}
 
+	.blocks {
+		width: 100%;
+		display: flex;
+		justify-content: center;
+	}
+
+	.blocks.two > .block {
+		display: flex;
+		flex-direction: column;
+		width: 45%;
+		max-width: 700px;
+		margin: 2em 1em;
+	}
+
+	.blocks.three > .block {
+		width: 30%;
+		max-width: 600px;
+		height: 500px;
+		margin: 2em 1em;
+	}
+
 	.embeds {
 		width: 100%;
 		display: flex;
 		justify-content: center;
 	}
 	
-	.embeds.len1 > figure {
+	/*.embeds.len1 > figure {
 		width: 100%;
 		max-width: 850px;
 		height: 600px;
-	}
+	}*/
 	
-	.embeds.len2 > figure {
-		width: 45%;
-		max-width: 700px;
+	.blocks.two figure {
+		width: 100%;
 		height: 550px;
-		margin: 2em 1em;
+		margin: 0;
+		margin-top: auto;
 	}
 	
-	.embeds.len3 > figure {
+	.embeds.three > figure {
 		width: 30%;
 		max-width: 600px;
 		height: 500px;

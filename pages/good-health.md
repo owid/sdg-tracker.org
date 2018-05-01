@@ -30,19 +30,57 @@ description: >-
   [Smoking](https://ourworldindata.org/smoking).
 featuredImage: /img/uploads/3.png
 ---
-## Target 3.1
+## Target 3.1: By 2030, reduce the global maternal mortality ratio to less than 70 per 100,000 live births.
+SDG indicators: 3.1.1. Maternal mortality rate & 3.1.2. Skilled birth attendance
 
-**By 2030, reduce the global maternal mortality ratio to less than 70 per 100,000 live births.**
+### 3.1.1. Maternal mortality rate
 
-Maternal mortality is defined as number of women who die from pregnancy-related causes while pregnant or within 42 days of pregnancy termination per 100,000 live births. The charts below present global-level data on maternal mortality rates, and the absolute number of maternal deaths per year. Country-level data on the number of maternal deaths can be found <a href="https://ourworldindata.org/grapher/number-of-maternal-deaths?country=BGD+BRA+COD+IND+ZAF+OWID_WRL+ZMB">here</a>, and additional data on Maternal Mortality can be found at our full entry, available <a href="https://ourworldindata.org/maternal-mortality/">here</a>.
+**Definition**: The maternal mortality rate refers to the number of women who die from pregnancy-related causes while pregnant or within 42 days of pregnancy termination per 100,000 live births.
 
-<iframe src="https://ourworldindata.org/grapher/maternal-mortality?tab=map" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/number-of-maternal-deaths-by-region" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+**Goal for maternal mortality**: Reduce maternal mortality to less than 70 deaths per 100,000 live births.
 
-### Percentage of births attended by trained personnel
+**More research at Our World in Data**:
+Country-level data on the number of maternal deaths can be found here,
+Data on Maternal Mortality can be found at our full entry, available here.
+
+The Our World in Data entry on maternal mortality visualizes data to give a long-run perspective over the last centuries and the presents research on the causes and consequences of the deaths of mothers.
+
+#### How is the world doing on indicator 3.1.1?
+
+<div class="blocks two">
+  <div class="block">
+    <div>
+      <h5>The data on maternal mortality</h5>
+      <p>The charts below present global-level data on neonatal mortality rates. The goal is to reduce the neonatal mortality rate to less than 12 deaths per 1000 births. All countries in Europe and Northern America have achieved this goal. Particularly in Africa however the mortality rate for newborns is up to x-fold higher than the goal.</p>
+    </div>
+    <iframe src="https://ourworldindata.org/grapher/maternal-mortality?tab=map" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+  </div>
+  <div class="block">
+    <div>
+      <h5>Additional data perspective: total deaths by world region</h5>
+      <p>The chart below shows the…</p>
+    </div>
+    <iframe src="https://ourworldindata.org/grapher/number-of-maternal-deaths-by-region" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+  </div>
+</div>
+
+### 3.1.2 Skilled birth attendance
 
 The provision of adequate healthcare and support by medical staff can be an important driver in reducing maternal and newborn mortality rates. The chart below shows the percentage of births who were attended by personnel trained to give necessary supervision, care and advice to women during pregnancy, labour (or guidence on how to conduct deliveries on their own) and postpartum period.
 
-<iframe src="https://ourworldindata.org/grapher/births-attended-by-health-staff" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<div class="blocks one">
+  <div class="block">
+    The data on indicator 3.1.2.
+
+    The charts below present global-level data on 
+
+    The provision of adequate healthcare and support by medical staff can be an important driver in reducing maternal and newborn mortality rates. The chart below shows the percentage of births who were attended by personnel trained to give necessary supervision, care and advice to women during pregnancy, labour (or guidence on how to conduct deliveries on their own) and postpartum period.
+  </div>
+</div>
+
+<div class="embeds one">
+  <iframe src="https://ourworldindata.org/grapher/births-attended-by-health-staff" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+</div>
 
 ## Target 3.2
 

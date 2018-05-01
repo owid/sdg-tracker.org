@@ -34,8 +34,6 @@ export function firstParagraph(content: string): string {
 }
 
 export function formatSDG(content: string, isPreview?: boolean): JSX.Element[] {   
-    content = content.replace(/(<iframe.+<\/iframe>\n?)+/g, val => `<div class="embeds len${(val.match(/<iframe/g)||[]).length}">${val}</div>\n`)
-
     const nodes = parseMarkdown(content)
 
     // Wrap content demarcated by headings into section blocks

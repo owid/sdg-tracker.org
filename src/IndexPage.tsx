@@ -22,7 +22,7 @@ export default function IndexPage(props: { goals: GoalPageProps[] }) {
             <nav>
                 <div className="goals">
                     {goals.map(goal => 
-                        <a href={sdgsUrl(goal.slug)}>
+                        <a key={goal.slug} href={sdgsUrl(goal.slug)}>
                             <img src={sdgsUrl(goal.featuredImage)} alt={goal.name}/>
                         </a>
                     )}
