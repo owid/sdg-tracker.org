@@ -230,10 +230,6 @@ iframe {
 
 $mobileWidth: 767px;
 
-html, body {
-	color: green !important;
-}
-
 @media only screen and (max-width: 767px) {
 	.content > section {
 		> p, > h1, > h2, > h3, > h4, > h5, > h6, > .embeds {
@@ -242,7 +238,7 @@ html, body {
 		}
 	}
 
-	.blocks {
+	/*.blocks {
 		display: block;
 
 		> .block {
@@ -254,7 +250,7 @@ html, body {
 		figure {
 			height: 550px;
 		}
-	}
+	}*/
 
 	.IndexPage .goals {
 		justify-content: space-between;
