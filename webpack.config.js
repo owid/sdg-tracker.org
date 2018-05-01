@@ -10,6 +10,7 @@ const fs = require('fs')
 module.exports = (env, argv) => {
     const isProduction = argv.mode === 'production'
     return {
+        mode: isProduction ? 'production' : 'development',
         context: __dirname,    
         entry: {
             sdgs: path.join(__dirname, 'js/sdgs.tsx'),
@@ -30,7 +31,10 @@ module.exports = (env, argv) => {
             rules: [
                 {
                     test: /\.tsx?$/,
-                    loader: "awesome-typescript-loader"
+                    loader: "ts-loader",
+                    options: {
+                        transpileOnly: true
+                    }
                 },
                 {
                     test: /\.png$/,

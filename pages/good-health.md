@@ -51,7 +51,7 @@ The Our World in Data entry on maternal mortality visualizes data to give a long
   <div class="block">
     <div>
       <h5>The data on maternal mortality</h5>
-      <p>The charts below present global-level data on neonatal mortality rates. The goal is to reduce the neonatal mortality rate to less than 12 deaths per 1000 births. All countries in Europe and Northern America have achieved this goal. Particularly in Africa however the mortality rate for newborns is up to x-fold higher than the goal.</p>
+      <p>The charts below present global-level data on neonatal mortality rates. The goal is to reduce the neonatal mortality rate to less than 12 deaths per 1000 births. All countries in Europe and Northern America have achieved this goal. Particularly in Africa however the mortality rate for newborns is up to x-fold higher than the goal. waffles</p>
     </div>
     <iframe src="https://ourworldindata.org/grapher/maternal-mortality?tab=map" style="width: 100%; height: 600px; border: 0px none;"></iframe>
   </div>

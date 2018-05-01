@@ -1,20 +1,20 @@
 {
     "compilerOptions": {
+        "strict": true,
+        "noImplicitReturns": true,
         "allowJs": false,
-        "alwaysStrict": true,
-        "noImplicitAny": true,
-        "outDir": "./tmp/dist/",
+        "outDir": "./dist/",
         "sourceMap": true,
         "module": "commonjs",
-        "target": "es5",
+        "moduleResolution": "node",
         "jsx": "react",
-        "lib": ["dom", "es6"],        
+        "target": "es5",
         "experimentalDecorators": true,
-        "strictNullChecks": true
+        "forceConsistentCasingInFileNames": true,
+        "lib": ["dom", "es6", "esnext.asynciterable"],
+        "plugins": [
+            { "name": "tslint-language-service" }
+        ]
     },
-    "exclude": ["node_modules"],
-    "awesomeTypescriptLoaderOptions": {
-        "useBabel": true,
-        "useCache": true
-    }
+    "exclude": ["node_modules"]
 }
