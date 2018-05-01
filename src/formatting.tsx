@@ -61,7 +61,7 @@ export function formatSDG(content: string, isPreview?: boolean): JSX.Element[] {
         $(el).replaceWith(output)
     }
 
-    return [<div dangerouslySetInnerHTML={{__html: $("body").html() as string}}/>]
+    return [<div className="content" dangerouslySetInnerHTML={{__html: $("body").html() as string}}/>]
 
     // Wrap content demarcated by headings into section blocks
     /*const sectionBoundaries: [number, number][] = []

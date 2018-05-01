@@ -45,11 +45,11 @@ export default class GoalPage extends React.Component<GoalPageProps> {
                             <img src={sdgsUrl(featuredImage)} />
                             <div>
                                 <h1>{pageTitle}</h1>
-                                <div>{parseMarkdown(description)}</div>
+                                <div dangerouslySetInnerHTML={{__html: parseMarkdown(description)}}/>
                             </div>
                         </div>
                     </header>
-                    <div className="content">{formatSDG(body, isPreview)}</div>
+                    {formatSDG(body, isPreview)}
                 </article>
                 <SiteFooter/>
             </body>
