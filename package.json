@@ -4,6 +4,7 @@
     "build": "rm -rf build/* && webpack -p"
   },
   "dependencies": {
+    "@types/cheerio": "^0.22.7",
     "@types/d3": "^4.10.0",
     "@types/d3-hexbin": "^0.2.0",
     "@types/d3-scale-chromatic": "^1.0.2",
@@ -27,6 +28,7 @@
     "babel-preset-react": "^6.23.0",
     "babel-preset-stage-0": "^6.22.0",
     "babel-register": "^6.23.0",
+    "cheerio": "^1.0.0-rc.2",
     "copy-webpack-plugin": "^4.0.1",
     "css-loader": "^0.26.2",
     "d3": "^4.6.0",
@@ -49,7 +51,7 @@
     "less": "^2.7.2",
     "less-loader": "^2.2.3",
     "lodash": "^4.17.4",
-    "markdown-it": "^8.3.0",
+    "markdown-it": "^8.4.1",
     "markdown-it-custom-block": "^0.1.1",
     "markdown-it-front-matter-loader": "^0.0.7",
     "markdown-it-header-sections": "^1.0.0",

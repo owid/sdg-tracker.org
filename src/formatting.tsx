@@ -6,6 +6,7 @@ const md = new markdown({ linkify: true })
 const customBlock = require('markdown-it-custom-block')
 md.use(require('markdown-it-header-sections'))*/
 import * as React from 'react'
+import * as cheerio from 'cheerio'
 
 /*md.use(customBlock, {
     grapher(argStr: string) {
@@ -17,11 +18,12 @@ import * as React from 'react'
     }
 })*/
 
-const compiler = require('markdown-to-jsx').compiler
+const MarkdownIt = require('markdown-it')
 const removeMd = require('remove-markdown')
 
-export function parseMarkdown(content: string): JSX.Element[] {
-    return compiler(content).props.children||[]
+const md = new MarkdownIt({ html: true, linkify: true })
+export function parseMarkdown(content: string): string {
+    return md.render(content)
 }
 
 // Convert markdown text to plaintext e.g. for meta tags
@@ -34,10 +36,35 @@ export function firstParagraph(content: string): string {
 }
 
 export function formatSDG(content: string, isPreview?: boolean): JSX.Element[] {   
-    const nodes = parseMarkdown(content)
+    const html = parseMarkdown(content)
+
+    const $ = cheerio.load(html)
 
     // Wrap content demarcated by headings into section blocks
-    const sectionBoundaries: [number, number][] = []
+    const sectionStarts = [$("body").children().get(0)].concat($("h2").toArray())
+    for (const start of sectionStarts) {
+        const $start = $(start)
+        const $contents = $start.nextUntil("h2")
+        const $wrapNode = $("<section></section>");
+
+        $contents.remove();
+        $wrapNode.append($start.clone())
+        $wrapNode.append($contents)
+        $start.replaceWith($wrapNode)
+    }
+
+    // Replace grapher iframes with static previews
+    const grapherIframes = $("iframe").toArray().filter(el => (el.attribs['src']||'').match(/\/grapher\//))
+    for (const el of grapherIframes) {
+        const src = el.attribs['src']
+        const output = `<figure data-grapher-src="${src}" class="grapherPreview"></figure>`
+        $(el).replaceWith(output)
+    }
+
+    return [<div dangerouslySetInnerHTML={{__html: $("body").html() as string}}/>]
+
+    // Wrap content demarcated by headings into section blocks
+    /*const sectionBoundaries: [number, number][] = []
     let headingIndex: number|undefined
     for (let i = 0; i < nodes.length; i++) {
         if (nodes[i].type === "h2") {
@@ -81,5 +108,5 @@ export function formatSDG(content: string, isPreview?: boolean): JSX.Element[] {
 
     replaceIframes(nodes)
 
-    return nodes
+    return nodes*/
 }
