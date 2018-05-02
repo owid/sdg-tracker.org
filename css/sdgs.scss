@@ -188,10 +188,6 @@ html {
 	}
 
 	> .content > section {
-		margin-top: 60px;
-		padding-top: 60px;
-		border-top: 1px solid rgba(0, 0, 0, 0.1);	
-
 		> h2 {
 			text-transform: uppercase;
 			color: rgba(0, 0, 0, 0.5);
@@ -212,10 +208,49 @@ html {
 			padding-bottom: 1rem;
 		}
 
+		.block > div > h5:not(.owid) {
+			color: #238D38;
+		}
+
 		> p {
 			line-height: 1.7em;
 			margin-bottom: 1em;
-		}
+        }
+
+        > hr {
+            margin-top: 60px;
+            padding-top: 60px;
+            border-top: 1px solid rgba(0, 0, 0, 0.1);
+            border-bottom: 0;
+        }
+        
+        > table.indicators {
+            border-collapse: collapse;
+            border-spacing: 0;
+            color: #000;
+            font-size: 14px;
+            margin-left: auto;
+            margin-right: auto;
+            width: 100%;
+        
+            > tbody {
+                border-bottom: 1px solid #ddd;
+            }
+
+            td:first-child {
+                text-align: center;
+            }
+            
+            td,
+            th {
+                border: 1px solid #aaa;
+                padding: 0.4em;
+            }
+            
+            th {
+                font-weight: 700;
+            }            
+        }
 	}
 }
 
@@ -268,7 +303,7 @@ $mobileWidth: 767px;
 
 @media only screen and (min-width: 768px) {
 	.content > section {
-		> p, > h1, > h2, > h3, > h4, > h5, > h6 {
+		> p, > h1, > h2, > h3, > h4, > h5, > h6, > table {
 			max-width: 720px;
 			margin-left: auto;
 			margin-right: auto;
@@ -293,7 +328,8 @@ $mobileWidth: 767px;
 
 	.blocks.one > .block {
 		display: flex;
-		flex-direction: column;
+        flex-direction: column;
+        width: 100%;
 		max-width: 850px;
 		margin: 2em 1em;
 	}
@@ -311,7 +347,6 @@ $mobileWidth: 767px;
 		flex-direction: column;
 		width: 30%;
 		max-width: 600px;
-		height: 500px;
 		margin: 2em 1em;
 	}
 	
@@ -336,10 +371,9 @@ $mobileWidth: 767px;
 	}
 	
 	.blocks.three figure {
-		width: 30%;
-		max-width: 600px;
+		width: 100%;
 		height: 500px;
-		margin: 2em 1em;
+		margin: 0;
 		margin-top: auto;
 	}
 }
