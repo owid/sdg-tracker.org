@@ -33,23 +33,17 @@ featuredImage: /img/uploads/3.png
 
 <hr>
 
-## Target 3.1: By 2030, reduce the global maternal mortality ratio to less than 70 per 100,000 live births
-
-<table class="indicators">
-    <tr>
-        <td>SDG indicators</td>
-        <td>
-            <p><a href="#3.1.1">3.1.1 Maternal mortality ratio</a></p>
-            <p><a href="#3.1.2">3.1.2 Proportion of births attended by skilled health personnel</a></p>
-        </td>
-    </tr>
-</table>
+<div class="targetIntro">
+Target 3.1
+<h2>By 2030, reduce the global maternal mortality ratio to less than 70 per 100,000 live births</h2>
+<p>SDG Indicators: <a href="#3.1.1">3.1.1 Maternal mortality ratio</a>, <a href="#3.1.2">3.1.2 Proportion of births attended by skilled health personnel</a></p>
+</div>
 
 <hr>
 
-<div class="blocks two">
+<div id="3.1.1" class="blocks two">
     <div class="block">
-        <h3 id="3.1.1">3.1.1 Maternal mortality ratio</h3>
+        <h3>3.1.1 Maternal mortality ratio</h3>
         <p><strong>Definition:</strong> The maternal mortality ratio refers to the number of women who die from pregnancy-related causes while pregnant or within 42 days of pregnancy termination per 100,000 live births.</p>
         <p><strong>Goal:</strong> Reduce maternal mortality to less than 70 deaths per 100,000 live births.</p>
         <p><strong>More research:</strong> Country-level data on the number of maternal deaths can be found here, Data on Maternal Mortality can be found at our full entry, available here.</p>
@@ -75,8 +69,11 @@ featuredImage: /img/uploads/3.png
 
 <hr>
 
-## Target 3.2: By 2030, end preventable deaths of newborns and children under 5 years of age, with all countries aiming to reduce neonatal mortality to at least as low as 12 per 1,000 live births and under‑5 mortality to at least as low as 25 per 1,000 live births.
-SDG indicators: 3.2.1 Under-5 mortality rate & 3.2.2 Neonatal mortality rate
+<div class="targetIntro">
+<span>Target 3.2</span>
+<h2>By 2030, end preventable deaths of newborns and children under 5 years of age, with all countries aiming to reduce neonatal mortality to at least as low as 12 per 1,000 live births and under‑5 mortality to at least as low as 25 per 1,000 live births</h2>
+<p>SDG Indicators: <a href="#3.2.1">3.1.1 Under-5 mortality rate</a>, <a href="#3.2.2">3.2.2 Neonatal mortality rate</a></p>
+</div>
 
 <hr>
 

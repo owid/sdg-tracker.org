@@ -175,6 +175,7 @@ html {
 		h1 {
 			@extend .pageHeading;
 			line-height: 1.2em;
+            font-family: 'Kameron', serif;
 		}
 		
 		img {
@@ -185,32 +186,24 @@ html {
 		span {
 			opacity: 0.7;
 		}
-	}
+    }
 
-	> .content > section {
-		> h2 {
-			text-transform: uppercase;
-			color: rgba(0, 0, 0, 0.5);
-			font-size: 1.1rem;
-			letter-spacing: 0.01em;
-		}
+	> .content {
+        .targetIntro > h2 {
+            font-size: 1.2rem;
+            line-height: 1.5em;
+            font-family: 'Kameron', serif;
+            font-style: italic;
+        }
 
-		> h2 + p {
+        > .targetIntro > h2 + p {
 			font-size: 1.1em;
 			font-weight: 400;
-		}
-
-		> h3 {
-			font-size: 1.1rem;
-			margin-top: 2rem;
-			margin-bottom: 1.5em;
-			border-bottom: 1px solid rgba(0,0,0,.1);
-			padding-bottom: 1rem;
-		}
-
-		.block > div > h5:not(.owid) {
-			color: #238D38;
-		}
+        }
+        
+        .block > h3 {
+            font-family: 'Kameron', serif;            
+        }
 
 		> p {
 			line-height: 1.7em;
@@ -254,10 +247,24 @@ html {
 	}
 }
 
-a {
-	color: #0645ad;
-	text-decoration: none;
+.GoalPage.good-health {
+    h1, .targetIntro, .block > h3 {
+        color: #238D38;
+    }
 }
+
+article {
+    a {
+        color: #3366cc;
+        text-decoration: none;
+    }
+    
+    a:hover {
+        text-decoration: underline;
+    }
+}
+
+
 
 iframe {
 	border: none;
@@ -266,14 +273,14 @@ iframe {
 $mobileWidth: 767px;
 
 @media only screen and (max-width: 767px) {
-	.content > section {
+	.content {
 		> p, > h1, > h2, > h3, > h4, > h5, > h6, > .blocks {
 			margin-left: 1rem;
 			margin-right: 1rem;
 		}
 	}
 
-	.blocks {
+	.content > .blocks {
 		display: block;
 
 		> .block {
@@ -302,79 +309,80 @@ $mobileWidth: 767px;
 }
 
 @media only screen and (min-width: 768px) {
-	.content > section {
-		> p, > h1, > h2, > h3, > h4, > h5, > h6, > table {
+	.content {
+		> p, > h1, > h2, > h3, > h4, > h5, > h6, > table, > .targetIntro {
 			max-width: 720px;
 			margin-left: auto;
 			margin-right: auto;
 		}
-	}
+
+
+        > .blocks {
+            width: 100%;
+            display: flex;
+            justify-content: center;
+        }
+    
+        > .blocks.one {
+            > .block {
+                display: flex;
+                flex-direction: column;
+                width: 100%;
+                max-width: 850px;
+                margin: 2em 1em;    
+            }
+
+            figure {
+                width: 100%;
+                height: 600px;
+                margin: 0;
+                margin-top: auto;                    
+            }
+        }
+    
+        > .blocks.two {
+            > .block {
+                display: flex;
+                flex-direction: column;
+                width: 45%;
+                max-width: 700px;
+                margin: 2em 1em;    
+            }
+
+            figure {
+                width: 100%;
+                height: 550px;
+                margin: 0;
+                margin-top: auto;    
+            }
+        }
+    
+        > .blocks.three {
+            > .block {
+                display: flex;
+                flex-direction: column;
+                width: 30%;
+                max-width: 600px;
+                margin: 2em 1em;    
+            }
+
+            figure {
+                width: 100%;
+                height: 500px;
+                margin: 0;
+                margin-top: auto;    
+            }
+        }
+    }
 
 	html {
 		font-size: 16px;
 	}
 	.pageHeading {
-		font-size: 40px;
+		font-size: 36px;
 	}
 	.IndexPage > .siteIntro h1 {
 		font-size: 50px;
-	}
-
-	.blocks {
-		width: 100%;
-		display: flex;
-		justify-content: center;
-	}
-
-	.blocks.one > .block {
-		display: flex;
-        flex-direction: column;
-        width: 100%;
-		max-width: 850px;
-		margin: 2em 1em;
-	}
-
-	.blocks.two > .block {
-		display: flex;
-		flex-direction: column;
-		width: 45%;
-		max-width: 700px;
-		margin: 2em 1em;
-	}
-
-	.blocks.three > .block {
-		display: flex;
-		flex-direction: column;
-		width: 30%;
-		max-width: 600px;
-		margin: 2em 1em;
-	}
-	
-	/*.embeds.len1 > figure {
-		width: 100%;
-		max-width: 850px;
-		height: 600px;
-	}*/
-
-	.blocks.one figure {
-		width: 100%;
-		height: 600px;
-		margin: 0;
-		margin-top: auto;
-	}
-
-	.blocks.two figure {
-		width: 100%;
-		height: 550px;
-		margin: 0;
-		margin-top: auto;
-	}
-	
-	.blocks.three figure {
-		width: 100%;
-		height: 500px;
-		margin: 0;
-		margin-top: auto;
 	}
 }
 

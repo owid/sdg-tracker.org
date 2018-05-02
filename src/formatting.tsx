@@ -41,7 +41,7 @@ export function formatSDG(content: string, isPreview?: boolean): JSX.Element[] {
     const $ = cheerio.load(html)
 
     // Wrap content demarcated by headings into section blocks
-    const sectionStarts = [$("body").children().get(0)].concat($("h2").toArray())
+    /*const sectionStarts = [$("body").children().get(0)].concat($("h2").toArray())
     for (const start of sectionStarts) {
         const $start = $(start)
         const $contents = $start.nextUntil("h2")
@@ -51,7 +51,7 @@ export function formatSDG(content: string, isPreview?: boolean): JSX.Element[] {
         $wrapNode.append($start.clone())
         $wrapNode.append($contents)
         $start.replaceWith($wrapNode)
-    }
+    }*/
 
     // Replace grapher iframes with static previews
     const grapherIframes = $("iframe").toArray().filter(el => (el.attribs['src']||'').match(/\/grapher\//))

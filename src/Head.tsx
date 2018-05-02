@@ -13,6 +13,7 @@ export const Head = (props: { canonicalUrl: string, pageTitle?: string, pageDesc
         <title>{pageTitle}</title>
         <meta name="description" content={pageDesc}/>
         <link rel="canonical" href={canonicalUrl}/>
+        <link href="https://fonts.googleapis.com/css?family=Kameron" rel="stylesheet"/>
         <meta property="fb:app_id" content="1149943818390250"/>
         <meta property="og:url" content={canonicalUrl}/>
         <meta property="og:title" content={pageTitle}/>
