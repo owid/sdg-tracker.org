@@ -189,6 +189,11 @@ html {
     }
 
 	> .content {
+
+        .targetIntro > span {
+            text-transform: uppercase;
+        }
+
         .targetIntro > h2 {
             font-size: 1.2rem;
             line-height: 1.5em;
@@ -253,10 +258,13 @@ html {
     }
 }
 
+a {
+    text-decoration: none;
+}
+
 article {
     a {
         color: #3366cc;
-        text-decoration: none;
     }
     
     a:hover {
@@ -274,7 +282,7 @@ $mobileWidth: 767px;
 
 @media only screen and (max-width: 767px) {
 	.content {
-		> p, > h1, > h2, > h3, > h4, > h5, > h6, > .blocks {
+		> p, > h1, > h2, > h3, > h4, > h5, > h6, > .blocks, > .targetIntro {
 			margin-left: 1rem;
 			margin-right: 1rem;
 		}

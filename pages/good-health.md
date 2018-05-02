@@ -34,9 +34,9 @@ featuredImage: /img/uploads/3.png
 <hr>
 
 <div class="targetIntro">
-Target 3.1
-<h2>By 2030, reduce the global maternal mortality ratio to less than 70 per 100,000 live births</h2>
-<p>SDG Indicators: <a href="#3.1.1">3.1.1 Maternal mortality ratio</a>, <a href="#3.1.2">3.1.2 Proportion of births attended by skilled health personnel</a></p>
+    <span>Target 3.1</span>
+    <h2>By 2030, reduce the global maternal mortality ratio to less than 70 per 100,000 live births</h2>
+    <p>SDG Indicators: <a href="#3.1.1">3.1.1 Maternal mortality ratio</a>, <a href="#3.1.2">3.1.2 Proportion of births attended by skilled health personnel</a></p>
 </div>
 
 <hr>
@@ -46,8 +46,7 @@ Target 3.1
         <h3>3.1.1 Maternal mortality ratio</h3>
         <p><strong>Definition:</strong> The maternal mortality ratio refers to the number of women who die from pregnancy-related causes while pregnant or within 42 days of pregnancy termination per 100,000 live births.</p>
         <p><strong>Goal:</strong> Reduce maternal mortality to less than 70 deaths per 100,000 live births.</p>
-        <p><strong>More research:</strong> Country-level data on the number of maternal deaths can be found here, Data on Maternal Mortality can be found at our full entry, available here.</p>
-        <p>The Our World in Data entry on maternal mortality visualizes data to give a long-run perspective over the last centuries and the presents research on the causes and consequences of the deaths of mothers.</p>
+        <p><strong>More research:</strong> The Our World in Data <a href="https://ourworldindata.org/maternal-mortality">entry on maternal mortality</a> gives a long-run perspective over the last centuries and presents research on the causes and consequences of the deaths of mothers.</p>
     </div>
     <div class="block">
         <iframe src="https://ourworldindata.org/grapher/maternal-mortality?tab=map" style="width: 100%; height: 600px; border: 0px none;"></iframe>
@@ -60,7 +59,7 @@ Target 3.1
     <div class="block">
         <h3 id="3.1.2">3.1.2 Skilled birth attendance</h3>
         <p><strong>Definition:</strong> The percentage of births attended by personnel trained to give the necessary supervision, care, and advice to women during pregnancy, labor, and the postpartum period; to conduct deliveries on their own; and to care for newborns.</p>
-        <p><strong>Goal:</strong> There is no goal specified for the share of births birth attended by skilled staff. It is presumably included as an indicator because skilled staff can reduce maternal mortality as we show in our entry on maternal mortality.</p>
+        <p><strong>Goal:</strong> There is no goal specified by the UN for the share of births birth attended by skilled staff. It is presumably included as an indicator because <a href="https://ourworldindata.org/maternal-mortality#maternal-mortality-in-the-long-run">skilled staff can reduce maternal mortality</a>.</p>
     </div>
     <div class="block">
         <iframe src="https://ourworldindata.org/grapher/births-attended-by-health-staff" style="width: 100%; height: 600px; border: 0px none;"></iframe>
@@ -70,9 +69,9 @@ Target 3.1
 <hr>
 
 <div class="targetIntro">
-<span>Target 3.2</span>
-<h2>By 2030, end preventable deaths of newborns and children under 5 years of age, with all countries aiming to reduce neonatal mortality to at least as low as 12 per 1,000 live births and under‑5 mortality to at least as low as 25 per 1,000 live births</h2>
-<p>SDG Indicators: <a href="#3.2.1">3.1.1 Under-5 mortality rate</a>, <a href="#3.2.2">3.2.2 Neonatal mortality rate</a></p>
+    <span>Target 3.2</span>
+    <h2>By 2030, end preventable deaths of newborns and children under 5 years of age, with all countries aiming to reduce neonatal mortality to at least as low as 12 per 1,000 live births and under‑5 mortality to at least as low as 25 per 1,000 live births</h2>
+    <p>SDG Indicators: <a href="#3.2.1">3.1.1 Under-5 mortality rate</a>, <a href="#3.2.2">3.2.2 Neonatal mortality rate</a></p>
 </div>
 
 <hr>
@@ -111,7 +110,7 @@ Target 3.1
         <h3>3.2.2 Neonatal mortality rate</h3>
         <p><strong>Definition:</strong> Neonatal mortality is defined as the share of newborns who die before reaching 28 days of age, measured per 1,000 live births in a given year.</p>
         <p><strong>Goal:</strong>The goal is to reduce to reduce neonatal mortality to at least as low as 12 per 1,000 live births.</p>
-        <p><strong>More research:</strong> The Our World in Data entry on <a href="https://ourworldindata.org/child-mortality">child mortality</a> includes a section on neonatal mortality.</p>
+        <p><strong>More research:</strong> The Our World in Data <a href="https://ourworldindata.org/child-mortality">entry on child mortality</a> includes a section on neonatal mortality.</p>
     </div>
     <div class="block">
         <iframe src="https://ourworldindata.org/grapher/neonatal-mortality-WDI" style="width: 100%; height: 600px; border: 0px none;"></iframe>
