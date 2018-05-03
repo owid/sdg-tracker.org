@@ -46,7 +46,7 @@ featuredImage: /img/uploads/3.png
         <h3>3.1.1 Maternal mortality ratio</h3>
         <p><strong>Definition:</strong> The maternal mortality ratio refers to the number of women who die from pregnancy-related causes while pregnant or within 42 days of pregnancy termination per 100,000 live births.</p>
         <p><strong>Goal:</strong> Reduce maternal mortality to less than 70 deaths per 100,000 live births.</p>
-        <p><strong>More research:</strong> The Our World in Data <a href="https://ourworldindata.org/maternal-mortality">entry on maternal mortality</a> gives a long-run perspective over the last centuries and presents research on the causes and consequences of the deaths of mothers.</p>
+        <p><strong>More research:</strong> The Our World in Data entry on <a href="https://ourworldindata.org/maternal-mortality">maternal mortality</a> gives a long-run perspective over the last centuries and presents research on the causes and consequences of the deaths of mothers.</p>
     </div>
     <div class="block">
         <iframe src="https://ourworldindata.org/grapher/maternal-mortality?tab=map" style="width: 100%; height: 600px; border: 0px none;"></iframe>
@@ -81,7 +81,7 @@ featuredImage: /img/uploads/3.png
         <h3>3.2.1 Under-5 mortality rate</h3>
         <p><strong>Definition:</strong> The under-5 mortality rate measures the number of children who die before their 5th birthday, per 1,000 live births.</p>
         <p><strong>Goal:</strong> Reduce child mortality to less than 25 deaths per 1,000 live births.</p>
-        <p><strong>More research:</strong> Child mortality is covered more broadly, and with a longer-term perspective in our <a href="https://ourworldindata.org/global-health">entry on global health</a>.</p>
+        <p><strong>More research:</strong> Child mortality is covered more broadly, and with a longer-term perspective in our entry on <a href="https://ourworldindata.org/global-health">global health</a>.</p>
     </div>
     <div class="block">
         <iframe src="https://ourworldindata.org/grapher/child-mortality-rate-per-1000-live-births?map=tab" style="width: 100%; height: 600px; border: 0px none;"></iframe>
@@ -110,7 +110,7 @@ featuredImage: /img/uploads/3.png
         <h3>3.2.2 Neonatal mortality rate</h3>
         <p><strong>Definition:</strong> Neonatal mortality is defined as the share of newborns who die before reaching 28 days of age, measured per 1,000 live births in a given year.</p>
         <p><strong>Goal:</strong>The goal is to reduce to reduce neonatal mortality to at least as low as 12 per 1,000 live births.</p>
-        <p><strong>More research:</strong> The Our World in Data <a href="https://ourworldindata.org/child-mortality">entry on child mortality</a> includes a section on neonatal mortality.</p>
+        <p><strong>More research:</strong> The Our World in Data entry on <a href="https://ourworldindata.org/child-mortality">child mortality</a> includes a section on neonatal mortality.</p>
     </div>
     <div class="block">
         <iframe src="https://ourworldindata.org/grapher/neonatal-mortality-WDI" style="width: 100%; height: 600px; border: 0px none;"></iframe>
