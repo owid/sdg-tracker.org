@@ -116,11 +116,3 @@ featuredImage: /img/uploads/3.png
         <iframe src="https://ourworldindata.org/grapher/neonatal-mortality-WDI" style="width: 100%; height: 600px; border: 0px none;"></iframe>
     </div>
 </div>
-
-14
-13
-27
-11
-14
-11
-6
