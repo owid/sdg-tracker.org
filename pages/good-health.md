@@ -109,7 +109,7 @@ featuredImage: /img/uploads/3.png
     <div class="block">
         <h3>3.2.2 Neonatal mortality rate</h3>
         <p><strong>Definition:</strong> Neonatal mortality is defined as the share of newborns who die before reaching 28 days of age, measured per 1,000 live births in a given year.</p>
-        <p><strong>Goal:</strong>The goal is to reduce to reduce neonatal mortality to at least as low as 12 per 1,000 live births.</p>
+        <p><strong>Goal:</strong> The goal is to reduce to reduce neonatal mortality to at least as low as 12 per 1,000 live births.</p>
         <p><strong>More research:</strong> The Our World in Data entry on <a href="https://ourworldindata.org/child-mortality">child mortality</a> includes a section on neonatal mortality.</p>
     </div>
     <div class="block">
