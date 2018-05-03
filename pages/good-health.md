@@ -81,7 +81,7 @@ featuredImage: /img/uploads/3.png
         <h3>3.2.1 Under-5 mortality rate</h3>
         <p><strong>Definition:</strong> The under-5 mortality rate measures the number of children who die before their 5th birthday, per 1,000 live births.</p>
         <p><strong>Goal:</strong> Reduce child mortality to less than 25 deaths per 1,000 live births.</p>
-        <p><strong>More research:</strong> Child mortality is covered more broadly, and with a longer-term perspective in our entry on <a href="https://ourworldindata.org/global-health">Global Health</a>.</p>
+        <p><strong>More research:</strong> Child mortality is covered more broadly, and with a longer-term perspective in our <a href="https://ourworldindata.org/global-health">entry on global health</a>.</p>
     </div>
     <div class="block">
         <iframe src="https://ourworldindata.org/grapher/child-mortality-rate-per-1000-live-births?map=tab" style="width: 100%; height: 600px; border: 0px none;"></iframe>
