@@ -59,7 +59,7 @@ featuredImage: /img/uploads/3.png
     <div class="block">
         <h3 id="3.1.2">3.1.2 Skilled birth attendance</h3>
         <p><strong>Definition:</strong> The percentage of births attended by personnel trained to give the necessary supervision, care, and advice to women during pregnancy, labor, and the postpartum period; to conduct deliveries on their own; and to care for newborns.</p>
-        <p><strong>Goal:</strong> There is no goal specified by the UN for the share of births birth attended by skilled staff. It is presumably included as an indicator because <a href="https://ourworldindata.org/maternal-mortality#maternal-mortality-in-the-long-run">skilled staff can reduce maternal mortality</a>.</p>
+        <p><strong>Goal:</strong> There is no goal specified by the UN for the share of births attended by skilled staff. It is presumably included as an indicator because <a href="https://ourworldindata.org/maternal-mortality#maternal-mortality-in-the-long-run">skilled staff can reduce maternal mortality</a>.</p>
     </div>
     <div class="block">
         <iframe src="https://ourworldindata.org/grapher/births-attended-by-health-staff" style="width: 100%; height: 600px; border: 0px none;"></iframe>
