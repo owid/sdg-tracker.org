@@ -41,7 +41,7 @@ featuredImage: /img/uploads/3.png
 
 <hr>
 
-<div id="3.1.1" class="blocks two">
+<div class="blocks two" id="3.1.1">
     <div class="block">
         <h3>3.1.1 Maternal mortality ratio</h3>
         <p><strong>Definition:</strong> The maternal mortality ratio refers to the number of women who die from pregnancy-related causes while pregnant or within 42 days of pregnancy termination per 100,000 live births.</p>
@@ -55,7 +55,7 @@ featuredImage: /img/uploads/3.png
 
 <hr>
 
-<div class="blocks two">
+<div class="blocks two" id="3.1.2">
     <div class="block">
         <h3 id="3.1.2">3.1.2 Skilled birth attendance</h3>
         <p><strong>Definition:</strong> The percentage of births attended by personnel trained to give the necessary supervision, care, and advice to women during pregnancy, labor, and the postpartum period; to conduct deliveries on their own; and to care for newborns.</p>
@@ -76,7 +76,7 @@ featuredImage: /img/uploads/3.png
 
 <hr>
 
-<div class="blocks two">
+<div class="blocks two" id="3.2.1">
     <div class="block">
         <h3>3.2.1 Under-5 mortality rate</h3>
         <p><strong>Definition:</strong> The under-5 mortality rate measures the number of children who die before their 5th birthday, per 1,000 live births.</p>
@@ -105,7 +105,7 @@ featuredImage: /img/uploads/3.png
 
 <hr>
 
-<div class="blocks two">
+<div class="blocks two" id="3.2.2">
     <div class="block">
         <h3>3.2.2 Neonatal mortality rate</h3>
         <p><strong>Definition:</strong> Neonatal mortality is defined as the share of newborns who die before reaching 28 days of age, measured per 1,000 live births in a given year.</p>
@@ -116,3 +116,11 @@ featuredImage: /img/uploads/3.png
         <iframe src="https://ourworldindata.org/grapher/neonatal-mortality-WDI" style="width: 100%; height: 600px; border: 0px none;"></iframe>
     </div>
 </div>
+
+14
+13
+27
+11
+14
+11
+6
