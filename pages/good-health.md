@@ -71,7 +71,7 @@ featuredImage: /img/uploads/3.png
 <div class="targetIntro">
     <span>Target 3.2</span>
     <h2>By 2030, end preventable deaths of newborns and children under 5 years of age, with all countries aiming to reduce neonatal mortality to at least as low as 12 per 1,000 live births and under‑5 mortality to at least as low as 25 per 1,000 live births</h2>
-    <p>SDG Indicators: <a href="#3.2.1">3.1.1 Under-5 mortality rate</a>, <a href="#3.2.2">3.2.2 Neonatal mortality rate</a></p>
+    <p>SDG Indicators: <a href="#3.2.1">3.2.1 Under-5 mortality rate</a>, <a href="#3.2.2">3.2.2 Neonatal mortality rate</a></p>
 </div>
 
 <hr>
