@@ -160,9 +160,10 @@ html {
 .GoalPage {
 	> header {
 		@extend .container;
-		padding-top: 3rem;
 		max-width: 1020px;
-		margin: auto;
+        margin: auto;
+        height: calc(100vh - 70px - 30px);
+        padding-top: 3rem;
 	}
 
 	> header > .goalIntro {
@@ -175,11 +176,10 @@ html {
 		h1 {
 			@extend .pageHeading;
 			line-height: 1.2em;
-            font-family: 'Kameron', serif;
 		}
 		
 		img {
-			width: 250px;
+			width: 150%;
 			margin-right: 2rem;
 		}
 	
@@ -192,10 +192,6 @@ html {
         .targetIntro {
             margin: 30px 0;
             padding: 30px 0;
-            border-top: 1px solid rgba(0, 0, 0, 0.1);
-            border-bottom: 1px solid rgba(0, 0, 0, 0.1);
-            padding-left: 5%;
-            padding-right: 5%;
             width: 100%;
         }
 
@@ -338,8 +334,12 @@ $mobileWidth: 767px;
 			max-width: 720px;
 			margin-left: auto;
 			margin-right: auto;
-		}
-
+        }
+        
+        .targetIntro > * {
+            margin-left: calc(5% - 16px);
+            margin-right: calc(5% - 16px);
+        }
 
         > .blocks {
             width: 100%;

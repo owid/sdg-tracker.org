@@ -28,7 +28,7 @@ description: >-
   Death](https://ourworldindata.org/causes-of-death), [Financing
   Healthcare](https://ourworldindata.org/financing-healthcare), and
   [Smoking](https://ourworldindata.org/smoking).
-featuredImage: /img/uploads/3.png
+featuredImage: /img/uploads/3.svg
 ---
 
 <div class="targetIntro">
@@ -80,7 +80,7 @@ featuredImage: /img/uploads/3.png
     </div>
 </div>
 
-<div class="blocks two">
+<!--<div class="blocks two">
     <div class="block">
         <div>
             <h5 class="owid">Additional information: by sex</h5>
@@ -93,7 +93,7 @@ featuredImage: /img/uploads/3.png
         </div>
         <iframe src="https://ourworldindata.org/grapher/number-of-under-five-deaths-by-region" style="width: 100%; height: 600px; border: 0px none;"></iframe>
     </div>
-</div>
+</div>-->
 
 <hr>
 
