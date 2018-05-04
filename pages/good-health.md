@@ -31,15 +31,11 @@ description: >-
 featuredImage: /img/uploads/3.png
 ---
 
-<hr>
-
 <div class="targetIntro">
-    <span>Target 3.1</span>
+    <p>Target 3.1</p>
     <h2>By 2030, reduce the global maternal mortality ratio to less than 70 per 100,000 live births</h2>
     <p>SDG Indicators: <a href="#3.1.1">3.1.1 Maternal mortality ratio</a>, <a href="#3.1.2">3.1.2 Proportion of births attended by skilled health personnel</a></p>
 </div>
-
-<hr>
 
 <div class="blocks two" id="3.1.1">
     <div class="block">
@@ -66,15 +62,11 @@ featuredImage: /img/uploads/3.png
     </div>
 </div>
 
-<hr>
-
 <div class="targetIntro">
-    <span>Target 3.2</span>
+    <p>Target 3.2</p>
     <h2>By 2030, end preventable deaths of newborns and children under 5 years of age, with all countries aiming to reduce neonatal mortality to at least as low as 12 per 1,000 live births and under‑5 mortality to at least as low as 25 per 1,000 live births</h2>
     <p>SDG Indicators: <a href="#3.2.1">3.2.1 Under-5 mortality rate</a>, <a href="#3.2.2">3.2.2 Neonatal mortality rate</a></p>
 </div>
-
-<hr>
 
 <div class="blocks two" id="3.2.1">
     <div class="block">
