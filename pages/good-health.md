@@ -110,9 +110,12 @@ featuredImage: /img/uploads/3.svg
 </div>
 
 <div class="targetIntro">
-    <h2>Target 3.3: Fight communicable diseases</h2>
-    <p>By 2030, end the epidemics of AIDS, tuberculosis, malaria and neglected tropical diseases and combat hepatitis, water-borne diseases and other communicable diseases.</p>
-    <p>SDG Indicators: <a href="#3.3.1">3.3.1 Number of new HIV infections per 1,000 uninfected population, by sex, age and key populations</a>, <a href="#3.3.2">3.3.2 Tuberculosis incidence per 100,000 population</a>, <a href="#3.3.3">3.3.3 Malaria incidence per 1,000 population</a>, <a href="#3.3.4">3.3.4 Hepatitis B incidence per 100,000 population</a>, <a href="#3.3.5">3.3.5 Number of people requiring interventions against neglected tropical diseases</a></p>
+    <img src="/img/uploads/GOAL_3_TARGET_3.3.svg"/>
+    <div>
+        <h2>Target 3.3: Fight communicable diseases</h2>
+        <p>By 2030, end the epidemics of AIDS, tuberculosis, malaria and neglected tropical diseases and combat hepatitis, water-borne diseases and other communicable diseases.</p>
+        <p>SDG Indicators: <a href="#3.3.1">3.3.1 Number of new HIV infections per 1,000 uninfected population, by sex, age and key populations</a>, <a href="#3.3.2">3.3.2 Tuberculosis incidence per 100,000 population</a>, <a href="#3.3.3">3.3.3 Malaria incidence per 1,000 population</a>, <a href="#3.3.4">3.3.4 Hepatitis B incidence per 100,000 population</a>, <a href="#3.3.5">3.3.5 Number of people requiring interventions against neglected tropical diseases</a></p>
+    </div>
 </div>
 
 <div class="blocks two" id="3.3.1">

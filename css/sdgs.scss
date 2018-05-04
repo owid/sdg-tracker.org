@@ -193,15 +193,26 @@ html {
             margin: 50px 0;
             padding: 50px 0;
             width: 100%;
+            border-top: 1px solid rgba(0, 0, 0, 0.1);
+            border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+            display: flex;
+            padding-left: calc(5% - 16px);
+            padding-right: calc(5% - 16px);
         }
 
-        .targetIntro > span {
-            text-transform: uppercase;
+        .targetIntro > img {
+            width: 25%;
+            margin-right: 32px;
         }
 
         .targetIntro > h2 {
             font-size: 1.4rem;
             line-height: 1.5em;
+        }
+
+        .targetIntro > div {
+            margin-right: calc(25% - 16px);
+
         }
 
         
@@ -254,16 +265,7 @@ html {
 }
 
 .GoalPage.good-health {
-    .targetIntro {
-        background-color: #4c9f38;
-        color: white;
-
-        a {
-            color: white;
-        }
-    }
-
-    h1, .block > h3 {
+    h1, .targetIntro h2, .block > h3 {
         color: #4c9f38;
     }
 }
@@ -332,11 +334,6 @@ $mobileWidth: 767px;
 			max-width: 720px;
 			margin-left: auto;
 			margin-right: auto;
-        }
-        
-        .targetIntro > * {
-            margin-left: calc(5% - 16px);
-            margin-right: calc(5% - 16px);
         }
 
         > .blocks {
