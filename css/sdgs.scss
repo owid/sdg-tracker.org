@@ -159,14 +159,14 @@ html {
 
 .GoalPage {
 	> header {
-		@extend .container;
-		max-width: 1020px;
+		max-width: 1120px;
         margin: auto;
         height: calc(100vh - 70px - 30px);
-        padding-top: 3rem;
+        display: flex;
+        align-items: center;
 	}
 
-	> header > .goalIntro {
+	> header .goalIntro {
 		display: flex;
 		align-items: center;
 		justify-content: left;
@@ -190,8 +190,8 @@ html {
 
 	> .content {
         .targetIntro {
-            margin: 30px 0;
-            padding: 30px 0;
+            margin: 50px 0;
+            padding: 50px 0;
             width: 100%;
         }
 
@@ -200,17 +200,15 @@ html {
         }
 
         .targetIntro > h2 {
-            font-size: 1.2rem;
+            font-size: 1.4rem;
             line-height: 1.5em;
         }
 
-        > .targetIntro > h2 + p {
-			font-size: 1.1em;
-			font-weight: 400;
-        }
         
         .block > h3 {
-            font-family: 'Kameron', serif;            
+            /*text-transform: uppercase;
+            font-family: 'Pontano Sans', sans-serif;
+            letter-spacing: 0.5;*/
         }
 
 		> p {
