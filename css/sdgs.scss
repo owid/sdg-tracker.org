@@ -190,10 +190,12 @@ html {
 
 	> .content {
         .targetIntro {
-            margin: 60px 0;
-            padding: 60px 0;
+            margin: 30px 0;
+            padding: 30px 0;
             border-top: 1px solid rgba(0, 0, 0, 0.1);
             border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+            padding-left: 5%;
+            padding-right: 5%;
             width: 100%;
         }
 
@@ -204,8 +206,6 @@ html {
         .targetIntro > h2 {
             font-size: 1.2rem;
             line-height: 1.5em;
-            font-family: 'Kameron', serif;
-            font-style: italic;
         }
 
         > .targetIntro > h2 + p {
@@ -260,7 +260,16 @@ html {
 }
 
 .GoalPage.good-health {
-    h1, .targetIntro, .block > h3 {
+    .targetIntro {
+        background-color: #279b48;
+        color: white;
+
+        a {
+            color: white;
+        }
+    }
+
+    h1, .block > h3 {
         color: #279b48;
     }
 }
@@ -324,7 +333,7 @@ $mobileWidth: 767px;
 }
 
 @media only screen and (min-width: 768px) {
-	.content, .targetIntro {
+	.content {
 		> p, > h1, > h2, > h3, > h4, > h5, > h6, > table {
 			max-width: 720px;
 			margin-left: auto;
