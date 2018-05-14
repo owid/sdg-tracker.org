@@ -18,7 +18,7 @@ description: >-
   Distribution](https://ourworldindata.org/incomes-across-the-distribution) and
   [Global Economic
   Inequality](https://ourworldindata.org/global-economic-inequality).
-featuredImage: /img/uploads/10.png
+featuredImage: /img/uploads/10.svg
 ---
 ## Target 10.1
 

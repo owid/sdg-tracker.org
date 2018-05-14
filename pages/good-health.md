@@ -63,13 +63,14 @@ featuredImage: /img/uploads/3.svg
 </div>
 
 <div class="targetIntro">
-    <h2>Target 3.2: End all preventable deaths under 5 years of age</h2>
-    <p>By 2030, end preventable deaths of newborns and children under 5 years of age, with all countries aiming to reduce neonatal mortality to at least as low as 12 per 1,000 live births and under‑5 mortality to at least as low as 25 per 1,000 live births</p>
+    <h2>End all preventable deaths under 5 years of age</h2>
+    <p>Target 3.2: <em>“By 2030, end preventable deaths of newborns and children under 5 years of age, with all countries aiming to reduce neonatal mortality to at least as low as 12 per 1,000 live births and under‑5 mortality to at least as low as 25 per 1,000 live births”</em></p>
     <p>SDG Indicators: <a href="#3.2.1">3.2.1 Under-5 mortality rate</a>, <a href="#3.2.2">3.2.2 Neonatal mortality rate</a></p>
 </div>
 
 <div class="blocks two" id="3.2.1">
     <div class="block">
+        <span>SDG Indicator</span>
         <h3>3.2.1 Under-5 mortality rate</h3>
         <p><strong>Definition:</strong> The under-5 mortality rate measures the number of children who die before their 5th birthday, per 1,000 live births.</p>
         <p><strong>Goal:</strong> Reduce child mortality to less than 25 deaths per 1,000 live births.</p>
