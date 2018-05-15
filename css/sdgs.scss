@@ -12,10 +12,6 @@ html {
 	color: rgba(0, 0, 0, 0.8);
 }
 
-.container {
-	margin: auto;
-}
-
 .pageHeading {
 	font-size: 30px;
 	font-weight: 700;
@@ -27,7 +23,7 @@ html {
 	color: inherit;
 }
 
-.SiteHeader {
+/*.SiteHeader {
 	height: 70px;
 	background: #001c3d;
 	color: rgba(255, 255, 255, 0.7);
@@ -58,6 +54,10 @@ html {
 		margin-left: 24px;
 		text-transform: uppercase;
 	}
+}*/
+
+.SiteHeader {
+    background: #001c3d;
 }
 
 .SiteFooter {
@@ -139,8 +139,6 @@ html {
 }
 
 .AboutPage {
-	@extend .container;
-
 	> header {
 		padding-top: 3rem;
 		padding-bottom: 2rem;
@@ -425,20 +423,7 @@ $mobileWidth: 767px;
 }
 
 @media only screen and (max-width: 1139px) {
-	.container {
-		width: 100%;
-		padding-left: 1rem;
-		padding-right: 1rem;
-		box-sizing: border-box;
-	}
-
 	.goalIntro img {
 		display: none;
-	}
-}
-
-@media only screen and (min-width: 1140px) {
-	.container {
-		width: 1020px;
 	}
 }

@@ -28,11 +28,6 @@ export default function IndexPage(props: { goals: GoalPageProps[] }) {
                     )}
                 </div>
             </nav>
-            <div className="toc">
-                <ul>{goals.map(goal =>
-                    <li><a href={sdgsUrl(goal.slug)}>{goal.slug}</a></li>
-                )}</ul>
-            </div>
             <SiteFooter/>
         </body>
     </html>

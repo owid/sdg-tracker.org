@@ -2,12 +2,18 @@ import * as React from 'react'
 
 export const SiteHeader = () => {
     return <header className="SiteHeader">
-        <div className="container">
-            <a className="logo" href="/">SDG Tracker</a>
-            <nav>
-                <a href="/about">About</a>
-                <a href="https://ourworldindata.org">Our World in Data</a>
-            </nav>
-        </div>
+        <nav className="navbar navbar-expand-lg navbar-dark">
+            <div className="container">
+                <a className="navbar-brand" href="#">SDG Tracker</a>
+                <ul className="navbar-nav ml-auto">
+                    <li className="nav-item">
+                        <a className="nav-link" href="/about">About</a>
+                    </li>
+                    <li className="nav-item">
+                        <a className="nav-link" href="https://ourworldindata.org">Our World in Data</a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
     </header>
 }

@@ -11,7 +11,7 @@ module.exports = (env, argv) => {
     const isProduction = argv.mode === 'production'
     return {
         mode: isProduction ? 'production' : 'development',
-        context: __dirname,    
+        context: __dirname,
         entry: {
             sdgs: path.join(__dirname, 'js/sdgs.tsx'),
             admin: path.join(__dirname, 'src/admin.entry.tsx')
