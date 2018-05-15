@@ -2,7 +2,7 @@ import * as React from 'react'
 
 export const SiteHeader = () => {
     return <header className="SiteHeader">
-        <nav className="navbar navbar-expand-lg navbar-dark">
+        <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
             <div className="container">
                 <a className="navbar-brand" href="#">SDG Tracker</a>
                 <ul className="navbar-nav ml-auto">

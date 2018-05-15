@@ -1,5 +1,4 @@
 declare var require: any
-require('bootstrap/dist/css/bootstrap.min.css')
 require('../css/sdgs.scss')
 
 import * as React from 'react'
