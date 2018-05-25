@@ -4,7 +4,7 @@ title: About the SDG Tracker
 name: About
 description: >-
   Our World in Data’s SDG Tracker is the first resource where users can track and explore global and country-level progress towards each of the 17 Sustainable Development Goals through interactive data visualisations. This resource is kept up-to-date with all of the latest data across all of the 17 Goals.
-featuredImage: /img/uploads/18.png
+featuredImage: /img/uploads/18.svg
 ---
 Our World in Data’s SDG Tracker is the first resource where users can track and explore global and country-level progress towards each of the 17 Sustainable Development Goals through interactive data visualisations. This resource is kept up-to-date with all of the latest data across all of the 17 Goals.
  

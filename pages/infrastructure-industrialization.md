@@ -11,7 +11,7 @@ description: >-
   development and empowering communities in many countries. It has long been
   recognized that growth in productivity and incomes, and improvements in health
   and education outcomes require investment in infrastructure.
-featuredImage: /img/uploads/9.png
+featuredImage: /img/uploads/9.svg
 ---
 
 <div class="target">

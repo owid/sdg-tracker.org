@@ -13,7 +13,7 @@ description: >-
   regulated by the sea. Throughout history, oceans and seas have been vital
   conduits for trade and transportation. Careful management of this essential
   global resource is a key feature of a sustainable future.
-featuredImage: /img/uploads/14.png
+featuredImage: /img/uploads/14.svg
 ---
 
 <div class="target">

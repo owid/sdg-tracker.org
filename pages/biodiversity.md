@@ -12,7 +12,7 @@ description: >-
   million hectares of forests are being lost every year while the persistent
   degradation of drylands has led to the desertification of 3.6 billion
   hectares.
-featuredImage: /img/uploads/15.png
+featuredImage: /img/uploads/15.svg
 ---
 
 <div class="target">

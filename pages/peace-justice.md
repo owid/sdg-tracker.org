@@ -25,7 +25,7 @@ description: >-
   [Corruption](https://ourworldindata.org/corruption) and [Violence Against &
   Rights for
   Children](https://ourworldindata.org/violence-against-rights-for-children).
-featuredImage: /img/uploads/16.png
+featuredImage: /img/uploads/16.svg
 ---
 
 

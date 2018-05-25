@@ -8,7 +8,7 @@ description: >-
   to thrive and grow, while improving resource use and reducing pollution and
   poverty. The future we want includes cities of opportunities for all, with
   access to basic services, energy, housing, transportation and more.
-featuredImage: /img/uploads/11.png
+featuredImage: /img/uploads/11.svg
 ---
 
 <div class="target">

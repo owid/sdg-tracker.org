@@ -30,7 +30,7 @@ description: >-
   per person](https://ourworldindata.org/food-per-person), and [diet
   compositions](https://ourworldindata.org/diet-compositions) also tie closely
   to these topics.
-featuredImage: /img/uploads/2.png
+featuredImage: /img/uploads/2.svg
 ---
 
 <div class="target">

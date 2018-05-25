@@ -13,7 +13,7 @@ description: >-
   Further data and statistics can be found at our entry on [CO<sub>2</sub> and
   Other Greenhouse Gas
   Emissions](https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions).
-featuredImage: /img/uploads/13.png
+featuredImage: /img/uploads/13.svg
 ---
 
 <div class="target">

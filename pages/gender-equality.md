@@ -9,7 +9,7 @@ description: >-
   and girls with equal access to education, health care, decent work, and
   representation in political and economic decision-making processes will fuel
   sustainable economies and benefit societies and humanity at large.
-featuredImage: /img/uploads/5.png
+featuredImage: /img/uploads/5.svg
 ---
 
 <div class="target">

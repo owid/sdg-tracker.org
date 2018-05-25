@@ -9,7 +9,7 @@ description: >-
   partnerships built upon principles and values, a shared vision, and shared
   goals that place people and the planet at the centre, are needed at the
   global, regional, national and local level.
-featuredImage: /img/uploads/17.png
+featuredImage: /img/uploads/17.svg
 ---
 
 <div class="target">

@@ -19,7 +19,7 @@ description: >-
   Sources](https://ourworldindata.org/energy-production-and-changing-energy-sources),
   [Renewables](https://ourworldindata.org/renewables), and [Fossil
   Fuels](https://ourworldindata.org/fossil-fuels).
-featuredImage: /img/uploads/7.png
+featuredImage: /img/uploads/7.svg
 ---
 
 <div class="target">

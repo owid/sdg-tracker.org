@@ -18,7 +18,7 @@ description: >-
 
   Longer-term trends, correlates and additional data on extreme poverty can be
   found at our entry [here](https://ourworldindata.org/extreme-poverty).
-featuredImage: /img/uploads/1.png
+featuredImage: /img/uploads/1.svg
 ---
 
 <div class="target">

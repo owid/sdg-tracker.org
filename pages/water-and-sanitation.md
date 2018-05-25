@@ -18,7 +18,7 @@ description: >-
   access. More details on Water Access, Resources and Sanitation can be found at
   our full entry
   [here](https://ourworldindata.org/water-access-resources-sanitation).
-featuredImage: /img/uploads/6.png
+featuredImage: /img/uploads/6.svg
 ---
 
 <div class="target">

@@ -22,7 +22,7 @@ description: >-
   Secondary](https://ourworldindata.org/primary-and-secondary-education);
   [Tertiary](https://ourworldindata.org/tertiary-education); and
   [Literacy](https://ourworldindata.org/literacy).
-featuredImage: /img/uploads/4.png
+featuredImage: /img/uploads/4.svg
 ---
 ## Target 4.1
 

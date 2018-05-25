@@ -14,7 +14,7 @@ description: >-
 
   Definitions of, and indicators for sustainable resource consumption is
   currently limited, as shown in the data available below.
-featuredImage: /img/uploads/12.png
+featuredImage: /img/uploads/12.svg
 ---
 
 <div class="target">
