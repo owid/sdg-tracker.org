@@ -40,8 +40,8 @@ featuredImage: /img/uploads/3.svg
 <div class="indicator" id="3.1.1">
     <div class="row">
         <div class="col-md">
-            <span>SDG Indicator</span>
-            <h3>3.1.1 Maternal mortality ratio</h3>
+            <span>SDG Indicator 3.1.1</span>
+            <h3>Maternal mortality ratio</h3>
             <p><strong>Definition:</strong> The maternal mortality ratio refers to the number of women who die from pregnancy-related causes while pregnant or within 42 days of pregnancy termination per 100,000 live births.</p>
             <p><strong>Goal:</strong> Reduce maternal mortality to less than 70 deaths per 100,000 live births.</p>
             <p><strong>More research:</strong> The Our World in Data entry on <a href="https://ourworldindata.org/maternal-mortality">maternal mortality</a> gives a long-run perspective over the last centuries and presents research on the causes and consequences of the deaths of mothers.</p>
@@ -57,8 +57,8 @@ featuredImage: /img/uploads/3.svg
 <div class="indicator" id="3.1.2">
     <div class="row">
         <div class="col-md">
-            <span>SDG Indicator</span>
-            <h3>3.1.2 Skilled birth attendance</h3>
+            <span>SDG Indicator 3.1.2</span>
+            <h3>Skilled birth attendance</h3>
             <p><strong>Definition:</strong> The percentage of births attended by personnel trained to give the necessary supervision, care, and advice to women during pregnancy, labor, and the postpartum period; to conduct deliveries on their own; and to care for newborns.</p>
             <p><strong>Goal:</strong> There is no goal specified by the UN for the share of births attended by skilled staff. It is presumably included as an indicator because <a href="https://ourworldindata.org/maternal-mortality#maternal-mortality-in-the-long-run">skilled staff can reduce maternal mortality</a>.</p>
         </div>
@@ -77,8 +77,8 @@ featuredImage: /img/uploads/3.svg
 <div class="indicator" id="3.2.1">
     <div class="row">
         <div class="col-md">
-            <span>SDG Indicator</span>
-            <h3>3.2.1 Under-5 mortality rate</h3>
+            <span>SDG Indicator 3.2.1</span>
+            <h3>Under-5 mortality rate</h3>
             <p><strong>Definition:</strong> The under-5 mortality rate measures the number of children who die before their 5th birthday, per 1,000 live births.</p>
             <p><strong>Goal:</strong> Reduce child mortality to less than 25 deaths per 1,000 live births.</p>
             <p><strong>More research:</strong> Child mortality is covered more broadly, and with a longer-term perspective in our entry on <a href="https://ourworldindata.org/global-health">global health</a>.</p>
@@ -109,8 +109,8 @@ featuredImage: /img/uploads/3.svg
 <div class="indicator" id="3.2.2">
     <div class="row">
         <div class="col-md">
-            <span>SDG Indicator</span>
-            <h3>3.2.2 Neonatal mortality rate</h3>
+            <span>SDG Indicator 3.2.2</span>
+            <h3>Neonatal mortality rate</h3>
             <p><strong>Definition:</strong> Neonatal mortality is defined as the share of newborns who die before reaching 28 days of age, measured per 1,000 live births in a given year.</p>
             <p><strong>Goal:</strong> The goal is to reduce to reduce neonatal mortality to at least as low as 12 per 1,000 live births.</p>
             <p><strong>More research:</strong> The Our World in Data entry on <a href="https://ourworldindata.org/child-mortality">child mortality</a> includes a section on neonatal mortality.</p>
@@ -130,8 +130,8 @@ featuredImage: /img/uploads/3.svg
 <div class="indicator" id="3.3.1">
     <div class="row">
         <div class="col-md">
-            <span>SDG Indicator</span>
-            <h3>3.3.1 Number of new HIV infections per 1,000 uninfected population, by sex, age and key populations</h3>
+            <span>SDG Indicator 3.3.1</span>
+            <h3>Number of new HIV infections per 1,000 uninfected population, by sex, age and key populations</h3>
             <p><strong>Definition:</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam consectetur malesuada sapien, vel lacinia lacus pharetra sagittis. Donec eget blandit risus.</p>
             <p><strong>Goal:</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam consectetur malesuada sapien, vel lacinia lacus pharetra sagittis. Donec eget blandit risus. Curabitur vitae rhoncus diam. Cras sem nisl, viverra vitae iaculis sed, cursus a risus.</p>
             <p><strong>More research:</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam consectetur malesuada sapien, vel lacinia lacus pharetra sagittis. Donec eget blandit risus. Curabitur vitae rhoncus diam. Cras sem nisl, viverra vitae iaculis sed, cursus a risus.</p>
@@ -147,8 +147,8 @@ featuredImage: /img/uploads/3.svg
 <div class="indicator" id="3.3.2">
     <div class="row">
         <div class="col-md">
-            <span>SDG Indicator</span>
-            <h3>3.3.2 Tuberculosis incidence per 100,000 population</h3>
+            <span>SDG Indicator 3.3.2</span>
+            <h3>Tuberculosis incidence per 100,000 population</h3>
             <p><strong>Definition:</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam consectetur malesuada sapien, vel lacinia lacus pharetra sagittis. Donec eget blandit risus.</p>
             <p><strong>Goal:</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam consectetur malesuada sapien, vel lacinia lacus pharetra sagittis. Donec eget blandit risus. Curabitur vitae rhoncus diam. Cras sem nisl, viverra vitae iaculis sed, cursus a risus.</p>
             <p><strong>More research:</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam consectetur malesuada sapien, vel lacinia lacus pharetra sagittis. Donec eget blandit risus. Curabitur vitae rhoncus diam. Cras sem nisl, viverra vitae iaculis sed, cursus a risus.</p>
@@ -164,8 +164,8 @@ featuredImage: /img/uploads/3.svg
 <div class="indicator" id="3.3.3">
     <div class="row">
         <div class="col-md">
-            <span>SDG Indicator</span>
-            <h3>3.3.3 Malaria incidence per 1,000 population</h3>
+            <span>SDG Indicator 3.3.3</span>
+            <h3>Malaria incidence per 1,000 population</h3>
             <p><strong>Definition:</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam consectetur malesuada sapien, vel lacinia lacus pharetra sagittis. Donec eget blandit risus.</p>
             <p><strong>Goal:</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam consectetur malesuada sapien, vel lacinia lacus pharetra sagittis. Donec eget blandit risus. Curabitur vitae rhoncus diam. Cras sem nisl, viverra vitae iaculis sed, cursus a risus.</p>
             <p><strong>More research:</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam consectetur malesuada sapien, vel lacinia lacus pharetra sagittis. Donec eget blandit risus. Curabitur vitae rhoncus diam. Cras sem nisl, viverra vitae iaculis sed, cursus a risus.</p>
@@ -181,8 +181,8 @@ featuredImage: /img/uploads/3.svg
 <div class="indicator" id="3.3.4">
     <div class="row">
         <div class="col-md">
-            <span>SDG Indicator</span>
-            <h3>3.3.4 Hepatitis B incidence per 100,000 population</h3>
+            <span>SDG Indicator 3.3.4</span>
+            <h3>Hepatitis B incidence per 100,000 population</h3>
             <p><strong>Definition:</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam consectetur malesuada sapien, vel lacinia lacus pharetra sagittis. Donec eget blandit risus.</p>
             <p><strong>Goal:</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam consectetur malesuada sapien, vel lacinia lacus pharetra sagittis. Donec eget blandit risus. Curabitur vitae rhoncus diam. Cras sem nisl, viverra vitae iaculis sed, cursus a risus.</p>
             <p><strong>More research:</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam consectetur malesuada sapien, vel lacinia lacus pharetra sagittis. Donec eget blandit risus. Curabitur vitae rhoncus diam. Cras sem nisl, viverra vitae iaculis sed, cursus a risus.</p>
@@ -198,8 +198,8 @@ featuredImage: /img/uploads/3.svg
 <div class="indicator" id="3.3.5">
     <div class="row">
         <div class="col-md">
-            <span>SDG Indicator</span>
-            <h3>3.3.5 Number of people requiring interventions against neglected tropical diseases</h3>
+            <span>SDG Indicator 3.3.5</span>
+            <h3>Number of people requiring interventions against neglected tropical diseases</h3>
             <p><strong>Definition:</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam consectetur malesuada sapien, vel lacinia lacus pharetra sagittis. Donec eget blandit risus.</p>
             <p><strong>Goal:</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam consectetur malesuada sapien, vel lacinia lacus pharetra sagittis. Donec eget blandit risus. Curabitur vitae rhoncus diam. Cras sem nisl, viverra vitae iaculis sed, cursus a risus.</p>
             <p><strong>More research:</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam consectetur malesuada sapien, vel lacinia lacus pharetra sagittis. Donec eget blandit risus. Curabitur vitae rhoncus diam. Cras sem nisl, viverra vitae iaculis sed, cursus a risus.</p>
