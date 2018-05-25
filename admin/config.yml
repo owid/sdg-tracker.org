@@ -1,6 +1,7 @@
 backend:
   name: github
   repo: "owid/sdgs"
+  branch: test
 media_folder: "img/uploads"
 collections:
   - name: "pages"
