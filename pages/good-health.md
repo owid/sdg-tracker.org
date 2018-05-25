@@ -31,64 +31,72 @@ description: >-
 featuredImage: /img/uploads/3.svg
 ---
 
-<div class="targetIntro">
+<div class="target">
     <h2>Target 3.1: Reduce maternal mortality</h2>
-    <p>By 2030, reduce the global maternal mortality ratio to less than 70 per 100,000 live births</p>
+    <p>UN definition: By 2030, reduce the global maternal mortality ratio to less than 70 per 100,000 live births</p>
     <p>SDG Indicators: <a href="#3.1.1">3.1.1 Maternal mortality ratio</a>, <a href="#3.1.2">3.1.2 Proportion of births attended by skilled health personnel</a></p>
 </div>
 
-<div class="blocks two" id="3.1.1">
-    <div class="block">
-        <h3>3.1.1 Maternal mortality ratio</h3>
-        <p><strong>Definition:</strong> The maternal mortality ratio refers to the number of women who die from pregnancy-related causes while pregnant or within 42 days of pregnancy termination per 100,000 live births.</p>
-        <p><strong>Goal:</strong> Reduce maternal mortality to less than 70 deaths per 100,000 live births.</p>
-        <p><strong>More research:</strong> The Our World in Data entry on <a href="https://ourworldindata.org/maternal-mortality">maternal mortality</a> gives a long-run perspective over the last centuries and presents research on the causes and consequences of the deaths of mothers.</p>
-    </div>
-    <div class="block">
-        <iframe src="https://ourworldindata.org/grapher/maternal-mortality?tab=map" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<div class="indicator" id="3.1.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator</span>
+            <h3>3.1.1 Maternal mortality ratio</h3>
+            <p><strong>Definition:</strong> The maternal mortality ratio refers to the number of women who die from pregnancy-related causes while pregnant or within 42 days of pregnancy termination per 100,000 live births.</p>
+            <p><strong>Goal:</strong> Reduce maternal mortality to less than 70 deaths per 100,000 live births.</p>
+            <p><strong>More research:</strong> The Our World in Data entry on <a href="https://ourworldindata.org/maternal-mortality">maternal mortality</a> gives a long-run perspective over the last centuries and presents research on the causes and consequences of the deaths of mothers.</p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/maternal-mortality?tab=map" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
     </div>
 </div>
 
 <hr>
 
-<div class="blocks two" id="3.1.2">
-    <div class="block">
-        <h3 id="3.1.2">3.1.2 Skilled birth attendance</h3>
-        <p><strong>Definition:</strong> The percentage of births attended by personnel trained to give the necessary supervision, care, and advice to women during pregnancy, labor, and the postpartum period; to conduct deliveries on their own; and to care for newborns.</p>
-        <p><strong>Goal:</strong> There is no goal specified by the UN for the share of births attended by skilled staff. It is presumably included as an indicator because <a href="https://ourworldindata.org/maternal-mortality#maternal-mortality-in-the-long-run">skilled staff can reduce maternal mortality</a>.</p>
-    </div>
-    <div class="block">
-        <iframe src="https://ourworldindata.org/grapher/births-attended-by-health-staff" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<div class="indicator" id="3.1.2">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator</span>
+            <h3>3.1.2 Skilled birth attendance</h3>
+            <p><strong>Definition:</strong> The percentage of births attended by personnel trained to give the necessary supervision, care, and advice to women during pregnancy, labor, and the postpartum period; to conduct deliveries on their own; and to care for newborns.</p>
+            <p><strong>Goal:</strong> There is no goal specified by the UN for the share of births attended by skilled staff. It is presumably included as an indicator because <a href="https://ourworldindata.org/maternal-mortality#maternal-mortality-in-the-long-run">skilled staff can reduce maternal mortality</a>.</p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/births-attended-by-health-staff" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
     </div>
 </div>
 
-<div class="targetIntro">
-    <h2>End all preventable deaths under 5 years of age</h2>
-    <p>Target 3.2: <em>“By 2030, end preventable deaths of newborns and children under 5 years of age, with all countries aiming to reduce neonatal mortality to at least as low as 12 per 1,000 live births and under‑5 mortality to at least as low as 25 per 1,000 live births”</em></p>
+<div class="target">
+    <h2>Target 3.2: End all preventable deaths under 5 years of age</h2>
+    <p>UN definition: <em>“By 2030, end preventable deaths of newborns and children under 5 years of age, with all countries aiming to reduce neonatal mortality to at least as low as 12 per 1,000 live births and under‑5 mortality to at least as low as 25 per 1,000 live births”</em></p>
     <p>SDG Indicators: <a href="#3.2.1">3.2.1 Under-5 mortality rate</a>, <a href="#3.2.2">3.2.2 Neonatal mortality rate</a></p>
 </div>
 
-<div class="blocks two" id="3.2.1">
-    <div class="block">
-        <span>SDG Indicator</span>
-        <h3>3.2.1 Under-5 mortality rate</h3>
-        <p><strong>Definition:</strong> The under-5 mortality rate measures the number of children who die before their 5th birthday, per 1,000 live births.</p>
-        <p><strong>Goal:</strong> Reduce child mortality to less than 25 deaths per 1,000 live births.</p>
-        <p><strong>More research:</strong> Child mortality is covered more broadly, and with a longer-term perspective in our entry on <a href="https://ourworldindata.org/global-health">global health</a>.</p>
-    </div>
-    <div class="block">
-        <iframe src="https://ourworldindata.org/grapher/child-mortality-rate-per-1000-live-births?map=tab" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<div class="indicator" id="3.2.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator</span>
+            <h3>3.2.1 Under-5 mortality rate</h3>
+            <p><strong>Definition:</strong> The under-5 mortality rate measures the number of children who die before their 5th birthday, per 1,000 live births.</p>
+            <p><strong>Goal:</strong> Reduce child mortality to less than 25 deaths per 1,000 live births.</p>
+            <p><strong>More research:</strong> Child mortality is covered more broadly, and with a longer-term perspective in our entry on <a href="https://ourworldindata.org/global-health">global health</a>.</p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/child-mortality-rate-per-1000-live-births?map=tab" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
     </div>
 </div>
 
-<!--<div class="blocks two">
-    <div class="block">
+<!--<div class="indicator">
+    <div class="col-md">
         <div>
             <h5 class="owid">Additional information: by sex</h5>
         </div>
         <iframe src="https://ourworldindata.org/grapher/child-mortality-rate-by-gender" style="width: 100%; height: 600px; border: 0px none;"></iframe>
     </div>
-    <div class="block">
+    <div class="col-md">
         <div>
             <h5 class="owid">Additional information: total deaths by world region</h5>
         </div>
@@ -98,88 +106,106 @@ featuredImage: /img/uploads/3.svg
 
 <hr>
 
-<div class="blocks two" id="3.2.2">
-    <div class="block">
-        <h3>3.2.2 Neonatal mortality rate</h3>
-        <p><strong>Definition:</strong> Neonatal mortality is defined as the share of newborns who die before reaching 28 days of age, measured per 1,000 live births in a given year.</p>
-        <p><strong>Goal:</strong> The goal is to reduce to reduce neonatal mortality to at least as low as 12 per 1,000 live births.</p>
-        <p><strong>More research:</strong> The Our World in Data entry on <a href="https://ourworldindata.org/child-mortality">child mortality</a> includes a section on neonatal mortality.</p>
-    </div>
-    <div class="block">
-        <iframe src="https://ourworldindata.org/grapher/neonatal-mortality-WDI" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<div class="indicator" id="3.2.2">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator</span>
+            <h3>3.2.2 Neonatal mortality rate</h3>
+            <p><strong>Definition:</strong> Neonatal mortality is defined as the share of newborns who die before reaching 28 days of age, measured per 1,000 live births in a given year.</p>
+            <p><strong>Goal:</strong> The goal is to reduce to reduce neonatal mortality to at least as low as 12 per 1,000 live births.</p>
+            <p><strong>More research:</strong> The Our World in Data entry on <a href="https://ourworldindata.org/child-mortality">child mortality</a> includes a section on neonatal mortality.</p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/neonatal-mortality-WDI" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
     </div>
 </div>
 
-<div class="targetIntro">
+<div class="target">
     <h2>Target 3.3: Fight communicable diseases</h2>
-    <p>By 2030, end the epidemics of AIDS, tuberculosis, malaria and neglected tropical diseases and combat hepatitis, water-borne diseases and other communicable diseases.</p>
+    <p>UN definition: By 2030, end the epidemics of AIDS, tuberculosis, malaria and neglected tropical diseases and combat hepatitis, water-borne diseases and other communicable diseases.</p>
     <p>SDG Indicators: <a href="#3.3.1">3.3.1 Number of new HIV infections per 1,000 uninfected population, by sex, age and key populations</a>, <a href="#3.3.2">3.3.2 Tuberculosis incidence per 100,000 population</a>, <a href="#3.3.3">3.3.3 Malaria incidence per 1,000 population</a>, <a href="#3.3.4">3.3.4 Hepatitis B incidence per 100,000 population</a>, <a href="#3.3.5">3.3.5 Number of people requiring interventions against neglected tropical diseases</a></p>
 </div>
 
-<div class="blocks two" id="3.3.1">
-    <div class="block">
-        <h3>3.3.1 Number of new HIV infections per 1,000 uninfected population, by sex, age and key populations</h3>
-        <p><strong>Definition:</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam consectetur malesuada sapien, vel lacinia lacus pharetra sagittis. Donec eget blandit risus.</p>
-        <p><strong>Goal:</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam consectetur malesuada sapien, vel lacinia lacus pharetra sagittis. Donec eget blandit risus. Curabitur vitae rhoncus diam. Cras sem nisl, viverra vitae iaculis sed, cursus a risus.</p>
-        <p><strong>More research:</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam consectetur malesuada sapien, vel lacinia lacus pharetra sagittis. Donec eget blandit risus. Curabitur vitae rhoncus diam. Cras sem nisl, viverra vitae iaculis sed, cursus a risus.</p>
-    </div>
-    <div class="block">
-        <iframe src="https://ourworldindata.org/grapher/incidence-of-hiv-sdgs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
-    </div>
-</div>
-
-<hr>
-
-<div class="blocks two" id="3.3.2">
-    <div class="block">
-        <h3>3.3.2 Tuberculosis incidence per 100,000 population</h3>
-        <p><strong>Definition:</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam consectetur malesuada sapien, vel lacinia lacus pharetra sagittis. Donec eget blandit risus.</p>
-        <p><strong>Goal:</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam consectetur malesuada sapien, vel lacinia lacus pharetra sagittis. Donec eget blandit risus. Curabitur vitae rhoncus diam. Cras sem nisl, viverra vitae iaculis sed, cursus a risus.</p>
-        <p><strong>More research:</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam consectetur malesuada sapien, vel lacinia lacus pharetra sagittis. Donec eget blandit risus. Curabitur vitae rhoncus diam. Cras sem nisl, viverra vitae iaculis sed, cursus a risus.</p>
-    </div>
-    <div class="block">
-        <iframe src="https://ourworldindata.org/grapher/incidence-of-tuberculosis-sdgs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<div class="indicator" id="3.3.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator</span>
+            <h3>3.3.1 Number of new HIV infections per 1,000 uninfected population, by sex, age and key populations</h3>
+            <p><strong>Definition:</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam consectetur malesuada sapien, vel lacinia lacus pharetra sagittis. Donec eget blandit risus.</p>
+            <p><strong>Goal:</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam consectetur malesuada sapien, vel lacinia lacus pharetra sagittis. Donec eget blandit risus. Curabitur vitae rhoncus diam. Cras sem nisl, viverra vitae iaculis sed, cursus a risus.</p>
+            <p><strong>More research:</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam consectetur malesuada sapien, vel lacinia lacus pharetra sagittis. Donec eget blandit risus. Curabitur vitae rhoncus diam. Cras sem nisl, viverra vitae iaculis sed, cursus a risus.</p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/incidence-of-hiv-sdgs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
     </div>
 </div>
 
 <hr>
 
-<div class="blocks two" id="3.3.3">
-    <div class="block">
-        <h3>3.3.3 Malaria incidence per 1,000 population</h3>
-        <p><strong>Definition:</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam consectetur malesuada sapien, vel lacinia lacus pharetra sagittis. Donec eget blandit risus.</p>
-        <p><strong>Goal:</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam consectetur malesuada sapien, vel lacinia lacus pharetra sagittis. Donec eget blandit risus. Curabitur vitae rhoncus diam. Cras sem nisl, viverra vitae iaculis sed, cursus a risus.</p>
-        <p><strong>More research:</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam consectetur malesuada sapien, vel lacinia lacus pharetra sagittis. Donec eget blandit risus. Curabitur vitae rhoncus diam. Cras sem nisl, viverra vitae iaculis sed, cursus a risus.</p>
-    </div>
-    <div class="block">
-        <iframe src="https://ourworldindata.org/grapher/incidence-of-malaria-sdgs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
-    </div>
-</div>
-
-<hr>
-
-<div class="blocks two" id="3.3.4">
-    <div class="block">
-        <h3>3.3.4 Hepatitis B incidence per 100,000 population</h3>
-        <p><strong>Definition:</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam consectetur malesuada sapien, vel lacinia lacus pharetra sagittis. Donec eget blandit risus.</p>
-        <p><strong>Goal:</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam consectetur malesuada sapien, vel lacinia lacus pharetra sagittis. Donec eget blandit risus. Curabitur vitae rhoncus diam. Cras sem nisl, viverra vitae iaculis sed, cursus a risus.</p>
-        <p><strong>More research:</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam consectetur malesuada sapien, vel lacinia lacus pharetra sagittis. Donec eget blandit risus. Curabitur vitae rhoncus diam. Cras sem nisl, viverra vitae iaculis sed, cursus a risus.</p>
-    </div>
-    <div class="block">
-        <iframe src="https://ourworldindata.org/grapher/hepatitis-b-incidence-sdgs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<div class="indicator" id="3.3.2">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator</span>
+            <h3>3.3.2 Tuberculosis incidence per 100,000 population</h3>
+            <p><strong>Definition:</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam consectetur malesuada sapien, vel lacinia lacus pharetra sagittis. Donec eget blandit risus.</p>
+            <p><strong>Goal:</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam consectetur malesuada sapien, vel lacinia lacus pharetra sagittis. Donec eget blandit risus. Curabitur vitae rhoncus diam. Cras sem nisl, viverra vitae iaculis sed, cursus a risus.</p>
+            <p><strong>More research:</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam consectetur malesuada sapien, vel lacinia lacus pharetra sagittis. Donec eget blandit risus. Curabitur vitae rhoncus diam. Cras sem nisl, viverra vitae iaculis sed, cursus a risus.</p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/incidence-of-tuberculosis-sdgs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
     </div>
 </div>
 
 <hr>
 
-<div class="blocks two" id="3.3.5">
-    <div class="block">
-        <h3>3.3.5 Number of people requiring interventions against neglected tropical diseases</h3>
-        <p><strong>Definition:</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam consectetur malesuada sapien, vel lacinia lacus pharetra sagittis. Donec eget blandit risus.</p>
-        <p><strong>Goal:</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam consectetur malesuada sapien, vel lacinia lacus pharetra sagittis. Donec eget blandit risus. Curabitur vitae rhoncus diam. Cras sem nisl, viverra vitae iaculis sed, cursus a risus.</p>
-        <p><strong>More research:</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam consectetur malesuada sapien, vel lacinia lacus pharetra sagittis. Donec eget blandit risus. Curabitur vitae rhoncus diam. Cras sem nisl, viverra vitae iaculis sed, cursus a risus.</p>
+<div class="indicator" id="3.3.3">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator</span>
+            <h3>3.3.3 Malaria incidence per 1,000 population</h3>
+            <p><strong>Definition:</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam consectetur malesuada sapien, vel lacinia lacus pharetra sagittis. Donec eget blandit risus.</p>
+            <p><strong>Goal:</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam consectetur malesuada sapien, vel lacinia lacus pharetra sagittis. Donec eget blandit risus. Curabitur vitae rhoncus diam. Cras sem nisl, viverra vitae iaculis sed, cursus a risus.</p>
+            <p><strong>More research:</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam consectetur malesuada sapien, vel lacinia lacus pharetra sagittis. Donec eget blandit risus. Curabitur vitae rhoncus diam. Cras sem nisl, viverra vitae iaculis sed, cursus a risus.</p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/incidence-of-malaria-sdgs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
     </div>
-    <div class="block">
-        <iframe src="https://ourworldindata.org/grapher/interventions-ntds-sdgs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+</div>
+
+<hr>
+
+<div class="indicator" id="3.3.4">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator</span>
+            <h3>3.3.4 Hepatitis B incidence per 100,000 population</h3>
+            <p><strong>Definition:</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam consectetur malesuada sapien, vel lacinia lacus pharetra sagittis. Donec eget blandit risus.</p>
+            <p><strong>Goal:</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam consectetur malesuada sapien, vel lacinia lacus pharetra sagittis. Donec eget blandit risus. Curabitur vitae rhoncus diam. Cras sem nisl, viverra vitae iaculis sed, cursus a risus.</p>
+            <p><strong>More research:</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam consectetur malesuada sapien, vel lacinia lacus pharetra sagittis. Donec eget blandit risus. Curabitur vitae rhoncus diam. Cras sem nisl, viverra vitae iaculis sed, cursus a risus.</p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/hepatitis-b-incidence-sdgs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
+
+<hr>
+
+<div class="indicator" id="3.3.5">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator</span>
+            <h3>3.3.5 Number of people requiring interventions against neglected tropical diseases</h3>
+            <p><strong>Definition:</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam consectetur malesuada sapien, vel lacinia lacus pharetra sagittis. Donec eget blandit risus.</p>
+            <p><strong>Goal:</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam consectetur malesuada sapien, vel lacinia lacus pharetra sagittis. Donec eget blandit risus. Curabitur vitae rhoncus diam. Cras sem nisl, viverra vitae iaculis sed, cursus a risus.</p>
+            <p><strong>More research:</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam consectetur malesuada sapien, vel lacinia lacus pharetra sagittis. Donec eget blandit risus. Curabitur vitae rhoncus diam. Cras sem nisl, viverra vitae iaculis sed, cursus a risus.</p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/interventions-ntds-sdgs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
     </div>
 </div>

@@ -48,6 +48,6 @@ export default class GoalPage extends React.Component<GoalPageProps> {
                 </article>
                 <SiteFooter/>
             </body>
-        </html>    
+        </html>
     }
 }

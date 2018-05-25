@@ -2,6 +2,8 @@ $theme-colors: (
     "dark": #001c3d
 );
 
+$grid-gutter-width: 60px;
+
 @import "~bootstrap/scss/bootstrap";
 
 html, body {
@@ -155,13 +157,13 @@ html {
 }
 
 .GoalPage {
-	> header {
+	/*> header {
 		max-width: 1120px;
         margin: auto;
         height: calc(100vh - 70px - 30px);
         display: flex;
         align-items: center;
-	}
+	}*/
 
 	> header .goalIntro {
 		display: flex;
@@ -186,28 +188,29 @@ html {
     }
 
 	> .content {
-        .targetIntro {
-            margin: 60px 0;
-            padding: 60px 0;
+        .target {
+            @extend .container;
+            margin: 60px auto;
+            padding: 60px 20px;
         }
 
-        .targetIntro > span {
+        .target > span {
             text-transform: uppercase;
         }
 
-        .targetIntro > h2 {
+        .target > h2 {
             font-size: 1.4rem;
             line-height: 1.5em;
         }
 
-        .block > span {
+        .indicator .col > span {
             text-transform: uppercase;
             color: rgba(0,0,0,.3);
-            font-size: 1.2rem;
+            font-size: 1rem;
             letter-spacing: .2;
         }
         
-        .block > h3 {
+        .indicator .col > h3 {
             margin-top: 0.3em;
             /*text-transform: uppercase;
             font-family: 'Pontano Sans', sans-serif;
@@ -220,6 +223,7 @@ html {
         }
 
         > hr {
+            @extend .container;
             margin-top: 60px;
             padding-top: 60px;
             border-top: 1px solid rgba(0, 0, 0, 0.1);
@@ -256,9 +260,15 @@ html {
 	}
 }
 
+$no-poverty-color: #e5243b;
+$zero-hunger-color: #dda63a;
+$good-health-color: #4c9f38;
+$quality-education-color: #c5192d;
+$gender-equality-color: #ff3a21;
+
 .GoalPage.good-health {
-    .targetIntro {
-        background-color: #4c9f38;
+    .target {
+        background-color: $good-health-color;
         color: white;
 
         p {
@@ -275,8 +285,8 @@ html {
         }
     }
 
-    h1, .block > h3 {
-        color: #4c9f38;
+    h1, .indicator .col > h3 {
+        color: $good-health-color;
     }
 }
 
@@ -303,14 +313,14 @@ iframe {
 $mobileWidth: 767px;
 
 @media only screen and (max-width: 767px) {
-	.content, .targetIntro {
+	.content, .target {
 		> p, > h1, > h2, > h3, > h4, > h5, > h6, > .blocks {
 			margin-left: 1rem;
 			margin-right: 1rem;
 		}
 	}
 
-	.content > .blocks {
+	/*.content > .blocks {
 		display: block;
 
 		> .block {
@@ -322,7 +332,7 @@ $mobileWidth: 767px;
 			height: 550px;
 			margin: 0;
 		}
-	}
+	}*/
 
 	.IndexPage .goals {
 		justify-content: space-between;
@@ -338,6 +348,10 @@ $mobileWidth: 767px;
 	}
 }
 
+.content > .indicator {
+    @extend .container;
+}
+
 @media only screen and (min-width: 768px) {
 	.content {
 		> p, > h1, > h2, > h3, > h4, > h5, > h6, > table {
@@ -346,7 +360,7 @@ $mobileWidth: 767px;
 			margin-right: auto;
         }
         
-        .targetIntro > * {
+        .target > * {
             margin-left: calc(5% - 16px);
             margin-right: calc(25% - 16px);
         }
@@ -356,25 +370,8 @@ $mobileWidth: 767px;
             display: flex;
             justify-content: center;
         }
-    
-        > .blocks.one {
-            > .block {
-                display: flex;
-                flex-direction: column;
-                width: 100%;
-                max-width: 850px;
-                margin: 2em 1em;    
-            }
 
-            figure {
-                width: 100%;
-                height: 600px;
-                margin: 0;
-                margin-top: auto;                    
-            }
-        }
-    
-        > .blocks.two {
+        > .indicator {
             > .block {
                 display: flex;
                 flex-direction: column;
@@ -386,23 +383,6 @@ $mobileWidth: 767px;
             figure {
                 width: 100%;
                 height: 550px;
-                margin: 0;
-                margin-top: auto;    
-            }
-        }
-    
-        > .blocks.three {
-            > .block {
-                display: flex;
-                flex-direction: column;
-                width: 30%;
-                max-width: 600px;
-                margin: 2em 1em;    
-            }
-
-            figure {
-                width: 100%;
-                height: 500px;
                 margin: 0;
                 margin-top: auto;    
             }
