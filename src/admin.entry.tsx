@@ -10,4 +10,4 @@ function renderGoalPage(pageInfo: any) {
 }
 
 declare var CMS: any
-CMS.registerPreviewTemplate("goal", renderGoalPage);
+CMS.registerPreviewTemplate("pages", renderGoalPage);

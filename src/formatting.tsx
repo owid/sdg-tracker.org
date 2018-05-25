@@ -54,11 +54,13 @@ export function formatSDG(content: string, isPreview?: boolean): JSX.Element[] {
     }*/
 
     // Replace grapher iframes with static previews
-    const grapherIframes = $("iframe").toArray().filter(el => (el.attribs['src']||'').match(/\/grapher\//))
-    for (const el of grapherIframes) {
-        const src = el.attribs['src']
-        const output = `<figure data-grapher-src="${src}" class="grapherPreview"></figure>`
-        $(el).replaceWith(output)
+    if (!isPreview) {
+        const grapherIframes = $("iframe").toArray().filter(el => (el.attribs['src']||'').match(/\/grapher\//))
+        for (const el of grapherIframes) {
+            const src = el.attribs['src']
+            const output = `<figure data-grapher-src="${src}" class="grapherPreview"></figure>`
+            $(el).replaceWith(output)
+        }
     }
 
     return [<div id="targets" className="content" dangerouslySetInnerHTML={{__html: $("body").html() as string}}/>]
