@@ -288,12 +288,12 @@ $water-and-sanitation-color: #26bde2;
 $energy-color: #fcc30b; // 7
 $economic-growth-color: #a21942;
 $infrastructure-industrialization-color: #fd6925;
-$reduced-inequalities-color: #dd1367;
+$inequality-color: #dd1367;
 $cities-color: #fd9d24; // 11
 $sustainable-consumption-production-color: #bf8b2e;
-$climate-change-color: #bf8b2e;
-$oceans-color: #bf8b2e;
-$biodiversity-color: #bf8b2e;
+$climate-change-color: #3f7e44;
+$oceans-color: #0a97d9;
+$biodiversity-color: #56c02b;
 $peace-justice-color: #00689d;
 $global-partnerships-color: #19486a;
 
@@ -311,7 +311,7 @@ $global-partnerships-color: #19486a;
 .GoalPage.energy { @include goal-color($energy-color); }
 .GoalPage.economic-growth { @include goal-color($economic-growth-color); }
 .GoalPage.infrastructure-industrialization { @include goal-color($infrastructure-industrialization-color); }
-.GoalPage.reduced-inequalities { @include goal-color($reduced-inequalities-color); }
+.GoalPage.inequality { @include goal-color($inequality-color); }
 .GoalPage.cities { @include goal-color($cities-color); }
 .GoalPage.sustainable-consumption-production { @include goal-color($sustainable-consumption-production-color); }
 .GoalPage.climate-change { @include goal-color($climate-change-color); }
@@ -319,7 +319,6 @@ $global-partnerships-color: #19486a;
 .GoalPage.biodiversity { @include goal-color($biodiversity-color); }
 .GoalPage.peace-justice { @include goal-color($peace-justice-color); }
 .GoalPage.global-partnerships { @include goal-color($global-partnerships-color); }
-
 
 a {
     text-decoration: none;

@@ -12,90 +12,26 @@ description: >-
   and retool our economic and social policies aimed at eradicating poverty.
 featuredImage: /img/uploads/8.png
 ---
-## Target 8.1
 
-**Sustain per capita economic growth in accordance with national circumstances and, in particular, at least 7 per cent gross domestic product growth per annum in the least developed countries.**
+<div class="target">
+    <h2>Target ?.?: Short target name</h2>
+    <p>UN definition: <blockquote>How the UN defines this target. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</blockquote></p>
+    <p>SDG Indicators: <a href="#?.?.?">?.?.? Name of the indicator</a></p>
+</div>
 
-The chart below shows the annual growth rate in gross domestic product (GDP) per capita. Further data and statistics can be found in our entry on [Economic Growth](https://ourworldindata.org/economic-growth).
+<div class="indicator" id="?.?.?">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator ?.?.?</span>
+            <h3>Name of the indicator</h3>
+            <p><strong>Definition:</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam consectetur malesuada sapien, vel lacinia lacus pharetra sagittis. Donec eget blandit risus.</p>
+            <p><strong>Goal:</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam consectetur malesuada sapien, vel lacinia lacus pharetra sagittis. Donec eget blandit risus. Curabitur vitae rhoncus diam. Cras sem nisl, viverra vitae iaculis sed, cursus a risus.</p>
+            <p><strong>More research:</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam consectetur malesuada sapien, vel lacinia lacus pharetra sagittis. Donec eget blandit risus. Curabitur vitae rhoncus diam. Cras sem nisl, viverra vitae iaculis sed, cursus a risus.</p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/placeholder" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
 
-<iframe src="https://ourworldindata.org/grapher/gdp-per-capita-growth?tab=chart" style="width: 100%; height: 600px; border: 0px none;"></iframe>
-
-
-
-## Target 8.2
-
-**Achieve higher levels of economic productivity through diversification, technological upgrading and innovation, including through a focus on high-value added and labour-intensive sectors.**
-
-The chart below shows the annual rate of change in gross domestic product (GDP) per employed person. This provides an overall measure of the change in productivity of a country's labour force and use of resources.
-
-<iframe src="https://ourworldindata.org/grapher/growth-rate-of-real-gdp-per-employed-person" style="width: 100%; height: 600px; border: 0px none;"></iframe>
-
-
-
-## **Target 8.3**
-
-**Proportion of informal employment in non‑agriculture employment.**
-
-<iframe src="https://ourworldindata.org/grapher/informal-employment-of-total-non-agricultural-employment" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/informal-employment-by-sex" style="width: 100%; height: 600px; border: 0px none;"></iframe>
-
-## Target 8.5
-
-**By 2030, achieve full and productive employment and decent work for all women and men, including for young people and persons with disabilities, and equal pay for work of equal value.**
-
-Achieving full and productive employment entails two key components: low levels of unemployment and good hourly earnings. Trends in these two parameters are shown in charts below, differentiated by sex.
-
-**Hourly earnings**
-
-<iframe src="https://ourworldindata.org/grapher/average-hourly-earnings" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/hourly-earnings-male-vs-female" style="width: 100%; height: 600px; border: 0px none;"></iframe>
-
-**Unemployment**
-
-<iframe src="https://ourworldindata.org/grapher/unemployment-rate" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/unemployment-rate-of-males-vs-females" style="width: 100%; height: 600px; border: 0px none;"></iframe>
-
-## Target 8.6
-
-**By 2020, substantially reduce the proportion of youth not in employment, education or training.**
-
-The unemployment rate within young demographics in some countries remains high. Promoting the inclusion of youth within the labour force through further education, training or employment will be crucial in improving such trends. The chart below shows the share of youth (aged 15-29) who are not in education, employment or training (NEET).
-
-<iframe src="https://ourworldindata.org/grapher/youth-not-in-education-employment-training" style="width: 100%; height: 600px; border: 0px none;"></iframe>
-
-## Target 8.7
-
-Take immediate and effective measures to eradicate forced labour, end modern slavery and human trafficking and secure the prohibition and elimination of the worst forms of child labour, including recruitment and use of child soldiers, and by 2025 end child labour in all its forms.
-
-Mistreatment of children, and the incidence of child labour is sadly still prevalent across many countries in the world. The charts below provide data on the incidence of child labour, average working hours of children, and differentiation by sex. 
-
-Further information on these issues can be found at our entry on [Violence Against & Rights for Children](https://ourworldindata.org/violence-against-rights-for-children).
-
-<iframe src="https://ourworldindata.org/grapher/incidence-of-child-labour?tab=map" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/percentage-of-children-in-employment-by-sex" style="width: 100%; height: 600px; border: 0px none;"></iframe>
-
-<iframe src="https://ourworldindata.org/grapher/average-working-hours-of-children" style="width: 100%; height: 600px; border: 0px none;"></iframe>
-
-## Target 8.8
-
-**Protect labour rights and promote safe and secure working environments for all workers, including migrant workers.**
-
-Safe and secure working environments are important for all, regardless of employment status or area of work. The charts below show the rates of fatal and non-fatal occupational injuries per 100,000 employees.
-
-<iframe src="https://ourworldindata.org/grapher/non-fatal-occupational-injuries-per-100000" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/fatal-occupational-injuries-among-employees" style="width: 100%; height: 600px; border: 0px none;"></iframe>
-
-## Target 8.10
-
-**Strengthen the capacity of domestic financial institutions to encourage and expand access to banking, insurance and financial services for all.**
-
-The charts below provide data on the availability of financial services (either through bank branches, or by ATMs), and the uptake of financial accounts (either traditional or mobile money accounts) by a given population.
-
-<iframe src="https://ourworldindata.org/grapher/number-of-commercial-bank-branches-per-100000-adults" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/automated-teller-machines-atms-per-100000-adults" style="width: 100%; height: 600px; border: 0px none;"></iframe>
-
-<iframe src="https://ourworldindata.org/grapher/account-at-financial-institution" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/registered-mobile-money-accounts-by-region" style="width: 100%; height: 600px; border: 0px none;"></iframe>
-
-
-
-## Target 8.a
-
-**Increase Aid for Trade support for developing countries, in particular least developed countries.**
-
-The charts below show the annual transfer of official development assistance (ODA) for use as aid for trade, by recipient and by donor country.
-
-<iframe src="https://ourworldindata.org/grapher/total-oda-for-aid-for-trade-by-recipient" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/total-oda-for-aid-for-trade-by-donor" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<hr>

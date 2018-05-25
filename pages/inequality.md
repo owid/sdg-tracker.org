@@ -20,52 +20,26 @@ description: >-
   Inequality](https://ourworldindata.org/global-economic-inequality).
 featuredImage: /img/uploads/10.svg
 ---
-## Target 10.1
 
-**By 2030, progressively achieve and sustain income growth of the bottom 40 per cent of the population at a rate higher than the national average.**
+<div class="target">
+    <h2>Target ?.?: Short target name</h2>
+    <p>UN definition: <blockquote>How the UN defines this target. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</blockquote></p>
+    <p>SDG Indicators: <a href="#?.?.?">?.?.? Name of the indicator</a></p>
+</div>
 
-Economic growth in low-income countries is essential to attaining SDG1: ending global poverty. However, average gross domestic product (GDP) can fail to capture the large inequalities in growth across the distribution. To reduce poverty, those at the bottom of the distribution must growth as much as (if not more) than elsewhere across the spectrum. In the chart below we see the annual average growth rate per capita of income/consumption in the bottom 40 percent of the population.
+<div class="indicator" id="?.?.?">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator ?.?.?</span>
+            <h3>Name of the indicator</h3>
+            <p><strong>Definition:</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam consectetur malesuada sapien, vel lacinia lacus pharetra sagittis. Donec eget blandit risus.</p>
+            <p><strong>Goal:</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam consectetur malesuada sapien, vel lacinia lacus pharetra sagittis. Donec eget blandit risus. Curabitur vitae rhoncus diam. Cras sem nisl, viverra vitae iaculis sed, cursus a risus.</p>
+            <p><strong>More research:</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam consectetur malesuada sapien, vel lacinia lacus pharetra sagittis. Donec eget blandit risus. Curabitur vitae rhoncus diam. Cras sem nisl, viverra vitae iaculis sed, cursus a risus.</p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/placeholder" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
 
-<iframe src="https://ourworldindata.org/grapher/annualized-average-growth-rate-in-per-capita-real-survey-mean-consumption-or-income-bottom-40-of-population" style="width: 100%; height: 600px; border: 0px none;"></iframe>
-
-## Target 10.4
-
-**Adopt policies, especially fiscal, wage and social protection policies, and progressively achieve greater equality.**
-
-The chart below shows the percentage of gross domestic product (GDP) derived from labour, which is inclusive of wages and social protection transfers.
-
-<iframe src="https://ourworldindata.org/grapher/labour-share-of-gdp" style="width: 100%; height: 600px; border: 0px none;"></iframe>
-
-## **Target 10.6**
-
-**Ensure enhanced representation and voice for developing countries in decision-making in global international economic and financial institutions.**
-
-Developing equal representation in international organizations between States is an important target of the United Nations. The charts below show the proportion of membership from developing countries across a range of international organizations, as well as the proportion of voting rights each country is allocated across such organizations.
-
-<iframe src="https://ourworldindata.org/grapher/proportion-of-members-of-developing-countries-in-international-organizations" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/proportion-of-voting-rights-in-international-organizations" style="width: 100%; height: 600px; border: 0px none;"></iframe>
-
-## Target 10.a
-
-**Implement the principle of special and differential treatment for developing countries.**
-
-The chart below shows the proportion of tariff lines (i.e. product categories) for which imports from least-developed countries are given a 0% tariff rate.
-
-<iframe src="https://ourworldindata.org/grapher/proportion-tariff-lines-applied-to-imports-from-ldcs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
-
-## **Target 10.b**
-
-**Encourage official development assistance and financial flows, including foreign direct investment, to States where the need is greatest.**
-
-Global inequalities have the potential to be reduced through the transfer of finance from higher-income to lower-income countries. In the charts below we see total assistance for development by recipient and donor.
-
-<iframe src="https://ourworldindata.org/grapher/total-assistance-for-development-by-recipient" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/total-assistance-for-development-by-donor" style="width: 100%; height: 600px; border: 0px none;"></iframe>
-
-## **Target 10.c**
-
-**By 2030, reduce to less than 3 per cent the transaction costs of migrant remittances and eliminate remittance corridors with costs higher than 5 per cent.**
-
-Remittances (the transfer of money from non-residents to residents of a given country, such as foreign workers sending money to family and friends) can be an important source of income for a number of countries. For some, this can constitute up to 30 percent of gross domestic product (GDP). High remittance costs can limit or reduce the impact of such transfers.
-
-The chart below shows remittance costs as a percentage of the amount remitted. The UN notes that this is a proposed indicator for this target, but it is not yet well-defined.
-
-<iframe src="https://ourworldindata.org/grapher/remittance-costs-as-share-of-amount-remitted" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<hr>

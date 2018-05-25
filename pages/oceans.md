@@ -15,22 +15,26 @@ description: >-
   global resource is a key feature of a sustainable future.
 featuredImage: /img/uploads/14.png
 ---
-## Target 14.4
 
-**By 2020, effectively regulate harvesting and end overfishing, illegal, unreported and unregulated fishing and destructive fishing practices.**
+<div class="target">
+    <h2>Target ?.?: Short target name</h2>
+    <p>UN definition: <blockquote>How the UN defines this target. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</blockquote></p>
+    <p>SDG Indicators: <a href="#?.?.?">?.?.? Name of the indicator</a></p>
+</div>
 
-Fish and seafood is a primary source of income, and nutrition for many across the world. However, overfishing and poorly regulated, illegal and destructive practices have had a major impact on fish stocks in all oceans. 
+<div class="indicator" id="?.?.?">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator ?.?.?</span>
+            <h3>Name of the indicator</h3>
+            <p><strong>Definition:</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam consectetur malesuada sapien, vel lacinia lacus pharetra sagittis. Donec eget blandit risus.</p>
+            <p><strong>Goal:</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam consectetur malesuada sapien, vel lacinia lacus pharetra sagittis. Donec eget blandit risus. Curabitur vitae rhoncus diam. Cras sem nisl, viverra vitae iaculis sed, cursus a risus.</p>
+            <p><strong>More research:</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam consectetur malesuada sapien, vel lacinia lacus pharetra sagittis. Donec eget blandit risus. Curabitur vitae rhoncus diam. Cras sem nisl, viverra vitae iaculis sed, cursus a risus.</p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/placeholder" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
 
-Protecting fish stocks and ensuring sustainable seafood production requires effective regulation and limits on harvesting rates. The charts below provide data on the rates of overfishing across the world. Further data on seafood production can be found at our entry on [Meat & Seafood Production & Consumption](https://ourworldindata.org/meat-and-seafood-production-consumption).
-
-<iframe src="https://ourworldindata.org/grapher/fish-stocks-within-sustainable-levels" style="width: 100%; height: 600px; border: 0px none;"></iframe>
-
-## Target 14.5
-
-**By 2020, conserve at least 10 per cent of coastal and marine areas, consistent with national and international law and based on the best available scientific information.**
-
-Particular marine areas — specifically those of special scientific interest and high biodiversity — are often reserved and protected within national and international law. The chart below shows the share of territorial waters which are reserved for this protection. Also shown is the distribution of ecologically threatened fish species across the world.
-
-<iframe src="https://ourworldindata.org/grapher/marine-protected-areas" style="width: 100%; height: 600px; border: 0px none;"></iframe>
-
-<iframe src="https://ourworldindata.org/grapher/fish-species-threatened" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<hr>
