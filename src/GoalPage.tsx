@@ -37,17 +37,22 @@ export default class GoalPage extends React.Component<GoalPageProps> {
             <body ref={e => this.body = e as HTMLBodyElement}>
                 <SiteHeader/>
                 <article className={`GoalPage ${slug}`}>
-                    <header className="container">
+                    <header>
                         <div>
                             <div className="breadcrumb">
                                 <span><a href={sdgsUrl("/")}>Sustainable Development Goals</a><span style={{"paddingLeft": ".5rem", "paddingRight": ".5rem"}}>/</span>{name}</span>
                             </div>
                             <div className="goalIntro">
-                                <img src={sdgsUrl(featuredImage)} />
-                                <div>
-                                    <h1>{pageTitle}</h1>
-                                    <div dangerouslySetInnerHTML={{__html: parseMarkdown(description)}}/>
-                                    <a href="#targets"><i className="fa fa-arrow-down"/> How is the world doing on this goal?</a>
+                                <div className="row">
+                                    <div className="col-md-8">
+                                        <span>Sustainable Development Goal {goalNum}</span>
+                                        <h1>{title}</h1>
+                                        <div dangerouslySetInnerHTML={{__html: parseMarkdown(description)}}/>
+                                        <a href="#targets"><i className="fa fa-arrow-down"/> How is the world doing on this goal?</a>
+                                    </div>
+                                    <div className="col-md-4">
+                                        <img src={sdgsUrl(featuredImage)} />
+                                    </div>
                                 </div>
                             </div>
                         </div>

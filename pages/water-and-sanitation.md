@@ -23,7 +23,7 @@ featuredImage: /img/uploads/6.svg
 
 <div class="target">
     <h2>Target ?.?: Short target name</h2>
-    <p>UN definition: <blockquote>How the UN defines this target. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</blockquote></p>
+    <p>UN definition: <q>How the UN defines this target. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</q></p>
     <p>SDG Indicators: <a href="#?.?.?">?.?.? Name of the indicator</a></p>
 </div>
 

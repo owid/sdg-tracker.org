@@ -62,6 +62,11 @@ html {
 	}
 }*/
 
+.goalContainer {
+    @extend .container-fluid;
+    max-width: 1300px;
+}
+
 .SiteFooter {
 	border-top: 1px solid rgba(0, 0, 0, 0.1);
 	color: rgba(255, 255, 255, 0.5);
@@ -143,7 +148,7 @@ html {
 	> header {
 		padding-top: 3rem;
 		padding-bottom: 2rem;
-	}
+    }
 
 	img {
 		float: left;
@@ -158,15 +163,9 @@ html {
 
 .GoalPage {
     header {
+        @extend .container;
         margin-top: 30px;
     }
-	/*> header {
-		max-width: 1120px;
-        margin: auto;
-        height: calc(100vh - 70px - 30px);
-        display: flex;
-        align-items: center;
-	}*/
 
 	> header .goalIntro {
 		display: flex;
@@ -181,28 +180,39 @@ html {
 		}
 		
 		img {
-			width: 150%;
+			width: 100%;
 			margin-right: 2rem;
 		}
 	
 		span {
-			opacity: 0.7;
+            text-transform: uppercase;
+            color: rgba(0,0,0,.3);
+            font-size: 1rem;
+            letter-spacing: .2;
 		}
     }
 
 	> .content {
         .target {
-            @extend .container-fluid; 
-            margin: 60px auto;
-            padding: 60px 20px;
+            @extend .goalContainer; 
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: 120px;
+            margin-bottom: 60px;
+            padding-top: 60px;
+            padding-bottom: 60px;
             color: white;
 
-            p {
-                font-family: 'Vesper Libre', serif;
+            h2 {
+                margin-bottom: 0.7rem;
             }
     
             p:last-child {
                 font-size: 0.9em;
+            }
+
+            q {
+                font-style: italic;
             }
     
             a {
@@ -211,13 +221,13 @@ html {
             }
         }
 
-        .target > span {
-            text-transform: uppercase;
-        }
-
         .target > h2 {
             font-size: 1.4rem;
             line-height: 1.5em;
+        }
+
+        .indicator {
+            @extend .goalContainer;            
         }
 
         .indicator .col-md > span {
@@ -242,11 +252,12 @@ html {
         }
 
         > hr {
-            @extend .container-fluid;
+            @extend .goalContainer;
             margin-top: 60px;
             padding-top: 60px;
             border-top: 1px solid rgba(0, 0, 0, 0.1);
             border-bottom: 0;
+            box-sizing: border-box;
         }
         
         > table.indicators {
@@ -334,8 +345,6 @@ article {
     }
 }
 
-
-
 iframe {
 	border: none;
 }
@@ -343,13 +352,6 @@ iframe {
 $mobileWidth: 767px;
 
 @media only screen and (max-width: 767px) {
-	.content, .target {
-		> p, > h1, > h2, > h3, > h4, > h5, > h6, > .blocks {
-			margin-left: 1rem;
-			margin-right: 1rem;
-		}
-	}
-
 	/*.content > .blocks {
 		display: block;
 
@@ -362,7 +364,12 @@ $mobileWidth: 767px;
 			height: 550px;
 			margin: 0;
 		}
-	}*/
+    }*/
+    
+    figure {
+        height: 500px;
+        margin: 0;
+    }
 
 	.IndexPage .goals {
 		justify-content: space-between;
@@ -378,38 +385,9 @@ $mobileWidth: 767px;
 	}
 }
 
-.content > .indicator {
-    @extend .container-fluid;
-}
-
 @media only screen and (min-width: 768px) {
 	.content {
-		> p, > h1, > h2, > h3, > h4, > h5, > h6, > table {
-			max-width: 720px;
-			margin-left: auto;
-			margin-right: auto;
-        }
-        
-        .target > * {
-            margin-left: calc(5% - 16px);
-            margin-right: calc(25% - 16px);
-        }
-
-        > .blocks {
-            width: 100%;
-            display: flex;
-            justify-content: center;
-        }
-
         > .indicator {
-            > .block {
-                display: flex;
-                flex-direction: column;
-                width: 45%;
-                max-width: 700px;
-                margin: 2em 1em;    
-            }
-
             figure {
                 width: 100%;
                 height: 550px;
@@ -418,20 +396,19 @@ $mobileWidth: 767px;
             }
         }
     }
-
-	html {
-		font-size: 16px;
-	}
-	.pageHeading {
-		font-size: 36px;
-	}
-	.IndexPage > .siteIntro h1 {
-		font-size: 50px;
-	}
+    html {
+        font-size: 16px;
+    }
+    .pageHeading {
+        font-size: 36px;
+    }
+    .IndexPage > .siteIntro h1 {
+        font-size: 50px;
+    }
 }
 
-@media only screen and (max-width: 1139px) {
-	.goalIntro img {
+@media only screen and (max-width: 767px) {
+	.goalIntro .col-md-4 {
 		display: none;
 	}
 }

@@ -33,7 +33,7 @@ featuredImage: /img/uploads/3.svg
 
 <div class="target">
     <h2>Target 3.1: Reduce maternal mortality</h2>
-    <p>UN definition: By 2030, reduce the global maternal mortality ratio to less than 70 per 100,000 live births</p>
+    <p>UN definition: <q>By 2030, reduce the global maternal mortality ratio to less than 70 per 100,000 live births</q></p>
     <p>SDG Indicators: <a href="#3.1.1">3.1.1 Maternal mortality ratio</a>, <a href="#3.1.2">3.1.2 Proportion of births attended by skilled health personnel</a></p>
 </div>
 
@@ -70,7 +70,7 @@ featuredImage: /img/uploads/3.svg
 
 <div class="target">
     <h2>Target 3.2: End all preventable deaths under 5 years of age</h2>
-    <p>UN definition: <em>“By 2030, end preventable deaths of newborns and children under 5 years of age, with all countries aiming to reduce neonatal mortality to at least as low as 12 per 1,000 live births and under‑5 mortality to at least as low as 25 per 1,000 live births”</em></p>
+    <p>UN definition: <q>By 2030, end preventable deaths of newborns and children under 5 years of age, with all countries aiming to reduce neonatal mortality to at least as low as 12 per 1,000 live births and under‑5 mortality to at least as low as 25 per 1,000 live births</q></p>
     <p>SDG Indicators: <a href="#3.2.1">3.2.1 Under-5 mortality rate</a>, <a href="#3.2.2">3.2.2 Neonatal mortality rate</a></p>
 </div>
 
@@ -123,7 +123,7 @@ featuredImage: /img/uploads/3.svg
 
 <div class="target">
     <h2>Target 3.3: Fight communicable diseases</h2>
-    <p>UN definition: By 2030, end the epidemics of AIDS, tuberculosis, malaria and neglected tropical diseases and combat hepatitis, water-borne diseases and other communicable diseases.</p>
+    <p>UN definition: <q>By 2030, end the epidemics of AIDS, tuberculosis, malaria and neglected tropical diseases and combat hepatitis, water-borne diseases and other communicable diseases.</q></p>
     <p>SDG Indicators: <a href="#3.3.1">3.3.1 Number of new HIV infections per 1,000 uninfected population, by sex, age and key populations</a>, <a href="#3.3.2">3.3.2 Tuberculosis incidence per 100,000 population</a>, <a href="#3.3.3">3.3.3 Malaria incidence per 1,000 population</a>, <a href="#3.3.4">3.3.4 Hepatitis B incidence per 100,000 population</a>, <a href="#3.3.5">3.3.5 Number of people requiring interventions against neglected tropical diseases</a></p>
 </div>
 
