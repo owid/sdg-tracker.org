@@ -30,7 +30,6 @@ description: >-
   [Smoking](https://ourworldindata.org/smoking).
 featuredImage: /img/uploads/3.svg
 ---
-
 <div class="target">
     <h2>Target 3.1: Reduce maternal mortality</h2>
     <p>UN definition: <q>By 2030, reduce the global maternal mortality ratio to less than 70 per 100,000 live births</q></p>
@@ -47,7 +46,7 @@ featuredImage: /img/uploads/3.svg
             <p><strong>More research:</strong> The Our World in Data entry on <a href="https://ourworldindata.org/maternal-mortality">maternal mortality</a> gives a long-run perspective over the last centuries and presents research on the causes and consequences of the deaths of mothers.</p>
         </div>
         <div class="col-md">
-            <iframe src="https://ourworldindata.org/grapher/maternal-mortality?tab=map" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/maternal-mortality-sdgs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
 </div>
@@ -84,7 +83,7 @@ featuredImage: /img/uploads/3.svg
             <p><strong>More research:</strong> Child mortality is covered more broadly, and with a longer-term perspective in our entry on <a href="https://ourworldindata.org/global-health">global health</a>.</p>
         </div>
         <div class="col-md">
-            <iframe src="https://ourworldindata.org/grapher/child-mortality-rate-per-1000-live-births?map=tab" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/child-mortality-sdgs?tab=chart" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
 </div>
