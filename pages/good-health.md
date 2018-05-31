@@ -115,7 +115,7 @@ featuredImage: /img/uploads/3.svg
             <p><strong>More research:</strong> The Our World in Data entry on <a href="https://ourworldindata.org/child-mortality">child mortality</a> includes a section on neonatal mortality.</p>
         </div>
         <div class="col-md">
-            <iframe src="https://ourworldindata.org/grapher/neonatal-mortality-WDI" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/neonatal-mortality-sdgs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
 </div>
