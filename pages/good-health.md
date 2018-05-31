@@ -131,9 +131,9 @@ featuredImage: /img/uploads/3.svg
         <div class="col-md">
             <span>SDG Indicator 3.3.1</span>
             <h3>Number of new HIV infections per 1,000 uninfected population, by sex, age and key populations</h3>
-            <p><strong>Definition:</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam consectetur malesuada sapien, vel lacinia lacus pharetra sagittis. Donec eget blandit risus.</p>
-            <p><strong>Goal:</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam consectetur malesuada sapien, vel lacinia lacus pharetra sagittis. Donec eget blandit risus. Curabitur vitae rhoncus diam. Cras sem nisl, viverra vitae iaculis sed, cursus a risus.</p>
-            <p><strong>More research:</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam consectetur malesuada sapien, vel lacinia lacus pharetra sagittis. Donec eget blandit risus. Curabitur vitae rhoncus diam. Cras sem nisl, viverra vitae iaculis sed, cursus a risus.</p>
+            <p><strong>Definition:</strong> Number of new HIV infections is the number of new cases of HIV amongst uninfected populations per 1,000 people.</p>
+            <p><strong>Goal:</strong> The goal by 2030 is to 'end the epidemic' of HIV. This is interpreted as a global reduction to 0.02 new cases per 1,000 [based on extrapolation](https://datareport.goalkeepers.org/) from UNAIDS target of 200,000 new infections among adults in 2030.</p>
+            <p><strong>More research:</strong> HIV is covered in detail in our full entry on [HIV/AIDS](https://ourworldindata.org/hiv-aids).</p>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/incidence-of-hiv-sdgs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
@@ -148,9 +148,8 @@ featuredImage: /img/uploads/3.svg
         <div class="col-md">
             <span>SDG Indicator 3.3.2</span>
             <h3>Tuberculosis incidence per 100,000 population</h3>
-            <p><strong>Definition:</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam consectetur malesuada sapien, vel lacinia lacus pharetra sagittis. Donec eget blandit risus.</p>
-            <p><strong>Goal:</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam consectetur malesuada sapien, vel lacinia lacus pharetra sagittis. Donec eget blandit risus. Curabitur vitae rhoncus diam. Cras sem nisl, viverra vitae iaculis sed, cursus a risus.</p>
-            <p><strong>More research:</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam consectetur malesuada sapien, vel lacinia lacus pharetra sagittis. Donec eget blandit risus. Curabitur vitae rhoncus diam. Cras sem nisl, viverra vitae iaculis sed, cursus a risus.</p>
+            <p><strong>Definition:</strong> Tuberculosis incidence is the number of new cases of tuberculosis per 100,000 people.</p>
+            <p><strong>Goal:</strong> The goal is to end the epidemic of tuberculosis (TB) by 2030. The target assumed here is extrapolated from [Stop TB Partnership target](http://www.who.int/tb/strategy/en/) of <20 cases per 100,000 in 2030.</p>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/incidence-of-tuberculosis-sdgs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
@@ -165,8 +164,8 @@ featuredImage: /img/uploads/3.svg
         <div class="col-md">
             <span>SDG Indicator 3.3.3</span>
             <h3>Malaria incidence per 1,000 population</h3>
-            <p><strong>Definition:</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam consectetur malesuada sapien, vel lacinia lacus pharetra sagittis. Donec eget blandit risus.</p>
-            <p><strong>Goal:</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam consectetur malesuada sapien, vel lacinia lacus pharetra sagittis. Donec eget blandit risus. Curabitur vitae rhoncus diam. Cras sem nisl, viverra vitae iaculis sed, cursus a risus.</p>
+            <p><strong>Definition:</strong> Malaria incidence is the number of new cases of malaria per 1,000 people in a given population.</p>
+            <p><strong>Goal:</strong> The 2030 target is to end the epidemic of malaria. A target of 9 or fewer cases of malaria per 1,000 people has been assumed based on the [WHO Global Technical Strategy target](http://www.who.int/malaria/areas/global_targets/en/) of reducing incidence by 90 percent.</p>
             <p><strong>More research:</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam consectetur malesuada sapien, vel lacinia lacus pharetra sagittis. Donec eget blandit risus. Curabitur vitae rhoncus diam. Cras sem nisl, viverra vitae iaculis sed, cursus a risus.</p>
         </div>
         <div class="col-md">
