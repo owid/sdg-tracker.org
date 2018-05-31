@@ -80,7 +80,7 @@ featuredImage: /img/uploads/3.svg
             <h3>Under-5 mortality rate</h3>
             <p><strong>Definition:</strong> The under-5 mortality rate measures the number of children who die before their 5th birthday, per 1,000 live births.</p>
             <p><strong>Goal:</strong> Reduce child mortality to less than 25 deaths per 1,000 live births.</p>
-            <p><strong>More research:</strong> Child mortality is covered more broadly, and with a longer-term perspective in our entry on <a href="https://ourworldindata.org/global-health">global health</a>.</p>
+            <p><strong>More research:</strong> Child mortality is covered more broadly, and with a longer-term perspective in our [full entry](https://ourworldindata.org/child-mortality) on this topic. 
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/child-mortality-sdg?tab=chart" style="width: 100%; height: 600px; border: 0px none;"></iframe>
@@ -198,12 +198,12 @@ featuredImage: /img/uploads/3.svg
         <div class="col-md">
             <span>SDG Indicator 3.3.5</span>
             <h3>Number of people requiring interventions against neglected tropical diseases</h3>
-            <p><strong>Definition:</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam consectetur malesuada sapien, vel lacinia lacus pharetra sagittis. Donec eget blandit risus.</p>
-            <p><strong>Goal:</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam consectetur malesuada sapien, vel lacinia lacus pharetra sagittis. Donec eget blandit risus. Curabitur vitae rhoncus diam. Cras sem nisl, viverra vitae iaculis sed, cursus a risus.</p>
-            <p><strong>More research:</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam consectetur malesuada sapien, vel lacinia lacus pharetra sagittis. Donec eget blandit risus. Curabitur vitae rhoncus diam. Cras sem nisl, viverra vitae iaculis sed, cursus a risus.</p>
-        </div>
+            <p><strong>Definition:</strong> Number of people requiring interventions (treatment and care) for any of the 15 neglected tropical diseases (NTDs) identified by the WHO NTD Roadmap and World Health Assembly resolutions. Treatment and care is broadly defined to allow for preventive, curative, surgical or rehabilitative treatment and care.</p>
+            <p><strong>Goal:</strong> The 2030 target is to end the epidemic of neglected tropical diseases (NTDs). There is no specific goal for this indicator; a significant decline in people requiring interventions is required.</p>
+            <p></p>
+
+</div>    
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/interventions-ntds-sdgs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
-        </div>
-    </div>
+    
 </div>
