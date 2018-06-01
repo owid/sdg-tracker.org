@@ -227,7 +227,7 @@ featuredImage: /img/uploads/3.svg
     </div>
 </div>
 
-<hr>
+<hr
 
 <div class="indicator" id="3.4.2">
     <div class="row">
@@ -243,5 +243,3 @@ featuredImage: /img/uploads/3.svg
         </div>
     </div>
 </div>
-
-<hr>
