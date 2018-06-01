@@ -207,3 +207,41 @@ featuredImage: /img/uploads/3.svg
             <iframe src="https://ourworldindata.org/grapher/interventions-ntds-sdgs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
     
 </div>
+
+<div class="target"> <h2>Target 3.4: Reduce mortality from non-communicable diseases and promote mental health</h2    <p>UN definition: <q>By 2030, reduce by one third premature mortality from non-communicable diseases through prevention and treatment and promote mental health and well-being.</q></p><p>SDG Indicators: <a href="#3.4.1">3.4.1 Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease</a>, <a href="#3.4.2">3.4.2 Suicide mortality rate</a></p>
+
+</div>
+
+<div class="indicator" id="3.4.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 3.4.1</span>
+            <h3>Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease</h3>
+            <p><strong>Definition:</strong> Mortality from CVD, cancer, diabetes or CRD is the percent of 30-year-old-people who would die before their 70th birthday from any of cardiovascular disease, cancer, diabetes, or chronic respiratory disease, assuming thats/he would experience current mortality rates at every age and s/he would not die from any other cause of death (e.g.,injuries or HIV/AIDS).</p>
+            <p><strong>Goal:</strong> The goal by 2030 is to reduce premature mortality from non-communicable diseases (NCDs) by one-third.</p>
+            <p><strong>More research:</strong> Further data and research on non-communicable diseases can be found at our full entries on <a href="https://ourworldindata.org/causes-of-death"> Causes of Death</a>, <a href="https://ourworldindata.org/burden-of-disease"> Burden of Disease</a>, and <a href="https://ourworldindata.org/cancer"> Cancer</a>.</p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/mortality-from-ncds-sdgs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
+
+<hr>
+
+<div class="indicator" id="3.4.2">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 3.4.2</span>
+            <h3>Suicide mortality rate</h3>
+            <p><strong>Definition:</strong> Suicide mortality rate is the number of deaths from suicide/self-harm measured per 100,000 individuals in a given population.</p>
+            <p><strong>Goal:</strong> The goal by 2030 is to promote mental health and wellbeing. There is no defined target level for this indicator.</p>
+            <p><strong>More research:</strong> Further data and research on suicide and mental wellbeing can be found at our full entries on <a href="https://ourworldindata.org/suicide"> Suicide</a>, <a href="https://ourworldindata.org/mental-health"> Mental Health</a>, and <a href="https://ourworldindata.org/substance-use"> Substance Use</a>.</p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/suicide-mortality-rate" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
+
+<hr>
