@@ -156,7 +156,7 @@ featuredImage: /img/uploads/3.svg
             <p><strong>Definition:</strong> Tuberculosis incidence is the number of new cases of tuberculosis per 100,000 people.</p>
             <p><strong>Goal:</strong> The goal is to end the epidemic of tuberculosis (TB) by 2030. The targeted level, however, is not defined. 
 
-The WHO's Stop TB Partnership have <a href="http://www.who.int/tb/strategy/en/">set a target</a> (not specifically related to the SDGs) of reducing national incidence of TB to fewer than 20 cases per 100,000 by 2030. 
+<p>The WHO's Stop TB Partnership have <a href="http://www.who.int/tb/strategy/en/">set a target</a> (not specifically related to the SDGs) of reducing national incidence of TB to fewer than 20 cases per 100,000 by 2030.</p>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/incidence-of-tuberculosis-sdgs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
@@ -172,8 +172,10 @@ The WHO's Stop TB Partnership have <a href="http://www.who.int/tb/strategy/en/">
             <span>SDG Indicator 3.3.3</span>
             <h3>Malaria incidence per 1,000 population</h3>
             <p><strong>Definition:</strong> Malaria incidence is the number of new cases of malaria per 1,000 people in a given population.</p>
-            <p><strong>Goal:</strong> The 2030 target is to end the epidemic of malaria. A target of 9 or fewer cases of malaria per 1,000 people has been assumed based on the <a href="http://www.who.int/malaria/areas/global_targets/en/"> WHO Global Technical Strategy target</a> of reducing incidence by 90 percent.</p>
-            <p><strong>More research:</strong> More information on global and national trends in malaria prevalence, deaths and interventions can be found at our <a href="https://ourworldindata.org/malaria"> full entry</a> on Malaria.</p>
+            <p><strong>Goal:</strong> The 2030 target is to end the epidemic of malaria. The targeted level, however, is not defined. 
+
+<p>The  <a href="http://www.who.int/malaria/areas/global_targets/en/"> WHO Global Technical Strategy</a> have set a target of reducing incidence by 90 percent by 2030. This would infer a target of 9 or fewer cases of malaria per 1,000 people globally in 2030.</p>
+            <p><strong>More research:</strong> More information on global and national trends in malaria prevalence, deaths and interventions can be found at the Our World in Data <a href="https://ourworldindata.org/malaria"> entry on Malaria</a>.</p>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/incidence-of-malaria-sdgs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
@@ -191,7 +193,7 @@ The WHO's Stop TB Partnership have <a href="http://www.who.int/tb/strategy/en/">
             <p><strong>Definition:</strong> Hepatitis B incidence is the number of new cases of hepatitis B per 100,000 individuals in a given population per year.</p>
             <p><strong>Goal:</strong> The SDG target is to 'combat hepatitis' with a focus on hepatitis B. 
 
-The targeted level however is not defined.</p>
+<p>The targeted level, however, is not defined.</p>
             <p></p>
         </div>
         <div class="col-md">
@@ -209,7 +211,9 @@ The targeted level however is not defined.</p>
             <span>SDG Indicator 3.3.5</span>
             <h3>Number of people requiring interventions against neglected tropical diseases</h3>
             <p><strong>Definition:</strong> Number of people requiring interventions (treatment and care) for any of the 15 neglected tropical diseases (NTDs) identified by the WHO NTD Roadmap and World Health Assembly resolutions. Treatment and care is broadly defined to allow for preventive, curative, surgical or rehabilitative treatment and care.</p>
-            <p><strong>Goal:</strong> The 2030 target is to end the epidemic of neglected tropical diseases (NTDs). There is no specific goal for this indicator; a significant decline in people requiring interventions is required.</p>
+            <p><strong>Goal:</strong> The 2030 target is to end the epidemic of neglected tropical diseases (NTDs). 
+
+<p>The targeted level, however, is not defined.</p>
             <p></p>
 
 </div>    
@@ -233,12 +237,12 @@ The targeted level however is not defined.</p>
             <p><strong>Definition:</strong> Mortality from CVD, cancer, diabetes or CRD is the percent of 30-year-old-people who would die before their 70th birthday from any of cardiovascular disease, cancer, diabetes, or chronic respiratory disease, assuming thats/he would experience current mortality rates at every age and s/he would not die from any other cause of death (e.g.,injuries or HIV/AIDS).</p>
             <p><strong>Goal:</strong> The goal by 2030 is to reduce premature mortality from non-communicable diseases (NCDs) by one-third.</p>
             <p><strong>More research:</strong> Further data and research on non-communicable diseases can be found at our full entries on <a href="https://ourworldindata.org/causes-of-death"> Causes of Death</a>, <a href="https://ourworldindata.org/burden-of-disease"> Burden of Disease</a>, and <a href="https://ourworldindata.org/cancer"> Cancer</a>.</p>
-        </div>
+
+</div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/mortality-from-ncds-sdgs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
-    </div>
-</div>
+   </div>
 
 <hr>
 
@@ -249,47 +253,12 @@ The targeted level however is not defined.</p>
             <h3>Suicide mortality rate</h3>
             <p><strong>Definition:</strong> Suicide mortality rate is the number of deaths from suicide/self-harm measured per 100,000 individuals in a given population.</p>
             <p><strong>Goal:</strong> The goal by 2030 is to promote mental health and wellbeing. There is no defined target level for this indicator.</p>
-            <p><strong>More research:</strong> Further data and research on suicide and mental wellbeing can be found at our full entries on <a href="https://ourworldindata.org/suicide"> Suicide</a>, <a href="https://ourworldindata.org/mental-health"> Mental Health</a>, and <a href="https://ourworldindata.org/substance-use"> Substance Use</a>.</p>
+            <p><strong>More research:</strong> Further data and research on suicide and mental wellbeing can be found at our full entries on <a href="https://ourworldindata.org/suicide"> Suicide</a> and <a href="https://ourworldindata.org/mental-health"> Mental Health</a>.</p>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/suicide-mortality-rate" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
-</div>
-
-<div class="indicator" id="3.3.4">
-    <div class="row">
-        <div class="col-md">
-            <span>SDG Indicator 3.3.4</span>
-            <h3>Hepatitis B incidence per 100,000 population</h3>
-            <p><strong>Definition:</strong> Hepatitis B incidence is the number of new cases of hepatitis B per 100,000 individuals in a given population per year.</p>
-            <p><strong>Goal:</strong> The SDG target is to 'combat hepatitis' with a focus on hepatitis B. 
-
-The targeted level however is not defined.</p>
-            <p></p>
-        </div>
-        <div class="col-md">
-            <iframe src="https://ourworldindata.org/grapher/hepatitis-b-incidence-sdgs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
-        </div>
-    </div>
-
-</div>
-
-<hr>
-
-<div class="indicator" id="3.3.5">
-    <div class="row">
-        <div class="col-md">
-            <span>SDG Indicator 3.3.5</span>
-            <h3>Number of people requiring interventions against neglected tropical diseases</h3>
-            <p><strong>Definition:</strong> Number of people requiring interventions (treatment and care) for any of the 15 neglected tropical diseases (NTDs) identified by the WHO NTD Roadmap and World Health Assembly resolutions. Treatment and care is broadly defined to allow for preventive, curative, surgical or rehabilitative treatment and care.</p>
-            <p><strong>Goal:</strong> The 2030 target is to end the epidemic of neglected tropical diseases (NTDs). There is no specific goal for this indicator; a significant decline in people requiring interventions is required.</p>
-            <p></p>
-
-</div>    
-        <div class="col-md">
-            <iframe src="https://ourworldindata.org/grapher/interventions-ntds-sdgs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
-    
 </div>
 
 <div class="target">
