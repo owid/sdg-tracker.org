@@ -181,9 +181,9 @@ featuredImage: /img/uploads/3.svg
         <div class="col-md">
             <span>SDG Indicator 3.3.4</span>
             <h3>Hepatitis B incidence per 100,000 population</h3>
-            <p><strong>Definition:</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam consectetur malesuada sapien, vel lacinia lacus pharetra sagittis. Donec eget blandit risus.</p>
-            <p><strong>Goal:</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam consectetur malesuada sapien, vel lacinia lacus pharetra sagittis. Donec eget blandit risus. Curabitur vitae rhoncus diam. Cras sem nisl, viverra vitae iaculis sed, cursus a risus.</p>
-            <p><strong>More research:</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam consectetur malesuada sapien, vel lacinia lacus pharetra sagittis. Donec eget blandit risus. Curabitur vitae rhoncus diam. Cras sem nisl, viverra vitae iaculis sed, cursus a risus.</p>
+            <p><strong>Definition:</strong> Hepatitis B incidence is the number of new cases of hepatitis B per 100,000 individuals in a given population.</p>
+            <p><strong>Goal:</strong> The SDG target is to 'combat hepatitis' with a focus on hepatitis B. There is currently not a clear definition of the level of the target incidence which would meet the overall target of combating hepatitis by 2030.</p>
+            <p></p>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/hepatitis-b-incidence-sdgs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
