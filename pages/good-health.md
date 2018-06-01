@@ -134,6 +134,10 @@ featuredImage: /img/uploads/3.svg
 
 <p>UNAIDS have <a href="https://www.avert.org/global-hiv-targets">set a target</a> (not specifically related to the SDGs) of reducing to less than 200,000 new infections globally among adults by 2030. This would mean a target of reduction to 0.02 new cases per 1,000 people globally in 2030.</p>
             <p><strong>More research:</strong> HIV is covered in detail in our full entry on <a href="https://ourworldindata.org/hiv-aids"> HIV/AIDS</a>.</p>
+<p><strong>Additional charts:</strong> 
+<br><a href="https://ourworldindata.org/grapher/share-of-the-population-infected-with-hiv">Share of population infected with HIV</a>
+<br><a href="https://ourworldindata.org/grapher/hiv-death-rates">HIV/AIDS death rates</a>
+<br><a href="https://ourworldindata.org/grapher/deaths-from-hiv-by-age">Number of HIV/AIDS deaths</a>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/incidence-of-hiv-sdgs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
@@ -152,6 +156,9 @@ featuredImage: /img/uploads/3.svg
             <p><strong>Goal:</strong> The goal is to end the epidemic of tuberculosis (TB) by 2030. The targeted level, however, is not defined. 
 
 <p>The WHO's Stop TB Partnership have <a href="http://www.who.int/tb/strategy/en/">set a target</a> (not specifically related to the SDGs) of reducing national incidence of TB to fewer than 20 cases per 100,000 by 2030.</p>
+<p><strong>Additional charts:</strong> 
+<br><a href="https://ourworldindata.org/grapher/tuberculosis-death-rates">Tuberculosis death rates</a>
+<br><a href="https://ourworldindata.org/grapher/tuberculosis-deaths-by-age">Number of tuberculosis deaths</a>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/incidence-of-tuberculosis-sdgs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
