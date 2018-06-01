@@ -322,3 +322,30 @@ aftercare services) for substance use disorders</h3>
         </div>
     </div>
 </div>
+
+<div class="target">
+<h2>Target 3.6: Reduce road injuries and deaths</h2>
+
+<p>UN definition: <q>By 2020, halve the number of global deaths and
+injuries from road traffic accidents.</q></p>
+
+<p>SDG Indicators: <a href="#3.6.1">3.6.1 Death rate due to road traffic injuries</a>.</p>
+
+</div>
+
+<div class="indicator" id="3.6.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 3.6.1</span>
+            <h3>Halve the number of road traffic deaths</h3>
+            <p><strong>Definition:</strong> Halving the number of road traffic deaths is measured as the absolute number of deaths from road injuries.</p>
+            <p><strong>Goal:</strong> Halve the total number of road traffic deaths <strong>by 2020</strong>.</p>
+            <p><strong>Additional charts:</strong> 
+<br><a href="https://ourworldindata.org/grapher/death-rates-road-incidents">Road traffic death rates</a>
+<br><a href="https://ourworldindata.org/grapher/road-deaths-by-type">Road traffic deaths by user</a>
+        </div>
+        <div class="col-md">
+         <iframe src="https://ourworldindata.org/grapher/road-traffic-deaths-sdgs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
