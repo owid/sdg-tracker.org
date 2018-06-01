@@ -14,8 +14,9 @@ description: >-
   emerging health issues.
 
 
-  In-depth analysis across a range of health-related topics can be found at our
-  entries on: [Global Health](https://ourworldindata.org/health-meta),
+  In-depth analysis across a range of health-related topics can be found at the
+  _Our World in Data_ entries on: [Global
+  Health](https://ourworldindata.org/health-meta),
   [Polio](https://ourworldindata.org/polio), [Life
   Expectancy](https://ourworldindata.org/life-expectancy), [Maternal
   Mortality](https://ourworldindata.org/maternal-mortality), [Child
@@ -59,7 +60,9 @@ featuredImage: /img/uploads/3.svg
             <span>SDG Indicator 3.1.2</span>
             <h3>Skilled birth attendance</h3>
             <p><strong>Definition:</strong> The percentage of births attended by personnel trained to give the necessary supervision, care, and advice to women during pregnancy, labor, and the postpartum period; to conduct deliveries on their own; and to care for newborns.</p>
-            <p><strong>Goal:</strong> There is no goal specified by the UN for the share of births attended by skilled staff. It is presumably included as an indicator because <a href="https://ourworldindata.org/maternal-mortality#maternal-mortality-in-the-long-run">skilled staff can reduce maternal mortality</a>.</p>
+            <p><strong>Goal:</strong> There is no goal specified by the UN for the share of births attended by skilled staff.
+
+<p><strong>More research:</strong> Research shows that <a href="https://ourworldindata.org/maternal-mortality#maternal-mortality-in-the-long-run">skilled staff can reduce maternal mortality</a>.</p>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/births-attended-by-health-staff" style="width: 100%; height: 600px; border: 0px none;"></iframe>
@@ -80,7 +83,7 @@ featuredImage: /img/uploads/3.svg
             <h3>Under-5 mortality rate</h3>
             <p><strong>Definition:</strong> The under-5 mortality rate measures the number of children who die before their 5th birthday, per 1,000 live births.</p>
             <p><strong>Goal:</strong> Reduce child mortality to less than 25 deaths per 1,000 live births.</p>
-            <p><strong>More research:</strong> Child mortality is covered more broadly, and with a longer-term perspective in our <a href="https://ourworldindata.org/child-mortality">full entry</a> on this topic. 
+            <p><strong>More research:</strong> Child mortality is covered more broadly, and with a longer-term perspective in the Our World in Data <a href="https://ourworldindata.org/child-mortality">entry on child mortality</a>. 
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/child-mortality-rate-sdgs?tab=chart" style="width: 100%; height: 600px; border: 0px none;"></iframe>
@@ -111,7 +114,7 @@ featuredImage: /img/uploads/3.svg
             <span>SDG Indicator 3.2.2</span>
             <h3>Neonatal mortality rate</h3>
             <p><strong>Definition:</strong> Neonatal mortality is defined as the share of newborns who die before reaching 28 days of age, measured per 1,000 live births in a given year.</p>
-            <p><strong>Goal:</strong> The goal is to reduce to reduce neonatal mortality to at least as low as 12 per 1,000 live births.</p>
+            <p><strong>Goal:</strong> The goal is to reduce neonatal mortality to at least as low as 12 per 1,000 live births.</p>
             <p><strong>More research:</strong> The Our World in Data entry on <a href="https://ourworldindata.org/child-mortality">child mortality</a> includes a section on neonatal mortality.</p>
         </div>
         <div class="col-md">
@@ -181,8 +184,10 @@ featuredImage: /img/uploads/3.svg
         <div class="col-md">
             <span>SDG Indicator 3.3.4</span>
             <h3>Hepatitis B incidence per 100,000 population</h3>
-            <p><strong>Definition:</strong> Hepatitis B incidence is the number of new cases of hepatitis B per 100,000 individuals in a given population.</p>
-            <p><strong>Goal:</strong> The SDG target is to 'combat hepatitis' with a focus on hepatitis B. There is currently not a clear definition of the level of the target incidence which would meet the overall target of combating hepatitis by 2030.</p>
+            <p><strong>Definition:</strong> Hepatitis B incidence is the number of new cases of hepatitis B per 100,000 individuals in a given population per year.</p>
+            <p><strong>Goal:</strong> The SDG target is to 'combat hepatitis' with a focus on hepatitis B. 
+
+The targeted level however is not defined.</p>
             <p></p>
         </div>
         <div class="col-md">
@@ -208,7 +213,10 @@ featuredImage: /img/uploads/3.svg
     
 </div>
 
-<div class="target"> <h2>Target 3.4: Reduce mortality from non-communicable diseases and promote mental health</h2    <p>UN definition: <q>By 2030, reduce by one third premature mortality from non-communicable diseases through prevention and treatment and promote mental health and well-being.</q></p><p>SDG Indicators: <a href="#3.4.1">3.4.1 Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease</a>, <a href="#3.4.2">3.4.2 Suicide mortality rate</a></p>
+<div class="target"> 
+<h2>Target 3.4: Reduce mortality from non-communicable diseases and promote mental health</h2>    
+<p>UN definition: <q>By 2030, reduce by one third premature mortality from non-communicable diseases through prevention and treatment and promote mental health and well-being.</q></p>
+<p>SDG Indicators: <a href="#3.4.1">3.4.1 Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease</a>, <a href="#3.4.2">3.4.2 Suicide mortality rate</a></p>
 
 </div>
 
@@ -227,7 +235,7 @@ featuredImage: /img/uploads/3.svg
     </div>
 </div>
 
-<hr
+<hr>
 
 <div class="indicator" id="3.4.2">
     <div class="row">
@@ -242,4 +250,50 @@ featuredImage: /img/uploads/3.svg
             <iframe src="https://ourworldindata.org/grapher/suicide-mortality-rate" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
+</div>
+
+<div class="indicator" id="3.3.4">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 3.3.4</span>
+            <h3>Hepatitis B incidence per 100,000 population</h3>
+            <p><strong>Definition:</strong> Hepatitis B incidence is the number of new cases of hepatitis B per 100,000 individuals in a given population per year.</p>
+            <p><strong>Goal:</strong> The SDG target is to 'combat hepatitis' with a focus on hepatitis B. 
+
+The targeted level however is not defined.</p>
+            <p></p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/hepatitis-b-incidence-sdgs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
+
+<hr>
+
+<div class="indicator" id="3.3.5">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 3.3.5</span>
+            <h3>Number of people requiring interventions against neglected tropical diseases</h3>
+            <p><strong>Definition:</strong> Number of people requiring interventions (treatment and care) for any of the 15 neglected tropical diseases (NTDs) identified by the WHO NTD Roadmap and World Health Assembly resolutions. Treatment and care is broadly defined to allow for preventive, curative, surgical or rehabilitative treatment and care.</p>
+            <p><strong>Goal:</strong> The 2030 target is to end the epidemic of neglected tropical diseases (NTDs). There is no specific goal for this indicator; a significant decline in people requiring interventions is required.</p>
+            <p></p>
+
+</div>    
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/interventions-ntds-sdgs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+    
+</div>
+
+<div class="target">
+<h2>Target 3.5: Prevent and treat substance abuse</h2>
+
+<p>UN definition: <q>Strengthen the prevention and treatment of substance abuse, including narcotic drug abuse and harmful use of alcohol.</q></p>
+
+<p>SDG Indicators: <a href="#3.5.1">3.5.1 Coverage of treatment interventions
+(pharmacological, psychosocial and rehabilitation and
+aftercare services) for substance use disorders</a>, <a href="#3.5.2">3.5.2 Harmful use of alcohol, defined according to the
+national context as alcohol per capita consumption (aged 15 years and older) within a calendar year in litres of pure alcohol</a>.</p>
+
 </div>
