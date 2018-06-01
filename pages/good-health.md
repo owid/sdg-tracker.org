@@ -45,6 +45,9 @@ featuredImage: /img/uploads/3.svg
             <p><strong>Definition:</strong> The maternal mortality ratio refers to the number of women who die from pregnancy-related causes while pregnant or within 42 days of pregnancy termination per 100,000 live births.</p>
             <p><strong>Goal:</strong> Reduce global maternal mortality to less than 70 deaths per 100,000 live births.</p>
             <p><strong>More research:</strong> The Our World in Data entry on <a href="https://ourworldindata.org/maternal-mortality">maternal mortality</a> gives a long-run perspective over the last centuries and presents research on the causes and consequences of the deaths of mothers.</p>
+<p><strong>Additional charts:</strong> 
+<br><a href="https://ourworldindata.org/https://ourworldindata.org/grapher/number-of-maternal-deaths-by-region">Number of maternal deaths by region</a>
+<br><a href="https://ourworldindata.org/grapher/number-of-maternal-deaths">Number of maternal deaths by country</a>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/maternal-mortality-ratio-sdgs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
@@ -83,28 +86,17 @@ featuredImage: /img/uploads/3.svg
             <h3>Under-5 mortality rate</h3>
             <p><strong>Definition:</strong> The under-5 mortality rate measures the number of children who die before their 5th birthday, per 1,000 live births.</p>
             <p><strong>Goal:</strong> Reduce child mortality to less than 25 deaths per 1,000 live births.</p>
-            <p><strong>More research:</strong> Child mortality is covered more broadly, and with a longer-term perspective in the Our World in Data <a href="https://ourworldindata.org/child-mortality">entry on child mortality</a>. 
+            <p><strong>More research:</strong> Child mortality is covered more broadly, and with a longer-term perspective in the Our World in Data <a href="https://ourworldindata.org/child-mortality">entry on child mortality</a>.
+<p><strong>Additional charts:</strong> 
+<br><a href="https://ourworldindata.org/grapher/number-of-under-five-deaths">Number of under-five deaths</a>
+<br><a href="https://ourworldindata.org/grapher/number-of-under-five-deaths-by-region">Number of under-five deaths by region</a>
+<br><a href="https://ourworldindata.org/grapher/child-mortality-rate-by-gender">Child mortality rate by sex</a>    
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/child-mortality-rate-sdgs?tab=chart" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
 </div>
-
-<!--<div class="indicator">
-    <div class="col-md">
-        <div>
-            <h5 class="owid">Additional information: by sex</h5>
-        </div>
-        <iframe src="https://ourworldindata.org/grapher/child-mortality-rate-by-gender" style="width: 100%; height: 600px; border: 0px none;"></iframe>
-    </div>
-    <div class="col-md">
-        <div>
-            <h5 class="owid">Additional information: total deaths by world region</h5>
-        </div>
-        <iframe src="https://ourworldindata.org/grapher/number-of-under-five-deaths-by-region" style="width: 100%; height: 600px; border: 0px none;"></iframe>
-    </div>
-</div>-->
 
 <hr>
 
@@ -116,6 +108,9 @@ featuredImage: /img/uploads/3.svg
             <p><strong>Definition:</strong> Neonatal mortality is defined as the share of newborns who die before reaching 28 days of age, measured per 1,000 live births in a given year.</p>
             <p><strong>Goal:</strong> The goal is to reduce neonatal mortality to at least as low as 12 per 1,000 live births.</p>
             <p><strong>More research:</strong> The Our World in Data entry on <a href="https://ourworldindata.org/child-mortality">child mortality</a> includes a section on neonatal mortality.</p>
+<p><strong>Additional charts:</strong> 
+<br><a href="https://ourworldindata.org/grapher/number-of-neonatal-deaths">Number of neonatal deaths</a>
+<br><a href="https://ourworldindata.org/grapher/number-of-neonatal-deaths-by-region">Number of neonate deaths by region</a>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/neonatal-mortality-rate-sdgs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
