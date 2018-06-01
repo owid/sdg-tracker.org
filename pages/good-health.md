@@ -221,14 +221,13 @@ featuredImage: /img/uploads/3.svg
             <iframe src="https://ourworldindata.org/grapher/interventions-ntds-sdgs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
     
 </div>
-
+</div>
 <div class="target"> 
 <h2>Target 3.4: Reduce mortality from non-communicable diseases and promote mental health</h2>    
 <p>UN definition: <q>By 2030, reduce by one third premature mortality from non-communicable diseases through prevention and treatment and promote mental health and well-being.</q></p>
 <p>SDG Indicators: <a href="#3.4.1">3.4.1 Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease</a>, <a href="#3.4.2">3.4.2 Suicide mortality rate</a></p>
 
 </div>
-
 <div class="indicator" id="3.4.1">
     <div class="row">
         <div class="col-md">
@@ -243,6 +242,7 @@ featuredImage: /img/uploads/3.svg
             <iframe src="https://ourworldindata.org/grapher/mortality-from-ncds-sdgs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
    </div>
+</div>
 
 <hr>
 
@@ -271,4 +271,37 @@ featuredImage: /img/uploads/3.svg
 aftercare services) for substance use disorders</a>, <a href="#3.5.2">3.5.2 Harmful use of alcohol, defined according to the
 national context as alcohol per capita consumption (aged 15 years and older) within a calendar year in litres of pure alcohol</a>.</p>
 
+</div>
+<div class="indicator" id="3.5.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 3.5.1</span>
+            <h3>Coverage of treatment interventions (pharmacological, psychosocial and rehabilitation and
+aftercare services) for substance use disorders</h3>
+            <p><strong>Definition:</strong> Coverage of treatment interventions is the share of people with substance use disorders who receive treatment in the form of pharmacological, psychosocial, rehabilitation or aftercare services.</p>
+            <p><strong>Goal:</strong> There is no defined target level for this indicator.</p>
+            <p><strong>More research:</strong> The Our World in Data entry on <a href="https://ourworldindata.org/substance-use">Substance Use</a> provides data on substance use disorder prevalence and limited data coverage of treatment interventions.</p>
+        </div>
+        <div class="col-md">
+         <iframe src="" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
+
+<hr>
+
+<div class="indicator" id="3.5.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 3.5.1</span>
+            <h3>Alcohol consumption per capita</h3>
+            <p><strong>Definition:</strong> Harmful use of alcohol, defined according to the national context as alcohol per capita consumption (aged 15 years and older) within a calendar year in litres of pure alcohol.</p>
+            <p><strong>Goal:</strong> There is no defined target level for this indicator.
+
+<p><strong>More research:</strong> Further data and research on alcohol consumption and alcohol use disorders can be found at the Our World in Data <a href="https://ourworldindata.org/alcohol-consumption">entry on Alcohol Consumption</a>.</p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/total-alcohol-consumption-per-capita-litres-of-pure-alcohol" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
 </div>
