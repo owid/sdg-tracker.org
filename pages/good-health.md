@@ -351,3 +351,16 @@ This is measured relative to 2010 levels as part of the <a href="http://www.who.
         </div>
     </div>
 </div>
+
+<div class="target">
+<h2>Target 3.7: Universal access to sexual and reproductive care, family planning and education</h2>
+
+<p>UN definition: <q>By 2030, ensure universal access to sexual and
+reproductive health-care services, including for family
+planning, information and education, and the integration of
+reproductive health into national strategies and programmes.</q></p>
+
+<p>SDG Indicators: <a href="#3.7.1">3.7.1 Proportion of women of reproductive age (aged 15–49 years) who have their need for family planning
+satisfied with modern methods</a>, <a href="#3.7.2">3.7.2 Adolescent birth rate (aged 10–14 years; aged 15–19 years) per 1,000 women in that age group</a>.</p>
+
+</div>
