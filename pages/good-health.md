@@ -43,7 +43,7 @@ featuredImage: /img/uploads/3.svg
             <span>SDG Indicator 3.1.1</span>
             <h3>Maternal mortality ratio</h3>
             <p><strong>Definition:</strong> The maternal mortality ratio refers to the number of women who die from pregnancy-related causes while pregnant or within 42 days of pregnancy termination per 100,000 live births.</p>
-            <p><strong>Goal:</strong> Reduce maternal mortality to less than 70 deaths per 100,000 live births.</p>
+            <p><strong>Goal:</strong> Reduce global maternal mortality to less than 70 deaths per 100,000 live births.</p>
             <p><strong>More research:</strong> The Our World in Data entry on <a href="https://ourworldindata.org/maternal-mortality">maternal mortality</a> gives a long-run perspective over the last centuries and presents research on the causes and consequences of the deaths of mothers.</p>
         </div>
         <div class="col-md">
@@ -134,8 +134,10 @@ featuredImage: /img/uploads/3.svg
         <div class="col-md">
             <span>SDG Indicator 3.3.1</span>
             <h3>Number of new HIV infections per 1,000 uninfected population, by sex, age and key populations</h3>
-            <p><strong>Definition:</strong> Number of new HIV infections is the number of new cases of HIV amongst uninfected populations per 1,000 people.</p>
-            <p><strong>Goal:</strong> The goal by 2030 is to 'end the epidemic' of HIV. This is interpreted as a global reduction to 0.02 new cases per 1,000 <a href="https://datareport.goalkeepers.org/">based on extrapolation</a> from UNAIDS target of 200,000 new infections among adults in 2030.</p>
+            <p><strong>Definition:</strong> Number of new HIV infections is the number of new cases of HIV per year amongst uninfected populations per 1,000 people.</p>
+            <p><strong>Goal:</strong> The SDG target by 2030 is to 'end the epidemic' of HIV. The targeted level, however, is not defined. 
+
+<p>UNAIDS have <a href="https://www.avert.org/global-hiv-targets">set a target</a> (not specifically related to the SDGs) of reducing to less than 200,000 new infections globally among adults by 2030. This would mean a target of reduction to 0.02 new cases per 1,000 people globally in 2030.</p>
             <p><strong>More research:</strong> HIV is covered in detail in our full entry on <a href="https://ourworldindata.org/hiv-aids"> HIV/AIDS</a>.</p>
         </div>
         <div class="col-md">
@@ -152,7 +154,9 @@ featuredImage: /img/uploads/3.svg
             <span>SDG Indicator 3.3.2</span>
             <h3>Tuberculosis incidence per 100,000 population</h3>
             <p><strong>Definition:</strong> Tuberculosis incidence is the number of new cases of tuberculosis per 100,000 people.</p>
-            <p><strong>Goal:</strong> The goal is to end the epidemic of tuberculosis (TB) by 2030. The target assumed here is extrapolated from <a href="http://www.who.int/tb/strategy/en/">Stop TB Partnership target</a> of <20 cases per 100,000 in 2030.</p>
+            <p><strong>Goal:</strong> The goal is to end the epidemic of tuberculosis (TB) by 2030. The targeted level, however, is not defined. 
+
+The WHO's Stop TB Partnership have <a href="http://www.who.int/tb/strategy/en/">set a target</a> (not specifically related to the SDGs) of reducing national incidence of TB to fewer than 20 cases per 100,000 by 2030. 
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/incidence-of-tuberculosis-sdgs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
@@ -194,6 +198,7 @@ The targeted level however is not defined.</p>
             <iframe src="https://ourworldindata.org/grapher/hepatitis-b-incidence-sdgs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
+
 </div>
 
 <hr>
@@ -267,6 +272,7 @@ The targeted level however is not defined.</p>
             <iframe src="https://ourworldindata.org/grapher/hepatitis-b-incidence-sdgs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
+
 </div>
 
 <hr>
