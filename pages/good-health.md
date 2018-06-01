@@ -46,7 +46,7 @@ featuredImage: /img/uploads/3.svg
             <p><strong>More research:</strong> The Our World in Data entry on <a href="https://ourworldindata.org/maternal-mortality">maternal mortality</a> gives a long-run perspective over the last centuries and presents research on the causes and consequences of the deaths of mothers.</p>
         </div>
         <div class="col-md">
-            <iframe src="https://ourworldindata.org/grapher/maternal-mortality-sdgs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/maternal-mortality-ratio-sdgs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
 </div>
