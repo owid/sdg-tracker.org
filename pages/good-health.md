@@ -178,6 +178,9 @@ featuredImage: /img/uploads/3.svg
 
 <p>The  <a href="http://www.who.int/malaria/areas/global_targets/en/"> WHO Global Technical Strategy</a> have set a target of reducing incidence by 90 percent by 2030. This would infer a target of 9 or fewer cases of malaria per 1,000 people globally in 2030.</p>
             <p><strong>More research:</strong> More information on global and national trends in malaria prevalence, deaths and interventions can be found at the Our World in Data <a href="https://ourworldindata.org/malaria"> entry on Malaria</a>.</p>
+<p><strong>Additional charts:</strong> 
+<br><a href="https://ourworldindata.org/grapher/malaria-death-rates">Malaria death rates</a>
+<br><a href="https://ourworldindata.org/grapher/malaria-deaths-by-age">Number of malaria deaths</a>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/incidence-of-malaria-sdgs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
@@ -196,7 +199,8 @@ featuredImage: /img/uploads/3.svg
             <p><strong>Goal:</strong> The SDG target is to 'combat hepatitis' with a focus on hepatitis B. 
 
 <p>The targeted level, however, is not defined.</p>
-            <p></p>
+            <p><strong>Additional charts:</strong> 
+<br><a href="https://ourworldindata.org/grapher/heptatitis-death-rate">Hepatitis death rates</a>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/hepatitis-b-incidence-sdgs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
@@ -216,7 +220,8 @@ featuredImage: /img/uploads/3.svg
             <p><strong>Goal:</strong> The 2030 target is to end the epidemic of neglected tropical diseases (NTDs). 
 
 <p>The targeted level, however, is not defined.</p>
-            <p></p>
+<p><strong>Additional charts:</strong> 
+<br><a href="https://ourworldindata.org/grapher/number-requiring-treatment-for-ntds-by-region">Number of people requiring interventions for NTDs by region</a>
 
 </div>    
         <div class="col-md">
@@ -238,7 +243,10 @@ featuredImage: /img/uploads/3.svg
             <p><strong>Definition:</strong> Mortality from CVD, cancer, diabetes or CRD is the percent of 30-year-old-people who would die before their 70th birthday from any of cardiovascular disease, cancer, diabetes, or chronic respiratory disease, assuming thats/he would experience current mortality rates at every age and s/he would not die from any other cause of death (e.g.,injuries or HIV/AIDS).</p>
             <p><strong>Goal:</strong> The goal by 2030 is to reduce premature mortality from non-communicable diseases (NCDs) by one-third.</p>
             <p><strong>More research:</strong> Further data and research on non-communicable diseases can be found at our full entries on <a href="https://ourworldindata.org/causes-of-death"> Causes of Death</a>, <a href="https://ourworldindata.org/burden-of-disease"> Burden of Disease</a>, and <a href="https://ourworldindata.org/cancer"> Cancer</a>.</p>
-
+<p><strong>Additional charts:</strong> 
+<br><a href="https://ourworldindata.org/grapher/cancer-death-rates-per-100000">Cancer death rates</a>
+<br><a href="https://ourworldindata.org/grapher/cardiovascular-disease-death-rates">Cardiovascular disease (CVD) death rates</a>
+<br><a href="https://ourworldindata.org/grapher/stroke-death-rates">Stroke death rates</a>
 </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/mortality-from-ncds-sdgs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
@@ -256,6 +264,9 @@ featuredImage: /img/uploads/3.svg
             <p><strong>Definition:</strong> Suicide mortality rate is the number of deaths from suicide/self-harm measured per 100,000 individuals in a given population.</p>
             <p><strong>Goal:</strong> The goal by 2030 is to promote mental health and wellbeing. There is no defined target level for this indicator.</p>
             <p><strong>More research:</strong> Further data and research on suicide and mental wellbeing can be found at our full entries on <a href="https://ourworldindata.org/suicide"> Suicide</a> and <a href="https://ourworldindata.org/mental-health"> Mental Health</a>.</p>
+<p><strong>Additional charts:</strong> 
+<br><a href="https://ourworldindata.org/grapher/suicide-deaths-by-age">Number of suicide deaths</a>
+<br><a href="https://ourworldindata.org/grapher/share-with-depression">Share of population with depression</a>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/suicide-mortality-rate" style="width: 100%; height: 600px; border: 0px none;"></iframe>
@@ -301,6 +312,10 @@ aftercare services) for substance use disorders</h3>
             <p><strong>Goal:</strong> There is no defined target level for this indicator.
 
 <p><strong>More research:</strong> Further data and research on alcohol consumption and alcohol use disorders can be found at the Our World in Data <a href="https://ourworldindata.org/alcohol-consumption">entry on Alcohol Consumption</a>.</p>
+<p><strong>Additional charts:</strong> 
+<br><a href="https://ourworldindata.org/grapher/share-with-alcohol-use-disorders">Share of population with alcohol use disorders</a>
+<br><a href="https://ourworldindata.org/grapher/share-with-drug-use-disorders">Share of population with drug use disorders</a>
+<br><a href="https://ourworldindata.org/grapher/alcohol-or-drug-use-disorders-male-vs-female">Prevalence of substance use disorders by sex</a>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/total-alcohol-consumption-per-capita-litres-of-pure-alcohol" style="width: 100%; height: 600px; border: 0px none;"></iframe>
