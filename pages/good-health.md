@@ -83,7 +83,7 @@ featuredImage: /img/uploads/3.svg
             <p><strong>More research:</strong> Child mortality is covered more broadly, and with a longer-term perspective in our <a href="https://ourworldindata.org/child-mortality">full entry</a> on this topic. 
         </div>
         <div class="col-md">
-            <iframe src="https://ourworldindata.org/grapher/child-mortality-sdg?tab=chart" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/child-mortality-rate-sdgs?tab=chart" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
 </div>
@@ -115,7 +115,7 @@ featuredImage: /img/uploads/3.svg
             <p><strong>More research:</strong> The Our World in Data entry on <a href="https://ourworldindata.org/child-mortality">child mortality</a> includes a section on neonatal mortality.</p>
         </div>
         <div class="col-md">
-            <iframe src="https://ourworldindata.org/grapher/neonatal-mortality-sdg" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/neonatal-mortality-rate-sdgs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
 </div>
