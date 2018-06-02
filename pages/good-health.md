@@ -420,7 +420,7 @@ essential medicines and vaccines for all.</q></p>
             <span>SDG Indicator 3.8.1</span>
             <h3>Coverage of essential health services</h3>
             <p><strong>Definition:</strong> Coverage of essential health services (defined as the average coverage of essential services based on tracer interventions that include reproductive, maternal, newborn and child health, infectious diseases, non-communicable diseases and service capacity and access, among the general and the most disadvantaged population).</p>
-            <p><strong>Goal:</strong> The SDG target is to achieve universal (100%) health coverage by 2030.</p>
+            <p><strong>Goal:</strong> The SDG target is to achieve universal health coverage by 2030.</p>
 <p><strong>More research:</strong> Further data and research can be found at the Our World in Data <a href="https://ourworldindata.org/financing-healthcare">entry on Financing Healthcare</a>.</p>
         </div>
         <div class="col-md">
