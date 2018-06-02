@@ -401,3 +401,64 @@ satisfied with modern methods</h3>
         </div>
     </div>
 </div>
+
+<div class="target">
+<h2>Target 3.8: Achieve universal health coverage</h2>
+
+<p>UN definition: <q>Achieve universal health coverage, including financial
+risk protection, access to quality essential health-care
+services and access to safe, effective, quality and affordable
+essential medicines and vaccines for all.</q></p>
+
+<p>SDG Indicators: <a href="#3.8.1">3.8.1 Coverage of essential health services</a>, <a href="#3.8.2">3.8.2 Proportion of population with large household expenditures on health</a>.</p>
+
+</div>
+
+<div class="indicator" id="3.8.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 3.8.1</span>
+            <h3>Coverage of essential health services</h3>
+            <p><strong>Definition:</strong> Coverage of essential health services (defined as the average coverage of essential services based on tracer interventions that include reproductive, maternal, newborn and child health, infectious diseases, non-communicable diseases and service capacity and access, among the general and the most disadvantaged population).</p>
+            <p><strong>Goal:</strong> The SDG target is to achieve universal (100%) health coverage by 2030.</p>
+<p><strong>More research:</strong> Further data and research can be found at the Our World in Data <a href="https://ourworldindata.org/financing-healthcare">entry on Financing Healthcare</a>.</p>
+        </div>
+        <div class="col-md">
+         <iframe src="https://ourworldindata.org/grapher/healthcare-access-and-quality-index" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
+
+<hr>
+
+<div class="indicator" id="3.8.2">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 3.8.2</span>
+            <h3>Household expenditures on health</h3>
+            <p><strong>Definition:</strong> Proportion of population with large household expenditures on health as a share of total household
+expenditure or income.</p>
+            <p><strong>Goal:</strong> There is no defined target level for this indicator.
+
+<p><strong>More research:</strong> Further data and research can be found at the Our World in Data <a href="https://ourworldindata.org/financing-healthcare">entry on Financing Healthcare</a>.</p>
+<p><strong>Additional charts:</strong> 
+<br><a href="https://ourworldindata.org/grapher/share-of-out-of-pocket-expenditure-on-healthcare">Out-of-pocket expenditure on healthcare</a>
+<br><a href="https://ourworldindata.org/grapher/risk-of-catastrophic-expenditure-for-surgical-care">Risk of catastrophic expenditure for surgical care</a>
+<br><a href="https://ourworldindata.org/grapher/risk-of-impoverishing-expenditure-for-surgical-care">Risk of impoverishing expenditure for surgical care</a>
+        </div>
+        <div class="col-md">
+            <iframe src="" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
+
+<div class="target">
+<h2>Target 3.9: Reduce illnesses and deaths from hazardous chemicals and pollution</h2>
+
+<p>UN definition: <q>By 2030, substantially reduce the number of deaths and
+illnesses from hazardous chemicals and air, water and soil
+pollution and contamination.</q></p>
+
+<p>SDG Indicators: <a href="#3.9.1">3.9.1 Mortality rate attributed to household and ambient air pollution</a>, <a href="#3.9.2">3.9.2 Mortality rate attributed to unsafe water, sanitation and lack of hygiene</a>, <a href="#3.9.3">3.9.3 Mortality rate attributed to unintentional poisoning</a>.</p>
+
+</div>
