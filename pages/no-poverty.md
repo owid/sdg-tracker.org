@@ -279,10 +279,10 @@ programmes.</p>
             <p><strong>More research:</strong> Further data and research can be found at the Our World in Data entries on <a href="https://ourworldindata.org/financing-healthcare">Financing Healthcare</a>, <a href="https://ourworldindata.org/financing-education">Financing Education</a>, and <a href="https://ourworldindata.org/public-spending">Public Spending</a>.</p>
             <p><strong>Additional charts:</strong> 
 <br><a href="https://ourworldindata.org/grapher/government-expenditure-education">Government expenditure on education</a>
-<br><a href="https://ourworldindata.org/grapher/health-expenditure-government-expenditure">Government expenditure on healthcare</a>
+<br><a href="https://ourworldindata.org/grapher/social-spending-oecd-longrun">Social spending</a>
         </div>
         <div class="col-md">
-            <iframe src="https://ourworldindata.org/grapher/social-spending-oecd-longrun" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/health-expenditure-government-expenditure" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
 </div>
