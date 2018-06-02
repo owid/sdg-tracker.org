@@ -504,6 +504,8 @@ pollution and contamination.</q></p>
     </div>
 </div>
 
+<hr>
+
 <div class="indicator" id="3.9.3">
     <div class="row">
         <div class="col-md">
