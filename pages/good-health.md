@@ -623,3 +623,58 @@ research and basic health sectors</a>, <a href="#3.b.3">3.b.3 Proportion of heal
         </div>
     </div>
 </div>
+
+<div class="target">
+<h2>Target 3.c: Increase health financing and support health workforce in developing countries</h2>
+
+<p>UN definition: <q>Substantially increase health financing and the
+recruitment, development, training and retention of the
+health workforce in developing countries, especially in least
+developed countries and small island developing States.</q></p>
+
+<p>SDG Indicators: <a href="#3.c.1">3.c.1 Health worker density and distribution</a>.</p>
+
+</div>
+
+<div class="indicator" id="3.c.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 3.c.1</span>
+            <h3>Health worker density</h3>
+            <p><strong>Definition:</strong> Health worker density is the size of the health workforce per 1,000 or 100,000 people.</p>
+            <p><strong>Goal:</strong> There is no defined target level for this indicator.
+
+<p><strong>Additional charts:</strong> 
+<br><a href="https://ourworldindata.org/grapher/nurses-and-midwives-per-1000-people">Nurses and midwives (per 1,000 people)</a>
+<br><a href="https://ourworldindata.org/grapher/surgeons-per-100000">Surgical workforce (per 100,000 people)</a>
+<br><a href="https://ourworldindata.org/grapher/dentistry-personnel-per-1000">Dentistry personnel (per 1,000 people)</a>
+<br><a href="https://ourworldindata.org/grapher/pharmaceutical-personnel-per-1000">Pharmaceutical personnel (per 1,000 people)</a>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/physicians-per-1000-people" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
+
+<div class="target">
+<h2>Target 3.d: Improve early warning systems for global health risks</h2>
+
+<p>UN definition: <q>Strengthen the capacity of all countries, in particular developing countries, for early warning, risk reduction and management of national and global health risks.</q></p>
+
+<p>SDG Indicators: <a href="#3.d.1">3.d.1 International Health Regulations (IHR) capacity and health emergency preparedness</a>.</p>
+
+</div>
+
+<div class="indicator" id="3.d.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 3.d.1</span>
+            <h3>Health emergency preparedness</h3>
+            <p><strong>Definition:</strong> International Health Regulations (IHR) capacity and health emergency preparedness. The IHR Core capacity index is measured as the percentage of attributes of 13 core capacities that have been attained at a specific point in time. The 13 core capacities are: (1) National legislation, policy and financing; (2) Coordination and National Focal Point communications; (3) Surveillance; (4) Response; (5) Preparedness; (6) Risk communication; (7) Human resources; (8) Laboratory; (9) Points of entry; (10) Zoonotic events; (11) Food safety; (12) Chemical events; (13) Radionuclear emergencies. </p>
+            <p><strong>Goal:</strong> There is no defined target level for this indicator.
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/ihr-core-capacity-index-sdgs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
