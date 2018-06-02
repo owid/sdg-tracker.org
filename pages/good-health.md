@@ -459,6 +459,47 @@ expenditure or income.</p>
 illnesses from hazardous chemicals and air, water and soil
 pollution and contamination.</q></p>
 
-<p>SDG Indicators: <a href="#3.9.1">3.9.1 Mortality rate attributed to household and ambient air pollution</a>, <a href="#3.9.2">3.9.2 Mortality rate attributed to unsafe water, sanitation and lack of hygiene</a>, <a href="#3.9.3">3.9.3 Mortality rate attributed to unintentional poisoning</a>.</p>
+<p>SDG Indicators: <a href="#3.9.1">3.9.1 Mortality rate attributed to household and ambient air pollution</a>, <a href="#3.9.2">3.9.2 Mortality rate attributed to unsafe water, sanitation and hygiene</a>, <a href="#3.9.3">3.9.3 Mortality rate attributed to unintentional poisoning</a>.</p>
 
+</div>
+
+<div class="indicator" id="3.9.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 3.9.1</span>
+            <h3>Mortality rate from air pollution</h3>
+            <p><strong>Definition:</strong> Mortality rate attributed to household and ambient (outdoor) air pollution is the number of deaths attributed to air pollution per 100,000 individuals.</p>
+            <p><strong>Goal:</strong> There is no defined target level for this indicator.</p>
+<p><strong>More research:</strong> Further data and research can be found at the Our World in Data entries on <a href="https://ourworldindata.org/air-pollution">Air Pollution</a> and <a href="https://ourworldindata.org/indoor-air-pollution">Indoor Air Pollution</a>.</p>
+<p><strong>Additional charts:</strong> 
+<br><a href="https://ourworldindata.org/grapher/death-rate-from-ambient-particulate-air-pollution-per-100000?tab=map">Mortality rate from ambient air pollution</a>
+<br><a href="https://ourworldindata.org/grapher/absolute-number-of-deaths-from-outdoor-air-pollution">Number of deaths from ambient air pollution </a>
+<br><a href="https://ourworldindata.org/grapher/death-rate-by-source-from-indoor-air-pollution">Mortality rate from indoor air pollution</a>
+<br><a href="https://ourworldindata.org/grapher/absolute-number-of-deaths-from-household-air-pollution">Number of deaths from indoor air pollution </a>
+        </div>
+        <div class="col-md">
+         <iframe src="https://ourworldindata.org/grapher/death-rate-by-source-from-air-pollution" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
+
+<hr>
+
+<div class="indicator" id="3.9.2">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 3.9.2</span>
+            <h3>Mortality rate from unsafe water, sanitation, hygiene (WASH)</h3>
+            <p><strong>Definition:</strong> Mortality rate from unsafe water, sanitation, and lack of hygiene (WASH) measures the number of deaths per 100,000 people attributed to WASH risk factors.</p>
+            <p><strong>Goal:</strong> There is no defined target level for this indicator.
+
+<p><strong>More research:</strong> Further data and research can be found at the Our World in Data entry on<a href="https://ourworldindata.org/water-access-resources-sanitation"> Water Access, Resources and Sanitation</a>.</p>
+<p><strong>Additional charts:</strong> 
+<br><a href="https://ourworldindata.org/grapher/death-rate-unsafe-water-source">Mortality rate attributable to unsafe water</a>
+<br><a href="https://ourworldindata.org/grapher/death-rate-from-unsafe-sanitation">Mortality rate attributable to unsafe sanitation</a>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/mortality-rate-attributable-to-wash" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
 </div>
