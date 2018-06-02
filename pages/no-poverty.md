@@ -128,14 +128,16 @@ achieve substantial coverage of the poor and the vulnerable.</q></p>
             <span>SDG Indicator 1.4.1</span>
             <h3>Access to basic services</h3>
             <p><strong>Definition:</strong> Proportion of population living in households with access to basic services.</p>
-            <p><strong>Goal:</strong> There is no defined target level for this indicator.</p>
+            <p><strong>Goal:</strong> The target is to achieve universal access to basic services for all households.</p>
+           <p><strong>More research:</strong> Further data and research can be found at the Our World in Data entries on <a href="https://ourworldindata.org/water-access-resources-sanitation">Water Access, Consumption & Sanitation</a>, <a href="https://ourworldindata.org/energy-production-and-changing-energy-sources">Energy Production & Changing Energy Sources</a>, and <a href="https://ourworldindata.org/indoor-air-pollution">Indoor Air Pollution</a>.</p>
             <p><strong>Additional charts:</strong> 
-<br><a href="https://ourworldindata.org/grapher/adequacy-of-social-insurance-programs">Adequacy of social insurance systems</a>
-<br><a href="https://ourworldindata.org/grapher/adequacy-of-unemployment-benefits">Adequacy of unemployment benefits</a>
-<br><a href="https://ourworldindata.org/grapher/adequacy-of-social-safety-net-programs">Adequacy of social safety net programs</a>
+<br><a href="https://ourworldindata.org/grapher/share-of-the-population-with-access-to-electricity">Access to electricity</a>
+<br><a href="https://ourworldindata.org/grapher/access-to-clean-fuels-and-technologies-for-cooking">Access to clean cooking fuels</a>
+<br><a href="https://ourworldindata.org/grapher/share-of-population-with-improved-sanitation-faciltities">Access to improved sanitation</a>
+<br><a href="https://ourworldindata.org/grapher/population-using-at-least-basic-drinking-water">Access to at least basic drinking water</a>
         </div>
         <div class="col-md">
-            <iframe src="https://ourworldindata.org/grapher/coverage-of-social-insurance-programs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/share-of-population-with-access-to-basic-infrastructure-services" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
 </div>
@@ -143,6 +145,92 @@ achieve substantial coverage of the poor and the vulnerable.</q></p>
 <hr>
 
 <div class="indicator" id="1.4.2">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 1.4.2</span>
+            <h3>Secure tenure rights to land</h3>
+            <p><strong>Definition:</strong> Proportion of total adult population with secure tenure rights to land, (a) with legally recognized documentation, and (b) who perceive their rights to land as secure, by sex and type of tenure.</p>
+            <p><strong>Goal:</strong> There is no defined target level for this indicator.</p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/insufficient-data-sdgs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
+
+<div class="target">
+    <h2>Target 1.5: Build resilience to environmental, economic and social disasters</h2>
+    <p>UN definition: <q>By 2030, build the resilience of the poor and those in vulnerable situations and reduce their exposure and vulnerability to climate-related extreme events and other economic, social and environmental shocks and disasters.</q></p>
+    <p>SDG Indicators: <a href="1.5.1">1.5.1 Number of deaths, missing persons and directly affected persons attributed to disasters</a>, <a href="1.5.2">1.5.2 Direct economic loss attributed to disasters in relation to global gross domestic product (GDP)</a>, <a href="1.5.3">1.5.3 Number of countries that adopt and implement national disaster risk reduction strategies in line with the
+Sendai Framework for Disaster Risk Reduction 2015–2030)</a>, <a href="1.5.4">1.5.4 Proportion of local governments that adopt and
+implement local disaster risk reduction strategies in line
+with national disaster risk reduction strategies</a>.</p>
+</div>
+
+<div class="indicator" id="1.5.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 1.5.1</span>
+            <h3>Deaths and affected persons from natural disasters</h3>
+            <p><strong>Definition:</strong> Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population.</p>
+            <p><strong>Goal:</strong> There is no defined target level for this indicator.</p>
+           <p><strong>More research:</strong> Further data and research can be found at the Our World in Data entry on <a href="https://ourworldindata.org/natural-catastrophes">Natural Catastrophes</a>.</p>
+            <p><strong>Additional charts:</strong> 
+<br><a href="https://ourworldindata.org/grapher/internally-displaced-persons-from-disasters">Displaced persons from natural disasters</a>
+<br><a href="https://ourworldindata.org/grapher/number-injured-from-disasters">Number injured from natural disasters</a>
+<br><a href="https://ourworldindata.org/grapher/number-homeless-from-natural-disasters">Number left homeless from natural disasters</a>
+<br><a href="https://ourworldindata.org/grapher/total-affected-by-natural-disasters">Number affected by natural disasters</a>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/death-rates-from-disasters?tab=chart&country=BGD+JPN+NPL+USA+OWID_WRL" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
+
+<hr>
+
+<div class="indicator" id="1.5.2">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 1.5.2</span>
+            <h3>Direct economic loss from natural disasters</h3>
+            <p><strong>Definition:</strong> Direct economic loss attributed to disasters in relation to global gross domestic product (GDP)</p>
+            <p><strong>Goal:</strong> There is no defined target level for this indicator.</p>
+            <p><strong>More research:</strong> Further data and research can be found at the Our World in Data entry on <a href="https://ourworldindata.org/natural-catastrophes">Natural Catastrophes</a>.</p>
+            <p><strong>Additional charts:</strong> 
+<br><a href="https://ourworldindata.org/grapher/direct-disaster-economic-loss">Direct economic loss from disasters (US$)</a>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/direct-disaster-loss-as-a-share-of-gdp?tab=chart&country=MAR+KHM+USA+GBR+CAN+BGD+BRA+CHN+IND+OWID_WRL" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
+
+<hr>
+
+<div class="indicator" id="1.5.3">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 1.5.3</span>
+            <h3>Access to basic services</h3>
+            <p><strong>Definition:</strong> Proportion of population living in households with access to basic services.</p>
+            <p><strong>Goal:</strong> The target is to achieve universal access to basic services for all households.</p>
+           <p><strong>More research:</strong> Further data and research can be found at the Our World in Data entries on <a href="https://ourworldindata.org/water-access-resources-sanitation">Water Access, Consumption & Sanitation</a>, <a href="https://ourworldindata.org/energy-production-and-changing-energy-sources">Energy Production & Changing Energy Sources</a>, and <a href="https://ourworldindata.org/indoor-air-pollution">Indoor Air Pollution</a>.</p>
+            <p><strong>Additional charts:</strong> 
+<br><a href="https://ourworldindata.org/grapher/share-of-the-population-with-access-to-electricity">Access to electricity</a>
+<br><a href="https://ourworldindata.org/grapher/access-to-clean-fuels-and-technologies-for-cooking">Access to clean cooking fuels</a>
+<br><a href="https://ourworldindata.org/grapher/share-of-population-with-improved-sanitation-faciltities">Access to improved sanitation</a>
+<br><a href="https://ourworldindata.org/grapher/population-using-at-least-basic-drinking-water">Access to at least basic drinking water</a>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/share-of-population-with-access-to-basic-infrastructure-services" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
+
+<hr>
+
+<div class="indicator" id="1.5.4">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 1.4.2</span>
