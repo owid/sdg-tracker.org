@@ -212,18 +212,15 @@ with national disaster risk reduction strategies</a>.</p>
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 1.5.3</span>
-            <h3>Access to basic services</h3>
-            <p><strong>Definition:</strong> Proportion of population living in households with access to basic services.</p>
-            <p><strong>Goal:</strong> The target is to achieve universal access to basic services for all households.</p>
-           <p><strong>More research:</strong> Further data and research can be found at the Our World in Data entries on <a href="https://ourworldindata.org/water-access-resources-sanitation">Water Access, Consumption & Sanitation</a>, <a href="https://ourworldindata.org/energy-production-and-changing-energy-sources">Energy Production & Changing Energy Sources</a>, and <a href="https://ourworldindata.org/indoor-air-pollution">Indoor Air Pollution</a>.</p>
+            <h3>Disaster risk reduction strategies</h3>
+            <p><strong>Definition:</strong> Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015–2030.</p>
+            <p><strong>Goal:</strong> The target is to have universal adoption of national disaster risk reduction strategies by 2030.</p>
+           <p><strong>More research:</strong> Further data and research can be found at the Our World in Data entry on <a href="https://ourworldindata.org/natural-catastrophes">Natural Catastrophes</a>.</p>
             <p><strong>Additional charts:</strong> 
-<br><a href="https://ourworldindata.org/grapher/share-of-the-population-with-access-to-electricity">Access to electricity</a>
-<br><a href="https://ourworldindata.org/grapher/access-to-clean-fuels-and-technologies-for-cooking">Access to clean cooking fuels</a>
-<br><a href="https://ourworldindata.org/grapher/share-of-population-with-improved-sanitation-faciltities">Access to improved sanitation</a>
-<br><a href="https://ourworldindata.org/grapher/population-using-at-least-basic-drinking-water">Access to at least basic drinking water</a>
+<br><a href="https://ourworldindata.org/grapher/disaster-risk-reduction-progress">Disaster risk reduction score</a>
         </div>
         <div class="col-md">
-            <iframe src="https://ourworldindata.org/grapher/share-of-population-with-access-to-basic-infrastructure-services" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/insufficient-data-sdgs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
 </div>
@@ -233,10 +230,11 @@ with national disaster risk reduction strategies</a>.</p>
 <div class="indicator" id="1.5.4">
     <div class="row">
         <div class="col-md">
-            <span>SDG Indicator 1.4.2</span>
-            <h3>Secure tenure rights to land</h3>
-            <p><strong>Definition:</strong> Proportion of total adult population with secure tenure rights to land, (a) with legally recognized documentation, and (b) who perceive their rights to land as secure, by sex and type of tenure.</p>
+            <span>SDG Indicator 1.5.4</span>
+            <h3>Local disaster risk reduction</h3>
+            <p><strong>Definition:</strong> Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies.</p>
             <p><strong>Goal:</strong> There is no defined target level for this indicator.</p>
+            <p><strong>More research:</strong> Further data and research can be found at the Our World in Data entry on <a href="https://ourworldindata.org/natural-catastrophes">Natural Catastrophes</a>.</p>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/insufficient-data-sdgs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
