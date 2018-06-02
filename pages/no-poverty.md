@@ -48,7 +48,7 @@ featuredImage: /img/uploads/1.svg
 </div>
 
 <div class="target">
-    <h2>Target 1.2: Reduce poverty at least 50%</h2>
+    <h2>Target 1.2: Reduce poverty by at least 50%</h2>
     <p>UN definition: <q>By 2030, reduce at least by half the proportion of men,
 women and children of all ages living in poverty in all its
 dimensions according to national definitions.</q></p>
@@ -86,6 +86,32 @@ dimensions according to national definitions.</q></p>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/insufficient-data-sdgs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
+
+<div class="target">
+    <h2>Target 1.3: Implement social protection systems</h2>
+    <p>UN definition: <q>Implement nationally appropriate social protection
+systems and measures for all, including floors, and by 2030
+achieve substantial coverage of the poor and the vulnerable.</q></p>
+    <p>SDG Indicators: <a href="1.3.1">1.3.1 Proportion of population covered by social protection floors/systems</a>.</p>
+</div>
+
+<div class="indicator" id="1.3.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 1.3.1</span>
+            <h3>Population covered by social protection floors/systems</h3>
+            <p><strong>Definition:</strong> Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable.</p>
+            <p><strong>Goal:</strong> There is no defined target level for this indicator.</p>
+            <p><strong>Additional charts:</strong> 
+<br><a href="https://ourworldindata.org/grapher/adequacy-of-social-insurance-programs">Adequacy of social insurance systems</a>
+<br><a href="https://ourworldindata.org/grapher/adequacy-of-unemployment-benefits">Adequacy of unemployment benefits</a>
+<br><a href="https://ourworldindata.org/grapher/adequacy-of-social-safety-net-programs">Adequacy of social safety net programs</a>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/coverage-of-social-insurance-programs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
 </div>
