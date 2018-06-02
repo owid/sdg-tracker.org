@@ -25,33 +25,55 @@ description: >-
   undernourishment](https://ourworldindata.org/hunger-and-undernourishment),
   [micronutrient
   deficiencies](https://ourworldindata.org/micronutrient-deficiency) and
-  [obesity](https://ourworldindata.org/obesity) at our full entries on these
-  topics. Our entries on [famines](https://ourworldindata.org/famines), [food
-  per person](https://ourworldindata.org/food-per-person), and [diet
+  [obesity](https://ourworldindata.org/obesity) at the _Our World in Data_
+  entries on these topics. Our entries on
+  [famines](https://ourworldindata.org/famines), [food per
+  person](https://ourworldindata.org/food-per-person), and [diet
   compositions](https://ourworldindata.org/diet-compositions) also tie closely
   to these topics.
 featuredImage: /img/uploads/2.svg
 ---
 
 <div class="target">
-    <h2>Target ?.?: Short target name</h2>
-    <p>UN definition: How the UN defines this target. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. test</p>
-    <p>SDG Indicators: <a href="#?.?.?">?.?.? Name of the indicator</a></p>
+    <h2>Target 2.1: Universal access to safe and nutritious food</h2>
+    <p>UN definition: End hunger, achieve food security and improved nutrition and promote sustainable agriculture.</p>
+    <p>SDG Indicators: <a href="#2.1.1">2.1.1 Prevalence of undernourishment</a>, <a href="#2.1.2">2.1.2 Prevalence of moderate or severe food insecurity</a>.</p>
 </div>
 
-<div class="indicator" id="?.?.?">
+<div class="indicator" id="2.1.1">
     <div class="row">
         <div class="col-md">
-            <span>SDG Indicator ?.?.?</span>
-            <h3>Name of the indicator</h3>
-            <p><strong>Definition:</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam consectetur malesuada sapien, vel lacinia lacus pharetra sagittis. Donec eget blandit risus.</p>
-            <p><strong>Goal:</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam consectetur malesuada sapien, vel lacinia lacus pharetra sagittis. Donec eget blandit risus. Curabitur vitae rhoncus diam. Cras sem nisl, viverra vitae iaculis sed, cursus a risus.</p>
-            <p><strong>More research:</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam consectetur malesuada sapien, vel lacinia lacus pharetra sagittis. Donec eget blandit risus. Curabitur vitae rhoncus diam. Cras sem nisl, viverra vitae iaculis sed, cursus a risus.</p>
+            <span>SDG Indicator 2.1.1</span>
+            <h3>Prevalence of undernourishment</h3>
+            <p><strong>Definition:</strong> Prevalence of undernourishment is the share of the population with a caloric intake which is insufficient to meet minimum requirements for a healthy life.</p>
+            <p><strong>Goal:</strong> The SDG target is to end undernourishment by 2030.</p>
+            <p><strong>More research:</strong> Further data and research can be found at the Our World in Data entry on <a href="https://ourworldindata.org/hunger-and-undernourishment">Hunger and Undernourishment</a>.</p>
+            <p><strong>Additional charts:</strong>
+<br><a href="https://ourworldindata.org/grapher/prevalence-of-undernourishment?tab=chart">Prevalence of undernourishment by region</a>
+<br><a href="https://ourworldindata.org/grapher/global-population-defined-as-undernourished">Global number of people undernourished</a></p>
         </div>
         <div class="col-md">
-            <iframe src="https://ourworldindata.org/grapher/placeholder" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/prevalence-of-undernourishment" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
 </div>
 
 <hr>
+
+<div class="indicator" id="2.1.2">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 2.1.2</span>
+            <h3>Prevalence of food insecurity</h3>
+            <p><strong>Definition:</strong> Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES). The FEIS is based on survey data which relate to the occurrence of several typical experiences and conditions associated with food insecurity.</p>
+            <p><strong>Goal:</strong> The SDG target is to end food insecurity for all by 2030.</p>
+            <p><strong>More research:</strong> Further data and research can be found at the Our World in Data entry on <a href="https://ourworldindata.org/hunger-and-undernourishment">Hunger and Undernourishment</a>.</p>
+            <p><strong>Additional charts:</strong>
+<br><a href="https://ourworldindata.org/grapher/share-of-population-with-severe-food-insecurity">Prevalence of severe food insecurity</a>
+<br><a href="https://ourworldindata.org/grapher/number-of-severely-food-insecure-people-by-region">Number of people with severe food insecurity by region</a></p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/share-of-population-with-moderate-or-severe-food-insecurity" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
