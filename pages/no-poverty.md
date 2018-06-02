@@ -220,7 +220,7 @@ with national disaster risk reduction strategies</a>.</p>
 <br><a href="https://ourworldindata.org/grapher/disaster-risk-reduction-progress">Disaster risk reduction score</a>
         </div>
         <div class="col-md">
-            <iframe src="https://ourworldindata.org/grapher/insufficient-data-sdgs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/legislative-provisions-for-managing-disaster-risk" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
 </div>
@@ -235,6 +235,67 @@ with national disaster risk reduction strategies</a>.</p>
             <p><strong>Definition:</strong> Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies.</p>
             <p><strong>Goal:</strong> There is no defined target level for this indicator.</p>
             <p><strong>More research:</strong> Further data and research can be found at the Our World in Data entry on <a href="https://ourworldindata.org/natural-catastrophes">Natural Catastrophes</a>.</p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/insufficient-data-sdgs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
+
+<div class="target">
+    <h2>Target 1.a: Mobilisation of resources to end poverty</h2>
+    <p>UN definition: <q>Ensure significant mobilization of resources from a
+variety of sources, including through enhanced development cooperation, in order to provide adequate and predictable means for developing countries, in particular least developed countries, to implement programmes and policies to end poverty in all its dimensions</q></p>
+    <p>SDG Indicators: <a href="1.a.1">1.a.1 Proportion of domestically generated resources allocated by the government directly to poverty reduction
+programmes</a>, <a href="1.a.2">1.a.2 Proportion of total government spending on
+essential services</a>, <a href="1.a.3">1.a.3 Sum of total grants and non-debt-creating inflows directly allocated to poverty reduction programmes as a
+proportion of GDP</a>.</p>
+</div>
+
+<div class="indicator" id="1.a.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 1.a.1</span>
+            <h3>Domestic resources to poverty reduction programmes</h3>
+            <p><strong>Definition:</strong> Proportion of domestically generated resources allocated by the government directly to poverty reduction
+programmes.</p>
+            <p><strong>Goal:</strong> There is no defined target level for this indicator.</p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/insufficient-data-sdgs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
+
+<hr>
+
+<div class="indicator" id="1.a.2">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 1.a.2</span>
+            <h3>Government spending on essential services</h3>
+            <p><strong>Definition:</strong> Proportion of total government spending on essential services (education, health and social protection).</p>
+            <p><strong>Goal:</strong> There is no defined target level for this indicator.</p>
+            <p><strong>More research:</strong> Further data and research can be found at the Our World in Data entries on <a href="https://ourworldindata.org/financing-healthcare">Financing Healthcare</a>, <a href="https://ourworldindata.org/financing-education">Financing Education</a>, and <a href="https://ourworldindata.org/public-spending">Public Spending</a>.</p>
+            <p><strong>Additional charts:</strong> 
+<br><a href="https://ourworldindata.org/grapher/government-expenditure-education">Government expenditure on education</a>
+<br><a href="https://ourworldindata.org/grapher/health-expenditure-government-expenditure">Government expenditure on healthcare</a>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/social-spending-oecd-longrun" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
+
+<hr>
+
+<div class="indicator" id="1.a.3">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 1.a.3</span>
+            <h3>Inflows directly allocated to poverty reduction programmes</h3>
+            <p><strong>Definition:</strong> Sum of total grants and non-debt-creating inflows directly allocated to poverty reduction programmes as a proportion of GDP.</p>
+            <p><strong>Goal:</strong> There is no defined target level for this indicator.</p>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/insufficient-data-sdgs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
