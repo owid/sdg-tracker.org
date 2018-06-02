@@ -77,3 +77,51 @@ featuredImage: /img/uploads/2.svg
         </div>
     </div>
 </div>
+
+<div class="target">
+    <h2>Target 2.2: End all forms of malnutrition</h2>
+    <p>UN definition: By 2030, end all forms of malnutrition, including
+achieving, by 2025, the internationally agreed targets on
+stunting and wasting in children under 5 years of age, and
+address the nutritional needs of adolescent girls, pregnant
+and lactating women and older persons.</p>
+    <p>SDG Indicators: <a href="#2.2.1">2.2.1 Prevalence of stunting among children under 5 years of age</a>, <a href="#2.2.2">2.2.2 Prevalence of malnutrition (wasting or overweight) among children under 5 years of age</a>.</p>
+</div>
+
+<div class="indicator" id="2.2.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 2.2.1</span>
+            <h3>Prevalence of childhood stunting</h3>
+            <p><strong>Definition:</strong> Prevalence of stunting (height for age <-2 standard deviation from the median of the World Health
+Organization (WHO) Child Growth Standards) among children under 5 years of age. </p>
+            <p><strong>Goal:</strong> The SDG target is to end childhood stunting by 2030, with an intermediate target of reducing the prevalence of stunting <a href="http://apps.who.int/iris/bitstream/handle/10665/149018/WHO_NMH_NHD_14.2_eng.pdf?sequence=1"> by 40% by 2025</a> (from 2012 levels).</p>
+            <p><strong>More research:</strong> Further data and research can be found at the Our World in Data entry on <a href="https://ourworldindata.org/hunger-and-undernourishment">Hunger and Undernourishment</a>.</p>
+            <p><strong>Additional charts:</strong>
+<br><a href="https://ourworldindata.org/grapher/prevalence-of-stunting-male-vs-female">Prevalence of childhood stunting by sex</a>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/share-of-children-younger-than-5-who-suffer-from-stunting" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
+
+<hr>
+
+<div class="indicator" id="2.2.2">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 2.2.2</span>
+            <h3>Prevalence of childhood malnutrition (wasting or overweight)</h3>
+            <p><strong>Definition:</strong> Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES). The FEIS is based on survey data which relate to the occurrence of several typical experiences and conditions associated with food insecurity.</p>
+            <p><strong>Goal:</strong> The SDG target is to end food insecurity for all by 2030.</p>
+            <p><strong>More research:</strong> Further data and research can be found at the Our World in Data entry on <a href="https://ourworldindata.org/hunger-and-undernourishment">Hunger and Undernourishment</a>.</p>
+            <p><strong>Additional charts:</strong>
+<br><a href="https://ourworldindata.org/grapher/share-of-population-with-severe-food-insecurity">Prevalence of severe food insecurity</a>
+<br><a href="https://ourworldindata.org/grapher/number-of-severely-food-insecure-people-by-region">Number of people with severe food insecurity by region</a></p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/share-of-population-with-moderate-or-severe-food-insecurity" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
