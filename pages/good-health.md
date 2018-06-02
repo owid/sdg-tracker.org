@@ -578,7 +578,7 @@ research and basic health sectors</a>, <a href="#3.b.3">3.b.3 Proportion of heal
             <span>SDG Indicator 3.b.1</span>
             <h3>Vaccine coverage</h3>
             <p><strong>Definition:</strong> Proportion of the target population covered by all vaccines included in their national programme.</p>
-            <p><strong>Goal:</strong> There is no defined target level for this indicator.
+            <p><strong>Goal:</strong> The target is to achieve full coverage of vaccines for all.
 
 <p><strong>Additional charts:</strong> 
 <br><a href="https://ourworldindata.org/grapher/share-of-children-immunized-dtp3">Share of children who receive the DTP3 vaccine</a>
@@ -596,20 +596,14 @@ research and basic health sectors</a>, <a href="#3.b.3">3.b.3 Proportion of heal
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 3.b.2</span>
-            <h3>Prevalence of tobacco use</h3>
-            <p><strong>Definition:</strong> Age-standardized prevalence of current tobacco use among persons aged 15 years and older is the share of adults (aged 15+) who smoke tobacco daily.</p>
+            <h3>Development assistance to medical research & basic healthcare</h3>
+            <p><strong>Definition:</strong> Total net official development assistance (ODA) to medical research and basic health sectors.</p>
             <p><strong>Goal:</strong> There is no defined target level for this indicator.
 
-<p><strong>More research:</strong> Further data and research can be found at the Our World in Data entry on<a href="https://ourworldindata.org/smoking"> Smoking</a>.</p>
-<p><strong>Additional charts:</strong> 
-<br><a href="https://ourworldindata.org/grapher/prevalence-of-daily-smoking-sdgs">Daily smoking in people aged 10 or older</a>
-<br><a href="https://ourworldindata.org/grapher/share-of-men-who-are-smoking">Share of men who smoke</a>
-<br><a href="https://ourworldindata.org/grapher/share-of-women-who-are-smoking">Share of women who smoke</a>
-<br><a href="https://ourworldindata.org/grapher/death-rate-smoking">Death rate from tobacco smoking</a>
-<br><a href="https://ourworldindata.org/grapher/smoking-and-secondhand-deaths">Deaths attributed to smoking and secondhand smoke</a>
+<p><strong>More research:</strong> Further data and research can be found at the Our World in Data entry on<a href="https://ourworldindata.org/financing-healthcare"> Financing healthcare</a>.</p>
         </div>
         <div class="col-md">
-            <iframe src="https://ourworldindata.org/grapher/prevalence-of-tobacco-use-sdgs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/gross-oda-for-medical-research-and-basic-heath-sectors" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
 </div>
@@ -620,20 +614,12 @@ research and basic health sectors</a>, <a href="#3.b.3">3.b.3 Proportion of heal
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 3.b.3</span>
-            <h3>Prevalence of tobacco use</h3>
-            <p><strong>Definition:</strong> Age-standardized prevalence of current tobacco use among persons aged 15 years and older is the share of adults (aged 15+) who smoke tobacco daily.</p>
-            <p><strong>Goal:</strong> There is no defined target level for this indicator.
-
-<p><strong>More research:</strong> Further data and research can be found at the Our World in Data entry on<a href="https://ourworldindata.org/smoking"> Smoking</a>.</p>
-<p><strong>Additional charts:</strong> 
-<br><a href="https://ourworldindata.org/grapher/prevalence-of-daily-smoking-sdgs">Daily smoking in people aged 10 or older</a>
-<br><a href="https://ourworldindata.org/grapher/share-of-men-who-are-smoking">Share of men who smoke</a>
-<br><a href="https://ourworldindata.org/grapher/share-of-women-who-are-smoking">Share of women who smoke</a>
-<br><a href="https://ourworldindata.org/grapher/death-rate-smoking">Death rate from tobacco smoking</a>
-<br><a href="https://ourworldindata.org/grapher/smoking-and-secondhand-deaths">Deaths attributed to smoking and secondhand smoke</a>
+            <h3>Availability of essential medicines</h3>
+            <p><strong>Definition:</strong> Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis.</p>
+            <p><strong>Goal:</strong> The target is to achieve affordable access to essential medicines for all.
         </div>
         <div class="col-md">
-            <iframe src="https://ourworldindata.org/grapher/prevalence-of-tobacco-use-sdgs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/insufficient-data-sdgs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
 </div>
