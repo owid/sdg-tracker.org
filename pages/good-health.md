@@ -296,7 +296,7 @@ aftercare services) for substance use disorders</h3>
             <p><strong>More research:</strong> The Our World in Data entry on <a href="https://ourworldindata.org/substance-use">Substance Use</a> provides data on substance use disorder prevalence and limited data coverage of treatment interventions.</p>
         </div>
         <div class="col-md">
-         <iframe src="" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+         <iframe src="https://ourworldindata.org/grapher/insufficient-data-sdgs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
 </div>
@@ -447,7 +447,7 @@ expenditure or income.</p>
 <br><a href="https://ourworldindata.org/grapher/risk-of-impoverishing-expenditure-for-surgical-care">Risk of impoverishing expenditure for surgical care</a>
         </div>
         <div class="col-md">
-            <iframe src="" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/insufficient-data-sdgs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
 </div>
