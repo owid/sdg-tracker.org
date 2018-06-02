@@ -303,10 +303,10 @@ aftercare services) for substance use disorders</h3>
 
 <hr>
 
-<div class="indicator" id="3.5.1">
+<div class="indicator" id="3.5.2">
     <div class="row">
         <div class="col-md">
-            <span>SDG Indicator 3.5.1</span>
+            <span>SDG Indicator 3.5.2</span>
             <h3>Alcohol consumption per capita</h3>
             <p><strong>Definition:</strong> Harmful use of alcohol, defined according to the national context as alcohol per capita consumption (aged 15 years and older) within a calendar year in litres of pure alcohol.</p>
             <p><strong>Goal:</strong> There is no defined target level for this indicator.
@@ -363,4 +363,41 @@ reproductive health into national strategies and programmes.</q></p>
 <p>SDG Indicators: <a href="#3.7.1">3.7.1 Proportion of women of reproductive age (aged 15–49 years) who have their need for family planning
 satisfied with modern methods</a>, <a href="#3.7.2">3.7.2 Adolescent birth rate (aged 10–14 years; aged 15–19 years) per 1,000 women in that age group</a>.</p>
 
+</div>
+
+<div class="indicator" id="3.7.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 3.7.1</span>
+            <h3>Proportion of women of reproductive age (aged 15–49 years) who have their need for family planning
+satisfied with modern methods</h3>
+            <p><strong>Definition:</strong> The percentage of married women ages 15-49 years whose need for family planning is satisfied with modern methods of contraception.</p>
+            <p><strong>Goal:</strong> There is no defined target level for this indicator.</p>
+<p><strong>More research:</strong> Further data and research can be found at the Our World in Data <a href="https://ourworldindata.org/fertility-rate">entry on Fertility Rate</a>.</p>
+            <p><strong>Additional charts:</strong> 
+<br><a href="https://ourworldindata.org/grapher/unmet-need-for-contraception-share-of-married-women-of-reproductive-age?tab=map">Unmet need for contraception</a>
+<br><a href="https://ourworldindata.org/grapher/contraceptive-prevalence-any-methods-of-women-ages-15-49">Contraception prevalence, any methods</a>
+        </div>
+        <div class="col-md">
+         <iframe src="https://ourworldindata.org/grapher/demand-for-family-planning" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
+
+<hr>
+
+<div class="indicator" id="3.7.2">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 3.7.2</span>
+            <h3>Adolescent birth rate</h3>
+            <p><strong>Definition:</strong> Adolescent birth rate (aged 10–14 years; or aged 15–19 years) per 1,000 women in that age group.</p>
+            <p><strong>Goal:</strong> There is no defined target level for this indicator.
+
+<p><strong>More research:</strong> Further data and research can be found at the Our World in Data <a href="https://ourworldindata.org/fertility-rate">entry on Fertility Rate</a>.</p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/adolescent-birth-rate" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
 </div>
