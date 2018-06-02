@@ -519,3 +519,36 @@ pollution and contamination.</q></p>
         </div>
     </div>
 </div>
+
+<div class="target">
+<h2>Target 3.a: Implement the WHO framework convention on tobacco control</h2>
+
+<p>UN definition: <q>Strengthen the implementation of the World Health
+Organization Framework Convention on Tobacco Control in
+all countries, as appropriate.</q></p>
+
+<p>SDG Indicators: <a href="#3.a.1">3.a.1 Age-standardized prevalence of current tobacco use among persons aged 15 years and older</a>.</p>
+
+</div>
+
+<div class="indicator" id="3.a.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 3.a.1</span>
+            <h3>Prevalence of tobacco use</h3>
+            <p><strong>Definition:</strong> Age-standardized prevalence of current tobacco use among persons aged 15 years and older is the share of adults (aged 15+) who smoke tobacco daily.</p>
+            <p><strong>Goal:</strong> There is no defined target level for this indicator.
+
+<p><strong>More research:</strong> Further data and research can be found at the Our World in Data entry on<a href="https://ourworldindata.org/smoking"> Smoking</a>.</p>
+<p><strong>Additional charts:</strong> 
+<br><a href="https://ourworldindata.org/grapher/prevalence-of-daily-smoking-sdgs">Daily smoking in people aged 10 or older</a>
+<br><a href="https://ourworldindata.org/grapher/share-of-men-who-are-smoking">Share of men who smoke</a>
+<br><a href="https://ourworldindata.org/grapher/share-of-women-who-are-smoking">Share of women who smoke</a>
+<br><a href="https://ourworldindata.org/grapher/death-rate-smoking">Death rate from tobacco smoking</a>
+<br><a href="https://ourworldindata.org/grapher/smoking-and-secondhand-deaths">Deaths attributed to smoking and secondhand smoke</a>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/prevalence-of-tobacco-use-sdgs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
