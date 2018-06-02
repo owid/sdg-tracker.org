@@ -552,3 +552,88 @@ all countries, as appropriate.</q></p>
         </div>
     </div>
 </div>
+
+<div class="target">
+<h2>Target 3.b: Support research, development and universal access to affordable vaccines and medicines</h2>
+
+<p>UN definition: <q>Support the research and development of vaccines and
+medicines for the communicable and non-communicable
+diseases that primarily affect developing countries, provide
+access to affordable essential medicines and vaccines, in
+accordance with the Doha Declaration on the TRIPS
+Agreement and Public Health, which affirms the right of
+developing countries to use to the full the provisions in the
+Agreement on Trade-Related Aspects of Intellectual
+Property Rights regarding flexibilities to protect public
+health, and, in particular, provide access to medicines for all.</q></p>
+
+<p>SDG Indicators: <a href="#3.b.1">3.b.1 Proportion of the target population covered by all vaccines included in their national programme</a>, <a href="#3.b.2">3.b.2 Total net official development assistance to medical
+research and basic health sectors</a>, <a href="#3.b.3">3.b.3 Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis</a>.</p>
+
+</div>
+
+<div class="indicator" id="3.b.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 3.b.1</span>
+            <h3>Vaccine coverage</h3>
+            <p><strong>Definition:</strong> Proportion of the target population covered by all vaccines included in their national programme.</p>
+            <p><strong>Goal:</strong> There is no defined target level for this indicator.
+
+<p><strong>Additional charts:</strong> 
+<br><a href="https://ourworldindata.org/grapher/share-of-children-immunized-dtp3">Share of children who receive the DTP3 vaccine</a>
+<br><a href="https://ourworldindata.org/grapher/share-of-children-vaccinated-against-measles">Share of children vaccinated against measles</a>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/coverage-of-eight-vaccines-sdgs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
+
+<hr>
+
+<div class="indicator" id="3.b.2">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 3.b.2</span>
+            <h3>Prevalence of tobacco use</h3>
+            <p><strong>Definition:</strong> Age-standardized prevalence of current tobacco use among persons aged 15 years and older is the share of adults (aged 15+) who smoke tobacco daily.</p>
+            <p><strong>Goal:</strong> There is no defined target level for this indicator.
+
+<p><strong>More research:</strong> Further data and research can be found at the Our World in Data entry on<a href="https://ourworldindata.org/smoking"> Smoking</a>.</p>
+<p><strong>Additional charts:</strong> 
+<br><a href="https://ourworldindata.org/grapher/prevalence-of-daily-smoking-sdgs">Daily smoking in people aged 10 or older</a>
+<br><a href="https://ourworldindata.org/grapher/share-of-men-who-are-smoking">Share of men who smoke</a>
+<br><a href="https://ourworldindata.org/grapher/share-of-women-who-are-smoking">Share of women who smoke</a>
+<br><a href="https://ourworldindata.org/grapher/death-rate-smoking">Death rate from tobacco smoking</a>
+<br><a href="https://ourworldindata.org/grapher/smoking-and-secondhand-deaths">Deaths attributed to smoking and secondhand smoke</a>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/prevalence-of-tobacco-use-sdgs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
+
+<hr>
+
+<div class="indicator" id="3.b.3">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 3.b.3</span>
+            <h3>Prevalence of tobacco use</h3>
+            <p><strong>Definition:</strong> Age-standardized prevalence of current tobacco use among persons aged 15 years and older is the share of adults (aged 15+) who smoke tobacco daily.</p>
+            <p><strong>Goal:</strong> There is no defined target level for this indicator.
+
+<p><strong>More research:</strong> Further data and research can be found at the Our World in Data entry on<a href="https://ourworldindata.org/smoking"> Smoking</a>.</p>
+<p><strong>Additional charts:</strong> 
+<br><a href="https://ourworldindata.org/grapher/prevalence-of-daily-smoking-sdgs">Daily smoking in people aged 10 or older</a>
+<br><a href="https://ourworldindata.org/grapher/share-of-men-who-are-smoking">Share of men who smoke</a>
+<br><a href="https://ourworldindata.org/grapher/share-of-women-who-are-smoking">Share of women who smoke</a>
+<br><a href="https://ourworldindata.org/grapher/death-rate-smoking">Death rate from tobacco smoking</a>
+<br><a href="https://ourworldindata.org/grapher/smoking-and-secondhand-deaths">Deaths attributed to smoking and secondhand smoke</a>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/prevalence-of-tobacco-use-sdgs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
