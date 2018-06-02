@@ -397,7 +397,7 @@ satisfied with modern methods</h3>
 <p><strong>More research:</strong> Further data and research can be found at the Our World in Data <a href="https://ourworldindata.org/fertility-rate">entry on Fertility Rate</a>.</p>
         </div>
         <div class="col-md">
-            <iframe src="https://ourworldindata.org/grapher/adolescent-birth-rate" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/adolescent-birth-rate?tab=chart" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
 </div>
@@ -500,6 +500,20 @@ pollution and contamination.</q></p>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/mortality-rate-attributable-to-wash" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
+
+<div class="indicator" id="3.9.3">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 3.9.3</span>
+            <h3>Mortality rate attributed to unintentional poisoning</h3>
+            <p><strong>Definition:</strong> Mortality rate from attributed to unintentional poisoning measures the number of deaths per 100,000 people attributed to unintentional exposure to hazardous chemicals or substances.</p>
+            <p><strong>Goal:</strong> There is no defined target level for this indicator.
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/death-rate-from-poisonings" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
 </div>
