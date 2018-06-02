@@ -115,3 +115,43 @@ achieve substantial coverage of the poor and the vulnerable.</q></p>
         </div>
     </div>
 </div>
+
+<div class="target">
+    <h2>Target 1.4: Equal rights to ownership, basic services, technology and economic resources</h2>
+    <p>UN definition: <q>By 2030, ensure that all men and women, in particular the poor and the vulnerable, have equal rights to economic resources, as well as access to basic services, ownership and control over land and other forms of property, inheritance, natural resources, appropriate new technology and financial services, including microfinance.</q></p>
+    <p>SDG Indicators: <a href="1.4.1">1.4.1 Proportion of population living in households with access to basic services</a>, <a href="1.4.2">1.4.2 Proportion of total adult population with secure tenure rights to land</a>.</p>
+</div>
+
+<div class="indicator" id="1.4.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 1.4.1</span>
+            <h3>Access to basic services</h3>
+            <p><strong>Definition:</strong> Proportion of population living in households with access to basic services.</p>
+            <p><strong>Goal:</strong> There is no defined target level for this indicator.</p>
+            <p><strong>Additional charts:</strong> 
+<br><a href="https://ourworldindata.org/grapher/adequacy-of-social-insurance-programs">Adequacy of social insurance systems</a>
+<br><a href="https://ourworldindata.org/grapher/adequacy-of-unemployment-benefits">Adequacy of unemployment benefits</a>
+<br><a href="https://ourworldindata.org/grapher/adequacy-of-social-safety-net-programs">Adequacy of social safety net programs</a>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/coverage-of-social-insurance-programs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
+
+<hr>
+
+<div class="indicator" id="1.4.2">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 1.4.2</span>
+            <h3>Secure tenure rights to land</h3>
+            <p><strong>Definition:</strong> Proportion of total adult population with secure tenure rights to land, (a) with legally recognized documentation, and (b) who perceive their rights to land as secure, by sex and type of tenure.</p>
+            <p><strong>Goal:</strong> There is no defined target level for this indicator.</p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/insufficient-data-sdgs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
