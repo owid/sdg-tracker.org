@@ -202,3 +202,42 @@ that progressively improve land and soil quality.</p>
         </div>
     </div>
 </div>
+
+<div class="target">
+    <h2>Target 2.5: Maintain the genetic diversity in food production</h2>
+    <p>UN definition: By 2020, maintain the genetic diversity of seeds, cultivated plants and farmed and domesticated animals and their related wild species, including through soundly managed and diversified seed and plant banks at the national, regional and international levels, and promote access to and fair and equitable sharing of benefits arising from the utilization of genetic resources and associated traditional knowledge, as internationally agreed.</p>
+    <p>SDG Indicators: <a href="#2.5.1">2.5.1 Number of plant and animal genetic resources for food and agriculture secured in either medium- or longterm
+conservation facilities</a>, <a href="#2.5.2">2.5.2 Proportion of local breeds classified as being at risk, not at risk or at unknown level of risk of extinction</a>.</p>
+</div>
+
+<div class="indicator" id="2.5.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 2.5.1</span>
+            <h3>Genetic resources in conservation facilities</h3>
+            <p><strong>Definition:</strong> Number of plant and animal genetic resources for food and agriculture secured in either medium- or longterm
+conservation facilities.</p>
+            <p><strong>Goal:</strong> There is no defined target level for this indicator.</p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/number-of-accessions-of-plant-genetic-resources-secured-in-conservation-facilities" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/proportion-of-animal-breeds-genetic-conservation" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
+
+<hr>
+
+<div class="indicator" id="2.5.2">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 2.5.2</span>
+            <h3>Local breeds at risk of extinction</h3>
+            <p><strong>Definition:</strong> Proportion of local breeds classified as being at risk, not at risk or at unknown level of risk of extinction.</p>
+            <p><strong>Goal:</strong> There is no defined target level for this indicator.</p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/proportion-of-local-breeds-at-risk-of-extinction" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
