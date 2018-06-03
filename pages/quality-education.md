@@ -197,3 +197,25 @@ indigenous peoples and conflict-affected, as data become available) for all educ
         </div>
     </div>
 </div>
+
+<div class="target">
+    <h2>Target 4.7: Education for sustainable development and global citizenship</h2>
+    <p>UN definition: <q>By 2030, ensure that all learners acquire the knowledge and skills needed to promote sustainable development, including, among others, through education for sustainable development and sustainable lifestyles, human rights, gender equality, promotion of a culture of peace and non-violence, global citizenship and appreciation of cultural diversity and of culture’s contribution to sustainable development.</q></p>
+    <p>SDG Indicators: <a href="#4.7.1">4.7.1 Extent to which (i) global citizenship education and(ii) education for sustainable development, including
+gender equality and human rights, are mainstreamed at all levels in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment</a>.</p>
+</div>
+
+<div class="indicator" id="4.7.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 4.7.1</span>
+            <h3>Education on sustainable development and global citizenship</h3>
+            <p><strong>Definition:</strong> Extent to which (i) global citizenship education and(ii) education for sustainable development, including
+gender equality and human rights, are mainstreamed at all levels in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment.</p>
+            <p><strong>Goal:</strong> There is no defined target level for this indicator.</p> 
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/insufficient-data-sdgs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
