@@ -113,15 +113,30 @@ Organization (WHO) Child Growth Standards) among children under 5 years of age. 
         <div class="col-md">
             <span>SDG Indicator 2.2.2</span>
             <h3>Prevalence of childhood malnutrition (wasting or overweight)</h3>
-            <p><strong>Definition:</strong> Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES). The FEIS is based on survey data which relate to the occurrence of several typical experiences and conditions associated with food insecurity.</p>
-            <p><strong>Goal:</strong> The SDG target is to end food insecurity for all by 2030.</p>
-            <p><strong>More research:</strong> Further data and research can be found at the Our World in Data entry on <a href="https://ourworldindata.org/hunger-and-undernourishment">Hunger and Undernourishment</a>.</p>
+            <p><strong>Definition:</strong> Prevalence of malnutrition (weight for height >+2 or <-2 standard deviation from the median of the WHO Child Growth Standards) among children under 5 years of age, by type (wasting and overweight.</p>
+            <p><strong>Goal:</strong> The SDG target is to end all forms of malnutrition by 2030.</p>
+            <p><strong>More research:</strong> Further data and research can be found at the Our World in Data entries on <a href="https://ourworldindata.org/hunger-and-undernourishment">Hunger and Undernourishment</a>, <a href="https://ourworldindata.org/obesity">Obesity</a> and <a href="https://ourworldindata.org/micronutrient-deficiency">Micronutrient Deficiency</a>.</p>
             <p><strong>Additional charts:</strong>
-<br><a href="https://ourworldindata.org/grapher/share-of-population-with-severe-food-insecurity">Prevalence of severe food insecurity</a>
-<br><a href="https://ourworldindata.org/grapher/number-of-severely-food-insecure-people-by-region">Number of people with severe food insecurity by region</a></p>
+<br><a href="https://ourworldindata.org/grapher/share-of-adults-defined-as-obese">Adult obesity</a>
+<br><a href="https://ourworldindata.org/grapher/prevalence-of-anemia-in-pregnant-women-1995-2011">Prevalence of anemia in pregnant women</a>
+<br><a href="https://ourworldindata.org/grapher/prevalence-of-anemia-in-women-of-reproductive-age-aged-15-29">Prevalence of anemia in women of reproductive age</a>
+<br><a href="https://ourworldindata.org/grapher/prevalence-of-anemia-in-children">Prevalence of anemia in children</a></p>
         </div>
         <div class="col-md">
-            <iframe src="https://ourworldindata.org/grapher/share-of-population-with-moderate-or-severe-food-insecurity" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/share-of-children-with-a-weight-too-low-for-their-height-wasting" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/children-who-are-overweight-sdgs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
+</div>
+
+<div class="target">
+    <h2>Target 2.3: Double the productivity and incomes of small-scale food producers</h2>
+    <p>UN definition: By 2030, double the agricultural productivity and
+incomes of small-scale food producers, in particular women,
+indigenous peoples, family farmers, pastoralists and fishers,
+including through secure and equal access to land, other
+productive resources and inputs, knowledge, financial
+services, markets and opportunities for value addition and
+non-farm employment.</p>
+    <p>SDG Indicators: <a href="#2.3.1">2.3.1 Volume of production per labour unit by classes of farming/pastoral/forestry enterprise size</a>, <a href="#2.3.2">2.3.2 Average income of small-scale food producers</a>.</p>
 </div>
