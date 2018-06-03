@@ -124,7 +124,7 @@ Organization (WHO) Child Growth Standards) among children under 5 years of age. 
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/share-of-children-with-a-weight-too-low-for-their-height-wasting" style="width: 100%; height: 600px; border: 0px none;"></iframe>
-            <iframe src="https://ourworldindata.org/grapher/children-who-are-overweight-sdgs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/children-who-are-overweight-sdgs?tab=chart" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
 </div>
@@ -165,7 +165,37 @@ non-farm employment.</p>
             <h3>Income of small-scale food producers</h3>
             <p><strong>Definition:</strong> Average income of small-scale food producers, by sex and indigenous status.</p>
             <p><strong>Goal:</strong> The 2030 goal is to double the average income of small-scale food producers. The baseline year for this indicator is not clear.</p>
-            <p><strong>More research:</strong> Further data and research can be found at the Our World in Data entry on <a href="https://ourworldindata.org/yields-and-land-use-in-agriculture">Yields and Land Use in Agriculture</a> and <a href="https://ourworldindata.org/employment-in-agriculture">Employment in Agriculture</a>.</p>
+            <p><strong>More research:</strong> Further data and research can be found at the Our World in Data entry on <a href="https://ourworldindata.org/food-prices">Food Prices</a> and <a href="https://ourworldindata.org/employment-in-agriculture">Employment in Agriculture</a>.</p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/insufficient-data-sdgs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
+
+<div class="target">
+    <h2>Target 2.4: Sustainable food production and resilient agricultural practices</h2>
+    <p>UN definition: By 2030, ensure sustainable food production systems
+and implement resilient agricultural practices that increase
+productivity and production, that help maintain ecosystems,
+that strengthen capacity for adaptation to climate change,
+extreme weather, drought, flooding and other disasters and
+that progressively improve land and soil quality.</p>
+    <p>SDG Indicators: <a href="#2.4.1">2.4.1 Proportion of agricultural area under productive and sustainable agriculture</a>.</p>
+</div>
+
+<div class="indicator" id="2.4.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 2.4.1</span>
+            <h3>Sustainable food production</h3>
+            <p><strong>Definition:</strong> Proportion of agricultural area under productive and sustainable agriculture.</p>
+            <p><strong>Goal:</strong> There is no clear target or definition of sustainable agriculture for this indicator.</p>
+            <p><strong>More research:</strong> Further data and research can be found at the Our World in Data entry on <a href="https://ourworldindata.org/yields-and-land-use-in-agriculture">Yields and Land Use in Agriculture</a>, and comparison of the environmental impact of<a href="https://ourworldindata.org/is-organic-agriculture-better-for-the-environment"> organic vs. conventional agriculture</a>.</p>
+            <p><strong>Additional charts:</strong>
+<br><a href="https://ourworldindata.org/grapher/organic-agricultural-area">Organic agricultural area</a>
+<br><a href="https://ourworldindata.org/grapher/organic-arable-land-area">Organic arable land area</a>
+<br><a href="https://ourworldindata.org/grapher/share-of-arable-land-which-is-organic">Share of arable land that is organic</a>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/insufficient-data-sdgs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
