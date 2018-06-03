@@ -94,3 +94,50 @@ psychosocial well-being, by sex.</p>
         </div>
     </div>
 </div>
+
+<div class="target">
+    <h2>Target 4.3: Equal access to affordable technical, vocational and higher education</h2>
+    <p>UN definition: <q>By 2030, ensure equal access for all women and men to affordable and quality technical, vocational and tertiary education, including university.</q></p>
+    <p>SDG Indicators: <a href="#4.3.1">4.3.1 Participation rate of youth and adults in formal and non-formal education and training in the previous
+12 months</a>.</p>
+</div>
+
+<div class="indicator" id="4.3.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 4.3.1</span>
+            <h3>Equal access to further education</h3>
+            <p><strong>Definition:</strong> Participation rate of youth and adults in formal and non-formal education and training in the previous
+12 months, by sex.</p>
+            <p><strong>Goal:</strong> There is no defined target level for this indicator.</p>
+            <p><strong>More research:</strong> Further data and research can be found at Our World in Data entry on <a href="https://ourworldindata.org/tertiary-education">Tertiary Education</a>.</p>
+            <p><strong>Additional charts:</strong>
+<br><a href="https://ourworldindata.org/grapher/population-breakdown-by-highest-level-of-education-achieved-for-those-aged-15-in">Projections of population by education level</a></p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/gross-enrollment-ratio-in-tertiary-education?country=East%20Asia%20%26%20Pacific+Europe%20%26%20Central%20Asia+Latin%20America%20%26%20Caribbean+Middle%20East%20%26%20North%20Africa+North%20America+South%20Asia+Sub-Saharan%20Africa" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
+
+<div class="target">
+    <h2>Target 4.4: Increase the number of people with relevant skills for financial success</h2>
+    <p>UN definition: <q>By 2030, substantially increase the number of youth and adults who have relevant skills, including technical and vocational skills, for employment, decent jobs and entrepreneurship.</q></p>
+    <p>SDG Indicators: <a href="#4.4.1">4.4.1 Proportion of youth and adults with information and communications technology (ICT) skills</a>.</p>
+</div>
+
+<div class="indicator" id="4.4.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 4.4.1</span>
+            <h3>Information and communications technology (ICT) skills</h3>
+            <p><strong>Definition:</strong> Proportion of youth and adults with information and communications technology (ICT) skills, by type of skill.</p>
+            <p><strong>Goal:</strong> There is no defined target level for this indicator.</p>
+            <p><strong>More research:</strong> Further data and research can be found at Our World in Data entry on <a href="https://ourworldindata.org/tertiary-education">Tertiary Education</a>.</p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/proportion-with-ict-skills-in-presentations" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/proportion-with-ict-skills-by-sex" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
