@@ -141,3 +141,59 @@ psychosocial well-being, by sex.</p>
         </div>
     </div>
 </div>
+
+<div class="target">
+    <h2>Target 4.5: Eliminate all discrimination in education</h2>
+    <p>UN definition: <q>By 2030, eliminate gender disparities in education and ensure equal access to all levels of education and vocational training for the vulnerable, including persons with disabilities, indigenous peoples and children in vulnerable situations.</q></p>
+    <p>SDG Indicators: <a href="#4.5.1">4.5.1 Parity indices (female/male, rural/urban, bottom/top wealth quintile and others such as disability status) for all education indicators</a>.</p>
+</div>
+
+<div class="indicator" id="4.5.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 4.5.1</span>
+            <h3>Disparities in educational access</h3>
+            <p><strong>Definition:</strong> Parity indices (female/male, rural/urban, bottom/top wealth quintile and others such as disability status,
+indigenous peoples and conflict-affected, as data become available) for all education indicators.</p>
+            <p><strong>Goal:</strong> The target is to eliminate educational disparities for all by 2030.</p>
+            <p><strong>More research:</strong> Further data and research can be found at Our World in Data entry on <a href="https://ourworldindata.org/educational-mobility-inequality">Educational Mobility & Inequality</a>.</p>
+           <p><strong>Additional charts:</strong> 
+<br><a href="https://ourworldindata.org/grapher/out-of-school-children-of-primary-school-age-by-world-region">Out-of-school children by world region</a></p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/net-enrolment-rate-primary-gender-parity-index-gpi" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/school-life-expectancy-primary-gender-parity-index-gpi" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/primary-completion-rate-gender-parity-index" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/school-life-expectancy-in-secondary-education-by-sex" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
+
+<div class="target">
+    <h2>Target 4.6: Universal literacy and numeracy</h2>
+    <p>UN definition: <q>By 2030, ensure that all youth and a substantial proportion of adults, both men and women, achieve literacy and numeracy.</q></p>
+    <p>SDG Indicators: <a href="#4.6.1">4.6.1 Proportion of population in a given age group achieving at least a fixed level of proficiency in functional
+(a) literacy and (b) numeracy skills, by sex</a>.</p>
+</div>
+
+<div class="indicator" id="4.6.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 4.6.1</span>
+            <h3>Universal literacy and numeracy</h3>
+            <p><strong>Definition:</strong> Proportion of population in a given age group achieving at least a fixed level of proficiency in functional
+(a) literacy and (b) numeracy skills, by sex.</p>
+            <p><strong>Goal:</strong> The target is to ensure all children and young adults, and a substantial portion (undefined target level) of adults achieve a minimum proficiency in literacy and numeracy by 2030.</p>
+            <p><strong>More research:</strong> Further data and research can be found at Our World in Data entry on <a href="https://ourworldindata.org/literacy">Literacy</a>.</p>
+           <p><strong>Additional charts:</strong> 
+<br><a href="https://ourworldindata.org/grapher/literate-and-illiterate-world-population">Long-term change in global literacy</a>
+<br><a href="https://ourworldindata.org/grapher/literacy-rates-of-the-the-younger-population-15-24-years-versus-literacy-rates-of-the-older-population-65">Literacy rates of younger vs. older generations</a></p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/youth-literacy-males" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/youth-literacy-female" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/adult-literacy-male" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/adult-literacy-female" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
