@@ -280,3 +280,45 @@ sector.</p>
         </div>
     </div>
 </div>
+
+<div class="target">
+    <h2>Target 2.B: Prevent agricultural trade restrictions, market distortions and export subsidies</h2>
+    <p>UN definition: Correct and prevent trade restrictions and distortions in world agricultural markets, including through the parallel elimination of all forms of agricultural export subsidies and all export measures with equivalent effect, in accordance with the mandate of the Doha Development Round.</p>
+    <p>SDG Indicators: <a href="#2.B.1">2.B.1 Agricultural export subsidies</a>.</p>
+</div>
+
+<div class="indicator" id="2.B.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 2.B.1</span>
+            <h3>Agricultural export subsidies</h3>
+            <p><strong>Definition:</strong> The value of agricultural export subsidies.</p>
+            <p><strong>Goal:</strong> There is no defined target level for this indicator.</p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/insufficient-data-sdgs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
+
+<div class="target">
+    <h2>Target 2.C: Ensure stable food commodity markets and timely access to information</h2>
+    <p>UN definition: Adopt measures to ensure the proper functioning of food commodity markets and their derivatives and facilitate timely access to market information, including on food reserves, in order to help limit extreme food price volatility.</p>
+    <p>SDG Indicators: <a href="#2.C.1">2.C.1 Indicator of food price anomalies</a>.</p>
+</div>
+
+<div class="indicator" id="2.C.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 2.C.1</span>
+            <h3>Food price anomalies</h3>
+            <p><strong>Definition:</strong> Food price anomalies can be measured using the domestic food price volatility index.
+<p>Domestic food price volatility index measures the variation (volatility) in domestic food prices over time - this is measured as the weighted-average of a basket of commodities based on consumer or market prices. High values indicate a higher volatility (more variation) in food prices.</p>
+            <p><strong>Goal:</strong> There is no defined target level for this indicator.</p>
+            <p><strong>More research:</strong> Further data and research can be found at the Our World in Data entry on <a href="https://ourworldindata.org/food-prices">Food Prices</a>.
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/domestic-food-price-volatility-index" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
