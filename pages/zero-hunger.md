@@ -140,3 +140,35 @@ services, markets and opportunities for value addition and
 non-farm employment.</p>
     <p>SDG Indicators: <a href="#2.3.1">2.3.1 Volume of production per labour unit by classes of farming/pastoral/forestry enterprise size</a>, <a href="#2.3.2">2.3.2 Average income of small-scale food producers</a>.</p>
 </div>
+
+<div class="indicator" id="2.3.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 2.3.1</span>
+            <h3>Production per labour unit</h3>
+            <p><strong>Definition:</strong> Volume of production per labour unit by classes of farming/pastoral/forestry enterprise size.</p>
+            <p><strong>Goal:</strong> The 2030 goal is to double the average productivity of food producers. The baseline year for this indicator is not clear.</p>
+            <p><strong>More research:</strong> Further data and research can be found at the Our World in Data entry on <a href="https://ourworldindata.org/yields-and-land-use-in-agriculture">Yields and Land Use in Agriculture</a> and <a href="https://ourworldindata.org/employment-in-agriculture">Employment in Agriculture</a>.</p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/insufficient-data-sdgs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
+
+<hr>
+
+<div class="indicator" id="2.3.2">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 2.3.2</span>
+            <h3>Income of small-scale food producers</h3>
+            <p><strong>Definition:</strong> Average income of small-scale food producers, by sex and indigenous status.</p>
+            <p><strong>Goal:</strong> The 2030 goal is to double the average income of small-scale food producers. The baseline year for this indicator is not clear.</p>
+            <p><strong>More research:</strong> Further data and research can be found at the Our World in Data entry on <a href="https://ourworldindata.org/yields-and-land-use-in-agriculture">Yields and Land Use in Agriculture</a> and <a href="https://ourworldindata.org/employment-in-agriculture">Employment in Agriculture</a>.</p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/insufficient-data-sdgs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
