@@ -151,7 +151,7 @@ non-farm employment.</p>
             <p><strong>More research:</strong> Further data and research can be found at the Our World in Data entry on <a href="https://ourworldindata.org/yields-and-land-use-in-agriculture">Yields and Land Use in Agriculture</a> and <a href="https://ourworldindata.org/employment-in-agriculture">Employment in Agriculture</a>.</p>
         </div>
         <div class="col-md">
-            <iframe src="https://ourworldindata.org/grapher/insufficient-data-sdgs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/agriculture-value-added-per-worker-wdi?year=2016" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
 </div>
