@@ -241,3 +241,42 @@ conservation facilities.</p>
         </div>
     </div>
 </div>
+
+<div class="target">
+    <h2>Target 2.A: Invest in rural infrastructure, agricultural research, technology and gene banks </h2>
+    <p>UN definition: Increase investment, including through enhanced international cooperation, in rural infrastructure, agricultural research and extension services, technology development and plant and livestock gene banks in order to enhance agricultural productive capacity in developing countries, in particular least developed countries.</p>
+    <p>SDG Indicators: <a href="#2.A.1">2.A.1 The agriculture orientation index for government expenditures</a>, <a href="#2.A.2">2.A.2 Total official flows (official development assistance plus other official flows) to the agriculture
+sector</a>.</p>
+</div>
+
+<div class="indicator" id="2.A.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 2.A.1</span>
+            <h3>Agriculture orientation index</h3>
+            <p><strong>Definition:</strong> The agriculture orientation index for government expenditures. The agriculture orientation index (AOI) is the agriculture share of government expenditures, divided by the agriculture share of GDP.
+<p>An AOI >1 means the agriculture section receives a higher share of government spending relative to its economic value. An AOI <1 reflects a lower orientation to agriculture.</p>
+            <p><strong>Goal:</strong> There is no defined target level for this indicator.</p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/agriculture-orientation-index" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
+
+<hr>
+
+<div class="indicator" id="2.A.2">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 2.A.2</span>
+            <h3>Official flows to agriculture</h3>
+            <p><strong>Definition:</strong> Total official flows (official development assistance plus other official flows) to the agriculture
+sector.</p>
+            <p><strong>Goal:</strong> There is no defined target level for this indicator.</p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/total-financial-assistance-and-flows-for-agriculture-by-recipient" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
