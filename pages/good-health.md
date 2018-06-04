@@ -38,7 +38,7 @@ featuredImage: /img/uploads/3.svg
 <div class="target">
     <h2>Target 3.1: Reduce maternal mortality</h2>
     <p>UN definition: <q>By 2030, reduce the global maternal mortality ratio to less than 70 per 100,000 live births</q></p>
-    <p>SDG Indicators: <a href="#3.1.1">3.1.1 Maternal mortality ratio</a>, <a href="#3.1.2">3.1.2 Proportion of births attended by skilled health personnel</a></p>
+    <p>SDG Indicators: <br><a href="#3.1.1">3.1.1 Maternal mortality ratio</a>, <br><a href="#3.1.2">3.1.2 Proportion of births attended by skilled health personnel</a></p>
 </div>
 
 <div class="indicator" id="3.1.1">
@@ -47,8 +47,8 @@ featuredImage: /img/uploads/3.svg
             <span>SDG Indicator 3.1.1</span>
             <h3>Maternal mortality ratio</h3>
             <p><strong>Definition:</strong> The maternal mortality ratio refers to the number of women who die from pregnancy-related causes while pregnant or within 42 days of pregnancy termination per 100,000 live births.</p>
-            <p><strong>Goal:</strong> By 2030 <q>Reduce global maternal mortality to less than 70 per 100,000 live births</q> per year. No defined target has been set at the national level.</p>
-            <p><strong>More research:</strong> The Our World in Data<a href="https://ourworldindata.org/maternal-mortality">  entry on maternal mortality</a> gives a long-run perspective over the last centuries and presents research on the causes and consequences of the deaths of mothers.</p>
+            <p><strong>Goal:</strong> By 2030 <i><q>Reduce global maternal mortality to less than 70 per 100,000 live births</q></i> per year. No defined target has been set at the national level.</p>
+            <p><strong>More research:</strong> <i>The Our World in Data</i><a href="https://ourworldindata.org/maternal-mortality">  entry on maternal mortality</a> gives a long-run perspective over the last centuries and presents research on the causes and consequences of the deaths of mothers.</p>
 <p><strong>Additional charts:</strong> 
 <br><a href="https://ourworldindata.org/https://ourworldindata.org/grapher/number-of-maternal-deaths-by-region">Number of maternal deaths by region</a>
 <br><a href="https://ourworldindata.org/grapher/number-of-maternal-deaths">Number of maternal deaths by country</a>
@@ -67,7 +67,7 @@ featuredImage: /img/uploads/3.svg
             <span>SDG Indicator 3.1.2</span>
             <h3>Skilled birth attendance</h3>
             <p><strong>Definition:</strong> The percentage of births attended by personnel trained to give the necessary supervision, care, and advice to women during pregnancy, labor, and the postpartum period; to conduct deliveries on their own; and to care for newborns.</p>
-            <p><strong>Goal:</strong> The UN target is to <q>Reduce global maternal mortality to less than 70 per 100,000 live births.</q> However, there is no goal specified by the UN for the share of births attended by skilled staff.
+            <p><strong>Goal:</strong> The UN target is to <i><q>Reduce global maternal mortality to less than 70 per 100,000 live births.</q></i> However, there is no goal specified by the UN for the share of births attended by skilled staff.
 
 <p><strong>More research:</strong> Research shows that <a href="https://ourworldindata.org/maternal-mortality#maternal-mortality-in-the-long-run">skilled staff can reduce maternal mortality</a>.</p>
         </div>
@@ -80,7 +80,7 @@ featuredImage: /img/uploads/3.svg
 <div class="target">
     <h2>Target 3.2: End all preventable deaths under 5 years of age</h2>
     <p>UN definition: <q>By 2030, end preventable deaths of newborns and children under 5 years of age, with all countries aiming to reduce neonatal mortality to at least as low as 12 per 1,000 live births and under‑5 mortality to at least as low as 25 per 1,000 live births</q></p>
-    <p>SDG Indicators: <a href="#3.2.1">3.2.1 Under-5 mortality rate</a>, <a href="#3.2.2">3.2.2 Neonatal mortality rate</a></p>
+    <p>SDG Indicators: <br><a href="#3.2.1">3.2.1 Under-5 mortality rate</a> <br><a href="#3.2.2">3.2.2 Neonatal mortality rate</a></p>
 </div>
 
 <div class="indicator" id="3.2.1">
@@ -89,8 +89,8 @@ featuredImage: /img/uploads/3.svg
             <span>SDG Indicator 3.2.1</span>
             <h3>Under-5 mortality rate</h3>
             <p><strong>Definition:</strong> The under-5 mortality rate measures the number of children who die before their 5th birthday, per 1,000 live births.</p>
-            <p><strong>Goal:</strong> By 2030 <q>Reduce child mortality to less than 25 deaths per 1,000 live births</q> per year across all countries.</p>
-            <p><strong>More research:</strong> Child mortality is covered more broadly, and with a longer-term perspective in the Our World in Data <a href="https://ourworldindata.org/child-mortality">entry on child mortality</a>.
+            <p><strong>Goal:</strong> By 2030 <i><q>Reduce child mortality to less than 25 deaths per 1,000 live births</q></i> per year across all countries.</p>
+            <p><strong>More research:</strong> Child mortality is covered more broadly, and with a longer-term perspective in the <i>Our World in Data</i> <a href="https://ourworldindata.org/child-mortality">entry on child mortality</a>.
 <p><strong>Additional charts:</strong> 
 <br><a href="https://ourworldindata.org/grapher/number-of-under-five-deaths">Number of under-five deaths</a>
 <br><a href="https://ourworldindata.org/grapher/number-of-under-five-deaths-by-region">Number of under-five deaths by region</a>
@@ -110,8 +110,8 @@ featuredImage: /img/uploads/3.svg
             <span>SDG Indicator 3.2.2</span>
             <h3>Neonatal mortality rate</h3>
             <p><strong>Definition:</strong> Neonatal mortality is defined as the share of newborns who die before reaching 28 days of age, measured per 1,000 live births in a given year.</p>
-            <p><strong>Goal:</strong> By 2030 <q>Reduce neonatal mortality to at least as low as 12 per 1,000 live births</q> per year across all countries.</p>
-            <p><strong>More research:</strong> The _Our World in Data_ <a href="https://ourworldindata.org/child-mortality">entry on child mortality</a> includes a section on neonatal mortality.</p>
+            <p><strong>Goal:</strong> By 2030 <i><q>Reduce neonatal mortality to at least as low as 12 per 1,000 live births</q></i> per year across all countries.</p>
+            <p><strong>More research:</strong> The <i>Our World in Data</i> <a href="https://ourworldindata.org/child-mortality">entry on child mortality</a> includes a section on neonatal mortality.</p>
 <p><strong>Additional charts:</strong> 
 <br><a href="https://ourworldindata.org/grapher/number-of-neonatal-deaths">Number of neonatal deaths</a>
 <br><a href="https://ourworldindata.org/grapher/number-of-neonatal-deaths-by-region">Number of neonate deaths by region</a>
@@ -125,7 +125,7 @@ featuredImage: /img/uploads/3.svg
 <div class="target">
     <h2>Target 3.3: Fight communicable diseases</h2>
     <p>UN definition: <q>By 2030, end the epidemics of AIDS, tuberculosis, malaria and neglected tropical diseases and combat hepatitis, water-borne diseases and other communicable diseases.</q></p>
-    <p>SDG Indicators: <a href="#3.3.1">3.3.1 Number of new HIV infections per 1,000 uninfected population, by sex, age and key populations</a>, <a href="#3.3.2">3.3.2 Tuberculosis incidence per 100,000 population</a>, <a href="#3.3.3">3.3.3 Malaria incidence per 1,000 population</a>, <a href="#3.3.4">3.3.4 Hepatitis B incidence per 100,000 population</a>, <a href="#3.3.5">3.3.5 Number of people requiring interventions against neglected tropical diseases</a></p>
+    <p>SDG Indicators: <br><a href="#3.3.1">3.3.1 Number of new HIV infections per 1,000 uninfected population, by sex, age and key populations</a> <br><a href="#3.3.2">3.3.2 Tuberculosis incidence per 100,000 population</a> <br><a href="#3.3.3">3.3.3 Malaria incidence per 1,000 population</a> <br><a href="#3.3.4">3.3.4 Hepatitis B incidence per 100,000 population</a> <br><a href="#3.3.5">3.3.5 Number of people requiring interventions against neglected tropical diseases</a></p>
 </div>
 
 <div class="indicator" id="3.3.1">
@@ -134,10 +134,10 @@ featuredImage: /img/uploads/3.svg
             <span>SDG Indicator 3.3.1</span>
             <h3>Number of new HIV infections per 1,000 uninfected population, by sex, age and key populations</h3>
             <p><strong>Definition:</strong> Number of new HIV infections is the number of new cases of HIV per year amongst uninfected populations per 1,000 people.</p>
-            <p><strong>Goal:</strong> The SDG target by 2030 is to 'end the epidemic' of HIV. The targeted level, however, is not defined. 
+            <p><strong>Goal:</strong> The target 2030 is to <i><q>end the epidemic of HIV</q></i> across all countries. The targeted level of reduction, however, is not defined. 
 
-<p>UNAIDS have <a href="https://www.avert.org/global-hiv-targets">set a target</a> (not specifically related to the SDGs) of reducing to less than 200,000 new infections globally among adults by 2030. This would mean a target of reduction to 0.02 new cases per 1,000 people globally in 2030.</p>
-            <p><strong>More research:</strong> HIV is covered in detail in our full entry on <a href="https://ourworldindata.org/hiv-aids"> HIV/AIDS</a>.</p>
+<p><i>UNAIDS</i> have <a href="https://www.avert.org/global-hiv-targets">set a target</a> (not specifically related to the SDGs) of reducing to less than 200,000 new infections globally among adults by 2030. This would mean a target of reduction to 0.02 new cases per 1,000 people globally in 2030.</p>
+            <p><strong>More research:</strong> HIV is covered in detail in the <i>Our World in Data</i> <a href="https://ourworldindata.org/hiv-aids"> entry on HIV/AIDS</a>.</p>
 <p><strong>Additional charts:</strong> 
 <br><a href="https://ourworldindata.org/grapher/share-of-the-population-infected-with-hiv">Share of population infected with HIV</a>
 <br><a href="https://ourworldindata.org/grapher/hiv-death-rates">HIV/AIDS death rates</a>
@@ -157,9 +157,9 @@ featuredImage: /img/uploads/3.svg
             <span>SDG Indicator 3.3.2</span>
             <h3>Tuberculosis incidence per 100,000 population</h3>
             <p><strong>Definition:</strong> Tuberculosis incidence is the number of new cases of tuberculosis per 100,000 people.</p>
-            <p><strong>Goal:</strong> The goal is to end the epidemic of tuberculosis (TB) by 2030. The targeted level, however, is not defined. 
+            <p><strong>Goal:</strong> The 2030 target is to <i><q>end the epidemic of tuberculosis (TB)</q></i> in all countries. The targeted level of reduction, however, is not defined. 
 
-<p>The WHO's Stop TB Partnership have <a href="http://www.who.int/tb/strategy/en/">set a target</a> (not specifically related to the SDGs) of reducing national incidence of TB to fewer than 20 cases per 100,000 by 2030.</p>
+<p>The WHO's <i>Stop TB Partnership</i> has <a href="http://www.who.int/tb/strategy/en/">set a target</a> (not specifically related to the SDGs) of reducing national incidence of TB to fewer than 20 cases per 100,000 by 2030.</p>
 <p><strong>Additional charts:</strong> 
 <br><a href="https://ourworldindata.org/grapher/tuberculosis-death-rates">Tuberculosis death rates</a>
 <br><a href="https://ourworldindata.org/grapher/tuberculosis-deaths-by-age">Number of tuberculosis deaths</a>
@@ -178,9 +178,9 @@ featuredImage: /img/uploads/3.svg
             <span>SDG Indicator 3.3.3</span>
             <h3>Malaria incidence per 1,000 population</h3>
             <p><strong>Definition:</strong> Malaria incidence is the number of new cases of malaria per 1,000 people in a given population.</p>
-            <p><strong>Goal:</strong> The 2030 target is to end the epidemic of malaria. The targeted level, however, is not defined. 
+            <p><strong>Goal:</strong> By 2030 <i><q>end the epidemic of malaria</q></i> in all countries. The targeted level of reduction, however, is not defined. 
 
-<p>The  <a href="http://www.who.int/malaria/areas/global_targets/en/"> WHO Global Technical Strategy</a> have set a target of reducing incidence by 90 percent by 2030. This would infer a target of 9 or fewer cases of malaria per 1,000 people globally in 2030.</p>
+<p>The  <i><a href="http://www.who.int/malaria/areas/global_targets/en/"> WHO Global Technical Strategy</a></i> has set a target of reducing incidence by 90 percent by 2030. This would infer a target of 9 or fewer cases of malaria per 1,000 people globally in 2030.</p>
             <p><strong>More research:</strong> More information on global and national trends in malaria prevalence, deaths and interventions can be found at the Our World in Data <a href="https://ourworldindata.org/malaria"> entry on Malaria</a>.</p>
 <p><strong>Additional charts:</strong> 
 <br><a href="https://ourworldindata.org/grapher/malaria-death-rates">Malaria death rates</a>
@@ -200,9 +200,7 @@ featuredImage: /img/uploads/3.svg
             <span>SDG Indicator 3.3.4</span>
             <h3>Hepatitis B incidence per 100,000 population</h3>
             <p><strong>Definition:</strong> Hepatitis B incidence is the number of new cases of hepatitis B per 100,000 individuals in a given population per year.</p>
-            <p><strong>Goal:</strong> The SDG target is to 'combat hepatitis' with a focus on hepatitis B. 
-
-<p>The targeted level, however, is not defined.</p>
+            <p><strong>Goal:</strong> By 2030 <i><q>combat hepatitis</q></i> in all countries with a focus on hepatitis B. The targeted level of reduction, however, is not defined.
             <p><strong>Additional charts:</strong> 
 <br><a href="https://ourworldindata.org/grapher/heptatitis-death-rate">Hepatitis death rates</a>
         </div>
@@ -221,9 +219,7 @@ featuredImage: /img/uploads/3.svg
             <span>SDG Indicator 3.3.5</span>
             <h3>Number of people requiring interventions against neglected tropical diseases</h3>
             <p><strong>Definition:</strong> Number of people requiring interventions (treatment and care) for any of the 15 neglected tropical diseases (NTDs) identified by the WHO NTD Roadmap and World Health Assembly resolutions. Treatment and care is broadly defined to allow for preventive, curative, surgical or rehabilitative treatment and care.</p>
-            <p><strong>Goal:</strong> The 2030 target is to end the epidemic of neglected tropical diseases (NTDs). 
-
-<p>The targeted level, however, is not defined.</p>
+            <p><strong>Goal:</strong> By 2030 <i><q>end the epidemic of neglected tropical diseases (NTDs)</q></i> in all countries. The targeted level of reduction, however, is not defined.</p>
 <p><strong>Additional charts:</strong> 
 <br><a href="https://ourworldindata.org/grapher/number-requiring-treatment-for-ntds-by-region">Number of people requiring interventions for NTDs by region</a>
 
@@ -236,7 +232,7 @@ featuredImage: /img/uploads/3.svg
 <div class="target"> 
 <h2>Target 3.4: Reduce mortality from non-communicable diseases and promote mental health</h2>    
 <p>UN definition: <q>By 2030, reduce by one third premature mortality from non-communicable diseases through prevention and treatment and promote mental health and well-being.</q></p>
-<p>SDG Indicators: <a href="#3.4.1">3.4.1 Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease</a>, <a href="#3.4.2">3.4.2 Suicide mortality rate</a></p>
+<p>SDG Indicators: <br><a href="#3.4.1">3.4.1 Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease</a> <br><a href="#3.4.2">3.4.2 Suicide mortality rate</a></p>
 
 </div>
 <div class="indicator" id="3.4.1">
@@ -244,9 +240,9 @@ featuredImage: /img/uploads/3.svg
         <div class="col-md">
             <span>SDG Indicator 3.4.1</span>
             <h3>Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease</h3>
-            <p><strong>Definition:</strong> Mortality from CVD, cancer, diabetes or CRD is the percent of 30-year-old-people who would die before their 70th birthday from any of cardiovascular disease, cancer, diabetes, or chronic respiratory disease, assuming thats/he would experience current mortality rates at every age and s/he would not die from any other cause of death (e.g.,injuries or HIV/AIDS).</p>
-            <p><strong>Goal:</strong> The goal by 2030 is to reduce premature mortality from non-communicable diseases (NCDs) by one-third.</p>
-            <p><strong>More research:</strong> Further data and research on non-communicable diseases can be found at our full entries on <a href="https://ourworldindata.org/causes-of-death"> Causes of Death</a>, <a href="https://ourworldindata.org/burden-of-disease"> Burden of Disease</a>, and <a href="https://ourworldindata.org/cancer"> Cancer</a>.</p>
+            <p><strong>Definition:</strong> Mortality from cardiovascular disease, cancer, diabetes or chronic respiratory disease is the percent of 30-year-old-people who would die before their 70th birthday from any of cardiovascular disease, cancer, diabetes, or chronic respiratory disease, assuming thats/he would experience current mortality rates at every age and s/he would not die from any other cause of death (e.g. injuries or HIV/AIDS).</p>
+            <p><strong>Goal:</strong> By 2030 <i><q>reduce premature mortality from non-communicable diseases (NCDs) by one-third</q></i> in all countries.</p>
+            <p><strong>More research:</strong> Further data and research on non-communicable diseases can be found at <i>Our World in Data</i> entries on <a href="https://ourworldindata.org/causes-of-death"> Causes of Death</a>, <a href="https://ourworldindata.org/burden-of-disease"> Burden of Disease</a>, and <a href="https://ourworldindata.org/cancer"> Cancer</a>.</p>
 <p><strong>Additional charts:</strong> 
 <br><a href="https://ourworldindata.org/grapher/cancer-death-rates-per-100000">Cancer death rates</a>
 <br><a href="https://ourworldindata.org/grapher/cardiovascular-disease-death-rates">Cardiovascular disease (CVD) death rates</a>
@@ -265,9 +261,9 @@ featuredImage: /img/uploads/3.svg
         <div class="col-md">
             <span>SDG Indicator 3.4.2</span>
             <h3>Suicide mortality rate</h3>
-            <p><strong>Definition:</strong> Suicide mortality rate is the number of deaths from suicide/self-harm measured per 100,000 individuals in a given population.</p>
-            <p><strong>Goal:</strong> The goal by 2030 is to promote mental health and wellbeing. There is no defined target level for this indicator.</p>
-            <p><strong>More research:</strong> Further data and research on suicide and mental wellbeing can be found at our full entries on <a href="https://ourworldindata.org/suicide"> Suicide</a> and <a href="https://ourworldindata.org/mental-health"> Mental Health</a>.</p>
+            <p><strong>Definition:</strong> Suicide mortality rate is the number of deaths from suicide measured per 100,000 individuals in a given population.</p>
+            <p><strong>Goal:</strong> By 2030 <i><q>promote mental health and wellbeing</q></i>. However, there is no defined target level for this indicator.</p>
+            <p><strong>More research:</strong> Further data and research on suicide, mental health and wellbeing can be found at the <i>Our World in Data</i> entries on <a href="https://ourworldindata.org/suicide"> Suicide</a>, <a href="https://ourworldindata.org/mental-health"> Mental Health</a> and <a href="https://ourworldindata.org/happiness-and-life-satisfaction"> Happiness and Life Satisfaction</a>.</p>
 <p><strong>Additional charts:</strong> 
 <br><a href="https://ourworldindata.org/grapher/suicide-deaths-by-age">Number of suicide deaths</a>
 <br><a href="https://ourworldindata.org/grapher/share-with-depression">Share of population with depression</a>
@@ -283,9 +279,9 @@ featuredImage: /img/uploads/3.svg
 
 <p>UN definition: <q>Strengthen the prevention and treatment of substance abuse, including narcotic drug abuse and harmful use of alcohol.</q></p>
 
-<p>SDG Indicators: <a href="#3.5.1">3.5.1 Coverage of treatment interventions
+<p>SDG Indicators: <br><a href="#3.5.1">3.5.1 Coverage of treatment interventions
 (pharmacological, psychosocial and rehabilitation and
-aftercare services) for substance use disorders</a>, <a href="#3.5.2">3.5.2 Harmful use of alcohol, defined according to the
+aftercare services) for substance use disorders</a> <br><a href="#3.5.2">3.5.2 Harmful use of alcohol, defined according to the
 national context as alcohol per capita consumption (aged 15 years and older) within a calendar year in litres of pure alcohol</a>.</p>
 
 </div>
@@ -296,11 +292,11 @@ national context as alcohol per capita consumption (aged 15 years and older) wit
             <h3>Coverage of treatment interventions (pharmacological, psychosocial and rehabilitation and
 aftercare services) for substance use disorders</h3>
             <p><strong>Definition:</strong> Coverage of treatment interventions is the share of people with substance use disorders who receive treatment in the form of pharmacological, psychosocial, rehabilitation or aftercare services.</p>
-            <p><strong>Goal:</strong> There is no defined target level for this indicator.</p>
-            <p><strong>More research:</strong> The Our World in Data entry on <a href="https://ourworldindata.org/substance-use">Substance Use</a> provides data on substance use disorder prevalence and limited data coverage of treatment interventions.</p>
+            <p><strong>Goal:</strong> By 2030 <i><q>Strengthen the prevention and treatment of substance abuse</q></i> across all countries. However, there is no defined target level for this indicator.</p>
+            <p><strong>More research:</strong> The <i>Our World in Data</i> <a href="https://ourworldindata.org/substance-use">entry on Substance Use</a> provides data on substance use disorder prevalence and limited data coverage of treatment interventions.</p>
         </div>
         <div class="col-md">
-         <iframe src="https://ourworldindata.org/grapher/insufficient-data-sdgs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+         <br><br><br><br><br><br><br><br><br><br><b>There is currently insufficient data for this indicator. You can submit or notify us of official data for this indicator here.</b> 
         </div>
     </div>
 </div>
@@ -313,9 +309,9 @@ aftercare services) for substance use disorders</h3>
             <span>SDG Indicator 3.5.2</span>
             <h3>Alcohol consumption per capita</h3>
             <p><strong>Definition:</strong> Harmful use of alcohol, defined according to the national context as alcohol per capita consumption (aged 15 years and older) within a calendar year in litres of pure alcohol.</p>
-            <p><strong>Goal:</strong> There is no defined target level for this indicator.
+            <p><strong>Goal:</strong> By 2030 <i><q>Strengthen the prevention and treatment of substance abuse</q></i> across all countries. However, there is no defined target level for this indicator.</p>
 
-<p><strong>More research:</strong> Further data and research on alcohol consumption and alcohol use disorders can be found at the Our World in Data <a href="https://ourworldindata.org/alcohol-consumption">entry on Alcohol Consumption</a>.</p>
+<p><strong>More research:</strong> Further data and research on alcohol consumption and alcohol use disorders can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/alcohol-consumption">entry on Alcohol Consumption</a>.</p>
 <p><strong>Additional charts:</strong> 
 <br><a href="https://ourworldindata.org/grapher/share-with-alcohol-use-disorders">Share of population with alcohol use disorders</a>
 <br><a href="https://ourworldindata.org/grapher/share-with-drug-use-disorders">Share of population with drug use disorders</a>
@@ -343,8 +339,9 @@ injuries from road traffic accidents.</q></p>
             <span>SDG Indicator 3.6.1</span>
             <h3>Halve the number of road traffic deaths</h3>
             <p><strong>Definition:</strong> Halving the number of road traffic deaths is measured as the absolute number of deaths from road injuries.</p>
-            <p><strong>Goal:</strong> Halve the total number of road traffic deaths <strong>by 2020</strong>.</p>
-This is measured relative to 2010 levels as part of the <a href="http://www.who.int/roadsafety/decade_of_action/en/">UN Decade of Action for Road Safety</a> (2011-2020).
+            <p><strong>Goal:</strong> By 2020 <i><q>halve the number of global deaths and injuries from road traffic accidents.</q></i>
+<p>While most targets are set for 2030, this is set to be achieved for 2020.  
+This is measured relative to 2010 levels as it was defined as part of the <a href="http://www.who.int/roadsafety/decade_of_action/en/">UN Decade of Action for Road Safety</a> (2011-2020).</p>
 <p></p>
 <p><strong>Additional charts:</strong> 
 <br><a href="https://ourworldindata.org/grapher/death-rates-road-incidents">Road traffic death rates</a>
@@ -364,8 +361,8 @@ reproductive health-care services, including for family
 planning, information and education, and the integration of
 reproductive health into national strategies and programmes.</q></p>
 
-<p>SDG Indicators: <a href="#3.7.1">3.7.1 Proportion of women of reproductive age (aged 15–49 years) who have their need for family planning
-satisfied with modern methods</a>, <a href="#3.7.2">3.7.2 Adolescent birth rate (aged 10–14 years; aged 15–19 years) per 1,000 women in that age group</a>.</p>
+<p>SDG Indicators: <br><br><a href="#3.7.1">3.7.1 Proportion of women of reproductive age (aged 15–49 years) who have their need for family planning
+satisfied with modern methods</a> <br><a href="#3.7.2">3.7.2 Adolescent birth rate (aged 10–14 years; aged 15–19 years) per 1,000 women in that age group</a>.</p>
 
 </div>
 
@@ -376,8 +373,8 @@ satisfied with modern methods</a>, <a href="#3.7.2">3.7.2 Adolescent birth rate 
             <h3>Proportion of women of reproductive age (aged 15–49 years) who have their need for family planning
 satisfied with modern methods</h3>
             <p><strong>Definition:</strong> The percentage of married women ages 15-49 years whose need for family planning is satisfied with modern methods of contraception.</p>
-            <p><strong>Goal:</strong> There is no defined target level for this indicator.</p>
-<p><strong>More research:</strong> Further data and research can be found at the Our World in Data <a href="https://ourworldindata.org/fertility-rate">entry on Fertility Rate</a>.</p>
+            <p><strong>Goal:</strong> By 2030 <i><q>ensure universal access to sexual and reproductive healthcare services, including for family planning.</q></i></p>
+<p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/fertility-rate">entry on Fertility Rate</a>.</p>
             <p><strong>Additional charts:</strong> 
 <br><a href="https://ourworldindata.org/grapher/unmet-need-for-contraception-share-of-married-women-of-reproductive-age?tab=map">Unmet need for contraception</a>
 <br><a href="https://ourworldindata.org/grapher/contraceptive-prevalence-any-methods-of-women-ages-15-49">Contraception prevalence, any methods</a>
@@ -395,10 +392,10 @@ satisfied with modern methods</h3>
         <div class="col-md">
             <span>SDG Indicator 3.7.2</span>
             <h3>Adolescent birth rate</h3>
-            <p><strong>Definition:</strong> Adolescent birth rate (aged 10–14 years; or aged 15–19 years) per 1,000 women in that age group.</p>
-            <p><strong>Goal:</strong> There is no defined target level for this indicator.
+            <p><strong>Definition:</strong> Adolescent birth rates are measured as the number of births per 1,000 women in two age groups: (a) 10–14 year olds, and (b) 15–19 year olds.</p>
+            <p><strong>Goal:</strong> By 2030 <i><q>ensure universal access to sexual and reproductive healthcare services, including for family planning.</q></i>
 
-<p><strong>More research:</strong> Further data and research can be found at the Our World in Data <a href="https://ourworldindata.org/fertility-rate">entry on Fertility Rate</a>.</p>
+<p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/fertility-rate">entry on Fertility Rate</a>.</p>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/adolescent-birth-rate?tab=chart" style="width: 100%; height: 600px; border: 0px none;"></iframe>
@@ -414,7 +411,7 @@ risk protection, access to quality essential health-care
 services and access to safe, effective, quality and affordable
 essential medicines and vaccines for all.</q></p>
 
-<p>SDG Indicators: <a href="#3.8.1">3.8.1 Coverage of essential health services</a>, <a href="#3.8.2">3.8.2 Proportion of population with large household expenditures on health</a>.</p>
+<p>SDG Indicators: <br><a href="#3.8.1">3.8.1 Coverage of essential health services</a> <br><a href="#3.8.2">3.8.2 Proportion of population with large household expenditures on health</a>.</p>
 
 </div>
 
@@ -424,8 +421,8 @@ essential medicines and vaccines for all.</q></p>
             <span>SDG Indicator 3.8.1</span>
             <h3>Coverage of essential health services</h3>
             <p><strong>Definition:</strong> Coverage of essential health services (defined as the average coverage of essential services based on tracer interventions that include reproductive, maternal, newborn and child health, infectious diseases, non-communicable diseases and service capacity and access, among the general and the most disadvantaged population).</p>
-            <p><strong>Goal:</strong> The SDG target is to achieve universal health coverage by 2030.</p>
-<p><strong>More research:</strong> Further data and research can be found at the Our World in Data <a href="https://ourworldindata.org/financing-healthcare">entry on Financing Healthcare</a>.</p>
+            <p><strong>Goal:</strong> By 2030 <i><q>achieve universal health coverage including financial risk protection, access to quality essential health-care services and access to safe, effective, quality and affordable essential medicines and vaccines for all</q></i>.</p>
+<p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/financing-healthcare">entry on Financing Healthcare</a>.</p>
         </div>
         <div class="col-md">
          <iframe src="https://ourworldindata.org/grapher/healthcare-access-and-quality-index" style="width: 100%; height: 600px; border: 0px none;"></iframe>
@@ -442,16 +439,16 @@ essential medicines and vaccines for all.</q></p>
             <h3>Household expenditures on health</h3>
             <p><strong>Definition:</strong> Proportion of population with large household expenditures on health as a share of total household
 expenditure or income.</p>
-            <p><strong>Goal:</strong> There is no defined target level for this indicator.
+            <p><strong>Goal:</strong> By 2030 <i><q>achieve universal health coverage including financial risk protection, access to quality essential health-care services and access to safe, effective, quality and affordable essential medicines and vaccines for all</q></i>.</p>
 
-<p><strong>More research:</strong> Further data and research can be found at the Our World in Data <a href="https://ourworldindata.org/financing-healthcare">entry on Financing Healthcare</a>.</p>
+<p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/financing-healthcare">entry on Financing Healthcare</a>.</p>
 <p><strong>Additional charts:</strong> 
 <br><a href="https://ourworldindata.org/grapher/share-of-out-of-pocket-expenditure-on-healthcare">Out-of-pocket expenditure on healthcare</a>
 <br><a href="https://ourworldindata.org/grapher/risk-of-catastrophic-expenditure-for-surgical-care">Risk of catastrophic expenditure for surgical care</a>
 <br><a href="https://ourworldindata.org/grapher/risk-of-impoverishing-expenditure-for-surgical-care">Risk of impoverishing expenditure for surgical care</a>
         </div>
         <div class="col-md">
-            <iframe src="https://ourworldindata.org/grapher/insufficient-data-sdgs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <br><br><br><br><br><br><br><br><br><br><b>There is currently insufficient data for this indicator. You can submit or notify us of official data for this indicator here.<b> 
         </div>
     </div>
 </div>
@@ -623,7 +620,7 @@ research and basic health sectors</a>, <a href="#3.b.3">3.b.3 Proportion of heal
             <p><strong>Goal:</strong> The target is to achieve affordable access to essential medicines for all.
         </div>
         <div class="col-md">
-            <iframe src="https://ourworldindata.org/grapher/insufficient-data-sdgs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <br><br><br><br><br><br><br><br><br><br><b>There is currently insufficient data for this indicator. You can submit or notify us of official data for this indicator here.</b> 
         </div>
     </div>
 </div>
