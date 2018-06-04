@@ -19,6 +19,12 @@ description: >-
   Longer-term trends, correlates and additional data on extreme poverty can be
   found at the _Our World in Data_ entry
   [here](https://ourworldindata.org/extreme-poverty).
+
+
+  The UN has defined 7 "Targets" and 14 "Indicators" for SDG 1. Targets specify
+  the goals and Indicators represent the metrics by which the world aims to
+  track whether these Targets are achieved. Below we quote the original text of
+  all targets and show the data on the agreed Indicators.
 featuredImage: /img/uploads/1.svg
 ---
 
