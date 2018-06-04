@@ -236,9 +236,8 @@ conservation facilities.</p>
 
 <div class="target">
     <h2>Target 2.A: Invest in rural infrastructure, agricultural research, technology and gene banks </h2>
-    <p>UN definition: Increase investment, including through enhanced international cooperation, in rural infrastructure, agricultural research and extension services, technology development and plant and livestock gene banks in order to enhance agricultural productive capacity in developing countries, in particular least developed countries.</p>
-    <p>SDG Indicators: <a href="#2.A.1">2.A.1 The agriculture orientation index for government expenditures</a>, <a href="#2.A.2">2.A.2 Total official flows (official development assistance plus other official flows) to the agriculture
-sector</a>.</p>
+    <p>UN definition: <q>Increase investment, including through enhanced international cooperation, in rural infrastructure, agricultural research and extension services, technology development and plant and livestock gene banks in order to enhance agricultural productive capacity in developing countries, in particular least developed countries.</q></p>
+    <p>SDG Indicators: <br><a href="#2.A.1">2.A.1 The agriculture orientation index for government expenditures</a> <br><a href="#2.A.2">2.A.2 Total official flows (official development assistance plus other official flows) to the agriculture sector</a>.</p>
 </div>
 
 <div class="indicator" id="2.A.1">
@@ -248,7 +247,7 @@ sector</a>.</p>
             <h3>Agriculture orientation index</h3>
             <p><strong>Definition:</strong> The agriculture orientation index for government expenditures. The agriculture orientation index (AOI) is the agriculture share of government expenditures, divided by the agriculture share of GDP.
 <p>An AOI >1 means the agriculture section receives a higher share of government spending relative to its economic value. An AOI <1 reflects a lower orientation to agriculture.</p>
-            <p><strong>Goal:</strong> There is no defined target level for this indicator.</p>
+            <p><strong>Goal:</strong> By 2030 <q><i>Increase investment, including through enhanced international cooperation, in rural infrastructure, agricultural research and extension services, technology development and plant and livestock gene banks in order to enhance agricultural productive capacity in developing countries, in particular least developed countries</q></i>.</p>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/agriculture-orientation-index" style="width: 100%; height: 600px; border: 0px none;"></iframe>
@@ -265,7 +264,7 @@ sector</a>.</p>
             <h3>Official flows to agriculture</h3>
             <p><strong>Definition:</strong> Total official flows (official development assistance plus other official flows) to the agriculture
 sector.</p>
-            <p><strong>Goal:</strong> There is no defined target level for this indicator.</p>
+            <p><strong>Goal:</strong> By 2030 <q><i>Increase investment, including through enhanced international cooperation, in rural infrastructure, agricultural research and extension services, technology development and plant and livestock gene banks in order to enhance agricultural productive capacity in developing countries, in particular least developed countries</q></i>.</p>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/total-financial-assistance-and-flows-for-agriculture-by-recipient" style="width: 100%; height: 600px; border: 0px none;"></iframe>
@@ -275,8 +274,8 @@ sector.</p>
 
 <div class="target">
     <h2>Target 2.B: Prevent agricultural trade restrictions, market distortions and export subsidies</h2>
-    <p>UN definition: Correct and prevent trade restrictions and distortions in world agricultural markets, including through the parallel elimination of all forms of agricultural export subsidies and all export measures with equivalent effect, in accordance with the mandate of the Doha Development Round.</p>
-    <p>SDG Indicators: <a href="#2.B.1">2.B.1 Agricultural export subsidies</a>.</p>
+    <p>UN definition: <q>Correct and prevent trade restrictions and distortions in world agricultural markets, including through the parallel elimination of all forms of agricultural export subsidies and all export measures with equivalent effect, in accordance with the mandate of the Doha Development Round.</q></p>
+    <p>SDG Indicators: <br><a href="#2.B.1">2.B.1 Agricultural export subsidies</a>.</p>
 </div>
 
 <div class="indicator" id="2.B.1">
@@ -285,18 +284,18 @@ sector.</p>
             <span>SDG Indicator 2.B.1</span>
             <h3>Agricultural export subsidies</h3>
             <p><strong>Definition:</strong> The value of agricultural export subsidies.</p>
-            <p><strong>Goal:</strong> There is no defined target level for this indicator.</p>
+            <p><strong>Goal:</strong> By 2030 <q><i>correct and prevent trade restrictions and distortions in world agricultural markets, including through the parallel elimination of all forms of agricultural export subsidies</q></i>.</p>
         </div>
         <div class="col-md">
-            <iframe src="https://ourworldindata.org/grapher/insufficient-data-sdgs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <br><br><br><br><b>There is currently insufficient data for this indicator. You can submit or notify us of official data for this indicator here.</b>
         </div>
     </div>
 </div>
 
 <div class="target">
     <h2>Target 2.C: Ensure stable food commodity markets and timely access to information</h2>
-    <p>UN definition: Adopt measures to ensure the proper functioning of food commodity markets and their derivatives and facilitate timely access to market information, including on food reserves, in order to help limit extreme food price volatility.</p>
-    <p>SDG Indicators: <a href="#2.C.1">2.C.1 Indicator of food price anomalies</a>.</p>
+    <p>UN definition: <q>Adopt measures to ensure the proper functioning of food commodity markets and their derivatives and facilitate timely access to market information, including on food reserves, in order to help limit extreme food price volatility.</q></p>
+    <p>SDG Indicators: <br><a href="#2.C.1">2.C.1 Indicator of food price anomalies</a>.</p>
 </div>
 
 <div class="indicator" id="2.C.1">
@@ -306,8 +305,8 @@ sector.</p>
             <h3>Food price anomalies</h3>
             <p><strong>Definition:</strong> Food price anomalies can be measured using the domestic food price volatility index.
 <p>Domestic food price volatility index measures the variation (volatility) in domestic food prices over time - this is measured as the weighted-average of a basket of commodities based on consumer or market prices. High values indicate a higher volatility (more variation) in food prices.</p>
-            <p><strong>Goal:</strong> There is no defined target level for this indicator.</p>
-            <p><strong>More research:</strong> Further data and research can be found at the Our World in Data entry on <a href="https://ourworldindata.org/food-prices">Food Prices</a>.
+            <p><strong>Goal:</strong> By 2030 <q><i>adopt measures to ensure the proper functioning of food commodity markets and their derivatives and facilitate timely access to market information, including on food reserves, in order to help limit extreme food price volatility</q></i>.</p>
+            <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/food-prices">entry on Food Prices</a>.
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/domestic-food-price-volatility-index" style="width: 100%; height: 600px; border: 0px none;"></iframe>
