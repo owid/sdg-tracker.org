@@ -34,7 +34,7 @@ featuredImage: /img/uploads/1.svg
     <p>SDG Indicators: <br><a href="#1.1.1">1.1.1 Proportion of population below the international poverty line</a></p>
 </div>
 
-<div class="indicator" id="#1.1.1">
+<div class="indicator" id="1.1.1">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 1.1.1</span>
