@@ -448,7 +448,7 @@ expenditure or income.</p>
 <br><a href="https://ourworldindata.org/grapher/risk-of-impoverishing-expenditure-for-surgical-care">Risk of impoverishing expenditure for surgical care</a>
         </div>
         <div class="col-md">
-            <br><br><br><br><br><br><br><br><br><br><b>There is currently insufficient data for this indicator. You can submit or notify us of official data for this indicator here.<b> 
+            <br><br><br><br><br><br><br><br><br><br><b>There is currently insufficient data for this indicator. You can submit or notify us of official data for this indicator here.</b> 
         </div>
     </div>
 </div>
@@ -460,7 +460,7 @@ expenditure or income.</p>
 illnesses from hazardous chemicals and air, water and soil
 pollution and contamination.</q></p>
 
-<p>SDG Indicators: <a href="#3.9.1">3.9.1 Mortality rate attributed to household and ambient air pollution</a>, <a href="#3.9.2">3.9.2 Mortality rate attributed to unsafe water, sanitation and hygiene</a>, <a href="#3.9.3">3.9.3 Mortality rate attributed to unintentional poisoning</a>.</p>
+<p>SDG Indicators: <br><a href="#3.9.1">3.9.1 Mortality rate attributed to household and ambient air pollution</a> <br><a href="#3.9.2">3.9.2 Mortality rate attributed to unsafe water, sanitation and hygiene</a> <br><a href="#3.9.3">3.9.3 Mortality rate attributed to unintentional poisoning</a>.</p>
 
 </div>
 
@@ -470,8 +470,8 @@ pollution and contamination.</q></p>
             <span>SDG Indicator 3.9.1</span>
             <h3>Mortality rate from air pollution</h3>
             <p><strong>Definition:</strong> Mortality rate attributed to household and ambient (outdoor) air pollution is the number of deaths attributed to air pollution per 100,000 individuals.</p>
-            <p><strong>Goal:</strong> There is no defined target level for this indicator.</p>
-<p><strong>More research:</strong> Further data and research can be found at the Our World in Data entries on <a href="https://ourworldindata.org/air-pollution">Air Pollution</a> and <a href="https://ourworldindata.org/indoor-air-pollution">Indoor Air Pollution</a>.</p>
+            <p><strong>Goal:</strong> By 2030 <i><q>substantially reduce the number of deaths and illnesses from air pollution</q></i>. There is, however, not a defined target level for this indicator.</p>
+<p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> entries on <a href="https://ourworldindata.org/air-pollution">Air Pollution</a> and <a href="https://ourworldindata.org/indoor-air-pollution">Indoor Air Pollution</a>.</p>
 <p><strong>Additional charts:</strong> 
 <br><a href="https://ourworldindata.org/grapher/death-rate-from-ambient-particulate-air-pollution-per-100000?tab=map">Mortality rate from ambient air pollution</a>
 <br><a href="https://ourworldindata.org/grapher/absolute-number-of-deaths-from-outdoor-air-pollution">Number of deaths from ambient air pollution </a>
@@ -492,9 +492,9 @@ pollution and contamination.</q></p>
             <span>SDG Indicator 3.9.2</span>
             <h3>Mortality rate from unsafe water, sanitation, hygiene (WASH)</h3>
             <p><strong>Definition:</strong> Mortality rate from unsafe water, sanitation, and lack of hygiene (WASH) measures the number of deaths per 100,000 people attributed to WASH risk factors.</p>
-            <p><strong>Goal:</strong> There is no defined target level for this indicator.
+            <p><strong>Goal:</strong> By 2030 <i><q>substantially reduce the number of deaths and illnesses from water pollution and contamination</q></i>. There is, however, not a defined target level for this indicator.</p>
 
-<p><strong>More research:</strong> Further data and research can be found at the Our World in Data entry on<a href="https://ourworldindata.org/water-access-resources-sanitation"> Water Access, Resources and Sanitation</a>.</p>
+<p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/water-access-resources-sanitation"> entry on Water Access, Resources and Sanitation</a>.</p>
 <p><strong>Additional charts:</strong> 
 <br><a href="https://ourworldindata.org/grapher/death-rate-unsafe-water-source">Mortality rate attributable to unsafe water</a>
 <br><a href="https://ourworldindata.org/grapher/death-rate-from-unsafe-sanitation">Mortality rate attributable to unsafe sanitation</a>
@@ -513,7 +513,7 @@ pollution and contamination.</q></p>
             <span>SDG Indicator 3.9.3</span>
             <h3>Mortality rate attributed to unintentional poisoning</h3>
             <p><strong>Definition:</strong> Mortality rate from attributed to unintentional poisoning measures the number of deaths per 100,000 people attributed to unintentional exposure to hazardous chemicals or substances.</p>
-            <p><strong>Goal:</strong> There is no defined target level for this indicator.
+            <p><strong>Goal:</strong> By 2030 <i><q>substantially reduce the number of deaths and illnesses from hazardous chemicals and soil pollution</q></i>. There is, however, not a defined target level for this indicator.</p>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/death-rate-from-poisonings" style="width: 100%; height: 600px; border: 0px none;"></iframe>
@@ -538,9 +538,9 @@ all countries, as appropriate.</q></p>
             <span>SDG Indicator 3.a.1</span>
             <h3>Prevalence of tobacco use</h3>
             <p><strong>Definition:</strong> Age-standardized prevalence of current tobacco use among persons aged 15 years and older is the share of adults (aged 15+) who smoke tobacco daily.</p>
-            <p><strong>Goal:</strong> There is no defined target level for this indicator.
+            <p><strong>Goal:</strong> By 2030 <i><q>Strengthen the implementation of the World Health Organization Framework Convention on Tobacco Control in all countries</q></i>. There is no specified target level of tobacco use for this indicator.
 
-<p><strong>More research:</strong> Further data and research can be found at the Our World in Data entry on<a href="https://ourworldindata.org/smoking"> Smoking</a>.</p>
+<p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/smoking"> entry on Smoking</a>.</p>
 <p><strong>Additional charts:</strong> 
 <br><a href="https://ourworldindata.org/grapher/prevalence-of-daily-smoking-sdgs">Daily smoking in people aged 10 or older</a>
 <br><a href="https://ourworldindata.org/grapher/share-of-men-who-are-smoking">Share of men who smoke</a>
@@ -568,8 +568,8 @@ Agreement on Trade-Related Aspects of Intellectual
 Property Rights regarding flexibilities to protect public
 health, and, in particular, provide access to medicines for all.</q></p>
 
-<p>SDG Indicators: <a href="#3.b.1">3.b.1 Proportion of the target population covered by all vaccines included in their national programme</a>, <a href="#3.b.2">3.b.2 Total net official development assistance to medical
-research and basic health sectors</a>, <a href="#3.b.3">3.b.3 Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis</a>.</p>
+<p>SDG Indicators: <br><a href="#3.b.1">3.b.1 Proportion of the target population covered by all vaccines included in their national programme</a> <br><a href="#3.b.2">3.b.2 Total net official development assistance to medical
+research and basic health sectors</a> <br><a href="#3.b.3">3.b.3 Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis</a>.</p>
 
 </div>
 
@@ -599,9 +599,9 @@ research and basic health sectors</a>, <a href="#3.b.3">3.b.3 Proportion of heal
             <span>SDG Indicator 3.b.2</span>
             <h3>Development assistance to medical research & basic healthcare</h3>
             <p><strong>Definition:</strong> Total net official development assistance (ODA) to medical research and basic health sectors.</p>
-            <p><strong>Goal:</strong> There is no defined target level for this indicator.
+            <p><strong>Goal:</strong> By 2030 <i><q>Support the research and development of vaccines and medicines for the communicable and non-communicable diseases that primarily affect developing countries, providing access to affordable essential medicines and vaccines for all</q></i>.</p>
 
-<p><strong>More research:</strong> Further data and research can be found at the Our World in Data entry on<a href="https://ourworldindata.org/financing-healthcare"> Financing healthcare</a>.</p>
+<p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/financing-healthcare"> entry on Financing Healthcare</a>.</p>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/gross-oda-for-medical-research-and-basic-heath-sectors" style="width: 100%; height: 600px; border: 0px none;"></iframe>
@@ -617,10 +617,10 @@ research and basic health sectors</a>, <a href="#3.b.3">3.b.3 Proportion of heal
             <span>SDG Indicator 3.b.3</span>
             <h3>Availability of essential medicines</h3>
             <p><strong>Definition:</strong> Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis.</p>
-            <p><strong>Goal:</strong> The target is to achieve affordable access to essential medicines for all.
+            <p><strong>Goal:</strong> By 2030 <q><i>provide affordable access to essential medicines for all</q></i>.
         </div>
         <div class="col-md">
-            <br><br><br><br><br><br><br><br><br><br><b>There is currently insufficient data for this indicator. You can submit or notify us of official data for this indicator here.</b> 
+            <br><br><br><br><b>There is currently insufficient data for this indicator. You can submit or notify us of official data for this indicator here.</b> 
         </div>
     </div>
 </div>
@@ -633,7 +633,7 @@ recruitment, development, training and retention of the
 health workforce in developing countries, especially in least
 developed countries and small island developing States.</q></p>
 
-<p>SDG Indicators: <a href="#3.c.1">3.c.1 Health worker density and distribution</a>.</p>
+<p>SDG Indicators: <br><a href="#3.c.1">3.c.1 Health worker density and distribution</a>.</p>
 
 </div>
 
@@ -643,7 +643,8 @@ developed countries and small island developing States.</q></p>
             <span>SDG Indicator 3.c.1</span>
             <h3>Health worker density</h3>
             <p><strong>Definition:</strong> Health worker density is the size of the health workforce per 1,000 or 100,000 people.</p>
-            <p><strong>Goal:</strong> There is no defined target level for this indicator.
+            <p><strong>Goal:</strong> By 2030 <q><i>Substantially increase health financing and the recruitment, development, training and retention of the
+health workforce in developing countries</q></i>.
 
 <p><strong>Additional charts:</strong> 
 <br><a href="https://ourworldindata.org/grapher/nurses-and-midwives-per-1000-people">Nurses and midwives (per 1,000 people)</a>
@@ -662,7 +663,7 @@ developed countries and small island developing States.</q></p>
 
 <p>UN definition: <q>Strengthen the capacity of all countries, in particular developing countries, for early warning, risk reduction and management of national and global health risks.</q></p>
 
-<p>SDG Indicators: <a href="#3.d.1">3.d.1 International Health Regulations (IHR) capacity and health emergency preparedness</a>.</p>
+<p>SDG Indicators: <br><a href="#3.d.1">3.d.1 International Health Regulations (IHR) capacity and health emergency preparedness</a>.</p>
 
 </div>
 
@@ -672,7 +673,7 @@ developed countries and small island developing States.</q></p>
             <span>SDG Indicator 3.d.1</span>
             <h3>Health emergency preparedness</h3>
             <p><strong>Definition:</strong> International Health Regulations (IHR) capacity and health emergency preparedness. The IHR Core capacity index is measured as the percentage of attributes of 13 core capacities that have been attained at a specific point in time. The 13 core capacities are: (1) National legislation, policy and financing; (2) Coordination and National Focal Point communications; (3) Surveillance; (4) Response; (5) Preparedness; (6) Risk communication; (7) Human resources; (8) Laboratory; (9) Points of entry; (10) Zoonotic events; (11) Food safety; (12) Chemical events; (13) Radionuclear emergencies. </p>
-            <p><strong>Goal:</strong> There is no defined target level for this indicator.
+            <p><strong>Goal:</strong> By 2030 <q><i>Strengthen the capacity of all countries, in particular developing countries, for early warning, risk reduction and management of national and global health risks</q></i>.
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/ihr-core-capacity-index-sdgs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
