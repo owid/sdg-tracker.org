@@ -264,3 +264,45 @@ agricultural land, by type of tenure</a>, <a href="#5.A.2">5.A.2 Proportion of c
         </div>
     </div>
 </div>
+
+<div class="target">
+    <h2>Target 5.B: Promote empowerment of women through technology</h2>
+    <p>UN definition: <q>Enhance the use of enabling technology, in particular information and communications technology, to promote the empowerment of women.</q></p>
+    <p>SDG Indicators: <a href="#5.B.1">5.B.1 Proportion of individuals who own a mobile telephone, by sex</a>.</p>
+</div>
+
+<div class="indicator" id="5.B.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 5.B.1</span>
+            <h3>Mobile telephone ownership</h3>
+            <p><strong>Definition:</strong> Proportion of individuals who own a mobile telephone, by sex.</p>
+            <p><strong>Goal:</strong> There is no defined target level for this indicator.</p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/proportion-of-individuals-who-own-a-mobile-by-sex" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
+
+<div class="target">
+    <h2>Target 5.C: Adopt and strengthen policies and enforceable legislation for gender equality</h2>
+    <p>UN definition: <q>Adopt and strengthen sound policies and enforceable legislation for the promotion of gender equality and the empowerment of all women and girls at all levels.</q></p>
+    <p>SDG Indicators: <a href="#5.C.1">5.C.1 Proportion of countries with systems to track and make public allocations for gender equality and women’s
+empowerment</a>.</p>
+</div>
+
+<div class="indicator" id="5.C.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 5.C.1</span>
+            <h3>Systems to track gender equality</h3>
+            <p><strong>Definition:</strong> Proportion of countries with systems to track and make public allocations for gender equality and women’s
+empowerment.</p>
+            <p><strong>Goal:</strong> There is no defined target level for this indicator.</p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/insufficient-data-sdgs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
