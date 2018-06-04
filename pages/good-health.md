@@ -7,11 +7,15 @@ description: >-
   Ensuring healthy lives and promoting the well-being for all at all ages is
   essential to sustainable development. Significant strides have been made in
   increasing life expectancy and reducing some of the common killers associated
-  with child and maternal mortality. Major progress has been made on increasing
-  access to clean water and sanitation, reducing malaria, tuberculosis, polio
-  and the spread of HIV/AIDS. However, many more efforts are needed to fully
-  eradicate a wide range of diseases and address many different persistent and
-  emerging health issues.
+  with child and maternal mortality. 
+
+
+  Major progress has been made on increasing access to clean water and
+  sanitation, reducing malaria, tuberculosis, polio and the spread of HIV/AIDS. 
+
+
+  However, many more efforts are needed to fully eradicate a wide range of
+  diseases and address many different persistent and emerging health issues.
 
 
   In-depth analysis across a range of health-related topics can be found at the
@@ -43,8 +47,8 @@ featuredImage: /img/uploads/3.svg
             <span>SDG Indicator 3.1.1</span>
             <h3>Maternal mortality ratio</h3>
             <p><strong>Definition:</strong> The maternal mortality ratio refers to the number of women who die from pregnancy-related causes while pregnant or within 42 days of pregnancy termination per 100,000 live births.</p>
-            <p><strong>Goal:</strong> Reduce global maternal mortality to less than 70 deaths per 100,000 live births.</p>
-            <p><strong>More research:</strong> The Our World in Data entry on <a href="https://ourworldindata.org/maternal-mortality">maternal mortality</a> gives a long-run perspective over the last centuries and presents research on the causes and consequences of the deaths of mothers.</p>
+            <p><strong>Goal:</strong> By 2030 <q>Reduce global maternal mortality to less than 70 per 100,000 live births</q> per year. No defined target has been set at the national level.</p>
+            <p><strong>More research:</strong> The Our World in Data<a href="https://ourworldindata.org/maternal-mortality">  entry on maternal mortality</a> gives a long-run perspective over the last centuries and presents research on the causes and consequences of the deaths of mothers.</p>
 <p><strong>Additional charts:</strong> 
 <br><a href="https://ourworldindata.org/https://ourworldindata.org/grapher/number-of-maternal-deaths-by-region">Number of maternal deaths by region</a>
 <br><a href="https://ourworldindata.org/grapher/number-of-maternal-deaths">Number of maternal deaths by country</a>
@@ -63,7 +67,7 @@ featuredImage: /img/uploads/3.svg
             <span>SDG Indicator 3.1.2</span>
             <h3>Skilled birth attendance</h3>
             <p><strong>Definition:</strong> The percentage of births attended by personnel trained to give the necessary supervision, care, and advice to women during pregnancy, labor, and the postpartum period; to conduct deliveries on their own; and to care for newborns.</p>
-            <p><strong>Goal:</strong> There is no goal specified by the UN for the share of births attended by skilled staff.
+            <p><strong>Goal:</strong> The UN target is to <q>Reduce global maternal mortality to less than 70 per 100,000 live births.</q> However, there is no goal specified by the UN for the share of births attended by skilled staff.
 
 <p><strong>More research:</strong> Research shows that <a href="https://ourworldindata.org/maternal-mortality#maternal-mortality-in-the-long-run">skilled staff can reduce maternal mortality</a>.</p>
         </div>
@@ -85,7 +89,7 @@ featuredImage: /img/uploads/3.svg
             <span>SDG Indicator 3.2.1</span>
             <h3>Under-5 mortality rate</h3>
             <p><strong>Definition:</strong> The under-5 mortality rate measures the number of children who die before their 5th birthday, per 1,000 live births.</p>
-            <p><strong>Goal:</strong> Reduce child mortality to less than 25 deaths per 1,000 live births.</p>
+            <p><strong>Goal:</strong> By 2030 <q>Reduce child mortality to less than 25 deaths per 1,000 live births</q> per year across all countries.</p>
             <p><strong>More research:</strong> Child mortality is covered more broadly, and with a longer-term perspective in the Our World in Data <a href="https://ourworldindata.org/child-mortality">entry on child mortality</a>.
 <p><strong>Additional charts:</strong> 
 <br><a href="https://ourworldindata.org/grapher/number-of-under-five-deaths">Number of under-five deaths</a>
@@ -106,8 +110,8 @@ featuredImage: /img/uploads/3.svg
             <span>SDG Indicator 3.2.2</span>
             <h3>Neonatal mortality rate</h3>
             <p><strong>Definition:</strong> Neonatal mortality is defined as the share of newborns who die before reaching 28 days of age, measured per 1,000 live births in a given year.</p>
-            <p><strong>Goal:</strong> The goal is to reduce neonatal mortality to at least as low as 12 per 1,000 live births.</p>
-            <p><strong>More research:</strong> The Our World in Data entry on <a href="https://ourworldindata.org/child-mortality">child mortality</a> includes a section on neonatal mortality.</p>
+            <p><strong>Goal:</strong> By 2030 <q>Reduce neonatal mortality to at least as low as 12 per 1,000 live births</q> per year across all countries.</p>
+            <p><strong>More research:</strong> The _Our World in Data_ <a href="https://ourworldindata.org/child-mortality">entry on child mortality</a> includes a section on neonatal mortality.</p>
 <p><strong>Additional charts:</strong> 
 <br><a href="https://ourworldindata.org/grapher/number-of-neonatal-deaths">Number of neonatal deaths</a>
 <br><a href="https://ourworldindata.org/grapher/number-of-neonatal-deaths-by-region">Number of neonate deaths by region</a>
