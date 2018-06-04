@@ -38,13 +38,13 @@ featuredImage: /img/uploads/6.svg
             <p><strong>Additional charts:</strong> 
 <br><a href="https://ourworldindata.org/grapher/number-using-safely-managed-drinking-water">Number of people using safely managed drinking water</a>
 <br><a href="https://ourworldindata.org/grapher/urban-vs-rural-safely-managed-drinking-water-source">Safely managed drinking water, rural vs. urban</a>
-<br><a href="https://ourworldindata.org/grapher/drinking-water-service-coverage">Drinking water service coverage</a>
 <br><a href="https://ourworldindata.org/grapher/drinking-water-services-coverage-urban">Drinking water service coverage in urban areas</a>
 <br><a href="https://ourworldindata.org/grapher/drinking-water-services-coverage-rural">Drinking water service coverage in rural areas</a>
 <br><a href="https://ourworldindata.org/grapher/population-using-at-least-basic-drinking-water">Share of population using at least basic water sources</a></p>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/proportion-using-safely-managed-drinking-water" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/drinking-water-service-coverage" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
 </div>
