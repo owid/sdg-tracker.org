@@ -25,7 +25,7 @@ featuredImage: /img/uploads/1.svg
 <div class="target">
     <h2>Target 1.1: Eradicate extreme poverty</h2>
     <p>UN definition: <q>By 2030, eradicate extreme poverty for all people everywhere, currently measured as people living on less than $1.90 a day.</q></p>
-    <p>SDG Indicators: <a href="1.1.1">1.1.1 Proportion of population below the international poverty line</a></p>
+    <p>SDG Indicators: <br><a href="1.1.1">1.1.1 Proportion of population below the international poverty line</a></p>
 </div>
 
 <div class="indicator" id="1.1.1">
@@ -33,9 +33,9 @@ featuredImage: /img/uploads/1.svg
         <div class="col-md">
             <span>SDG Indicator 1.1.1</span>
             <h3>Eradicate extreme poverty</h3>
-            <p><strong>Definition:</strong> Proportion of population below the international poverty line, by sex, age, employment status and geographical location (urban/rural). The international poverty line is defined as $1.90 per day (adjusted for cross-country price differences).</p>
-            <p><strong>Goal:</strong> Eradicate extreme poverty, meaning no one (0%) of the global population living in less than $1.90 per day.</p>
-            <p><strong>More research:</strong> Further data and research can be found at the Our World in Data entry on <a href="https://ourworldindata.org/extreme-poverty">Global Extreme Poverty</a>.</p>
+            <p><strong>Definition:</strong> Proportion of population below the international poverty line, by sex, age, employment status and geographical location (urban/rural). The international poverty line is defined as $1.90 per day (updated from the previous poverty line of $1.25to $1.90 in 2015). This poverty line is based on 2011 international dollars adjusted for cross-country price differences.</p>
+            <p><strong>Goal:</strong> By 2030 <q><i>eradicate extreme poverty for all people everywhere, currently measured as people living on less than $1.90 a day</q></i>.</p>
+            <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/extreme-poverty">entry on Global Extreme Poverty</a>.</p>
 <p><strong>Additional charts:</strong>
 <br><a href="https://ourworldindata.org/grapher/world-population-in-extreme-poverty-absolute">World population living in extreme poverty</a>
 <br><a href="https://ourworldindata.org/grapher/total-population-living-in-extreme-poverty-by-world-region">Population living in extreme poverty by region</a>
@@ -52,7 +52,7 @@ featuredImage: /img/uploads/1.svg
     <p>UN definition: <q>By 2030, reduce at least by half the proportion of men,
 women and children of all ages living in poverty in all its
 dimensions according to national definitions.</q></p>
-    <p>SDG Indicators: <a href="1.2.1">1.2.1 Proportion of population living below the national poverty line</a>, <a href="1.2.2">1.2.2 Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions</a>.</p>
+    <p>SDG Indicators: <br><a href="1.2.1">1.2.1 Proportion of population living below the national poverty line</a> <br><a href="1.2.2">1.2.2 Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions</a>.</p>
 </div>
 
 <div class="indicator" id="1.2.1">
@@ -61,8 +61,8 @@ dimensions according to national definitions.</q></p>
             <span>SDG Indicator 1.2.1</span>
             <h3>Halve population below national poverty line </h3>
             <p><strong>Definition:</strong> Proportion of population living below the national poverty line. National poverty lines differ by country depending on country circumstances, living standards and cost of living.</p>
-            <p><strong>Goal:</strong> Halve (reduce by 50%) the share of people living below the national poverty line.</p>
-            <p><strong>More research:</strong> Further data and research can be found at the Our World in Data entry on <a href="https://ourworldindata.org/extreme-poverty">Global Extreme Poverty</a>.</p>
+            <p><strong>Goal:</strong> By 2030 <q><i>reduce at least by half the proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions</q></i>.</p>
+            <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/extreme-poverty">entry on Global Extreme Poverty</a>.</p>
 <p><strong>Additional charts:</strong>
 <br><a href="https://ourworldindata.org/grapher/urban-poverty-at-national-poverty-lines">Population living below national poverty line in urban areas</a>
 <br><a href="https://ourworldindata.org/grapher/rural-population-poverty-at-national-poverty-lines">Population living below national poverty line in rural areas</a>
@@ -81,11 +81,11 @@ dimensions according to national definitions.</q></p>
             <span>SDG Indicator 1.2.2</span>
             <h3>Population in poverty according to national definitions</h3>
             <p><strong>Definition:</strong> Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions. National definitions of poverty are poorly defined.</p>
-            <p><strong>Goal:</strong> There is no defined target level for this indicator.</p>
-            <p><strong>More research:</strong> Further data and research can be found at the Our World in Data entry on <a href="https://ourworldindata.org/extreme-poverty">Global Extreme Poverty</a>.</p>
+            <p><strong>Goal:</strong> By 2030 <q><i>reduce at least by half the proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions</q></i>.</p>
+            <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/extreme-poverty">entry on Global Extreme Poverty</a>.</p>
         </div>
         <div class="col-md">
-            <iframe src="https://ourworldindata.org/grapher/insufficient-data-sdgs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/share-multi-poverty" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
 </div>
@@ -95,7 +95,7 @@ dimensions according to national definitions.</q></p>
     <p>UN definition: <q>Implement nationally appropriate social protection
 systems and measures for all, including floors, and by 2030
 achieve substantial coverage of the poor and the vulnerable.</q></p>
-    <p>SDG Indicators: <a href="1.3.1">1.3.1 Proportion of population covered by social protection floors/systems</a>.</p>
+    <p>SDG Indicators: <br><a href="1.3.1">1.3.1 Proportion of population covered by social protection floors/systems</a>.</p>
 </div>
 
 <div class="indicator" id="1.3.1">
@@ -104,7 +104,8 @@ achieve substantial coverage of the poor and the vulnerable.</q></p>
             <span>SDG Indicator 1.3.1</span>
             <h3>Population covered by social protection floors/systems</h3>
             <p><strong>Definition:</strong> Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable.</p>
-            <p><strong>Goal:</strong> There is no defined target level for this indicator.</p>
+            <p><strong>Goal:</strong> <q><i>Implement nationally appropriate social protection systems and measures for all, including floors, and by 2030
+achieve substantial coverage of the poor and the vulnerable</q></i>.</p>
             <p><strong>Additional charts:</strong> 
 <br><a href="https://ourworldindata.org/grapher/adequacy-of-social-insurance-programs">Adequacy of social insurance systems</a>
 <br><a href="https://ourworldindata.org/grapher/adequacy-of-unemployment-benefits">Adequacy of unemployment benefits</a>
@@ -119,7 +120,7 @@ achieve substantial coverage of the poor and the vulnerable.</q></p>
 <div class="target">
     <h2>Target 1.4: Equal rights to ownership, basic services, technology and economic resources</h2>
     <p>UN definition: <q>By 2030, ensure that all men and women, in particular the poor and the vulnerable, have equal rights to economic resources, as well as access to basic services, ownership and control over land and other forms of property, inheritance, natural resources, appropriate new technology and financial services, including microfinance.</q></p>
-    <p>SDG Indicators: <a href="1.4.1">1.4.1 Proportion of population living in households with access to basic services</a>, <a href="1.4.2">1.4.2 Proportion of total adult population with secure tenure rights to land</a>.</p>
+    <p>SDG Indicators: <br><a href="1.4.1">1.4.1 Proportion of population living in households with access to basic services</a> <br><a href="1.4.2">1.4.2 Proportion of total adult population with secure tenure rights to land</a>.</p>
 </div>
 
 <div class="indicator" id="1.4.1">
@@ -128,8 +129,8 @@ achieve substantial coverage of the poor and the vulnerable.</q></p>
             <span>SDG Indicator 1.4.1</span>
             <h3>Access to basic services</h3>
             <p><strong>Definition:</strong> Proportion of population living in households with access to basic services.</p>
-            <p><strong>Goal:</strong> The target is to achieve universal access to basic services for all households.</p>
-           <p><strong>More research:</strong> Further data and research can be found at the Our World in Data entries on <a href="https://ourworldindata.org/water-access-resources-sanitation">Water Access, Consumption & Sanitation</a>, <a href="https://ourworldindata.org/energy-production-and-changing-energy-sources">Energy Production & Changing Energy Sources</a>, and <a href="https://ourworldindata.org/indoor-air-pollution">Indoor Air Pollution</a>.</p>
+            <p><strong>Goal:</strong> By 2030 <q><i>ensure that all men and women, in particular the poor and the vulnerable, have access to basic services</q></i>. This sets a target of universal access to basic services for all households.</p>
+           <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> entries on <a href="https://ourworldindata.org/water-access-resources-sanitation">Water Access, Consumption & Sanitation</a>, <a href="https://ourworldindata.org/energy-production-and-changing-energy-sources">Energy Production & Changing Energy Sources</a>, and <a href="https://ourworldindata.org/indoor-air-pollution">Indoor Air Pollution</a>.</p>
             <p><strong>Additional charts:</strong> 
 <br><a href="https://ourworldindata.org/grapher/share-of-the-population-with-access-to-electricity">Access to electricity</a>
 <br><a href="https://ourworldindata.org/grapher/access-to-clean-fuels-and-technologies-for-cooking">Access to clean cooking fuels</a>
@@ -150,7 +151,7 @@ achieve substantial coverage of the poor and the vulnerable.</q></p>
             <span>SDG Indicator 1.4.2</span>
             <h3>Secure tenure rights to land</h3>
             <p><strong>Definition:</strong> Proportion of total adult population with secure tenure rights to land, (a) with legally recognized documentation, and (b) who perceive their rights to land as secure, by sex and type of tenure.</p>
-            <p><strong>Goal:</strong> There is no defined target level for this indicator.</p>
+            <p><strong>Goal:</strong> By 2030 <q><i>ensure that all men and women, in particular the poor and the vulnerable, have equal rights to economic resources, as well as access to basic services, ownership and control over land and other forms of property</q></i>.</p>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/insufficient-data-sdgs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
