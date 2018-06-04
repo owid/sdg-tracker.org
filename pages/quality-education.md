@@ -219,3 +219,58 @@ gender equality and human rights, are mainstreamed at all levels in (a) national
         </div>
     </div>
 </div>
+
+<div class="target">
+    <h2>Target 4.A: Build and upgrade inclusive and safe schools</h2>
+    <p>UN definition: <q>Build and upgrade education facilities that are child, disability and gender sensitive and provide safe, non-violent, inclusive and effective learning environments for all.</q></p>
+    <p>SDG Indicators: <a href="#4.A.1">4.A.1 Proportion of schools with access to (a) electricity; (b) the Internet for pedagogical purposes; (c) computers
+for pedagogical purposes; (d) adapted infrastructure and materials for students with disabilities; (e) basic drinking water; (f) single-sex basic sanitation facilities; and (g) basic handwashing facilities (as per the WASH indicator definitions)</a>.</p>
+</div>
+
+<div class="indicator" id="4.A.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 4.A.1</span>
+            <h3>Inclusive and safe schools</h3>
+            <p><strong>Definition:</strong> Proportion of schools with access to (a) electricity; (b) the Internet for pedagogical purposes; (c) computers
+for pedagogical purposes; (d) adapted infrastructure and materials for students with disabilities; (e) basic drinking water; (f) single-sex basic sanitation facilities; and (g) basic handwashing facilities (as per the WASH indicator definitions).</p>
+            <p><strong>Goal:</strong> The target is to ensure all children have access to a safe, inclusive and effective learning environment by 2030.</p> 
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/insufficient-data-sdgs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
+
+<div class="target">
+    <h2>Target 4.C: Increase the supply of qualified teachers in developing countries</h2>
+    <p>UN definition: <q>By 2030, substantially increase the supply of qualified
+teachers, including through international cooperation for
+teacher training in developing countries, especially least
+developed countries and small island developing States.</q></p>
+    <p>SDG Indicators: <a href="#4.C.1">4.C.1 Proportion of teachers in (a) pre-primary; (b) primary; (c) lower secondary; and (d) upper secondary
+education who have received at least the minimum organized teacher training</a>.</p>
+</div>
+
+<div class="indicator" id="4.C.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 4.C.1</span>
+            <h3>Supply of qualified teachers</h3>
+            <p><strong>Definition:</strong> Proportion of teachers in (a) pre-primary; (b) primary; (c) lower secondary; and (d) upper secondary education who have received at least the minimum organized teacher training (e.g. pedagogical training) pre-service or in-service required for teaching at the
+ relevant level in a given country.</p>
+            <p><strong>Goal:</strong> There is not defined target level for this indicator.</p>
+            <p><strong>More research:</strong> Further data and research can be found at Our World in Data entry on <a href="https://ourworldindata.org/teachers-and-professors">Teachers and Professors</a>.</p>
+            <p><strong>Additional charts:</strong>
+<br><a href="https://ourworldindata.org/grapher/pupil-teacher-ratio-for-primary-education-by-country?year=2015">Pupil-teacher ratio in primary education</a>
+<br><a href="https://ourworldindata.org/grapher/number-of-teachers-across-education-levels">Number of teachers across education levels</a></p> 
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/percentage-of-teachers-in-pre-primary-education-who-are-qualified" style="width: 100%; height: 600px; border: 0px none;">
+<iframe src="https://ourworldindata.org/grapher/percentage-of-teachers-in-primary-education-who-are-qualified" style="width: 100%; height: 600px; border: 0px none;">
+<iframe src="https://ourworldindata.org/grapher/percentage-of-teachers-in-lower-secondary-education-who-are-qualified" style="width: 100%; height: 600px; border: 0px none;">
+<iframe src="https://ourworldindata.org/grapher/percentage-of-teachers-in-upper-secondary-education-who-are-qualified" style="width: 100%; height: 600px; border: 0px none;">
+        </div>
+    </div>
+</div>
+
