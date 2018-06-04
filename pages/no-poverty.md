@@ -275,8 +275,8 @@ programmes.</p>
             <span>SDG Indicator 1.a.2</span>
             <h3>Government spending on essential services</h3>
             <p><strong>Definition:</strong> Proportion of total government spending on essential services (education, health and social protection).</p>
-            <p><strong>Goal:</strong> There is no defined target level for this indicator.</p>
-            <p><strong>More research:</strong> Further data and research can be found at the Our World in Data entries on <a href="https://ourworldindata.org/financing-healthcare">Financing Healthcare</a>, <a href="https://ourworldindata.org/financing-education">Financing Education</a>, and <a href="https://ourworldindata.org/public-spending">Public Spending</a>.</p>
+            <p><strong>Goal:</strong> By 2030 <q><i>Ensure significant mobilization of resources to implement programmes and policies to end poverty in all its dimensions</q></i>.<br>There is no defined target level of government spending for this indicator.</p>
+            <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> entries on <a href="https://ourworldindata.org/financing-healthcare">Financing Healthcare</a>, <a href="https://ourworldindata.org/financing-education">Financing Education</a>, and <a href="https://ourworldindata.org/public-spending">Public Spending</a>.</p>
             <p><strong>Additional charts:</strong> 
 <br><a href="https://ourworldindata.org/grapher/government-expenditure-education">Government expenditure on education</a>
 <br><a href="https://ourworldindata.org/grapher/social-spending-oecd-longrun">Social spending</a>
@@ -295,10 +295,10 @@ programmes.</p>
             <span>SDG Indicator 1.a.3</span>
             <h3>Inflows directly allocated to poverty reduction programmes</h3>
             <p><strong>Definition:</strong> Sum of total grants and non-debt-creating inflows directly allocated to poverty reduction programmes as a proportion of GDP.</p>
-            <p><strong>Goal:</strong> There is no defined target level for this indicator.</p>
+            <p><strong>Goal:</strong> By 2030 <q><i>Ensure significant mobilization of resources from a variety of sources, including through enhanced development cooperation, in order to provide adequate and predictable means for developing countries, in particular least developed countries, to implement programmes and policies to end poverty in all its dimensions</q></i>.</p>
         </div>
         <div class="col-md">
-            <iframe src="https://ourworldindata.org/grapher/insufficient-data-sdgs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <br><br><br><br><br><br><br><b>There is currently insufficient data for this indicator. You can submit or notify us of official data for this indicator here.</b>
         </div>
     </div>
 </div>
