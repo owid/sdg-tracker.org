@@ -347,7 +347,7 @@ injuries from road traffic accidents.</q></p>
             <p><strong>Definition:</strong> Halving the number of road traffic deaths is measured as the absolute number of deaths from road injuries.</p>
             <p><strong>Goal:</strong> By 2020 <i><q>halve the number of global deaths and injuries from road traffic accidents.</q></i>
 <p>While most targets are set for 2030, this is set to be achieved for 2020.  
-This is measured relative to 2010 levels as it was defined as part of the <a href="http://www.who.int/roadsafety/decade_of_action/en/">UN Decade of Action for Road Safety</a> (2011-2020).</p>
+This is measured relative to 2010 levels as it was defined as part of the <a href="http://www.who.int/roadsafety/decade_of_action/en/">UN Decade of Action for Road Safety (2011-2020)</a>.</p>
 <p></p>
 <p><strong>Additional charts:</strong> 
 <br><a href="https://ourworldindata.org/grapher/death-rates-road-incidents">Road traffic death rates</a>
