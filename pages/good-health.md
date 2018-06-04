@@ -33,6 +33,12 @@ description: >-
   Death](https://ourworldindata.org/causes-of-death), [Financing
   Healthcare](https://ourworldindata.org/financing-healthcare), and
   [Smoking](https://ourworldindata.org/smoking).
+
+
+  The UN has defined 13 "Targets" and 28 "Indicators" for SDG 3. Targets specify
+  the goals and Indicators represent the metrics by which the world aims to
+  track whether these Targets are achieved. Below we quote the original text of
+  all targets and show the data on the agreed Indicators.
 featuredImage: /img/uploads/3.svg
 ---
 <div class="target">
