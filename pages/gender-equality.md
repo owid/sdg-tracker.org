@@ -181,3 +181,48 @@ who have undergone female genital mutilation/cutting</a>.</p>
         </div>
     </div>
 </div>
+
+<div class="target">
+    <h2>Target 5.6: Universal access to reproductive rights and health</h2>
+    <p>UN definition: <q>Ensure universal access to sexual and reproductive health and reproductive rights as agreed in accordance with the Programme of Action of the International Conference on Population and Development and the Beijing Platform for Action and the outcome documents of their review conferences.</q></p>
+    <p>SDG Indicators: <a href="#5.6.1">5.6.1 Proportion of women aged 15–49 years who make their own informed decisions regarding sexual relations,
+contraceptive use and reproductive health care</a>, <a href="#5.6.2">5.6.2 Number of countries with laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education</a>.</p>
+</div>
+
+<div class="indicator" id="5.6.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 5.6.1</span>
+            <h3>Women decision-making on contraceptive use and healthcare</h3>
+            <p><strong>Definition:</strong> Proportion of women aged 15–49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care.</p>
+            <p><strong>Goal:</strong> The target is to ensure all women have the right to make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care by 2030.</p>
+            <p><strong>Additional charts:</strong> 
+<br><a href="https://ourworldindata.org/grapher/share-of-women-using-modern-contraceptive-methods">Share of women using modern contraceptive methods</a>
+<br><a href="https://ourworldindata.org/grapher/contraceptive-prevalence-any-methods-of-women-ages-15-49">Share of women using any contraceptive methods</a>
+<br><a href="https://ourworldindata.org/grapher/unmet-need-for-contraception-share-of-married-women-of-reproductive-age">Unmet need for contraception</a></p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/proportion-of-women-who-make-their-own-informed-health-care-decisions" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
+
+<hr>
+
+<div class="indicator" id="5.6.2">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 5.6.2</span>
+            <h3>Guarantee of equal access to sexual and reproductive health care</h3>
+            <p><strong>Definition:</strong> Number of countries with laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education.</p>
+            <p><strong>Goal:</strong> The target is to ensure all countries guarantee full and equal access to sexual and reproductive health care, information and education.</p>
+            <p><strong>Additional charts:</strong> 
+<br><a href="https://ourworldindata.org/grapher/share-of-women-using-modern-contraceptive-methods">Share of women using modern contraceptive methods</a>
+<br><a href="https://ourworldindata.org/grapher/contraceptive-prevalence-any-methods-of-women-ages-15-49">Share of women using any contraceptive methods</a>
+<br><a href="https://ourworldindata.org/grapher/unmet-need-for-contraception-share-of-married-women-of-reproductive-age">Unmet need for contraception</a></p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/insufficient-data-sdgs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
