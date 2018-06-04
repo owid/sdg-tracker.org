@@ -151,7 +151,7 @@ who have undergone female genital mutilation/cutting</a>.</p>
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 5.5.1</span>
-            <h3>Time spent on unpaid domestic and care work</h3>
+            <h3>Women in political positions</h3>
             <p><strong>Definition:</strong> Proportion of seats held by women in (a) national parliaments and (b) local governments.</p>
             <p><strong>Goal:</strong> There is no defined target level for this indicator.</p>
             <p><strong>Additional charts:</strong> 
