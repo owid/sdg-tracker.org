@@ -45,9 +45,7 @@ featuredImage: /img/uploads/5.svg
     <h2>Target 5.2: End all violence against and exploitation of women and girls</h2>
     <p>UN definition: <q>Eliminate all forms of violence against all women and girls in the public and private spheres, including trafficking and sexual and other types of exploitation.</q></p>
     <p>SDG Indicators: <a href="#5.2.1">5.2.1 Proportion of ever-partnered women and girls aged 15 years and older subjected to physical, sexual or
-psychological violence by a current or former intimate partner in the previous 12 months</a>, <a href="#5.2.2">5.2.2 Proportion of women and girls aged 15 years and
-older subjected to sexual violence by persons other than
-an intimate partner in the previous 12 months</a>.</p>
+psychological violence by a current or former intimate partner in the previous 12 months</a>, <a href="#5.2.2">5.2.2 Proportion of women and girls aged 15 years and older subjected to sexual violence by persons other than an intimate partner in the previous 12 months</a>.</p>
 </div>
 
 <div class="indicator" id="5.2.1">
@@ -64,6 +62,8 @@ an intimate partner in the previous 12 months</a>.</p>
     </div>
 </div>
 
+<hr>
+
 <div class="indicator" id="5.2.2">
     <div class="row">
         <div class="col-md">
@@ -74,6 +74,47 @@ an intimate partner in the previous 12 months</a>.</p>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/insufficient-data-sdgs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
+
+<div class="target">
+    <h2>Target 5.3: Eliminate forced marriages and genital mutilation</h2>
+    <p>UN definition: <q>Eliminate all harmful practices, such as child, early and forced marriage and female genital mutilation.</q></p>
+    <p>SDG Indicators: <a href="#5.3.1">5.3.1 Proportion of women aged 20–24 years who were married or in a union before age 15 and before age 18</a>, <a href="#5.3.2">5.3.2 Proportion of girls and women aged 15–49 years
+who have undergone female genital mutilation/cutting</a>.</p>
+</div>
+
+<div class="indicator" id="5.3.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 5.3.1</span>
+            <h3>Women married before age 15 or 18</h3>
+            <p><strong>Definition:</strong> Proportion of women aged 20–24 years who were married or in a union before age 15 and before age 18.</p>
+            <p><strong>Goal:</strong> The target is to end forced, underage marriage by 2030.</p>
+            <p><strong>More research:</strong> Further data and research on this topic can be found at the Our World in Data entry on <a href="https://ourworldindata.org/violence-against-rights-for-children">Violence Against & Rights for Children</a>.</p>
+            <p><strong>Additional charts:</strong> 
+<br><a href="https://ourworldindata.org/grapher/does-law-prohibit-or-invalidate-child-or-early-marriage">Does the law prohibit or invalidate child marriage?</a></p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/women-married-by-age-18" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
+
+<hr>
+
+<div class="indicator" id="5.3.2">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 5.3.2</span>
+            <h3>Female genital mutilation/cutting</h3>
+            <p><strong>Definition:</strong> Proportion of girls and women aged 15–49 years who have undergone female genital mutilation/cutting.</p>
+            <p><strong>Goal:</strong> The target is to end female genital mutilation/cutting by 2030.</p>
+            <p><strong>More research:</strong> Further data and research on this topic can be found at the Our World in Data entry on <a href="https://ourworldindata.org/violence-against-rights-for-children">Violence Against & Rights for Children</a>.</p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/female-genital-mutilation" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
 </div>
