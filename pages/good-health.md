@@ -142,7 +142,7 @@ featuredImage: /img/uploads/3.svg
             <p><strong>Definition:</strong> Number of new HIV infections is the number of new cases of HIV per year amongst uninfected populations per 1,000 people.</p>
             <p><strong>Goal:</strong> The target 2030 is to <i><q>end the epidemic of HIV</q></i> across all countries. The targeted level of reduction, however, is not defined. 
 
-<p><i>UNAIDS</i> have <a href="https://www.avert.org/global-hiv-targets">set a target</a> (not specifically related to the SDGs) of reducing to less than 200,000 new infections globally among adults by 2030. This would mean a target of reduction to 0.02 new cases per 1,000 people globally in 2030.</p>
+<p><i>UNAIDS</i> has <a href="https://www.avert.org/global-hiv-targets">set a target</a> (not specifically related to the SDGs) of reducing to less than 200,000 new infections globally among adults by 2030. This would mean a target of reduction to 0.02 new cases per 1,000 people globally in 2030.</p>
             <p><strong>More research:</strong> HIV is covered in detail in the <i>Our World in Data</i> <a href="https://ourworldindata.org/hiv-aids"> entry on HIV/AIDS</a>.</p>
 <p><strong>Additional charts:</strong> 
 <br><a href="https://ourworldindata.org/grapher/share-of-the-population-infected-with-hiv">Share of population infected with HIV</a>
@@ -268,7 +268,7 @@ featuredImage: /img/uploads/3.svg
             <span>SDG Indicator 3.4.2</span>
             <h3>Suicide mortality rate</h3>
             <p><strong>Definition:</strong> Suicide mortality rate is the number of deaths from suicide measured per 100,000 individuals in a given population.</p>
-            <p><strong>Goal:</strong> By 2030 <i><q>promote mental health and wellbeing</q></i>. However, there is no defined target level for this indicator.</p>
+            <p><strong>Goal:</strong> By 2030 <i><q>promote mental health and wellbeing</q></i>. There is no defined target level of suicide reduction for this indicator.</p>
             <p><strong>More research:</strong> Further data and research on suicide, mental health and wellbeing can be found at the <i>Our World in Data</i> entries on <a href="https://ourworldindata.org/suicide"> Suicide</a>, <a href="https://ourworldindata.org/mental-health"> Mental Health</a> and <a href="https://ourworldindata.org/happiness-and-life-satisfaction"> Happiness and Life Satisfaction</a>.</p>
 <p><strong>Additional charts:</strong> 
 <br><a href="https://ourworldindata.org/grapher/suicide-deaths-by-age">Number of suicide deaths</a>
@@ -335,7 +335,7 @@ aftercare services) for substance use disorders</h3>
 <p>UN definition: <q>By 2020, halve the number of global deaths and
 injuries from road traffic accidents.</q></p>
 
-<p>SDG Indicators: <a href="#3.6.1">3.6.1 Death rate due to road traffic injuries</a>.</p>
+<p>SDG Indicators: <br><a href="#3.6.1">3.6.1 Death rate due to road traffic injuries</a>.</p>
 
 </div>
 
