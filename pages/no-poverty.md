@@ -31,10 +31,10 @@ featuredImage: /img/uploads/1.svg
 <div class="target">
     <h2>Target 1.1: Eradicate extreme poverty</h2>
     <p>UN definition: <q>By 2030, eradicate extreme poverty for all people everywhere, currently measured as people living on less than $1.90 a day.</q></p>
-    <p>SDG Indicators: <br><a href="1.1.1">1.1.1 Proportion of population below the international poverty line</a></p>
+    <p>SDG Indicators: <br><a href="#1.1.1">1.1.1 Proportion of population below the international poverty line</a></p>
 </div>
 
-<div class="indicator" id="1.1.1">
+<div class="indicator" id="#1.1.1">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 1.1.1</span>
