@@ -244,7 +244,6 @@ agricultural land, by type of tenure</a>, <a href="#5.A.2">5.A.2 Proportion of c
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/land-ownership-men-vs-women" style="width: 100%; height: 600px; border: 0px none;"></iframe>
-            <iframe src="https://ourworldindata.org/grapher/land-ownership-men-vs-women" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
 </div>
