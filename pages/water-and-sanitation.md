@@ -16,28 +16,35 @@ description: >-
 
   The charts below summarise progress towards improved water and sanitation
   access. More details on Water Access, Resources and Sanitation can be found at
-  our full entry
+  the _Our World in Data _entry
   [here](https://ourworldindata.org/water-access-resources-sanitation).
 featuredImage: /img/uploads/6.svg
 ---
 
 <div class="target">
-    <h2>Target ?.?: Short target name</h2>
-    <p>UN definition: <q>How the UN defines this target. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</q></p>
-    <p>SDG Indicators: <a href="#?.?.?">?.?.? Name of the indicator</a></p>
+    <h2>Target 6.1: Safe and affordable drinking water</h2>
+    <p>UN definition: <q>By 2030, achieve universal and equitable access to safe and affordable drinking water for all.</q></p>
+    <p>SDG Indicators: <a href="#6.1.1">6.1.1 Proportion of population using safely managed drinking water services.</a></p>
 </div>
 
-<div class="indicator" id="?.?.?">
+<div class="indicator" id="6.1.1">
     <div class="row">
         <div class="col-md">
-            <span>SDG Indicator ?.?.?</span>
-            <h3>Name of the indicator</h3>
-            <p><strong>Definition:</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam consectetur malesuada sapien, vel lacinia lacus pharetra sagittis. Donec eget blandit risus.</p>
-            <p><strong>Goal:</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam consectetur malesuada sapien, vel lacinia lacus pharetra sagittis. Donec eget blandit risus. Curabitur vitae rhoncus diam. Cras sem nisl, viverra vitae iaculis sed, cursus a risus.</p>
-            <p><strong>More research:</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam consectetur malesuada sapien, vel lacinia lacus pharetra sagittis. Donec eget blandit risus. Curabitur vitae rhoncus diam. Cras sem nisl, viverra vitae iaculis sed, cursus a risus.</p>
+            <span>SDG Indicator 6.1.1</span>
+            <h3>Safe drinking water</h3>
+            <p><strong>Definition:</strong> Proportion of population using safely managed drinking water services.</p>
+            <p><strong>Goal:</strong> The target is to ensure safe and affordable drinking water services for all by 2030.</p>
+            <p><strong>More research:</strong> Further data and research on this topic can be found at the Our World in Data entry on <a href="https://ourworldindata.org/water-access-resources-sanitation">Water Access, Resources & Sanitation</a>.</p>
+            <p><strong>Additional charts:</strong> 
+<br><a href="https://ourworldindata.org/grapher/number-using-safely-managed-drinking-water">Number of people using safely managed drinking water</a>
+<br><a href="https://ourworldindata.org/grapher/urban-vs-rural-safely-managed-drinking-water-source">Safely managed drinking water, rural vs. urban</a>
+<br><a href="https://ourworldindata.org/grapher/drinking-water-service-coverage">Drinking water service coverage</a>
+<br><a href="https://ourworldindata.org/grapher/drinking-water-services-coverage-urban">Drinking water service coverage in urban areas</a>
+<br><a href="https://ourworldindata.org/grapher/drinking-water-services-coverage-rural">Drinking water service coverage in rural areas</a>
+<br><a href="https://ourworldindata.org/grapher/population-using-at-least-basic-drinking-water">Share of population using at least basic water sources</a></p>
         </div>
         <div class="col-md">
-            <iframe src="https://ourworldindata.org/grapher/placeholder" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/proportion-using-safely-managed-drinking-water" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
 </div>
