@@ -118,3 +118,66 @@ who have undergone female genital mutilation/cutting</a>.</p>
         </div>
     </div>
 </div>
+
+<div class="target">
+    <h2>Target 5.4: Value unpaid care and promote shared domestic responsibilities</h2>
+    <p>UN definition: <q>Recognize and value unpaid care and domestic work through the provision of public services, infrastructure and social protection policies and the promotion of shared responsibility within the household and the family as nationally appropriate.</q></p>
+    <p>SDG Indicators: <a href="#5.4.1">5.4.1 Proportion of time spent on unpaid domestic and care work, by sex, age and location</a>.</p>
+</div>
+
+<div class="indicator" id="5.4.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 5.4.1</span>
+            <h3>Time spent on unpaid domestic and care work</h3>
+            <p><strong>Definition:</strong> Proportion of women aged 20–24 years who were married or in a union before age 15 and before age 18.</p>
+            <p><strong>Goal:</strong> The target is to end forced, underage marriage by 2030.</p>
+            <p><strong>More research:</strong> Further data and research on this topic can be found at the Our World in Data entries on <a href="https://ourworldindata.org/female-labor-supply">Female Labor Supply</a> and <a href="https://ourworldindata.org/working-hours">Working Hours</a>.</p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/average-daily-time-spent-by-women-on-domestic-work-paid-and-unpaid?tab=map" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/time-spent-in-domestic-work-female-vs-male" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
+
+<div class="target">
+    <h2>Target 5.5: Ensure full participation in leadership and decision-making</h2>
+    <p>UN definition: <q>Ensure women’s full and effective participation and equal opportunities for leadership at all levels of decision-making in political, economic and public life.</q></p>
+    <p>SDG Indicators: <a href="#5.5.1">5.5.1 Proportion of seats held by women in (a) national parliaments and (b) local governments</a>, <a href="#5.5.2">5.5.2 Proportion of women in managerial positions</a>.</p>
+</div>
+
+<div class="indicator" id="5.5.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 5.5.1</span>
+            <h3>Time spent on unpaid domestic and care work</h3>
+            <p><strong>Definition:</strong> Proportion of seats held by women in (a) national parliaments and (b) local governments.</p>
+            <p><strong>Goal:</strong> There is no defined target level for this indicator.</p>
+            <p><strong>Additional charts:</strong> 
+<br><a href="https://ourworldindata.org/grapher/countries-that-have-ever-elected-a-woman-to-parliament">Countries that have ever elected a woman to parliament</a></p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/seats-held-by-women-in-national-parliaments" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/proportion-of-women-in-ministerial-positions" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
+
+<hr>
+
+<div class="indicator" id="5.5.2">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 5.5.2</span>
+            <h3>Women in managerial positions</h3>
+            <p><strong>Definition:</strong> Proportion of women in managerial positions.</p>
+            <p><strong>Goal:</strong> There is no defined target level for this indicator.</p>
+            <p><strong>More research:</strong> Further data and research on this topic can be found at the Our World in Data entry on <a href="https://ourworldindata.org/female-labor-supply">Female Labor Supply</a>.</p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/share-firms-top-female-manager" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/female-employment-in-management" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
