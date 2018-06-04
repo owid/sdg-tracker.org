@@ -226,3 +226,41 @@ contraceptive use and reproductive health care</a>, <a href="#5.6.2">5.6.2 Numbe
         </div>
     </div>
 </div>
+
+<div class="target">
+    <h2>Target 5.A: Equal rights to economic resources, property ownership and financial services</h2>
+    <p>UN definition: <q>Undertake reforms to give women equal rights to economic resources, as well as access to ownership and control over land and other forms of property, financial services, inheritance and natural resources, in accordance with national laws.</q></p>
+    <p>SDG Indicators: <a href="#5.A.1">5.A.1 (a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex; and (b) share of women among owners or rights-bearers of
+agricultural land, by type of tenure</a>, <a href="#5.A.2">5.A.2 Proportion of countries where the legal framework (including customary law) guarantees women’s equal rights to land ownership and/or control</a>.</p>
+</div>
+
+<div class="indicator" id="5.A.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 5.A.1</span>
+            <h3>Female land rights or ownership</h3>
+            <p><strong>Definition:</strong> Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex; and (b) share of women among owners or rights-bearers of agricultural land, by type of tenure.</p>
+            <p><strong>Goal:</strong> There is no defined target level for this indicator.</p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/land-ownership-men-vs-women" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/land-ownership-men-vs-women" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
+
+<hr>
+
+<div class="indicator" id="5.A.2">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 5.A.2</span>
+            <h3>Equal rights to land ownership</h3>
+            <p><strong>Definition:</strong> Proportion of countries where the legal framework (including customary law) guarantees women’s equal rights to land ownership and/or control.</p>
+            <p><strong>Goal:</strong> The target is to ensure all countries have a legal framework which guarantees women's equal rights to land ownership and/or control by 2030.</p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/gender-rights-to-property" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
