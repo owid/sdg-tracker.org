@@ -163,20 +163,15 @@ services, markets and opportunities for value addition and non-farm employment.<
             <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> entries on <a href="https://ourworldindata.org/food-prices">Food Prices</a> and <a href="https://ourworldindata.org/employment-in-agriculture">Employment in Agriculture</a>.</p>
         </div>
         <div class="col-md">
-            <iframe src="https://ourworldindata.org/grapher/insufficient-data-sdgs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <br><br><br><br><br><b>There is currently insufficient data for this indicator. You can submit or notify us of official data for this indicator here.</b>
         </div>
     </div>
 </div>
 
 <div class="target">
     <h2>Target 2.4: Sustainable food production and resilient agricultural practices</h2>
-    <p>UN definition: By 2030, ensure sustainable food production systems
-and implement resilient agricultural practices that increase
-productivity and production, that help maintain ecosystems,
-that strengthen capacity for adaptation to climate change,
-extreme weather, drought, flooding and other disasters and
-that progressively improve land and soil quality.</p>
-    <p>SDG Indicators: <a href="#2.4.1">2.4.1 Proportion of agricultural area under productive and sustainable agriculture</a>.</p>
+    <p>UN definition: <q>By 2030, ensure sustainable food production systems and implement resilient agricultural practices that increase productivity and production, that help maintain ecosystems, that strengthen capacity for adaptation to climate change, extreme weather, drought, flooding and other disasters and that progressively improve land and soil quality.</q></p>
+    <p>SDG Indicators: <br><a href="#2.4.1">2.4.1 Proportion of agricultural area under productive and sustainable agriculture</a>.</p>
 </div>
 
 <div class="indicator" id="2.4.1">
@@ -185,24 +180,24 @@ that progressively improve land and soil quality.</p>
             <span>SDG Indicator 2.4.1</span>
             <h3>Sustainable food production</h3>
             <p><strong>Definition:</strong> Proportion of agricultural area under productive and sustainable agriculture.</p>
-            <p><strong>Goal:</strong> There is no clear target or definition of sustainable agriculture for this indicator.</p>
-            <p><strong>More research:</strong> Further data and research can be found at the Our World in Data entry on <a href="https://ourworldindata.org/yields-and-land-use-in-agriculture">Yields and Land Use in Agriculture</a>, and comparison of the environmental impact of<a href="https://ourworldindata.org/is-organic-agriculture-better-for-the-environment"> organic vs. conventional agriculture</a>.</p>
+            <p><strong>Goal:</strong> By 2030 <q><i>ensure sustainable food production systems and implement resilient agricultural practices that increase productivity and production, that help maintain ecosystems, that strengthen capacity for adaptation to climate change, extreme weather, drought, flooding and other disasters and that progressively improve land and soil quality</q></i>. <br>There is no clear target or definition of sustainable agriculture for this indicator.</p>
+            <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/yields-and-land-use-in-agriculture">Yields and Land Use in Agriculture</a>, and comparison of the environmental impact of<a href="https://ourworldindata.org/is-organic-agriculture-better-for-the-environment"> organic vs. conventional agriculture</a>.</p>
             <p><strong>Additional charts:</strong>
 <br><a href="https://ourworldindata.org/grapher/organic-agricultural-area">Organic agricultural area</a>
 <br><a href="https://ourworldindata.org/grapher/organic-arable-land-area">Organic arable land area</a>
 <br><a href="https://ourworldindata.org/grapher/share-of-arable-land-which-is-organic">Share of arable land that is organic</a>
         </div>
         <div class="col-md">
-            <iframe src="https://ourworldindata.org/grapher/insufficient-data-sdgs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <br><br><br><br><br><br><br><br><br><br><br><b>There is currently insufficient data for this indicator. You can submit or notify us of official data for this indicator here.</b>
         </div>
     </div>
 </div>
 
 <div class="target">
     <h2>Target 2.5: Maintain the genetic diversity in food production</h2>
-    <p>UN definition: By 2020, maintain the genetic diversity of seeds, cultivated plants and farmed and domesticated animals and their related wild species, including through soundly managed and diversified seed and plant banks at the national, regional and international levels, and promote access to and fair and equitable sharing of benefits arising from the utilization of genetic resources and associated traditional knowledge, as internationally agreed.</p>
-    <p>SDG Indicators: <a href="#2.5.1">2.5.1 Number of plant and animal genetic resources for food and agriculture secured in either medium- or longterm
-conservation facilities</a>, <a href="#2.5.2">2.5.2 Proportion of local breeds classified as being at risk, not at risk or at unknown level of risk of extinction</a>.</p>
+    <p>UN definition: <q>By 2020, maintain the genetic diversity of seeds, cultivated plants and farmed and domesticated animals and their related wild species, including through soundly managed and diversified seed and plant banks at the national, regional and international levels, and promote access to and fair and equitable sharing of benefits arising from the utilization of genetic resources and associated traditional knowledge, as internationally agreed.</q></p>
+    <p>SDG Indicators: <br><a href="#2.5.1">2.5.1 Number of plant and animal genetic resources for food and agriculture secured in either medium- or longterm
+conservation facilities</a> <br><a href="#2.5.2">2.5.2 Proportion of local breeds classified as being at risk, not at risk or at unknown level of risk of extinction</a>.</p>
 </div>
 
 <div class="indicator" id="2.5.1">
@@ -212,7 +207,8 @@ conservation facilities</a>, <a href="#2.5.2">2.5.2 Proportion of local breeds c
             <h3>Genetic resources in conservation facilities</h3>
             <p><strong>Definition:</strong> Number of plant and animal genetic resources for food and agriculture secured in either medium- or longterm
 conservation facilities.</p>
-            <p><strong>Goal:</strong> There is no defined target level for this indicator.</p>
+            <p><strong>Goal:</strong> <q><i>Maintain the genetic diversity of seeds, cultivated plants and farmed and domesticated animals and their related wild species, including through soundly managed and diversified seed and plant banks at the national, regional and international levels</q></i>.
+<br>This target is set for the year 2020, unlike most SDGs which have a target date of 2030.</p>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/number-of-accessions-of-plant-genetic-resources-secured-in-conservation-facilities" style="width: 100%; height: 600px; border: 0px none;"></iframe>
@@ -229,7 +225,8 @@ conservation facilities.</p>
             <span>SDG Indicator 2.5.2</span>
             <h3>Local breeds at risk of extinction</h3>
             <p><strong>Definition:</strong> Proportion of local breeds classified as being at risk, not at risk or at unknown level of risk of extinction.</p>
-            <p><strong>Goal:</strong> There is no defined target level for this indicator.</p>
+            <p><strong>Goal:</strong> <q><i>Maintain the genetic diversity of seeds, cultivated plants and farmed and domesticated animals and their related wild species, including through soundly managed and diversified seed and plant banks at the national, regional and international levels</q></i>.
+<br>This target is set for the year 2020, unlike most SDGs which have a target date of 2030.</p>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/proportion-of-local-breeds-at-risk-of-extinction" style="width: 100%; height: 600px; border: 0px none;"></iframe>
