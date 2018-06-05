@@ -209,3 +209,24 @@ operational arrangement for water cooperation</q></i>.
         </div>
     </div>
 </div>
+
+<div class="target">
+<h2>Target 6.6: Protect and restore water-related ecosystems</h2>
+<p>UN definition: <q>By 2020, protect and restore water-related ecosystems, including mountains, forests, wetlands, rivers, aquifers and lakes.</q>
+</q></p>
+<p>SDG Indicators: <br><a href="#6.6.1">6.6.1 Change in the extent of water-related ecosystems over time.</a>
+</div>
+
+<div class="indicator" id="6.6.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 6.6.1</span>
+            <h3>Protect and restore water-related ecosystems</h3>
+            <p><strong>Definition:</strong> Indicator 6.6.1 is the <i><q>change in the extent of water-related ecosystems over time</q></i>.
+            <p><strong>Goal:</strong> <i><q>By 2020, protect and restore water-related ecosystems, including mountains, forests, wetlands, rivers, aquifers and lakes</q></i>.<p>The target is set to be achieved by 2020, unlike most SDG targets which have a timeline of 2030.</p>
+        </div>
+        <div class="col-md">
+            <br><br><br><br><br><b>We are currently not aware of available data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+        </div>
+    </div>
+</div>
