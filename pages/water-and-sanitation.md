@@ -100,7 +100,7 @@ water quality.</a></p>
             <span>SDG Indicator 6.3.1</span>
             <h3>Safe sanitation and hygiene</h3>
             <p><strong>Definition:</strong> Indicator 6.3.1 is the <i><q>proportion of wastewater safely treated</q></i>.<p>
-            <p><strong>Goal:</strong> <i><q>Halving the proportion of untreated wastewater and substantially increasing recycling and safe reuse globally.</q></i> by 2030.</p>
+            <p><strong>Goal:</strong> <i><q>Halving the proportion of untreated wastewater and substantially increasing recycling and safe reuse globally</q></i> by 2030.</p>
             <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/water-access-resources-sanitation">entry on Water Access, Resources & Sanitation</a>.</p>
         </div>
         <div class="col-md">
@@ -117,7 +117,7 @@ water quality.</a></p>
             <span>SDG Indicator 6.3.2</span>
             <h3>Ambient water quality</h3>
             <p><strong>Definition:</strong> Indicator 6.3.2 is the <i><q>proportion of bodies of water with good ambient water quality</q></i>.<p>
-            <p><strong>Goal:</strong> By 2030 <i><q>improve water quality by reducing pollution, eliminating dumping and minimizing release of hazardous chemicals and materials.</q></i>.</p>
+            <p><strong>Goal:</strong> By 2030 <i><q>improve water quality by reducing pollution, eliminating dumping and minimizing release of hazardous chemicals and materials</q></i>.</p>
             <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/water-access-resources-sanitation">entry on Water Access, Resources & Sanitation</a>.</p>
         </div>
         <div class="col-md">
