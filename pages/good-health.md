@@ -633,23 +633,23 @@ research and basic health sectors</a> <br><a href="#3.B.3">3.B.3 Proportion of h
 </div>
 
 <div class="target">
-<h2>Target 3.c: Increase health financing and support health workforce in developing countries</h2>
+<h2>Target 3.C: Increase health financing and support health workforce in developing countries</h2>
 
 <p>UN definition: <q>Substantially increase health financing and the
 recruitment, development, training and retention of the
 health workforce in developing countries, especially in least
 developed countries and small island developing States.</q></p>
 
-<p>SDG Indicators: <br><a href="#3.c.1">3.c.1 Health worker density and distribution</a>.</p>
+<p>SDG Indicators: <br><a href="#3.C.1">3.C.1 Health worker density and distribution</a>.</p>
 
 </div>
 
-<div class="indicator" id="3.c.1">
+<div class="indicator" id="3.C.1">
     <div class="row">
         <div class="col-md">
-            <span>SDG Indicator 3.c.1</span>
+            <span>SDG Indicator 3.C.1</span>
             <h3>Health worker density</h3>
-            <p><strong>Definition:</strong> Health worker density is the size of the health workforce per 1,000 or 100,000 people.</p>
+            <p><strong>Definition:</strong> Indicator 3.C.1 is <i><q>Health worker density and distribution</q></i>. <p>Health worker density is the size of the health workforce per 1,000 or 100,000 people. It is measured here based on the density of physicians, surgeons, nurses and midwives, dentistry and pharmaceutical personnel.</p>
             <p><strong>Goal:</strong> By 2030 <q><i>Substantially increase health financing and the recruitment, development, training and retention of the
 health workforce in developing countries</q></i>.
 
@@ -666,20 +666,20 @@ health workforce in developing countries</q></i>.
 </div>
 
 <div class="target">
-<h2>Target 3.d: Improve early warning systems for global health risks</h2>
+<h2>Target 3.D: Improve early warning systems for global health risks</h2>
 
 <p>UN definition: <q>Strengthen the capacity of all countries, in particular developing countries, for early warning, risk reduction and management of national and global health risks.</q></p>
 
-<p>SDG Indicators: <br><a href="#3.d.1">3.d.1 International Health Regulations (IHR) capacity and health emergency preparedness</a>.</p>
+<p>SDG Indicators: <br><a href="#3.DD.1">3.d.1 International Health Regulations (IHR) capacity and health emergency preparedness</a>.</p>
 
 </div>
 
-<div class="indicator" id="3.d.1">
+<div class="indicator" id="3.D.1">
     <div class="row">
         <div class="col-md">
-            <span>SDG Indicator 3.d.1</span>
+            <span>SDG Indicator 3.D.1</span>
             <h3>Health emergency preparedness</h3>
-            <p><strong>Definition:</strong> International Health Regulations (IHR) capacity and health emergency preparedness. The IHR Core capacity index is measured as the percentage of attributes of 13 core capacities that have been attained at a specific point in time. The 13 core capacities are: (1) National legislation, policy and financing; (2) Coordination and National Focal Point communications; (3) Surveillance; (4) Response; (5) Preparedness; (6) Risk communication; (7) Human resources; (8) Laboratory; (9) Points of entry; (10) Zoonotic events; (11) Food safety; (12) Chemical events; (13) Radionuclear emergencies. </p>
+            <p><strong>Definition:</strong> Indicator 3.D.1 is the <i><q>International Health Regulations (IHR) capacity and health emergency preparedness</q></i>. <p>The IHR Core capacity index is measured as the percentage of attributes of 13 core capacities that have been attained at a specific point in time. The 13 core capacities are: (1) National legislation, policy and financing; (2) Coordination and National Focal Point communications; (3) Surveillance; (4) Response; (5) Preparedness; (6) Risk communication; (7) Human resources; (8) Laboratory; (9) Points of entry; (10) Zoonotic events; (11) Food safety; (12) Chemical events; (13) Radionuclear emergencies. </p>
             <p><strong>Goal:</strong> By 2030 <q><i>Strengthen the capacity of all countries, in particular developing countries, for early warning, risk reduction and management of national and global health risks</q></i>.
         </div>
         <div class="col-md">
