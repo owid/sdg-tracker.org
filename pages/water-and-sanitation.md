@@ -38,7 +38,7 @@ featuredImage: /img/uploads/6.svg
         <div class="col-md">
             <span>SDG Indicator 6.1.1</span>
             <h3>Safe drinking water</h3>
-            <p><strong>Definition:</strong> Proportion of population using safely managed drinking water services.</p>
+            <p><strong>Definition:</strong> Indicator 6.1.1 is the <i><q>Proportion of population using safely managed drinking water services</q></i>.<p>A safely managed drinking water service is defined as one located on premises, available when needed and free from contamination.</p>
             <p><strong>Goal:</strong> By 2030 <q><i>achieve universal and equitable access to safe and affordable drinking water for all</q></i>.</p>
             <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/water-access-resources-sanitation">entry on Water Access, Resources & Sanitation</a>.</p>
             <p><strong>Additional charts:</strong> 
@@ -60,4 +60,27 @@ featuredImage: /img/uploads/6.svg
 <p>UN definition: <q>By 2030, achieve access to adequate and equitable sanitation and hygiene for all and end open defecation, paying special attention to the needs of women and girls and those in vulnerable situations.</q>
 </q></p>
 <p>SDG Indicators: <br><a href="#6.2.1">6.2.1 Proportion of population using (a) safely managed sanitation services and (b) a hand-washing facility with soap and water.</a></p>
+</div>
+
+<div class="indicator" id="6.2.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 6.2.1</span>
+            <h3>Safe sanitation and hygiene</h3>
+            <p><strong>Definition:</strong> Indicator 6.2.1 is the <i><q>Proportion of population using (a) safely managed sanitation services and (b) a hand-washing facility with soap and water</q></i>.<p>This is measured as the share of the population using safely managed sanitation facilities and at least basic handwashing facilities. <p>A safely managed sanitation facility is one where excreta is safely disposed of in situ or treated off-site. A basic handwashing facility is defined by a device to contain, transport or regulate the flow of water to facilitate handwashing with soap and water in the household.</p>
+            <p><strong>Goal:</strong> By 2030 <q><i>achieve access to adequate and equitable sanitation and hygiene for all and end open defecation</q></i>.</p>
+            <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/water-access-resources-sanitation">entry on Water Access, Resources & Sanitation</a>.</p>
+            <p><strong>Additional charts:</strong> 
+<br><a href="https://ourworldindata.org/grapher/number-using-safely-managed-sanitation">Number of people using safely managed sanitation facilities</a>
+<br><a href="https://ourworldindata.org/grapher/urban-vs-rural-population-safely-managed-sanitation">Safely managed sanitation facilities, urban vs. rural</a>
+<br><a href="https://ourworldindata.org/grapher/sanitation-facilities-coverage-in-urban-areas">Sanitation facilities coverage in urban areas</a>
+<br><a href="https://ourworldindata.org/grapher/sanitation-facilities-coverage-in-rural-areas">Sanitation facilities coverage in rural areas</a>
+<br><a href="https://ourworldindata.org/grapher/proportion-with-basic-handwashing-facilities-urban-vs-rural">Share of population using basic handwashing facilities, urban vs. rural</a></p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/share-using-safely-managed-sanitation" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/sanitation-facilities-coverage" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/proportion-of-population-with-basic-handwashing-facilities-on-premises" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
 </div>
