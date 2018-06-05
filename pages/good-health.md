@@ -297,12 +297,12 @@ national context as alcohol per capita consumption (aged 15 years and older) wit
             <span>SDG Indicator 3.5.1</span>
             <h3>Coverage of treatment interventions (pharmacological, psychosocial and rehabilitation and
 aftercare services) for substance use disorders</h3>
-            <p><strong>Definition:</strong> Coverage of treatment interventions is the share of people with substance use disorders who receive treatment in the form of pharmacological, psychosocial, rehabilitation or aftercare services.</p>
+            <p><strong>Definition:</strong> Indicator 3.5.1 is the <i><q>coverage of treatment interventions (pharmacological, psychosocial and rehabilitation and aftercare services) for substance use disorders</q></i>. <p>This is the share of people with substance use disorders who receive treatment in the form of pharmacological, psychosocial, rehabilitation or aftercare services.</p>
             <p><strong>Goal:</strong> By 2030 <i><q>Strengthen the prevention and treatment of substance abuse</q></i> across all countries. However, there is no defined target level for this indicator.</p>
             <p><strong>More research:</strong> The <i>Our World in Data</i> <a href="https://ourworldindata.org/substance-use">entry on Substance Use</a> provides data on substance use disorder prevalence and limited data coverage of treatment interventions.</p>
         </div>
         <div class="col-md">
-         <br><br><br><br><br><br><br><br><br><br><b>There is currently insufficient data for this indicator. You can submit or notify us of official data for this indicator here.</b> 
+         <br><br><br><br><br><br><br><br><br><br><br><br><br><b>We are currently unaware of available data for this indicator. You can submit or notify us of official data for this indicator here.</b> 
         </div>
     </div>
 </div>
@@ -314,7 +314,7 @@ aftercare services) for substance use disorders</h3>
         <div class="col-md">
             <span>SDG Indicator 3.5.2</span>
             <h3>Alcohol consumption per capita</h3>
-            <p><strong>Definition:</strong> Harmful use of alcohol, defined according to the national context as alcohol per capita consumption (aged 15 years and older) within a calendar year in litres of pure alcohol.</p>
+            <p><strong>Definition:</strong> Indicator 3.5.2 is the <i><q>Harmful use of alcohol, defined according to the national context as alcohol per capita consumption (aged 15 years and older) within a calendar year in litres of pure alcohol</q></i>.</p>
             <p><strong>Goal:</strong> By 2030 <i><q>Strengthen the prevention and treatment of substance abuse</q></i> across all countries. However, there is no defined target level for this indicator.</p>
 
 <p><strong>More research:</strong> Further data and research on alcohol consumption and alcohol use disorders can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/alcohol-consumption">entry on Alcohol Consumption</a>.</p>
@@ -344,17 +344,17 @@ injuries from road traffic accidents.</q></p>
         <div class="col-md">
             <span>SDG Indicator 3.6.1</span>
             <h3>Halve the number of road traffic deaths</h3>
-            <p><strong>Definition:</strong> Halving the number of road traffic deaths is measured as the absolute number of deaths from road injuries.</p>
+            <p><strong>Definition:</strong> Indicator 3.6.1 is the <i><q>death rate due to road traffic injuries</q></i>. <p>Mortality from road traffic injuries is measured here in absolute (total number of deaths) and rates (deaths per 100,000 population). Road traffic deaths include vehicle drivers, passengers, motorcyclists, cyclists and pedestrians.</p>
             <p><strong>Goal:</strong> By 2020 <i><q>halve the number of global deaths and injuries from road traffic accidents.</q></i>
 <p>While most targets are set for 2030, this is set to be achieved for 2020.  
 This is measured relative to 2010 levels as it was defined as part of the <a href="http://www.who.int/roadsafety/decade_of_action/en/">UN Decade of Action for Road Safety (2011-2020)</a>.</p>
 <p></p>
-<p><strong>Additional charts:</strong> 
-<br><a href="https://ourworldindata.org/grapher/death-rates-road-incidents">Road traffic death rates</a>
+<p><strong>Additional charts:</strong>
 <br><a href="https://ourworldindata.org/grapher/road-deaths-by-type">Road traffic deaths by user</a>
         </div>
         <div class="col-md">
          <iframe src="https://ourworldindata.org/grapher/road-traffic-deaths-sdgs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+         <iframe src="https://ourworldindata.org/grapher/death-rates-road-incidents" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
 </div>
@@ -378,7 +378,7 @@ satisfied with modern methods</a> <br><a href="#3.7.2">3.7.2 Adolescent birth ra
             <span>SDG Indicator 3.7.1</span>
             <h3>Proportion of women of reproductive age (aged 15–49 years) who have their need for family planning
 satisfied with modern methods</h3>
-            <p><strong>Definition:</strong> The percentage of married women ages 15-49 years whose need for family planning is satisfied with modern methods of contraception.</p>
+            <p><strong>Definition:</strong> Indicator 3.7.1 is the <i><q>percentage of married women ages 15-49 years whose need for family planning is satisfied with modern methods of contraception</q></i>.</p>
             <p><strong>Goal:</strong> By 2030 <i><q>ensure universal access to sexual and reproductive healthcare services, including for family planning.</q></i></p>
 <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/fertility-rate">entry on Fertility Rate</a>.</p>
             <p><strong>Additional charts:</strong> 
@@ -398,7 +398,7 @@ satisfied with modern methods</h3>
         <div class="col-md">
             <span>SDG Indicator 3.7.2</span>
             <h3>Adolescent birth rate</h3>
-            <p><strong>Definition:</strong> Adolescent birth rates are measured as the number of births per 1,000 women in two age groups: (a) 10–14 year olds, and (b) 15–19 year olds.</p>
+            <p><strong>Definition:</strong> Indicator 3.7.2 is the <i><q>adolescent birth rate (aged 10–14 years; aged 15–19 years) per 1,000 women in that age group</q></i>. <p>Adolescent birth rates per 1,000 women aged 15-19 years old are shown here. Data on birth rates for girls aged 10-14 years old are not available.</p>
             <p><strong>Goal:</strong> By 2030 <i><q>ensure universal access to sexual and reproductive healthcare services, including for family planning.</q></i>
 
 <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/fertility-rate">entry on Fertility Rate</a>.</p>
@@ -426,7 +426,7 @@ essential medicines and vaccines for all.</q></p>
         <div class="col-md">
             <span>SDG Indicator 3.8.1</span>
             <h3>Coverage of essential health services</h3>
-            <p><strong>Definition:</strong> Coverage of essential health services (defined as the average coverage of essential services based on tracer interventions that include reproductive, maternal, newborn and child health, infectious diseases, non-communicable diseases and service capacity and access, among the general and the most disadvantaged population).</p>
+            <p><strong>Definition:</strong> Indicator 3.8.1 is <i><q>coverage of essential health services</q></i> <p>Coverage of essential health services is defined as the average coverage of essential services based on tracer interventions that include reproductive, maternal, newborn and child health, infectious diseases, non-communicable diseases and service capacity and access, among the general and the most disadvantaged population.</p>
             <p><strong>Goal:</strong> By 2030 <i><q>achieve universal health coverage including financial risk protection, access to quality essential health-care services and access to safe, effective, quality and affordable essential medicines and vaccines for all</q></i>.</p>
 <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/financing-healthcare">entry on Financing Healthcare</a>.</p>
         </div>
@@ -443,8 +443,7 @@ essential medicines and vaccines for all.</q></p>
         <div class="col-md">
             <span>SDG Indicator 3.8.2</span>
             <h3>Household expenditures on health</h3>
-            <p><strong>Definition:</strong> Proportion of population with large household expenditures on health as a share of total household
-expenditure or income.</p>
+            <p><strong>Definition:</strong> Indicator 3.8.2 is the <i><q>proportion of population with large household expenditures on health as a share of total household expenditure or income</q></i>.</p>
             <p><strong>Goal:</strong> By 2030 <i><q>achieve universal health coverage including financial risk protection, access to quality essential health-care services and access to safe, effective, quality and affordable essential medicines and vaccines for all</q></i>.</p>
 
 <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/financing-healthcare">entry on Financing Healthcare</a>.</p>
@@ -454,7 +453,7 @@ expenditure or income.</p>
 <br><a href="https://ourworldindata.org/grapher/risk-of-impoverishing-expenditure-for-surgical-care">Risk of impoverishing expenditure for surgical care</a>
         </div>
         <div class="col-md">
-            <br><br><br><br><br><br><br><br><br><br><b>There is currently insufficient data for this indicator. You can submit or notify us of official data for this indicator here.</b> 
+            <br><br><br><br><br><br><br><br><b>We are currently not aware of available data for this indicator. You can submit or notify us of official data for this indicator here.</b> 
         </div>
     </div>
 </div>
@@ -475,7 +474,7 @@ pollution and contamination.</q></p>
         <div class="col-md">
             <span>SDG Indicator 3.9.1</span>
             <h3>Mortality rate from air pollution</h3>
-            <p><strong>Definition:</strong> Mortality rate attributed to household and ambient (outdoor) air pollution is the number of deaths attributed to air pollution per 100,000 individuals.</p>
+            <p><strong>Definition:</strong> Indicator 3.9.1 is the <i><q>mortality rate attributed to household and ambient air pollution</q></i>. <p>This is measured is the number of deaths attributed to indoor and outdoor air pollution per 100,000 individuals.</p>
             <p><strong>Goal:</strong> By 2030 <i><q>substantially reduce the number of deaths and illnesses from air pollution</q></i>. There is, however, not a defined target level for this indicator.</p>
 <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> entries on <a href="https://ourworldindata.org/air-pollution">Air Pollution</a> and <a href="https://ourworldindata.org/indoor-air-pollution">Indoor Air Pollution</a>.</p>
 <p><strong>Additional charts:</strong> 
@@ -497,7 +496,7 @@ pollution and contamination.</q></p>
         <div class="col-md">
             <span>SDG Indicator 3.9.2</span>
             <h3>Mortality rate from unsafe water, sanitation, hygiene (WASH)</h3>
-            <p><strong>Definition:</strong> Mortality rate from unsafe water, sanitation, and lack of hygiene (WASH) measures the number of deaths per 100,000 people attributed to WASH risk factors.</p>
+            <p><strong>Definition:</strong> Indicator 3.9.2 is the <i><q>mortality rate attributed to unsafe water, sanitation, and lack of hygiene</q></i>. <p>Mortality rate from water, sanitation and hygiene (WASH) factors is measured as the number of attributed deaths per 100,000 people.</p>
             <p><strong>Goal:</strong> By 2030 <i><q>substantially reduce the number of deaths and illnesses from water pollution and contamination</q></i>. There is, however, not a defined target level for this indicator.</p>
 
 <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/water-access-resources-sanitation"> entry on Water Access, Resources and Sanitation</a>.</p>
@@ -518,7 +517,7 @@ pollution and contamination.</q></p>
         <div class="col-md">
             <span>SDG Indicator 3.9.3</span>
             <h3>Mortality rate attributed to unintentional poisoning</h3>
-            <p><strong>Definition:</strong> Mortality rate from attributed to unintentional poisoning measures the number of deaths per 100,000 people attributed to unintentional exposure to hazardous chemicals or substances.</p>
+            <p><strong>Definition:</strong> Indicator 3.9.3 is the <i><q>mortality rate attributed to unintentional poisoning</q></i> <p>This measures the number of deaths per 100,000 people attributed to unintentional exposure to hazardous chemicals or substances.</p>
             <p><strong>Goal:</strong> By 2030 <i><q>substantially reduce the number of deaths and illnesses from hazardous chemicals and soil pollution</q></i>. There is, however, not a defined target level for this indicator.</p>
         </div>
         <div class="col-md">
@@ -534,16 +533,16 @@ pollution and contamination.</q></p>
 Organization Framework Convention on Tobacco Control in
 all countries, as appropriate.</q></p>
 
-<p>SDG Indicators: <a href="#3.a.1">3.a.1 Age-standardized prevalence of current tobacco use among persons aged 15 years and older</a>.</p>
+<p>SDG Indicators: <a href="#3.a.1">3.A.1 Age-standardized prevalence of current tobacco use among persons aged 15 years and older</a>.</p>
 
 </div>
 
-<div class="indicator" id="3.a.1">
+<div class="indicator" id="3.A.1">
     <div class="row">
         <div class="col-md">
-            <span>SDG Indicator 3.a.1</span>
+            <span>SDG Indicator 3.A.1</span>
             <h3>Prevalence of tobacco use</h3>
-            <p><strong>Definition:</strong> Age-standardized prevalence of current tobacco use among persons aged 15 years and older is the share of adults (aged 15+) who smoke tobacco daily.</p>
+            <p><strong>Definition:</strong> Indicator 3.A.1 is the <i><q>age-standardized prevalence of current tobacco use among persons aged 15 years and older</q></i>. <p>This measures the share of adults (aged 15+) who smoke tobacco daily.</p>
             <p><strong>Goal:</strong> By 2030 <i><q>Strengthen the implementation of the World Health Organization Framework Convention on Tobacco Control in all countries</q></i>. There is no specified target level of tobacco use for this indicator.
 
 <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/smoking"> entry on Smoking</a>.</p>
@@ -574,20 +573,20 @@ Agreement on Trade-Related Aspects of Intellectual
 Property Rights regarding flexibilities to protect public
 health, and, in particular, provide access to medicines for all.</q></p>
 
-<p>SDG Indicators: <br><a href="#3.b.1">3.b.1 Proportion of the target population covered by all vaccines included in their national programme</a> <br><a href="#3.b.2">3.b.2 Total net official development assistance to medical
-research and basic health sectors</a> <br><a href="#3.b.3">3.b.3 Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis</a>.</p>
+<p>SDG Indicators: <br><a href="#3.BB.1">3.B.1 Proportion of the target population covered by all vaccines included in their national programme</a> <br><a href="#3.B.2">3.B.2 Total net official development assistance to medical
+research and basic health sectors</a> <br><a href="#3.B.3">3.B.3 Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis</a>.</p>
 
 </div>
 
-<div class="indicator" id="3.b.1">
+<div class="indicator" id="3.B.1">
     <div class="row">
         <div class="col-md">
-            <span>SDG Indicator 3.b.1</span>
+            <span>SDG Indicator 3.B.1</span>
             <h3>Vaccine coverage</h3>
-            <p><strong>Definition:</strong> Proportion of the target population covered by all vaccines included in their national programme.
+            <p><strong>Definition:</strong> Indicator 3.B.1 is the <i><q>Proportion of the target population covered by all vaccines included in their national programme</q></i>.
 <p>The UN does not currently define vaccinations covered for this indicator. The <i>Institute of Health Metrics and Evaluation (IHME)</i> define this indicator based on the mean coverage of eight vaccines (if included in national programmes: 
 <br><q><i>three-dose diphtheria, pertussis, and tetanus (DPT3); three-dose polio; first-dose measles vaccine; and for countries where the vaccine(s) are included in the national schedule: BCG vaccine, three-dose pneumococcal conjugate vaccine (PCV3), three-dose Haemophilus influenzae type b vaccine (Hib3), three-dose hepatitis B vaccine (delivered as part of pentavalent vaccines), and two-dose or three-dose rotavirus vaccine</q></i></p>
-            <p><strong>Goal:</strong> By 2030 <q><i>provide access to affordable essential medicines and vaccines for all</q></i>. This assumes universal coverage of vaccines in national programmes.
+            <p><strong>Goal:</strong> By 2030 <q><i>provide access to affordable essential medicines and vaccines for all</q></i>. <br>This assumes universal coverage of vaccines in national programmes.
 
 <p><strong>Additional charts:</strong> 
 <br><a href="https://ourworldindata.org/grapher/share-of-children-immunized-dtp3">Share of children who receive the DTP3 vaccine</a>
@@ -601,12 +600,12 @@ research and basic health sectors</a> <br><a href="#3.b.3">3.b.3 Proportion of h
 
 <hr>
 
-<div class="indicator" id="3.b.2">
+<div class="indicator" id="3.B.2">
     <div class="row">
         <div class="col-md">
-            <span>SDG Indicator 3.b.2</span>
+            <span>SDG Indicator 3.B.2</span>
             <h3>Development assistance to medical research & basic healthcare</h3>
-            <p><strong>Definition:</strong> Total net official development assistance (ODA) to medical research and basic health sectors.</p>
+            <p><strong>Definition:</strong> Indicator 3.B.2 is the <i><q>total net official development assistance (ODA) to medical research and basic health sectors</q></i>.</p>
             <p><strong>Goal:</strong> By 2030 <i><q>Support the research and development of vaccines and medicines for the communicable and non-communicable diseases that primarily affect developing countries, providing access to affordable essential medicines and vaccines for all</q></i>.</p>
 
 <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/financing-healthcare"> entry on Financing Healthcare</a>.</p>
@@ -619,16 +618,16 @@ research and basic health sectors</a> <br><a href="#3.b.3">3.b.3 Proportion of h
 
 <hr>
 
-<div class="indicator" id="3.b.3">
+<div class="indicator" id="3.B.3">
     <div class="row">
         <div class="col-md">
-            <span>SDG Indicator 3.b.3</span>
+            <span>SDG Indicator 3.B.3</span>
             <h3>Availability of essential medicines</h3>
-            <p><strong>Definition:</strong> Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis.</p>
+            <p><strong>Definition:</strong> Indicator 3.B.3 is the <i><q>proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis</q></i>.</p>
             <p><strong>Goal:</strong> By 2030 <q><i>provide affordable access to essential medicines for all</q></i>.
         </div>
         <div class="col-md">
-            <br><br><br><br><b>There is currently insufficient data for this indicator. You can submit or notify us of official data for this indicator here.</b> 
+            <br><br><br><br><br><b>We are currently not aware of available data for this indicator. You can submit or notify us of official data for this indicator here.</b> 
         </div>
     </div>
 </div>
