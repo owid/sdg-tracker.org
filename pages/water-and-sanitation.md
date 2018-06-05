@@ -253,3 +253,25 @@ spending plan.</a>
         </div>
     </div>
 </div>
+
+<div class="target">
+<h2>Target 6.B: Support local engagement in water and sanitation management</h2>
+<p>UN definition: <q>Support and strengthen the participation of local communities in improving water and sanitation management.</q>
+</q></p>
+<p>SDG Indicators: <br><a href="#6.B.1">6.B.1 Proportion of local administrative units with established and operational policies and procedures for
+participation of local communities in water and sanitation management</a>.
+</div>
+
+<div class="indicator" id="6.B.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 6.B.1</span>
+            <h3>Local participation in sanitation management</h3>
+            <p><strong>Definition:</strong> Indicator 6.6.1 is the <i><q>proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management</q></i>.
+            <p><strong>Goal:</strong> By 2030 <i><q>support and strengthen the participation of local communities in improving water and sanitation management</q></i>.</p>
+        </div>
+        <div class="col-md">
+            <br><br><br><br><br><b>We are currently not aware of available data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+        </div>
+    </div>
+</div>
