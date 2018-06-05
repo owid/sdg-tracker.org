@@ -31,6 +31,12 @@ description: >-
   person](https://ourworldindata.org/food-per-person), and [diet
   compositions](https://ourworldindata.org/diet-compositions) also tie closely
   to these topics.
+
+
+  The UN has defined 8 "Targets" and 13 "Indicators" for SDG 2. Targets specify
+  the goals and Indicators represent the metrics by which the world aims to
+  track whether these Targets are achieved. Below we quote the original text of
+  all targets and show the data on the agreed Indicators.
 featuredImage: /img/uploads/2.svg
 ---
 
