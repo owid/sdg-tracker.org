@@ -84,3 +84,44 @@ featuredImage: /img/uploads/6.svg
         </div>
     </div>
 </div>
+
+<div class="target">
+<h2>Target 6.3: Improve water quality, wastewater treatment and safe reuse</h2>
+<p>UN definition: <q>By 2030, improve water quality by reducing pollution, eliminating dumping and minimizing release of hazardous chemicals and materials, halving the proportion of untreated wastewater and substantially increasing recycling and safe reuse globally.</q>
+</q></p>
+<p>SDG Indicators: <br><a href="#6.3.1">6.3.1 Proportion of wastewater safely treated</a>
+<br><a href="#6.3.2">6.3.2 Proportion of bodies of water with good ambient
+water quality.</a></p>
+</div>
+
+<div class="indicator" id="6.3.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 6.3.1</span>
+            <h3>Safe sanitation and hygiene</h3>
+            <p><strong>Definition:</strong> Indicator 6.3.1 is the <i><q>proportion of wastewater safely treated</q></i>.<p>
+            <p><strong>Goal:</strong> <i><q>Halving the proportion of untreated wastewater and substantially increasing recycling and safe reuse globally.</q></i> by 2030.</p>
+            <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/water-access-resources-sanitation">entry on Water Access, Resources & Sanitation</a>.</p>
+        </div>
+        <div class="col-md">
+            <br><br><br><br><br><br><b>We are currently not aware of available data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+        </div>
+    </div>
+</div>
+
+<hr>
+
+<div class="indicator" id="6.3.2">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 6.3.2</span>
+            <h3>Ambient water quality</h3>
+            <p><strong>Definition:</strong> Indicator 6.3.2 is the <i><q>proportion of bodies of water with good ambient water quality</q></i>.<p>
+            <p><strong>Goal:</strong> By 2030 <i><q>improve water quality by reducing pollution, eliminating dumping and minimizing release of hazardous chemicals and materials.</q></i>.</p>
+            <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/water-access-resources-sanitation">entry on Water Access, Resources & Sanitation</a>.</p>
+        </div>
+        <div class="col-md">
+            <br><br><br><br><br><br><b>We are currently not aware of available data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+        </div>
+    </div>
+</div>
