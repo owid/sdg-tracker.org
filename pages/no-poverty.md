@@ -223,7 +223,7 @@ with national disaster risk reduction strategies</a>.</p>
             <span>SDG Indicator 1.5.3</span>
             <h3>Disaster risk reduction strategies</h3>
             <p><strong>Definition:</strong> Indicator 1.5.3 is the <q><i>number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015–2030</q></i>.
-<p></p>
+<p>This is shown here as a map of countries who have and have not yet adopted legislative provisions for managing disaster risk in line with theSendai Framework for Disaster Risk Reduction 2015–2030.</p>
             <p><strong>Goal:</strong> By 2030 <q><i>build the resilience of the poor and those in vulnerable situations and reduce their exposure and vulnerability to climate-related extreme events and other environmental disasters</q></i>.<br>The target is to have universal adoption of national disaster risk reduction strategies by 2030.</p>
            <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/natural-catastrophes">entry on Natural Catastrophes</a>.</p>
             <p><strong>Additional charts:</strong> 
@@ -242,12 +242,12 @@ with national disaster risk reduction strategies</a>.</p>
         <div class="col-md">
             <span>SDG Indicator 1.5.4</span>
             <h3>Local disaster risk reduction</h3>
-            <p><strong>Definition:</strong> Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies.</p>
+            <p><strong>Definition:</strong> Indicator 1.5.4 is the <q><i>proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies</q></i>.</p>
             <p><strong>Goal:</strong> By 2030 <q><i>build the resilience of the poor and those in vulnerable situations and reduce their exposure and vulnerability to climate-related extreme events and other environmental disasters</q></i>.<br>The target is to have universal adoption of disaster risk reduction strategies by 2030.</p>
             <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/natural-catastrophes">entry on Natural Catastrophes</a>.</p>
         </div>
         <div class="col-md">
-            <br><br><br><br><br><b>There is currently insufficient data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+            <br><br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
         </div>
     </div>
 </div>
@@ -266,12 +266,11 @@ proportion of GDP</a>.</p>
         <div class="col-md">
             <span>SDG Indicator 1.a.1</span>
             <h3>Domestic resources to poverty reduction programmes</h3>
-            <p><strong>Definition:</strong> Proportion of domestically generated resources allocated by the government directly to poverty reduction
-programmes.</p>
+            <p><strong>Definition:</strong> Indicator 1.a.1 is the <q><i>proportion of domestically generated resources allocated by the government directly to poverty reduction programmes</q></i>.</p>
             <p><strong>Goal:</strong> By 2030 <q><i>Ensure significant mobilization of resources from a variety of sources to implement programmes and policies to end poverty in all its dimensions</q></i>. <br>There is no defined target level, however, for this indicator.</p>
         </div>
         <div class="col-md">
-            <br><br><br><br><br><b>There is currently insufficient data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+            <br><br><br><br><br><b>We are currently not aware of available data for this indicator. You can submit or notify us of official data for this indicator here.</b>
         </div>
     </div>
 </div>
@@ -283,15 +282,15 @@ programmes.</p>
         <div class="col-md">
             <span>SDG Indicator 1.a.2</span>
             <h3>Government spending on essential services</h3>
-            <p><strong>Definition:</strong> Proportion of total government spending on essential services (education, health and social protection).</p>
+            <p><strong>Definition:</strong> Indicator 1.a.2 is the <q><i>proportion of total government spending on essential services (education, health and social protection)</q></i>.<p>This is shown here as the percentage of government spending on health and education.</p>
             <p><strong>Goal:</strong> By 2030 <q><i>Ensure significant mobilization of resources to implement programmes and policies to end poverty in all its dimensions</q></i>.<br>There is no defined target level of government spending for this indicator.</p>
             <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> entries on <a href="https://ourworldindata.org/financing-healthcare">Financing Healthcare</a>, <a href="https://ourworldindata.org/financing-education">Financing Education</a>, and <a href="https://ourworldindata.org/public-spending">Public Spending</a>.</p>
-            <p><strong>Additional charts:</strong> 
-<br><a href="https://ourworldindata.org/grapher/government-expenditure-education">Government expenditure on education</a>
+            <p><strong>Additional charts:</strong>
 <br><a href="https://ourworldindata.org/grapher/social-spending-oecd-longrun">Social spending</a>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/health-expenditure-government-expenditure" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/government-expenditure-education" style="width: 100%; height: 600px; border: 0px none;"></iframe> 
         </div>
     </div>
 </div>
@@ -303,11 +302,11 @@ programmes.</p>
         <div class="col-md">
             <span>SDG Indicator 1.a.3</span>
             <h3>Inflows directly allocated to poverty reduction programmes</h3>
-            <p><strong>Definition:</strong> Sum of total grants and non-debt-creating inflows directly allocated to poverty reduction programmes as a proportion of GDP.</p>
+            <p><strong>Definition:</strong> Indicator 1.a.3 is the <q><i>sum of total grants and non-debt-creating inflows directly allocated to poverty reduction programmes as a proportion of GDP</q></i>.</p>
             <p><strong>Goal:</strong> By 2030 <q><i>Ensure significant mobilization of resources from a variety of sources, including through enhanced development cooperation, in order to provide adequate and predictable means for developing countries, in particular least developed countries, to implement programmes and policies to end poverty in all its dimensions</q></i>.</p>
         </div>
         <div class="col-md">
-            <br><br><br><br><br><b>There is currently insufficient data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+            <br><br><br><br><br><br><br><b>We are currently not aware of available data for this indicator. You can submit or notify us of official data for this indicator here.</b>
         </div>
     </div>
 </div>
