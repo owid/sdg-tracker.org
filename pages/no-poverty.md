@@ -39,7 +39,7 @@ featuredImage: /img/uploads/1.svg
         <div class="col-md">
             <span>SDG Indicator 1.1.1</span>
             <h3>Eradicate extreme poverty</h3>
-            <p><strong>Definition:</strong> Proportion of population below the international poverty line, by sex, age, employment status and geographical location (urban/rural). The international poverty line is defined as $1.90 per day (updated from the previous poverty line of $1.25to $1.90 in 2015). This poverty line is based on 2011 international dollars adjusted for cross-country price differences.</p>
+            <p><strong>Definition:</strong> Proportion of population below the international poverty line, by sex, age, employment status and geographical location (urban/rural). The international poverty line is defined as $1.90 per day (updated from the previous poverty line of $1.25 to $1.90 in 2015). This poverty line is based on 2011 international dollars adjusted for cross-country price differences.</p>
             <p><strong>Goal:</strong> By 2030 <q><i>eradicate extreme poverty for all people everywhere, currently measured as people living on less than $1.90 a day</q></i>.</p>
             <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/extreme-poverty">entry on Global Extreme Poverty</a>.</p>
 <p><strong>Additional charts:</strong>
