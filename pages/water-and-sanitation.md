@@ -125,3 +125,46 @@ water quality.</a></p>
         </div>
     </div>
 </div>
+
+<div class="target">
+<h2>Target 6.4: Increase water use efficiency and ensure freshwater supplies</h2>
+<p>UN definition: <q>By 2030, substantially increase water-use efficiency across all sectors and ensure sustainable withdrawals and supply of freshwater to address water scarcity and substantially reduce the number of people suffering from water scarcity.</q>
+</q></p>
+<p>SDG Indicators: <br><a href="#6.4.1">6.4.1 Change in water-use efficiency over time</a>
+<br><a href="#6.4.2">6.4.2 Level of water stress: freshwater withdrawal as a
+proportion of available freshwater resources.</a></p>
+</div>
+
+<div class="indicator" id="6.4.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 6.4.1</span>
+            <h3>Water use efficiency</h3>
+            <p><strong>Definition:</strong> Indicator 6.4.1 is the <i><q>change in water-use efficiency over time</q></i>.<p>Water efficiency is measured here as a productivity metric, given as a country's total gross domestic product (GDP) divided by total freshwater withdrawals. Water-efficient economies are those which achieve a high gross domestic product (GDP) per unit of freshwater withdrawal.</p>
+            <p><strong>Goal:</strong> By 2030 <i><q>substantially increase water-use efficiency across all sectors</q></i>.</p>
+            <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/water-access-resources-sanitation">entry on Water Access, Resources & Sanitation</a>.</p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/water-productivity" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
+
+<hr>
+
+<div class="indicator" id="6.4.2">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 6.4.2</span>
+            <h3>Levels of freshwater stress</h3>
+            <p><strong>Definition:</strong> Indicator 6.4.2 is the <i><q>level of water stress: freshwater withdrawal as a proportion of available freshwater resources</q></i>.<p>Water scarcity or stress is typically defined basic on the total quantity of freshwater withdrawals as a share of internal resources. This includes water withdrawn from agricultural, industrial and domestic uses. Water stress is defined by the following categories: < 10% is low stress; 10-20% is low-to-medium; 20-40% medium-to-high; 40-80% high; >80% extremely high.<p>
+            <p><strong>Goal:</strong> By 2030 <i><q>ensure sustainable withdrawals and supply of freshwater to address water scarcity and substantially reduce the number of people suffering from water scarcity</q></i>.</p>
+            <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/water-access-resources-sanitation">entry on Water Access, Resources & Sanitation</a>.</p>
+            <p><strong>Additional charts:</strong><br><a href="https://ourworldindata.org/grapher/water-withdrawals-per-capita?year=2015">Water withdrawals per capita</a>
+<br><a href="https://ourworldindata.org/grapher/renewable-water-resources-per-capita">Renewable water resources per capita</a></p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/freshwater-withdrawals-as-a-share-of-internal-resources" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
