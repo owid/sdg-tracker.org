@@ -26,6 +26,12 @@ description: >-
   Secondary](https://ourworldindata.org/primary-and-secondary-education);
   [Tertiary](https://ourworldindata.org/tertiary-education); and
   [Literacy](https://ourworldindata.org/literacy).
+
+
+  The UN has defined 10 "Targets" and 11 "Indicators" for SDG 4. Targets specify
+  the goals and Indicators represent the metrics by which the world aims to
+  track whether these Targets are achieved. Below we quote the original text of
+  all targets and show the data on the agreed Indicators.
 featuredImage: /img/uploads/4.svg
 ---
 <div class="target">
