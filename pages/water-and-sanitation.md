@@ -230,3 +230,26 @@ operational arrangement for water cooperation</q></i>.
         </div>
     </div>
 </div>
+
+<div class="target">
+<h2>Target 6.A: Expand water and sanitation support to developing countries</h2>
+<p>UN definition: <q>By 2030, expand international cooperation and capacity-building support to developing countries in water- and sanitation-related activities and programmes, including water harvesting, desalination, water efficiency, wastewater treatment, recycling and reuse technologies.</q>
+</q></p>
+<p>SDG Indicators: <br><a href="#6.A.1">6.A.1 Amount of water- and sanitation-related official development assistance that is part of a government coordinated
+spending plan.</a>
+</div>
+
+<div class="indicator" id="6.A.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 6.A.1</span>
+            <h3>Water and sanitation support</h3>
+            <p><strong>Definition:</strong> Indicator 6.A.1 is the <i><q>amount of water- and sanitation-related official development assistance that is part of a government coordinated spending plan</q></i>.<p>This metric is assessed as the total official development assistance (ODA) allocated to water- and sanitation-related programmes. ODA is reported as the total per recipient country in constant 2015 US$ per year.</p>
+            <p><strong>Goal:</strong> <i><q>By 2030, expand international cooperation and capacity-building support to developing countries in water- and sanitation-related activities and programmes</q></i>.</p>
+            <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/water-access-resources-sanitation">entry on Water Access, Resources & Sanitation</a>.</p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/total-oda-for-water-supply-and-sanitation-by-recipient" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
