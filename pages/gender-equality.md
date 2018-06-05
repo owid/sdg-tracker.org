@@ -197,7 +197,7 @@ contraceptive use and reproductive health care</a> <br><a href="#5.6.2">5.6.2 Nu
             <span>SDG Indicator 5.6.1</span>
             <h3>Women decision-making on contraceptive use and healthcare</h3>
             <p><strong>Definition:</strong> Proportion of women aged 15–49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care.</p>
-            <p><strong>Goal:</strong> The target is to ensure all women have the right to make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care by 2030.</p>
+            <p><strong>Goal:</strong> By 2030 <q><i>ensure universal access to sexual and reproductive health and reproductive rights</q></i>.<br>The target is to ensure all women have the right to make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care.</p>
             <p><strong>Additional charts:</strong> 
 <br><a href="https://ourworldindata.org/grapher/share-of-women-using-modern-contraceptive-methods">Share of women using modern contraceptive methods</a>
 <br><a href="https://ourworldindata.org/grapher/contraceptive-prevalence-any-methods-of-women-ages-15-49">Share of women using any contraceptive methods</a>
@@ -217,14 +217,14 @@ contraceptive use and reproductive health care</a> <br><a href="#5.6.2">5.6.2 Nu
             <span>SDG Indicator 5.6.2</span>
             <h3>Guarantee of equal access to sexual and reproductive health care</h3>
             <p><strong>Definition:</strong> Number of countries with laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education.</p>
-            <p><strong>Goal:</strong> The target is to ensure all countries guarantee full and equal access to sexual and reproductive health care, information and education.</p>
+            <p><strong>Goal:</strong> By 2030 <q><i>ensure universal access to sexual and reproductive health and reproductive rights</q></i>.</p>
             <p><strong>Additional charts:</strong> 
 <br><a href="https://ourworldindata.org/grapher/share-of-women-using-modern-contraceptive-methods">Share of women using modern contraceptive methods</a>
 <br><a href="https://ourworldindata.org/grapher/contraceptive-prevalence-any-methods-of-women-ages-15-49">Share of women using any contraceptive methods</a>
 <br><a href="https://ourworldindata.org/grapher/unmet-need-for-contraception-share-of-married-women-of-reproductive-age">Unmet need for contraception</a></p>
         </div>
         <div class="col-md">
-            <iframe src="https://ourworldindata.org/grapher/insufficient-data-sdgs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <br><br><br><br><br><br><br><b>There is currently insufficient data for this indicator. You can submit or notify us of official data for this indicator here.</b>
         </div>
     </div>
 </div>
@@ -232,8 +232,8 @@ contraceptive use and reproductive health care</a> <br><a href="#5.6.2">5.6.2 Nu
 <div class="target">
     <h2>Target 5.A: Equal rights to economic resources, property ownership and financial services</h2>
     <p>UN definition: <q>Undertake reforms to give women equal rights to economic resources, as well as access to ownership and control over land and other forms of property, financial services, inheritance and natural resources, in accordance with national laws.</q></p>
-    <p>SDG Indicators: <a href="#5.A.1">5.A.1 (a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex; and (b) share of women among owners or rights-bearers of
-agricultural land, by type of tenure</a>, <a href="#5.A.2">5.A.2 Proportion of countries where the legal framework (including customary law) guarantees women’s equal rights to land ownership and/or control</a>.</p>
+    <p>SDG Indicators: <br><a href="#5.A.1">5.A.1 (a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex; and (b) share of women among owners or rights-bearers of
+agricultural land, by type of tenure</a> <br><a href="#5.A.2">5.A.2 Proportion of countries where the legal framework (including customary law) guarantees women’s equal rights to land ownership and/or control</a>.</p>
 </div>
 
 <div class="indicator" id="5.A.1">
@@ -242,7 +242,7 @@ agricultural land, by type of tenure</a>, <a href="#5.A.2">5.A.2 Proportion of c
             <span>SDG Indicator 5.A.1</span>
             <h3>Female land rights or ownership</h3>
             <p><strong>Definition:</strong> Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex; and (b) share of women among owners or rights-bearers of agricultural land, by type of tenure.</p>
-            <p><strong>Goal:</strong> There is no defined target level for this indicator.</p>
+            <p><strong>Goal:</strong> By 2030 <q><i>give women equal rights to economic resources, as well as access to ownership and control over land and other forms of property</q></i>.</p>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/land-ownership-men-vs-women" style="width: 100%; height: 600px; border: 0px none;"></iframe>
@@ -258,7 +258,7 @@ agricultural land, by type of tenure</a>, <a href="#5.A.2">5.A.2 Proportion of c
             <span>SDG Indicator 5.A.2</span>
             <h3>Equal rights to land ownership</h3>
             <p><strong>Definition:</strong> Proportion of countries where the legal framework (including customary law) guarantees women’s equal rights to land ownership and/or control.</p>
-            <p><strong>Goal:</strong> The target is to ensure all countries have a legal framework which guarantees women's equal rights to land ownership and/or control by 2030.</p>
+            <p><strong>Goal:</strong> By 2030 <q><i>undertake reforms to give women equal rights to economic resources, as well as access to ownership and control over land and other forms of property</q></i>.</p>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/gender-rights-to-property" style="width: 100%; height: 600px; border: 0px none;"></iframe>
@@ -269,7 +269,7 @@ agricultural land, by type of tenure</a>, <a href="#5.A.2">5.A.2 Proportion of c
 <div class="target">
     <h2>Target 5.B: Promote empowerment of women through technology</h2>
     <p>UN definition: <q>Enhance the use of enabling technology, in particular information and communications technology, to promote the empowerment of women.</q></p>
-    <p>SDG Indicators: <a href="#5.B.1">5.B.1 Proportion of individuals who own a mobile telephone, by sex</a>.</p>
+    <p>SDG Indicators: <br><a href="#5.B.1">5.B.1 Proportion of individuals who own a mobile telephone, by sex</a>.</p>
 </div>
 
 <div class="indicator" id="5.B.1">
@@ -278,7 +278,7 @@ agricultural land, by type of tenure</a>, <a href="#5.A.2">5.A.2 Proportion of c
             <span>SDG Indicator 5.B.1</span>
             <h3>Mobile telephone ownership</h3>
             <p><strong>Definition:</strong> Proportion of individuals who own a mobile telephone, by sex.</p>
-            <p><strong>Goal:</strong> There is no defined target level for this indicator.</p>
+            <p><strong>Goal:</strong> By 2030 <q><i>enhance the use of enabling technology, in particular information and communications technology, to promote the empowerment of women</q></i>.<br>There is no defined target level for this indicator.</p>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/proportion-of-individuals-who-own-a-mobile-by-sex" style="width: 100%; height: 600px; border: 0px none;"></iframe>
@@ -289,7 +289,7 @@ agricultural land, by type of tenure</a>, <a href="#5.A.2">5.A.2 Proportion of c
 <div class="target">
     <h2>Target 5.C: Adopt and strengthen policies and enforceable legislation for gender equality</h2>
     <p>UN definition: <q>Adopt and strengthen sound policies and enforceable legislation for the promotion of gender equality and the empowerment of all women and girls at all levels.</q></p>
-    <p>SDG Indicators: <a href="#5.C.1">5.C.1 Proportion of countries with systems to track and make public allocations for gender equality and women’s
+    <p>SDG Indicators: <br><a href="#5.C.1">5.C.1 Proportion of countries with systems to track and make public allocations for gender equality and women’s
 empowerment</a>.</p>
 </div>
 
@@ -300,10 +300,10 @@ empowerment</a>.</p>
             <h3>Systems to track gender equality</h3>
             <p><strong>Definition:</strong> Proportion of countries with systems to track and make public allocations for gender equality and women’s
 empowerment.</p>
-            <p><strong>Goal:</strong> There is no defined target level for this indicator.</p>
+            <p><strong>Goal:</strong> By 2030 <q><i>adopt and strengthen sound policies and enforceable legislation for the promotion of gender equality</q></i>.</p>
         </div>
         <div class="col-md">
-            <iframe src="https://ourworldindata.org/grapher/insufficient-data-sdgs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <br><br><br><br><b>There is currently insufficient data for this indicator. You can submit or notify us of official data for this indicator here.</b>
         </div>
     </div>
 </div>
