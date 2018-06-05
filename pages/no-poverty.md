@@ -27,7 +27,6 @@ description: >-
   all targets and show the data on the agreed Indicators.
 featuredImage: /img/uploads/1.svg
 ---
-
 <div class="target">
     <h2>Target 1.1: Eradicate extreme poverty</h2>
     <p>UN definition: <q>By 2030, eradicate extreme poverty for all people everywhere, currently measured as people living on less than $1.90 a day.</q></p>
@@ -39,7 +38,7 @@ featuredImage: /img/uploads/1.svg
         <div class="col-md">
             <span>SDG Indicator 1.1.1</span>
             <h3>Eradicate extreme poverty</h3>
-            <p><strong>Definition:</strong> Proportion of population below the international poverty line, by sex, age, employment status and geographical location (urban/rural). The international poverty line is defined as $1.90 per day (updated from the previous poverty line of $1.25 to $1.90 in 2015). This poverty line is based on 2011 international dollars adjusted for cross-country price differences.</p>
+            <p><strong>Definition:</strong> Indicator 1.1.1 is <q><i>proportion of population below the international poverty line, by sex, age, employment status and geographical location (urban/rural)</q></i>. <p>The international poverty line is defined as $1.90 per day (updated from the previous poverty line of $1.25 to $1.90 in 2015). This poverty line is based on 2011 international dollars adjusted for cross-country price differences.</p>
             <p><strong>Goal:</strong> By 2030 <q><i>eradicate extreme poverty for all people everywhere, currently measured as people living on less than $1.90 a day</q></i>.</p>
             <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/extreme-poverty">entry on Global Extreme Poverty</a>.</p>
 <p><strong>Additional charts:</strong>
@@ -66,7 +65,7 @@ dimensions according to national definitions.</q></p>
         <div class="col-md">
             <span>SDG Indicator 1.2.1</span>
             <h3>Halve population below national poverty line </h3>
-            <p><strong>Definition:</strong> Proportion of population living below the national poverty line. National poverty lines differ by country depending on country circumstances, living standards and cost of living.</p>
+            <p><strong>Definition:</strong> Indicator 1.2.1 is the <q><i>proportion of population living below the national poverty line.</q></i> <p>National poverty lines differ by country depending on country circumstances, living standards and cost of living. Shown here is the share of a country's population which lives below its specific national poverty line.</p>
             <p><strong>Goal:</strong> By 2030 <q><i>reduce at least by half the proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions</q></i>.</p>
             <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/extreme-poverty">entry on Global Extreme Poverty</a>.</p>
 <p><strong>Additional charts:</strong>
@@ -86,7 +85,7 @@ dimensions according to national definitions.</q></p>
         <div class="col-md">
             <span>SDG Indicator 1.2.2</span>
             <h3>Population in poverty according to national definitions</h3>
-            <p><strong>Definition:</strong> Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions. National definitions of poverty are poorly defined.</p>
+            <p><strong>Definition:</strong>Indicator 1.2.2 is the <q><i>proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions</q></i>. <p>Here it is not clear what is meant by <i>all its dimensions according to national definitions</i>. One interpretation (shown here) may be the multidimensional poverty index (MPI) which is an aggregate measure of deprivation taking into account poor health, lack of education, inadequate living standard, lack of income, disempowerment, poor quality of work and threat from violence.</p>
             <p><strong>Goal:</strong> By 2030 <q><i>reduce at least by half the proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions</q></i>.</p>
             <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/extreme-poverty">entry on Global Extreme Poverty</a>.</p>
         </div>
@@ -109,7 +108,7 @@ achieve substantial coverage of the poor and the vulnerable.</q></p>
         <div class="col-md">
             <span>SDG Indicator 1.3.1</span>
             <h3>Population covered by social protection floors/systems</h3>
-            <p><strong>Definition:</strong> Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable.</p>
+            <p><strong>Definition:</strong> Indicator 1.3.1 is the <q><i>proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable</q></i>.<p>This is shown here as the percentage of the population covered by social insurance programs which provide old age pensions, social security and health insurance benefits.</p>
             <p><strong>Goal:</strong> <q><i>Implement nationally appropriate social protection systems and measures for all, including floors, and by 2030
 achieve substantial coverage of the poor and the vulnerable</q></i>.</p>
             <p><strong>Additional charts:</strong> 
@@ -134,7 +133,9 @@ achieve substantial coverage of the poor and the vulnerable</q></i>.</p>
         <div class="col-md">
             <span>SDG Indicator 1.4.1</span>
             <h3>Access to basic services</h3>
-            <p><strong>Definition:</strong> Proportion of population living in households with access to basic services.</p>
+            <p><strong>Definition:</strong> Indicator 1.4.1 is the <q><i>proportion of population living in households with access to basic services</q></i>.
+
+<p>Here we show the percentage of the population with access to basic services, including improved drinking water, sanitation, electricity, and clean cooking fuels.</p>
             <p><strong>Goal:</strong> By 2030 <q><i>ensure that all men and women, in particular the poor and the vulnerable, have access to basic services</q></i>. This sets a target of universal access to basic services for all households.</p>
            <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> entries on <a href="https://ourworldindata.org/water-access-resources-sanitation">Water Access, Consumption & Sanitation</a>, <a href="https://ourworldindata.org/energy-production-and-changing-energy-sources">Energy Production & Changing Energy Sources</a>, and <a href="https://ourworldindata.org/indoor-air-pollution">Indoor Air Pollution</a>.</p>
             <p><strong>Additional charts:</strong> 
@@ -156,11 +157,11 @@ achieve substantial coverage of the poor and the vulnerable</q></i>.</p>
         <div class="col-md">
             <span>SDG Indicator 1.4.2</span>
             <h3>Secure tenure rights to land</h3>
-            <p><strong>Definition:</strong> Proportion of total adult population with secure tenure rights to land, (a) with legally recognized documentation, and (b) who perceive their rights to land as secure, by sex and type of tenure.</p>
+            <p><strong>Definition:</strong> Indicator 1.4.2 is the <q><i>proportion of total adult population with secure tenure rights to land, (a) with legally recognized documentation, and (b) who perceive their rights to land as secure, by sex and type of tenure</q></i>.</p>
             <p><strong>Goal:</strong> By 2030 <q><i>ensure that all men and women, in particular the poor and the vulnerable, have equal rights to economic resources, as well as access to basic services, ownership and control over land and other forms of property</q></i>.</p>
         </div>
         <div class="col-md">
-            <br><br><br><br><br><b>There is currently insufficient data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+            <br><br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
         </div>
     </div>
 </div>
@@ -179,17 +180,17 @@ with national disaster risk reduction strategies</a>.</p>
         <div class="col-md">
             <span>SDG Indicator 1.5.1</span>
             <h3>Deaths and affected persons from natural disasters</h3>
-            <p><strong>Definition:</strong> Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population.</p>
+            <p><strong>Definition:</strong> Indicator 1.5.1 is the <q><i>number of deaths, missing persons and directly affected persons attributed to disasters</q></i>.  <p>This is given here as the mortality rate from natural disasters, measured as the number of deaths per 100,000 population per year; and the number of people internally displaced as a result of natural disasters.</p>
             <p><strong>Goal:</strong> By 2030 <q><i>build the resilience of the poor and those in vulnerable situations and reduce their exposure and vulnerability to climate-related extreme events and other environmental disasters</q></i>. <br>There is, however, no defined target level of reduction for this indicator.</p>
            <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/natural-catastrophes">entry on Natural Catastrophes</a>.</p>
-            <p><strong>Additional charts:</strong> 
-<br><a href="https://ourworldindata.org/grapher/internally-displaced-persons-from-disasters">Displaced persons from natural disasters</a>
+            <p><strong>Additional charts:</strong>
 <br><a href="https://ourworldindata.org/grapher/number-injured-from-disasters">Number injured from natural disasters</a>
 <br><a href="https://ourworldindata.org/grapher/number-homeless-from-natural-disasters">Number left homeless from natural disasters</a>
 <br><a href="https://ourworldindata.org/grapher/total-affected-by-natural-disasters">Number affected by natural disasters</a>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/death-rates-from-disasters?tab=chart&country=BGD+JPN+NPL+USA+OWID_WRL" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/internally-displaced-persons-from-disasters" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
 </div>
