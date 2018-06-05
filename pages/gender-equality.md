@@ -31,8 +31,8 @@ featuredImage: /img/uploads/5.svg
         <div class="col-md">
             <span>SDG Indicator 5.1.1</span>
             <h3>Legal frameworks for gender equality and non-discrimination</h3>
-            <p><strong>Definition:</strong> Whether or not legal frameworks are in place to promote, enforce and monitor equality and non-discrimination on the basis of sex. This is assessed across various measures, including hiring, equal pay, marital rape and property rights, among others. </p>
-            <p><strong>Goal:</strong> By 2030 <q><i>end all forms of discrimination against all women and girls everywhere</q></i>.<br>This requires legal frameworks in place to enforce gender equality for all countries.</p>
+            <p><strong>Definition:</strong> Indicator 5.1.1 is <q><i>whether or not legal frameworks are in place to promote, enforce and monitor equality and non-discrimination on the basis of sex.</q></i> <p>There are various legal frameworks which can be applied to promote and enforce non-discrimination on the basis of sex. This is assessed here across various measures, including hiring, equal pay, marital rape and property rights, among others.</p>
+            <p><strong>Goal:</strong> By 2030 <q><i>end all forms of discrimination against all women and girls everywhere</q></i>.<p>This requires legal frameworks in place to enforce gender equality for all countries.</p>
             <p><strong>Additional charts:</strong>
 <br><a href="https://ourworldindata.org/grapher/law-mandate-equal-pay">Does law mandate equal pay for males and females?</a>
 <br><a href="https://ourworldindata.org/grapher/does-legislation-explicitly-criminalise-marital-rape">Does legislation explicitly criminalise marital rape?</a>
@@ -61,7 +61,7 @@ psychological violence by a current or former intimate partner in the previous 1
         <div class="col-md">
             <span>SDG Indicator 5.2.1</span>
             <h3>Violence against women from an intimate partner</h3>
-            <p><strong>Definition:</strong> Proportion of ever-partnered women and girls aged 15 years and older subjected to physical, sexual or psychological violence by a current or former intimate partner in the previous 12 months, by form of violence and by age.</p>
+            <p><strong>Definition:</strong> Indicator 5.2.1 is the <q><i>proportion of ever-partnered women and girls aged 15 years and older subjected to physical, sexual or psychological violence by a current or former intimate partner in the previous 12 months, by form of violence and by age</q></i>. <p>This is measured here as the share of women aged 15 years or older who experienced physical or sexual violence from an intimate partner in the last year.</p>
             <p><strong>Goal:</strong> By 2030 <q><i>eliminate all forms of violence against all women and girls</q></i>.</p>
         </div>
         <div class="col-md">
@@ -77,11 +77,11 @@ psychological violence by a current or former intimate partner in the previous 1
         <div class="col-md">
             <span>SDG Indicator 5.2.2</span>
             <h3>Violence against women from persons other than an intimate partner</h3>
-            <p><strong>Definition:</strong> Proportion of women and girls aged 15 years and older subjected to sexual violence by persons other than an intimate partner in the previous 12 months, by age and place of occurrence.</p>
+            <p><strong>Definition:</strong> Indicator 5.2.2 is the <q><i>proportion of women and girls aged 15 years and older subjected to sexual violence by persons other than an intimate partner in the previous 12 months, by age and place of occurrence</q></i>.</p>
             <p><strong>Goal:</strong> By 2030 <q><i>eliminate all forms of violence against all women and girls</q></i>.</p>
         </div>
         <div class="col-md">
-            <br><br><br><br><br><b>There is currently insufficient data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+            <br><br><br><br><br><br><b>We are currently not aware of available data for this indicator. You can submit or notify us of official data for this indicator here.</b>
         </div>
     </div>
 </div>
@@ -98,8 +98,8 @@ who have undergone female genital mutilation/cutting</a>.</p>
         <div class="col-md">
             <span>SDG Indicator 5.3.1</span>
             <h3>Women married before age 15 or 18</h3>
-            <p><strong>Definition:</strong> Proportion of women aged 20–24 years who were married or in a union before age 15 and before age 18.</p>
-            <p><strong>Goal:</strong> By 2030 <q><i>eliminate child, early or forced marriage</q></i>.</p>
+            <p><strong>Definition:</strong> Indicator 5.3.1 is the <q><i>proportion of women aged 20–24 years who were married or in a union before age 15 and before age 18</q></i>.<p>This is measured as the share of women aged 20-24 years old who were married before the age of 18. Due to data availability, the proportion of women married before age 15 is not currently available.</p>
+            <p><strong>Goal:</strong> <q><i>Eliminate child, early or forced marriage</q></i> by 2030.</p>
             <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/violence-against-rights-for-children">entry on Violence Against & Rights for Children</a>.</p>
             <p><strong>Additional charts:</strong> 
 <br><a href="https://ourworldindata.org/grapher/does-law-prohibit-or-invalidate-child-or-early-marriage">Does the law prohibit or invalidate child marriage?</a></p>
@@ -117,8 +117,8 @@ who have undergone female genital mutilation/cutting</a>.</p>
         <div class="col-md">
             <span>SDG Indicator 5.3.2</span>
             <h3>Female genital mutilation/cutting</h3>
-            <p><strong>Definition:</strong> Proportion of girls and women aged 15–49 years who have undergone female genital mutilation/cutting.</p>
-            <p><strong>Goal:</strong> By 2030 <q><i>eliminate harmful practices such as female genital mutilation/cutting</q></i>.</p>
+            <p><strong>Definition:</strong> Indicator 5.3.2 is the <q><i>proportion of girls and women aged 15–49 years who have undergone female genital mutilation/cutting</q></i>.<p>This is measured as the share of women aged 15-49 years old who have gone through partial or total removal of the  female external genitalia or other injury to thefemale genital organs for cultural or other non-therapeutic reasons.</p>
+            <p><strong>Goal:</strong> <q><i>Eliminate harmful practices such as female genital mutilation/cutting</q></i> by 2030.</p>
             <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/violence-against-rights-for-children">entry on Violence Against & Rights for Children</a>.</p>
         </div>
         <div class="col-md">
