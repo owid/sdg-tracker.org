@@ -177,7 +177,7 @@ indigenous peoples and conflict-affected, as data become available) for all educ
 <div class="target">
     <h2>Target 4.6: Universal literacy and numeracy</h2>
     <p>UN definition: <q>By 2030, ensure that all youth and a substantial proportion of adults, both men and women, achieve literacy and numeracy.</q></p>
-    <p>SDG Indicators: <a href="#4.6.1">4.6.1 Proportion of population in a given age group achieving at least a fixed level of proficiency in functional
+    <p>SDG Indicators: <br><a href="#4.6.1">4.6.1 Proportion of population in a given age group achieving at least a fixed level of proficiency in functional
 (a) literacy and (b) numeracy skills, by sex</a>.</p>
 </div>
 
@@ -188,8 +188,8 @@ indigenous peoples and conflict-affected, as data become available) for all educ
             <h3>Universal literacy and numeracy</h3>
             <p><strong>Definition:</strong> Proportion of population in a given age group achieving at least a fixed level of proficiency in functional
 (a) literacy and (b) numeracy skills, by sex.</p>
-            <p><strong>Goal:</strong> The target is to ensure all children and young adults, and a substantial portion (undefined target level) of adults achieve a minimum proficiency in literacy and numeracy by 2030.</p>
-            <p><strong>More research:</strong> Further data and research can be found at Our World in Data entry on <a href="https://ourworldindata.org/literacy">Literacy</a>.</p>
+            <p><strong>Goal:</strong> By 2030 <q><i>ensure that all youth and a substantial proportion of adults, both men and women, achieve literacy and numeracy.</q></i></p>
+            <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i><a href="https://ourworldindata.org/literacy"> entry on Literacy</a>.</p>
            <p><strong>Additional charts:</strong> 
 <br><a href="https://ourworldindata.org/grapher/literate-and-illiterate-world-population">Long-term change in global literacy</a>
 <br><a href="https://ourworldindata.org/grapher/literacy-rates-of-the-the-younger-population-15-24-years-versus-literacy-rates-of-the-older-population-65">Literacy rates of younger vs. older generations</a></p>
@@ -206,7 +206,7 @@ indigenous peoples and conflict-affected, as data become available) for all educ
 <div class="target">
     <h2>Target 4.7: Education for sustainable development and global citizenship</h2>
     <p>UN definition: <q>By 2030, ensure that all learners acquire the knowledge and skills needed to promote sustainable development, including, among others, through education for sustainable development and sustainable lifestyles, human rights, gender equality, promotion of a culture of peace and non-violence, global citizenship and appreciation of cultural diversity and of culture’s contribution to sustainable development.</q></p>
-    <p>SDG Indicators: <a href="#4.7.1">4.7.1 Extent to which (i) global citizenship education and(ii) education for sustainable development, including
+    <p>SDG Indicators: <br><a href="#4.7.1">4.7.1 Extent to which (i) global citizenship education and(ii) education for sustainable development, including
 gender equality and human rights, are mainstreamed at all levels in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment</a>.</p>
 </div>
 
@@ -215,9 +215,9 @@ gender equality and human rights, are mainstreamed at all levels in (a) national
         <div class="col-md">
             <span>SDG Indicator 4.7.1</span>
             <h3>Education on sustainable development and global citizenship</h3>
-            <p><strong>Definition:</strong> Extent to which (i) global citizenship education and(ii) education for sustainable development, including
+            <p><strong>Definition:</strong> Extent to which (i) global citizenship education and (ii) education for sustainable development, including
 gender equality and human rights, are mainstreamed at all levels in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment.</p>
-            <p><strong>Goal:</strong> There is no defined target level for this indicator.</p> 
+            <p><strong>Goal:</strong> By 2030 <q><i>ensure that all learners acquire the knowledge and skills needed to promote sustainable development</q></i>.</p> 
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/insufficient-data-sdgs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
