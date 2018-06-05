@@ -304,8 +304,7 @@ empowerment</a>.</p>
         <div class="col-md">
             <span>SDG Indicator 5.C.1</span>
             <h3>Systems to track gender equality</h3>
-            <p><strong>Definition:</strong> Proportion of countries with systems to track and make public allocations for gender equality and women’s
-empowerment.</p>
+            <p><strong>Definition:</strong> Indicator 5.C.1 is the <i><q>Proportion of countries with systems to track and make public allocations for gender equality and women’s empowerment</q></i>.</p>
             <p><strong>Goal:</strong> By 2030 <i><q>adopt and strengthen sound policies and enforceable legislation for the promotion of gender equality</q></i>.</p>
         </div>
         <div class="col-md">
