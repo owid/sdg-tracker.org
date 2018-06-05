@@ -52,7 +52,7 @@ featuredImage: /img/uploads/3.svg
         <div class="col-md">
             <span>SDG Indicator 3.1.1</span>
             <h3>Maternal mortality ratio</h3>
-            <p><strong>Definition:</strong> The maternal mortality ratio refers to the number of women who die from pregnancy-related causes while pregnant or within 42 days of pregnancy termination per 100,000 live births.</p>
+            <p><strong>Definition:</strong> Indicator 3.1.1 is the <i><q>maternal mortality ratio</q></i>.<p>The maternal mortality ratio refers to the number of women who die from pregnancy-related causes while pregnant or within 42 days of pregnancy termination per 100,000 live births.</p>
             <p><strong>Goal:</strong> By 2030 <i><q>Reduce global maternal mortality to less than 70 per 100,000 live births</q></i> per year. No defined target has been set at the national level.</p>
             <p><strong>More research:</strong> <i>The Our World in Data</i><a href="https://ourworldindata.org/maternal-mortality">  entry on maternal mortality</a> gives a long-run perspective over the last centuries and presents research on the causes and consequences of the deaths of mothers.</p>
 <p><strong>Additional charts:</strong> 
@@ -72,7 +72,7 @@ featuredImage: /img/uploads/3.svg
         <div class="col-md">
             <span>SDG Indicator 3.1.2</span>
             <h3>Skilled birth attendance</h3>
-            <p><strong>Definition:</strong> The percentage of births attended by personnel trained to give the necessary supervision, care, and advice to women during pregnancy, labor, and the postpartum period; to conduct deliveries on their own; and to care for newborns.</p>
+            <p><strong>Definition:</strong> Indicator 3.1.2 is the <i><q>percentage of births attended by personnel trained to give the necessary supervision, care, and advice to women during pregnancy, labor, and the postpartum period; to conduct deliveries on their own; and to care for newborns</q></i>.</p>
             <p><strong>Goal:</strong> The UN target is to <i><q>Reduce global maternal mortality to less than 70 per 100,000 live births.</q></i> However, there is no goal specified by the UN for the share of births attended by skilled staff.
 
 <p><strong>More research:</strong> Research shows that <a href="https://ourworldindata.org/maternal-mortality#maternal-mortality-in-the-long-run">skilled staff can reduce maternal mortality</a>.</p>
@@ -94,7 +94,7 @@ featuredImage: /img/uploads/3.svg
         <div class="col-md">
             <span>SDG Indicator 3.2.1</span>
             <h3>Under-5 mortality rate</h3>
-            <p><strong>Definition:</strong> The under-5 mortality rate measures the number of children who die before their 5th birthday, per 1,000 live births.</p>
+            <p><strong>Definition:</strong> Indicator 3.2.1 is the <i><q>under-5 mortality rate</q></i>. <p>The under-5 mortality rate measures the number of children per 1,000 live births who die before their 5th birthday.</p>
             <p><strong>Goal:</strong> By 2030 <i><q>Reduce child mortality to less than 25 deaths per 1,000 live births</q></i> per year across all countries.</p>
             <p><strong>More research:</strong> Child mortality is covered more broadly, and with a longer-term perspective in the <i>Our World in Data</i> <a href="https://ourworldindata.org/child-mortality">entry on child mortality</a>.
 <p><strong>Additional charts:</strong> 
@@ -115,7 +115,7 @@ featuredImage: /img/uploads/3.svg
         <div class="col-md">
             <span>SDG Indicator 3.2.2</span>
             <h3>Neonatal mortality rate</h3>
-            <p><strong>Definition:</strong> Neonatal mortality is defined as the share of newborns who die before reaching 28 days of age, measured per 1,000 live births in a given year.</p>
+            <p><strong>Definition:</strong> Indicator 3.2.2 is the <i><q>neonatal mortality rate</q></i>. <p>Neonatal mortality rate is defined as the share of newborns per 1,000 live births in a given year who die before reaching 28 days of age.</p>
             <p><strong>Goal:</strong> By 2030 <i><q>Reduce neonatal mortality to at least as low as 12 per 1,000 live births</q></i> per year across all countries.</p>
             <p><strong>More research:</strong> The <i>Our World in Data</i> <a href="https://ourworldindata.org/child-mortality">entry on child mortality</a> includes a section on neonatal mortality.</p>
 <p><strong>Additional charts:</strong> 
@@ -139,7 +139,7 @@ featuredImage: /img/uploads/3.svg
         <div class="col-md">
             <span>SDG Indicator 3.3.1</span>
             <h3>Number of new HIV infections per 1,000 uninfected population, by sex, age and key populations</h3>
-            <p><strong>Definition:</strong> Number of new HIV infections is the number of new cases of HIV per year amongst uninfected populations per 1,000 people.</p>
+            <p><strong>Definition:</strong> Indicator 3.3.1 is the <i><q>number of new HIV infections per 1,000 uninfected population</q></i>. <p>This is shown as the number of new cases of HIV per year amongst uninfected adults per 1,000 people aged 15-49.</p>
             <p><strong>Goal:</strong> The target 2030 is to <i><q>end the epidemic of HIV</q></i> across all countries. The targeted level of reduction, however, is not defined. 
 
 <p><i>UNAIDS</i> has <a href="https://www.avert.org/global-hiv-targets">set a target</a> (not specifically related to the SDGs) of reducing to less than 200,000 new infections globally among adults by 2030. This would mean a target of reduction to 0.02 new cases per 1,000 people globally in 2030.</p>
@@ -162,7 +162,7 @@ featuredImage: /img/uploads/3.svg
         <div class="col-md">
             <span>SDG Indicator 3.3.2</span>
             <h3>Tuberculosis incidence per 100,000 population</h3>
-            <p><strong>Definition:</strong> Tuberculosis incidence is the number of new cases of tuberculosis per 100,000 people.</p>
+            <p><strong>Definition:</strong> Indicator 3.3.2 is <i><q>tper 100,000 population</q></i>. <p>Tuberculosis incidence is the number of new cases of tuberculosis per 100,000 people.</p>
             <p><strong>Goal:</strong> The 2030 target is to <i><q>end the epidemic of tuberculosis (TB)</q></i> in all countries. The targeted level of reduction, however, is not defined. 
 
 <p>The WHO's <i>Stop TB Partnership</i> has <a href="http://www.who.int/tb/strategy/en/">set a target</a> (not specifically related to the SDGs) of reducing national incidence of TB to fewer than 20 cases per 100,000 by 2030.</p>
@@ -183,11 +183,11 @@ featuredImage: /img/uploads/3.svg
         <div class="col-md">
             <span>SDG Indicator 3.3.3</span>
             <h3>Malaria incidence per 1,000 population</h3>
-            <p><strong>Definition:</strong> Malaria incidence is the number of new cases of malaria per 1,000 people in a given population.</p>
+            <p><strong>Definition:</strong> Indicator 3.3.3 is <i><q>malaria incidence per 1,000 population</q></i>. <p>Malaria incidence is the number of new cases of malaria per 1,000 people in a given population.</p>
             <p><strong>Goal:</strong> By 2030 <i><q>end the epidemic of malaria</q></i> in all countries. The targeted level of reduction, however, is not defined. 
 
 <p>The  <i><a href="http://www.who.int/malaria/areas/global_targets/en/"> WHO Global Technical Strategy</a></i> has set a target of reducing incidence by 90 percent by 2030. This would infer a target of 9 or fewer cases of malaria per 1,000 people globally in 2030.</p>
-            <p><strong>More research:</strong> More information on global and national trends in malaria prevalence, deaths and interventions can be found at the Our World in Data <a href="https://ourworldindata.org/malaria"> entry on Malaria</a>.</p>
+            <p><strong>More research:</strong> More information on global and national trends in malaria prevalence, deaths and interventions can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/malaria"> entry on Malaria</a>.</p>
 <p><strong>Additional charts:</strong> 
 <br><a href="https://ourworldindata.org/grapher/malaria-death-rates">Malaria death rates</a>
 <br><a href="https://ourworldindata.org/grapher/malaria-deaths-by-age">Number of malaria deaths</a>
@@ -205,7 +205,7 @@ featuredImage: /img/uploads/3.svg
         <div class="col-md">
             <span>SDG Indicator 3.3.4</span>
             <h3>Hepatitis B incidence per 100,000 population</h3>
-            <p><strong>Definition:</strong> Hepatitis B incidence is the number of new cases of hepatitis B per 100,000 individuals in a given population per year.</p>
+            <p><strong>Definition:</strong> Indicator 3.3.4 is <i><q>Hepatitis B incidence per 100,000 population</q></i>. <p>Hepatitis B incidence is the number of new cases of hepatitis B per 100,000 individuals in a given population per year.</p>
             <p><strong>Goal:</strong> By 2030 <i><q>combat hepatitis</q></i> in all countries with a focus on hepatitis B. The targeted level of reduction, however, is not defined.
             <p><strong>Additional charts:</strong> 
 <br><a href="https://ourworldindata.org/grapher/heptatitis-death-rate">Hepatitis death rates</a>
@@ -224,7 +224,7 @@ featuredImage: /img/uploads/3.svg
         <div class="col-md">
             <span>SDG Indicator 3.3.5</span>
             <h3>Number of people requiring interventions against neglected tropical diseases</h3>
-            <p><strong>Definition:</strong> Number of people requiring interventions (treatment and care) for any of the 15 neglected tropical diseases (NTDs) identified by the WHO NTD Roadmap and World Health Assembly resolutions. Treatment and care is broadly defined to allow for preventive, curative, surgical or rehabilitative treatment and care.</p>
+            <p><strong>Definition:</strong> Indicator 3.3.5 is the <i><q>number of people requiring interventions against neglected tropical diseases</q></i>. <p>This is defined as the number of people who require interventions (treatment and care) for any of the 15 neglected tropical diseases (NTDs) identified by the WHO NTD Roadmap and World Health Assembly resolutions. Treatment and care is broadly defined to allow for preventive, curative, surgical or rehabilitative treatment and care.</p>
             <p><strong>Goal:</strong> By 2030 <i><q>end the epidemic of neglected tropical diseases (NTDs)</q></i> in all countries. The targeted level of reduction, however, is not defined.</p>
 <p><strong>Additional charts:</strong> 
 <br><a href="https://ourworldindata.org/grapher/number-requiring-treatment-for-ntds-by-region">Number of people requiring interventions for NTDs by region</a>
@@ -246,7 +246,7 @@ featuredImage: /img/uploads/3.svg
         <div class="col-md">
             <span>SDG Indicator 3.4.1</span>
             <h3>Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease</h3>
-            <p><strong>Definition:</strong> Mortality from cardiovascular disease, cancer, diabetes or chronic respiratory disease is the percent of 30-year-old-people who would die before their 70th birthday from any of cardiovascular disease, cancer, diabetes, or chronic respiratory disease, assuming thats/he would experience current mortality rates at every age and s/he would not die from any other cause of death (e.g. injuries or HIV/AIDS).</p>
+            <p><strong>Definition:</strong> Indicator 3.4.1 is <i><q>mortality  rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease.</q></i>. <p>This is defined as the percent of 30-year-old-people who would die before their 70th birthday from any of cardiovascular disease, cancer, diabetes, or chronic respiratory disease, assuming thats/he would experience current mortality rates at every age and s/he would not die from any other cause of death (e.g. injuries or HIV/AIDS).</p>
             <p><strong>Goal:</strong> By 2030 <i><q>reduce premature mortality from non-communicable diseases (NCDs) by one-third</q></i> in all countries.</p>
             <p><strong>More research:</strong> Further data and research on non-communicable diseases can be found at <i>Our World in Data</i> entries on <a href="https://ourworldindata.org/causes-of-death"> Causes of Death</a>, <a href="https://ourworldindata.org/burden-of-disease"> Burden of Disease</a>, and <a href="https://ourworldindata.org/cancer"> Cancer</a>.</p>
 <p><strong>Additional charts:</strong> 
@@ -267,7 +267,7 @@ featuredImage: /img/uploads/3.svg
         <div class="col-md">
             <span>SDG Indicator 3.4.2</span>
             <h3>Suicide mortality rate</h3>
-            <p><strong>Definition:</strong> Suicide mortality rate is the number of deaths from suicide measured per 100,000 individuals in a given population.</p>
+            <p><strong>Definition:</strong> Indicator 3.4.2 is <i><q>suicide mortality rate</q></i>. <p>Suicide mortality rate is the number of deaths from suicide measured per 100,000 individuals in a given population.</p>
             <p><strong>Goal:</strong> By 2030 <i><q>promote mental health and wellbeing</q></i>. There is no defined target level of suicide reduction for this indicator.</p>
             <p><strong>More research:</strong> Further data and research on suicide, mental health and wellbeing can be found at the <i>Our World in Data</i> entries on <a href="https://ourworldindata.org/suicide"> Suicide</a>, <a href="https://ourworldindata.org/mental-health"> Mental Health</a> and <a href="https://ourworldindata.org/happiness-and-life-satisfaction"> Happiness and Life Satisfaction</a>.</p>
 <p><strong>Additional charts:</strong> 
