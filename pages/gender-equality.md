@@ -11,6 +11,12 @@ description: >-
   Providing women and girls with equal access to education, health care, decent
   work, and representation in political and economic decision-making processes
   will fuel sustainable economies and benefit societies and humanity at large.
+
+
+  The UN has defined 9 "Targets" and 14 "Indicators" for SDG 5. Targets specify
+  the goals and Indicators represent the metrics by which the world aims to
+  track whether these Targets are achieved. Below we quote the original text of
+  all targets and show the data on the agreed Indicators.
 featuredImage: /img/uploads/5.svg
 ---
 
