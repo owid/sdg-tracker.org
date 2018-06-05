@@ -75,7 +75,7 @@ psychological violence by a current or former intimate partner in the previous 1
             <p><strong>Goal:</strong> By 2030 <q><i>eliminate all forms of violence against all women and girls</q></i>.</p>
         </div>
         <div class="col-md">
-            <iframe src="https://ourworldindata.org/grapher/insufficient-data-sdgs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <br><br><br><br><br><b>There is currently insufficient data for this indicator. You can submit or notify us of official data for this indicator here.</b>
         </div>
     </div>
 </div>
@@ -83,7 +83,7 @@ psychological violence by a current or former intimate partner in the previous 1
 <div class="target">
     <h2>Target 5.3: Eliminate forced marriages and genital mutilation</h2>
     <p>UN definition: <q>Eliminate all harmful practices, such as child, early and forced marriage and female genital mutilation.</q></p>
-    <p>SDG Indicators: <a href="#5.3.1">5.3.1 Proportion of women aged 20–24 years who were married or in a union before age 15 and before age 18</a>, <a href="#5.3.2">5.3.2 Proportion of girls and women aged 15–49 years
+    <p>SDG Indicators: <br><a href="#5.3.1">5.3.1 Proportion of women aged 20–24 years who were married or in a union before age 15 and before age 18</a> <br><a href="#5.3.2">5.3.2 Proportion of girls and women aged 15–49 years
 who have undergone female genital mutilation/cutting</a>.</p>
 </div>
 
@@ -93,8 +93,8 @@ who have undergone female genital mutilation/cutting</a>.</p>
             <span>SDG Indicator 5.3.1</span>
             <h3>Women married before age 15 or 18</h3>
             <p><strong>Definition:</strong> Proportion of women aged 20–24 years who were married or in a union before age 15 and before age 18.</p>
-            <p><strong>Goal:</strong> The target is to end forced, underage marriage by 2030.</p>
-            <p><strong>More research:</strong> Further data and research on this topic can be found at the Our World in Data entry on <a href="https://ourworldindata.org/violence-against-rights-for-children">Violence Against & Rights for Children</a>.</p>
+            <p><strong>Goal:</strong> By 2030 <q><i>eliminate child, early or forced marriage</q></i>.</p>
+            <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/violence-against-rights-for-children">entry on Violence Against & Rights for Children</a>.</p>
             <p><strong>Additional charts:</strong> 
 <br><a href="https://ourworldindata.org/grapher/does-law-prohibit-or-invalidate-child-or-early-marriage">Does the law prohibit or invalidate child marriage?</a></p>
         </div>
@@ -112,8 +112,8 @@ who have undergone female genital mutilation/cutting</a>.</p>
             <span>SDG Indicator 5.3.2</span>
             <h3>Female genital mutilation/cutting</h3>
             <p><strong>Definition:</strong> Proportion of girls and women aged 15–49 years who have undergone female genital mutilation/cutting.</p>
-            <p><strong>Goal:</strong> The target is to end female genital mutilation/cutting by 2030.</p>
-            <p><strong>More research:</strong> Further data and research on this topic can be found at the Our World in Data entry on <a href="https://ourworldindata.org/violence-against-rights-for-children">Violence Against & Rights for Children</a>.</p>
+            <p><strong>Goal:</strong> By 2030 <q><i>eliminate harmful practices such as female genital mutilation/cutting</q></i>.</p>
+            <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/violence-against-rights-for-children">entry on Violence Against & Rights for Children</a>.</p>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/female-genital-mutilation" style="width: 100%; height: 600px; border: 0px none;"></iframe>
@@ -124,7 +124,7 @@ who have undergone female genital mutilation/cutting</a>.</p>
 <div class="target">
     <h2>Target 5.4: Value unpaid care and promote shared domestic responsibilities</h2>
     <p>UN definition: <q>Recognize and value unpaid care and domestic work through the provision of public services, infrastructure and social protection policies and the promotion of shared responsibility within the household and the family as nationally appropriate.</q></p>
-    <p>SDG Indicators: <a href="#5.4.1">5.4.1 Proportion of time spent on unpaid domestic and care work, by sex, age and location</a>.</p>
+    <p>SDG Indicators: <br><a href="#5.4.1">5.4.1 Proportion of time spent on unpaid domestic and care work, by sex, age and location</a>.</p>
 </div>
 
 <div class="indicator" id="5.4.1">
@@ -132,9 +132,9 @@ who have undergone female genital mutilation/cutting</a>.</p>
         <div class="col-md">
             <span>SDG Indicator 5.4.1</span>
             <h3>Time spent on unpaid domestic and care work</h3>
-            <p><strong>Definition:</strong> Proportion of women aged 20–24 years who were married or in a union before age 15 and before age 18.</p>
-            <p><strong>Goal:</strong> The target is to end forced, underage marriage by 2030.</p>
-            <p><strong>More research:</strong> Further data and research on this topic can be found at the Our World in Data entries on <a href="https://ourworldindata.org/female-labor-supply">Female Labor Supply</a> and <a href="https://ourworldindata.org/working-hours">Working Hours</a>.</p>
+            <p><strong>Definition:</strong> Proportion of time spent on unpaid domestic and care work, by sex, age and location.</p>
+            <p><strong>Goal:</strong> By 2030 <q><i>recognize and value unpaid care and domestic work, and promote shared responsibility within the household and family</q></i>.<br>Specific targets related to distribution and recognition of unpaid work are not clearly defined.</p>
+            <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> entries on <a href="https://ourworldindata.org/female-labor-supply">Female Labor Supply</a> and <a href="https://ourworldindata.org/working-hours">Working Hours</a>.</p>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/average-daily-time-spent-by-women-on-domestic-work-paid-and-unpaid?tab=map" style="width: 100%; height: 600px; border: 0px none;"></iframe>
@@ -146,7 +146,7 @@ who have undergone female genital mutilation/cutting</a>.</p>
 <div class="target">
     <h2>Target 5.5: Ensure full participation in leadership and decision-making</h2>
     <p>UN definition: <q>Ensure women’s full and effective participation and equal opportunities for leadership at all levels of decision-making in political, economic and public life.</q></p>
-    <p>SDG Indicators: <a href="#5.5.1">5.5.1 Proportion of seats held by women in (a) national parliaments and (b) local governments</a>, <a href="#5.5.2">5.5.2 Proportion of women in managerial positions</a>.</p>
+    <p>SDG Indicators: <br><a href="#5.5.1">5.5.1 Proportion of seats held by women in (a) national parliaments and (b) local governments</a> <br><a href="#5.5.2">5.5.2 Proportion of women in managerial positions</a>.</p>
 </div>
 
 <div class="indicator" id="5.5.1">
@@ -155,7 +155,7 @@ who have undergone female genital mutilation/cutting</a>.</p>
             <span>SDG Indicator 5.5.1</span>
             <h3>Women in political positions</h3>
             <p><strong>Definition:</strong> Proportion of seats held by women in (a) national parliaments and (b) local governments.</p>
-            <p><strong>Goal:</strong> There is no defined target level for this indicator.</p>
+            <p><strong>Goal:</strong> By 2030 <q><i>ensure women’s full and effective participation and equal opportunities for leadership at all levels of decision-making in political life</q></i>.</p>
             <p><strong>Additional charts:</strong> 
 <br><a href="https://ourworldindata.org/grapher/countries-that-have-ever-elected-a-woman-to-parliament">Countries that have ever elected a woman to parliament</a></p>
         </div>
@@ -174,8 +174,8 @@ who have undergone female genital mutilation/cutting</a>.</p>
             <span>SDG Indicator 5.5.2</span>
             <h3>Women in managerial positions</h3>
             <p><strong>Definition:</strong> Proportion of women in managerial positions.</p>
-            <p><strong>Goal:</strong> There is no defined target level for this indicator.</p>
-            <p><strong>More research:</strong> Further data and research on this topic can be found at the Our World in Data entry on <a href="https://ourworldindata.org/female-labor-supply">Female Labor Supply</a>.</p>
+            <p><strong>Goal:</strong> By 2030 <q><i>ensure women’s full and effective participation and equal opportunities for leadership at all levels of decision-making in political life</q></i>.</p>
+            <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/female-labor-supply">entry on Female Labor Supply</a>.</p>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/share-firms-top-female-manager" style="width: 100%; height: 600px; border: 0px none;"></iframe>
@@ -187,8 +187,8 @@ who have undergone female genital mutilation/cutting</a>.</p>
 <div class="target">
     <h2>Target 5.6: Universal access to reproductive rights and health</h2>
     <p>UN definition: <q>Ensure universal access to sexual and reproductive health and reproductive rights as agreed in accordance with the Programme of Action of the International Conference on Population and Development and the Beijing Platform for Action and the outcome documents of their review conferences.</q></p>
-    <p>SDG Indicators: <a href="#5.6.1">5.6.1 Proportion of women aged 15–49 years who make their own informed decisions regarding sexual relations,
-contraceptive use and reproductive health care</a>, <a href="#5.6.2">5.6.2 Number of countries with laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education</a>.</p>
+    <p>SDG Indicators: <br><a href="#5.6.1">5.6.1 Proportion of women aged 15–49 years who make their own informed decisions regarding sexual relations,
+contraceptive use and reproductive health care</a> <br><a href="#5.6.2">5.6.2 Number of countries with laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education</a>.</p>
 </div>
 
 <div class="indicator" id="5.6.1">
