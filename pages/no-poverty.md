@@ -222,7 +222,8 @@ with national disaster risk reduction strategies</a>.</p>
         <div class="col-md">
             <span>SDG Indicator 1.5.3</span>
             <h3>Disaster risk reduction strategies</h3>
-            <p><strong>Definition:</strong> Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015–2030.</p>
+            <p><strong>Definition:</strong> Indicator 1.5.3 is the <q><i>number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015–2030</q></i>.
+<p></p>
             <p><strong>Goal:</strong> By 2030 <q><i>build the resilience of the poor and those in vulnerable situations and reduce their exposure and vulnerability to climate-related extreme events and other environmental disasters</q></i>.<br>The target is to have universal adoption of national disaster risk reduction strategies by 2030.</p>
            <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/natural-catastrophes">entry on Natural Catastrophes</a>.</p>
             <p><strong>Additional charts:</strong> 
