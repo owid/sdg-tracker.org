@@ -31,7 +31,7 @@ featuredImage: /img/uploads/7.svg
 <div class="target">
     <h2>Target 7.1: Universal access to modern energy</h2>
     <p>UN definition: <q>By 2030, ensure universal access to affordable, reliable and modern energy services.</q></p>
-    <p>SDG Indicators: <a href="#7.1.1">7.1.1 Proportion of population with access to electricity</a>.</p>
+    <p>SDG Indicators: <a href="#7.1.1">7.1.1 Proportion of population with access to electricity</a> <br><a href="#7.1.2">7.1.2 Proportion of population with primary reliance on clean fuels and technology</a>.</p>
 </div>
 
 <div class="indicator" id="7.1.1">
@@ -39,18 +39,58 @@ featuredImage: /img/uploads/7.svg
         <div class="col-md">
             <span>SDG Indicator 7.1.1</span>
             <h3>Access to electricity</h3>
-            <p><strong>Definition:</strong> Indicator 7.1.1 is the <i><q>proportion of population with access to electricity</q></i>.<p>This is measured as the share of people with electricity access at the household level. Also measured is the share of people with access to clean fuels and technologies for cooking.</p>
-            <p><strong>Goal:</strong> <i><q>By 2030 ensure universal access to affordable, reliable and modern energy services</q></i>.</p>
-            <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> entries on <a href="https://ourworldindata.org/energy-production-and-changing-energy-sources">Energy Production & Changing Energy Sources</a> and <a href="https://ourworldindata.org/indoor-air-pollution">Indoor Air Pollution</a>.</p>
+            <p><strong>Definition:</strong> Indicator 7.1.1 is the <i><q>proportion of population with access to electricity</q></i>.<p>This is measured as the share of people with electricity access at the household level. It comprises electricity sold commercially, both on-grid and off-grid. </p>
+            <p><strong>Goal:</strong> <i><q>By 2030 ensure universal access to affordable, reliable and modern energy services</q></i>.<p>This requires universal access to electricity by 2030.</p>
+            <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i><a href="https://ourworldindata.org/energy-production-and-changing-energy-sources"> entry on Energy Production & Changing Energy Sources</a>.</p>
             <p><strong>Additional charts:</strong> <br><a href="https://ourworldindata.org/grapher/share-of-rural-population-with-electricity-access-vs-share-of-total-population-with-electricity-access">Electricity access, urban vs. rural</a> 
 <br><a href="https://ourworldindata.org/grapher/number-of-people-in-the-world-with-and-without-electricity-access">Number of people with and without electricity access</a>
 <br><a href="https://ourworldindata.org/grapher/power-outages-in-firms-per-months">Power outages</a></p>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/share-of-the-population-with-access-to-electricity" style="width: 100%; height: 600px; border: 0px none;"></iframe>
-            <iframe src="https://ourworldindata.org/grapher/access-to-clean-fuels-and-technologies-for-cooking" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
 </div>
 
 <hr>
+
+<div class="indicator" id="7.1.2">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 7.1.2</span>
+            <h3>Access to clean fuels for cooking</h3>
+            <p><strong>Definition:</strong> Indicator 7.1.2 is the <i><q>proportion of population with primary reliance on clean fuels and technology</q></i>.<p>This is measured as the share of the total population with access to clean fuels and technologies for cooking. Access to clean fuels or technologies such as clean cookstoves reduce exposure to indoor air pollutants, a leading cause of death in low-income households.</p>
+            <p><strong>Goal:</strong> <i><q>By 2030 ensure universal access to affordable, reliable and modern energy services</q></i>.<p>This requires universal access to clean fuels and technologies for cooking by 2030.</p>
+            <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/indoor-air-pollution">entry on Indoor Air Pollution</a>.</p>
+            <p><strong>Additional charts:</strong> <br><a href="https://ourworldindata.org/grapher/share-of-rural-population-with-electricity-access-vs-share-of-total-population-with-electricity-access">Electricity access, urban vs. rural</a> 
+<br><a href="https://ourworldindata.org/grapher/number-of-people-in-the-world-with-and-without-electricity-access">Number of people with and without electricity access</a>
+<br><a href="https://ourworldindata.org/grapher/power-outages-in-firms-per-months">Power outages</a></p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/access-to-clean-fuels-and-technologies-for-cooking" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
+
+<div class="target">
+    <h2>Target 7.2: Increase global percentage of renewable energy</h2>
+    <p>UN definition: <q>By 2030, increase substantially the share of renewable energy in the global energy mix.</q></p>
+    <p>SDG Indicators: <a href="#7.2.1">7.2.1 Renewable energy share in the total final energy consumption</a>.</p>
+</div>
+
+<div class="indicator" id="7.2.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 7.2.1</span>
+            <h3>Renewable energy</h3>
+            <p><strong>Definition:</strong> Indicator 7.2.1 is <i><q>renewable energy share in the total final energy consumption</q></i>.<p>This is measured as renewable energy (inclusive of solar, wind, geothermal, hydropower, bioenergy and marine sources) as a share of final (not primary) energy consumption. Energy mix includes electricity, transportation and cooking/heating fuels.</p>
+            <p><strong>Goal:</strong> <i><q>By 2030, increase substantially the share of renewable energy in the global energy mix</q></i>.</p>
+            <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> entries on <a href="https://ourworldindata.org/energy-production-and-changing-energy-sources">Energy Production & Changing Energy Sources</a> and <a href="https://ourworldindata.org/renewables">Renewables</a>.</p>
+            <p><strong>Additional charts:</strong> <br><a href="https://ourworldindata.org/grapher/world-electricity-by-source">Electricity share by fuel source</a> 
+</p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/renewables-share-final-energy?tab=chart" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
