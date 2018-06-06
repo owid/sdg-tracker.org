@@ -58,3 +58,42 @@ featuredImage: /img/uploads/9.svg
         </div>
     </div>
 </div>
+
+<div class="target">
+    <h2>Target 9.2: Promote inclusive and sustainable industrialization</h2>
+    <p>UN definition: <q>Promote inclusive and sustainable industrialization and, by 2030, significantly raise industry’s share of employment and gross domestic product, in line with national circumstances, and double its share in least developed countries.</q></p>
+    <p>SDG Indicators: <br><a href="#9.2.1">9.2.1 Manufacturing value added as a proportion of GDP and per capita</a> <br><a href="#9.2.2">9.2.2 Manufacturing employment as a proportion of total
+employment</a></p>
+</div>
+
+<div class="indicator" id="9.2.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 9.2.1</span>
+            <h3>Manufacturing value</h3>
+            <p><strong>Definition:</strong> Indicator 9.2.1 is <i><q>manufacturing value added as a proportion of GDP and per capita</q></i>.<p>This indicator measures the manufacturing sector's contribution to a country's total gross domestic product (GDP). Value added is the net output of a sector after adding up all outputs and subtracting intermediate inputs in manufacturing production.</p>
+            <p><strong>Goal:</strong> <i><q>By 2030, significantly raise industry’s share of employment and gross domestic product, in line with national circumstances, and double its share in least developed countries</q></i>.</p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/manufacturing-value-added-to-gdp" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
+
+<hr>
+
+<div class="indicator" id="9.2.2">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 9.2.2</span>
+            <h3>Manufacturing employment</h3>
+            <p><strong>Definition:</strong> Indicator 9.2.2 is <i><q>manufacturing employment as a proportion of total
+employment</q></i>.<p>This indicator measures the manufacturing sector's employment as a share of the country's total employment. Employment refers to all persons of working age who, during a specified brief period, were in paid employment (whether at work or with a job but not at work) or in self-employment (whether at work or with an enterprise but not at work).
+</p>
+            <p><strong>Goal:</strong> <i><q>By 2030, significantly raise industry’s share of employment and gross domestic product, in line with national circumstances, and double its share in least developed countries</q></i>.</p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/industry-share-of-total-emplyoment" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
