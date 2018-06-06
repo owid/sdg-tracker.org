@@ -97,3 +97,39 @@ employment</q></i>.<p>This indicator measures the manufacturing sector's employm
         </div>
     </div>
 </div>
+
+<div class="target">
+    <h2>Target 9.3: Increase access to financial services and markets</h2>
+    <p>UN definition: <q>Increase the access of small-scale industrial and other enterprises, in particular in developing countries, to financial services, including affordable credit, and their integration into value chains and markets.</q></p>
+    <p>SDG Indicators: <br><a href="#9.3.1">9.3.1 Proportion of small-scale industries in total industry value added</a> <br><a href="#9.3.2">9.3.2 Proportion of small-scale industries with a loan or line of credit</a></p>
+</div>
+
+<div class="indicator" id="9.3.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 9.3.1</span>
+            <h3>Value of small-scale industry</h3>
+            <p><strong>Definition:</strong> Indicator 9.3.1 is the <i><q>proportion of small-scale industries in total industry value added</q></i>.</p>
+            <p><strong>Goal:</strong> <i><q>Increase the access of small-scale industrial and other enterprises, in particular in developing countries, to value chains and markets</q></i> by 2030.</p>
+        </div>
+        <div class="col-md">
+            <br><br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+        </div>
+    </div>
+</div>
+
+<hr>
+
+<div class="indicator" id="9.3.2">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 9.3.2</span>
+            <h3>Small-scale industries with affordable credit</h3>
+            <p><strong>Definition:</strong> Indicator 9.3.2 is the <i><q>proportion of small-scale industries with a loan or line of credit</q></i>.</p>
+            <p><strong>Goal:</strong> <i><q>Increase the access of small-scale industrial and other enterprises, in particular in developing countries, to financial services, including affordable credit</q></i> by 2030.</p>
+        </div>
+        <div class="col-md">
+            <br><br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+        </div>
+    </div>
+</div>
