@@ -124,3 +124,43 @@ consumption per capita, and domestic material consumption per GDP</a>.</p>
         </div>
     </div>
 </div>
+
+<div class="target">
+    <h2>Target 8.5: Full employment and decent work with equal pay</h2>
+    <p>UN definition: <q>By 2030, achieve full and productive employment and decent work for all women and men, including for young people and persons with disabilities, and equal pay for work of equal value.</q></p>
+    <p>SDG Indicators: <br><a href="#8.5.1">8.5.1 Average hourly earnings of female and male employees, by occupation, age and persons with disabilities</a> <br><a href="#8.5.2">8.5.2 Unemployment rate, by sex, age and persons with
+disabilities</a>.</p>
+</div>
+
+<div class="indicator" id="8.5.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 8.5.1</span>
+            <h3>Hourly earnings</h3>
+            <p><strong>Definition:</strong> Indicator 8.5.1 is the <i><q>average hourly earnings of female and male employees, by occupation, age and persons with disabilities</q></i>.<p>Average earnings are reported for male and female employees, but not available across countries for further breakdowns.</p>
+            <p><strong>Goal:</strong> <i><q>By 2030, achieve full and productive employment and decent work for all women and men, including for young people and persons with disabilities, and equal pay for work of equal value</q></i>.</p>
+           <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> entries on <a href="https://ourworldindata.org/female-labor-supply">Female Labor Supply</a>, <a href="https://ourworldindata.org/working-hours">Working Hours</a> and our post on <a href="https://ourworldindata.org/six-facts-pay-gap">Six key facts about the gender pay gap</a>.
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/average-hourly-earnings" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/hourly-earnings-male-vs-female" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
+
+<hr>
+
+<div class="indicator" id="8.5.2">
+<div class="row">
+<div class="col-md">
+<span>SDG Indicator 8.5.2</span>
+<h3>Hourly earnings</h3>
+<p><strong>Definition:</strong> Indicator 8.5.2 is the <i><q>unemployment rate, by sex, age and persons with disabilities</q></i>.<p>Unemployment rate is measured as the share of the labor force that is without work but available for and seeking employment. This is available for the total population, in addition to breakdown by sex.</p>
+<p><strong>Goal:</strong> <i><q>By 2030, achieve full and productive employment and decent work for all women and men, including for young people and persons with disabilities</q></i>.</p>
+</div>
+<div class="col-md">
+<iframe src="https://ourworldindata.org/grapher/unemployment-rate" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/unemployment-rate-of-males-vs-females" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+</div>
+</div>
+</div>
