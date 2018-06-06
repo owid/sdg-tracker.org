@@ -82,3 +82,43 @@ consumption per capita, and domestic material consumption per GDP</a></p>
         </div>
     </div>
 </div>
+
+<div class="target">
+    <h2>Target 12.3: Halve global per capita food waste</h2>
+    <p>UN definition: <q>By 2030, halve per capita global food waste at the retail and consumer levels and reduce food losses along production and supply chains, including post-harvest losses.</q></p>
+    <p>SDG Indicators: <br><a href="#12.3.1">12.3.1 Global food loss index</a></p>
+</div>
+
+<div class="indicator" id="12.3.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 12.3.1</span>
+            <h3>Global food loss</h3>
+            <p><strong>Definition:</strong> Indicator 12.3.1 is the <i><q>global food loss index</q></i>.</p>
+            <p><strong>Goal:</strong> <i><q>By 2030, halve per capita global food waste at the retail and consumer levels and reduce food losses along production and supply chains, including post-harvest losses</q></i>.</p>
+        </div>
+        <div class="col-md">
+            <br><br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+        </div>
+    </div>
+</div>
+
+<div class="target">
+    <h2>Target 12.4: Responsible management of chemicals and waste</h2>
+    <p>UN definition: <q>By 2020, achieve the environmentally sound management of chemicals and all wastes throughout their life cycle, in accordance with agreed international frameworks, and significantly reduce their release to air, water and soil in order to minimize their adverse impacts on human health and the environment.</q></p>
+    <p>SDG Indicators: <br><a href="#12.4.1">12.4.1 Number of parties to international multilateral environmental agreements on hazardous waste, and other chemicals that meet their commitments and obligations in transmitting information as required by each relevant agreement</a> <br><a href="#12.4.2">12.4.2 Hazardous waste generated per capita and proportion of hazardous waste treated, by type of treatment</a></p>
+</div>
+
+<div class="indicator" id="12.4.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 12.4.1</span>
+            <h3>International agreements on hazardous waste</h3>
+            <p><strong>Definition:</strong> Indicator 12.4.1 is the <i><q>number of parties to international multilateral environmental agreements on hazardous waste, and other chemicals that meet their commitments and obligations in transmitting information as required by each relevant agreement</q></i>.<p>There are a number of international multilateral agreements on hazardous waste and other chemicals (including the Montreal Protocol, Basel Convention, Rotterdam Convention and Stockholm Convention). <p>This indicator assesses the percentage of countries meeting commitments and obligations within each agreement.</p>
+            <p><strong>Goal:</strong> <i><q>Achieve the environmentally sound management of chemicals and all wastes throughout their life cycle, in accordance with agreed international frameworks</q></i> by 2020.<p>Unlike most SDG targets which are set for the year 2030, this indicator is set for 2020.</p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/parties-to-multilateral-agreements-on-hazardous-waste" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
