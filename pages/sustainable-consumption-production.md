@@ -56,7 +56,7 @@ consumption per capita, and domestic material consumption per GDP</a></p>
         <div class="col-md">
             <span>SDG Indicator 12.2.1</span>
             <h3>Material footprint</h3>
-            <p><strong>Definition:</strong> Indicator 12.2.1 is <i><q>material footprint, material footprint per capita, and material footprint per GDP</q></i>.<p>Material Footprint (MF) is the attribution of global material extraction to domestic final demand of a country. The total material footprint is the sum of the material footprint for biomass, fossil fuels, metal ores and non-metal ores. <p>Data on material footprints are outdated and unavailable for years following 2010.</p>
+            <p><strong>Definition:</strong> Indicator 12.2.1 is <i><q>material footprint, material footprint per capita, and material footprint per GDP</q></i>.<p>Material Footprint (MF) is the attribution of global material extraction to domestic final demand of a country. The total material footprint is the sum of the material footprint for biomass, fossil fuels, metal ores and non-metal ores. <p>The definition or target level of sustainable material footprint is  not defined. Data on material footprints are outdated and unavailable for years following 2010.</p>
             <p><strong>Goal:</strong> <i><q>By 2030, achieve the sustainable management and efficient use of natural resources</q></i>.</p>
         </div>
         <div class="col-md">
@@ -73,7 +73,7 @@ consumption per capita, and domestic material consumption per GDP</a></p>
         <div class="col-md">
             <span>SDG Indicator 12.2.2</span>
             <h3>Domestic material consumption</h3>
-            <p><strong>Definition:</strong> Indicator 12.2.2 is <i><q>domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP</q></i>.<p>Material Footprint (MF) is the attribution of global material extraction to domestic final demand of a country. The total material footprint is the sum of the material footprint for biomass, fossil fuels, metal ores and non-metal ores. <p>Domestic Material Consumption (DMC) is a production-side measure which does not account for supply chain inputs or exports, meaning a country could have a lower DMC value if it outsources a large proportion of its materials. <p>Data on material footprints are outdated and unavailable for years following 2010.</p>
+            <p><strong>Definition:</strong> Indicator 12.2.2 is <i><q>domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP</q></i>.<p>Material Footprint (MF) is the attribution of global material extraction to domestic final demand of a country. The total material footprint is the sum of the material footprint for biomass, fossil fuels, metal ores and non-metal ores. <p>Domestic Material Consumption (DMC) is a production-side measure which does not account for supply chain inputs or exports, meaning a country could have a lower DMC value if it outsources a large proportion of its materials. <p>The definition or target level of sustainable material consumption is  not defined. Data on consumption is outdated and unavailable for years following 2010.</p>
             <p><strong>Goal:</strong> <i><q>By 2030, achieve the sustainable management and efficient use of natural resources</q></i>.</p>
         </div>
         <div class="col-md">
