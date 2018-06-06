@@ -346,3 +346,24 @@ disabilities</a>.</p>
         </div>
     </div>
 </div>
+
+<div class="target">
+    <h2>Target 8.B: Develop a global youth employment strategy</h2>
+    <p>UN definition: <q>By 2020, develop and operationalize a global strategy for youth employment and implement the Global Jobs Pact of the International Labour Organization.</q></p>
+    <p>SDG Indicators: <br><a href="#8.B.1">8.B.1 Existence of a developed and operationalized national strategy for youth employment, as a distinct
+strategy or as part of a national employment strategy</a>.</p>
+</div>
+
+<div class="indicator" id="8.B.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 8.B.1</span>
+            <h3>Youth employment strategy</h3>
+            <p><strong>Definition:</strong> Indicator 8.B.1 is the <i><q>Existence of a developed and operationalized national strategy for youth employment</q></i>.</p>
+            <p><strong>Goal:</strong> <i><q>Develop and operationalize a global strategy for youth employment</q></i>.<p>Unlike most SDG targets with a target for 2030, the goal date for this indicator is 2020.</p>    
+        </div>
+        <div class="col-md">
+            <br><br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+        </div>
+    </div>
+</div>
