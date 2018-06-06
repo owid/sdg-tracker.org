@@ -49,4 +49,44 @@ featuredImage: /img/uploads/10.svg
     </div>
 </div>
 
-<hr>
+<div class="target">
+    <h2>Target 10.2: Promote universal social, economic and political inclusion</h2>
+    <p>UN definition: <q>By 2030, empower and promote the social, economic and political inclusion of all, irrespective of age, sex, disability, race, ethnicity, origin, religion or economic or other status.</q></p>
+    <p>SDG Indicators: <br><a href="#10.2.1">10.2.1 Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities</a>.</p>
+</div>
+
+<div class="indicator" id="10.2.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 10.2.1</span>
+            <h3>Income growth inequalities</h3>
+            <p><strong>Definition:</strong> Indicator 10.2.1 is the <i><q>proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities</q></i>.</p>
+            <p><strong>Goal:</strong> <i><q>By 2030, empower and promote the social, economic and political inclusion of all, irrespective of age, sex, disability, race, ethnicity, origin, religion or economic or other status</q></i>.</p>
+            <p><strong>More research:</strong> Further data and research on this topic can be found at <i>Our World in Data</i> entries on <a href="https://ourworldindata.org/income-inequality">Income Inequality</a>, <a href="https://ourworldindata.org/global-economic-inequality">Global Economic inequality</a> and <a href="https://ourworldindata.org/economic-inequality-by-gender">Economic Inequality by Gender</a>.</p>
+        </div>
+        <div class="col-md">
+            <br><br><br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+        </div>
+    </div>
+</div>
+
+<div class="target">
+    <h2>Target 10.3: Ensure equal opportunities and end discrimination</h2>
+    <p>UN definition: <q>Ensure equal opportunity and reduce inequalities of outcome, including by eliminating discriminatory laws, policies and practices and promoting appropriate legislation, policies and action in this regard.</q></p>
+    <p>SDG Indicators: <br><a href="#10.3.1">10.3.1 Proportion of population reporting having personally felt discriminated against or harassed in the
+previous 12 months on the basis of a ground of discrimination prohibited under international human rights law</a>.</p>
+</div>
+
+<div class="indicator" id="10.3.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 10.3.1</span>
+            <h3>Eliminating discriminatory practices</h3>
+            <p><strong>Definition:</strong> Indicator 10.3.1 is the <i><q>proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights law</q></i>.</p>
+            <p><strong>Goal:</strong> <i><q>Ensure equal opportunity and reduce inequalities of outcome, including by eliminating discriminatory laws, policies and practices</q></i> by 2030.</p>
+        </div>
+        <div class="col-md">
+            <br><br><br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+        </div>
+    </div>
+</div>
