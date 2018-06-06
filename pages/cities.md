@@ -258,7 +258,67 @@ of all cultural and natural heritage, by type of heritage (cultural, natural, mi
 <div class="target">
     <h2>Target 11.B: Implement policies for inclusion, resource efficiency and disaster risk reduction</h2>
     <p>UN definition: <q>By 2020, substantially increase the number of cities and human settlements adopting and implementing integrated policies and plans towards inclusion, resource efficiency, mitigation and adaptation to climate change, resilience to disasters, and develop and implement, in line with the Sendai Framework for Disaster Risk Reduction 2015–2030, holistic disaster risk management at all levels.</q></p>
-    <p>SDG Indicators: <br><a href="#11.B.1">11.B.1 Number of countries that adopt and implement
-national disaster risk reduction strategies in line with the
-Sendai Framework for Disaster Risk Reduction 2015–2030</a></p>
+    <p>SDG Indicators: <br><a href="#11.B.1">11.B.1 Number of countries that adopt and implement national disaster risk reduction strategies in line with the
+Sendai Framework for Disaster Risk Reduction 2015–2030</a> <br><a href="#11.B.2">11.B.2 Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies</a></p>
+</div>
+
+<div class="indicator" id="11.B.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 11.B.1</span>
+            <h3>Integrated disaster risk management</h3>
+            <p><strong>Definition:</strong> Indicator 11.B.1 is the <i><q>number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015–2030</q></i>.<p>This indicator identifies countries who have and have not adopted and implemented disaster risk management strategies in line with the Sendai Framework for Disaster Risk Reduction.</p>
+            <p><strong>Goal:</strong> <i><q>Substantially increase the number of cities and human settlements adopting and implementing holistic disaster risk management at all levels</q></i>.<p>Unlike most SDGs which have a target year of 2030, this indicator is set to be achieved by 2020.</p>
+           <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> on <a href="https://ourworldindata.org/natural-catastrophes">Natural Catastrophes</a>.</p>
+           <p><strong>Additional charts:</strong> <br><a href="https://ourworldindata.org/grapher/natural-disaster-deaths-ihme">Total deaths from natural disasters</a>
+<br><a href="https://ourworldindata.org/grapher/number-injured-from-disasters">Number injured from natural disasters</a>
+<br><a href="https://ourworldindata.org/grapher/number-homeless-from-natural-disasters">Number left homeless from natural disasters</a>
+<br><a href="https://ourworldindata.org/grapher/total-affected-by-natural-disasters">Number affected by natural disasters</a></p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/countries-with-legislative-regulatory-provisions-for-managing-disaster-risk" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
+
+<hr>
+
+<div class="indicator" id="11.B.2">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 11.B.2</span>
+            <h3>Local disaster risk management</h3>
+            <p><strong>Definition:</strong> Indicator 11.B.2 is the <i><q>proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies</q></i>.
+            <p><strong>Goal:</strong> <i><q>Substantially increase the number of cities and human settlements adopting and implementing holistic disaster risk management at all levels</q></i>.<p>Unlike most SDGs which have a target year of 2030, this indicator is set to be achieved by 2020.</p>
+           <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> on <a href="https://ourworldindata.org/natural-catastrophes">Natural Catastrophes</a>.</p>
+           <p><strong>Additional charts:</strong> <br><a href="https://ourworldindata.org/grapher/natural-disaster-deaths-ihme">Total deaths from natural disasters</a>
+<br><a href="https://ourworldindata.org/grapher/number-injured-from-disasters">Number injured from natural disasters</a>
+<br><a href="https://ourworldindata.org/grapher/number-homeless-from-natural-disasters">Number left homeless from natural disasters</a>
+<br><a href="https://ourworldindata.org/grapher/total-affected-by-natural-disasters">Number affected by natural disasters</a></p>
+        </div>
+        <div class="col-md">
+            <br><br><br><br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+        </div>
+    </div>
+</div>
+
+<div class="target">
+    <h2>Target 11.C: Support least developed countries in sustainable and resilient building</h2>
+    <p>UN definition: <q>Support least developed countries, including through financial and technical assistance, in building sustainable and resilient buildings utilizing local materials.</q></p>
+    <p>SDG Indicators: <br><a href="#11.C.1">11.C.1 Proportion of financial support to the least developed countries that is allocated to the construction
+and retrofitting of sustainable, resilient and resource-efficient buildings utilizing local materials</a></p>
+</div>
+
+<div class="indicator" id="11.C.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 11.C.1</span>
+            <h3>Sustainable and resilient buildings in least developed countries</h3>
+            <p><strong>Definition:</strong> Indicator 11.C.1 is the <i><q>proportion of financial support to the least developed countries that is allocated to the construction and retrofitting of sustainable, resilient and resource-efficient buildings utilizing local materials</q></i>.</p>
+            <p><strong>Goal:</strong> <i><q>Support least developed countries, including through financial and technical assistance, in building sustainable and resilient buildings utilizing local materials</q></i> by 2030.</p>
+        </div>
+        <div class="col-md">
+            <br><br><br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+        </div>
+    </div>
 </div>
