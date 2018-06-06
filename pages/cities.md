@@ -198,3 +198,67 @@ of all cultural and natural heritage, by type of heritage (cultural, natural, mi
         </div>
     </div>
 </div>
+
+<div class="target">
+    <h2>Target 11.7: Provide access to safe and inclusive green and public spaces</h2>
+    <p>UN definition: <q>By 2030, provide universal access to safe, inclusive and accessible, green and public spaces, in particular for women and children, older persons and persons with disabilities.</q></p>
+    <p>SDG Indicators: <br><a href="#11.7.1">11.7.1 Average share of the built-up area of cities that is open space for public use for all, by sex, age and persons with disabilities</a> <br><a href="#11.7.2">11.7.2 Proportion of persons victim of physical or sexual harassment, by sex, age, disability status and place of occurrence, in the previous 12 months</a></p>
+</div>
+
+<div class="indicator" id="11.7.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 11.7.1</span>
+            <h3>Open spaces in cities</h3>
+            <p><strong>Definition:</strong> Indicator 11.7.1 is the <i><q>average share of the built-up area of cities that is open space for public use for all, by sex, age and persons with disabilities</q></i>.</p>
+            <p><strong>Goal:</strong> <i><q>Provide universal access to safe, inclusive and accessible, green and public spaces</q></i> by 2030.</p>
+        </div>
+        <div class="col-md">
+            <br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+        </div>
+    </div>
+</div>
+
+<hr>
+
+<div class="indicator" id="11.7.2">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 11.7.2</span>
+            <h3>Safe spaces in cities</h3>
+            <p><strong>Definition:</strong> Indicator 11.7.2 is the <i><q>proportion of persons victim of physical or sexual harassment, by sex, age, disability status and place of occurrence, in the previous 12 months</q></i>.</p>
+            <p><strong>Goal:</strong> <i><q>Provide universal access to safe, inclusive and accessible, green and public spaces in particular for women and children, older persons and persons with disabilities</q></i> by 2030.</p>
+        </div>
+        <div class="col-md">
+            <br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+        </div>
+    </div>
+</div>
+
+<div class="target">
+    <h2>Target 11.A: Strong national and regional development planning</h2>
+    <p>UN definition: <q>Support positive economic, social and environmental links between urban, peri-urban and rural areas by strengthening national and regional development planning.</q></p>
+    <p>SDG Indicators: <br><a href="#11.A.1">11.A.1 Proportion of population living in cities that implement urban and regional development plans integrating population projections and resource needs, by size of city</a></p>
+</div>
+
+<div class="indicator" id="11.A.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 11.A.1</span>
+            <h3>Urban and regional planning</h3>
+            <p><strong>Definition:</strong> Indicator 11.A.1 is the <i><q>proportion of population living in cities that implement urban and regional development plans integrating population projections and resource needs, by size of city</q></i>.</p>
+            <p><strong>Goal:</strong> <i><q>Support positive economic, social and environmental links between urban, peri-urban and rural areas by strengthening national and regional development planning</q></i> by 2030.</p>
+        </div>
+        <div class="col-md">
+            <br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+        </div>
+    </div>
+</div>
+
+<div class="target">
+    <h2>Target 11.B: Implement policies for inclusion, resource efficiency and disaster risk reduction</h2>
+    <p>UN definition: <q>By 2020, substantially increase the number of cities and human settlements adopting and implementing integrated policies and plans towards inclusion, resource efficiency, mitigation and adaptation to climate change, resilience to disasters, and develop and implement, in line with the Sendai Framework for Disaster Risk Reduction 2015–2030, holistic disaster risk management at all levels.</q></p>
+    <p>SDG Indicators: <br><a href="#11.B.1">11.B.1 Number of countries that adopt and implement
+national disaster risk reduction strategies in line with the
+Sendai Framework for Disaster Risk Reduction 2015–2030</a></p>
+</div>
