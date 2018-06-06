@@ -159,3 +159,42 @@ of all cultural and natural heritage, by type of heritage (cultural, natural, mi
         </div>
     </div>
 </div>
+
+<div class="target">
+    <h2>Target 11.6: Reduce the environmental impacts of cities</h2>
+    <p>UN definition: <q>By 2030, reduce the adverse per capita environmental impact of cities, including by paying special attention to air quality and municipal and other waste management.</q></p>
+    <p>SDG Indicators: <br><a href="#11.6.1">11.6.1 Proportion of urban solid waste regularly collected and with adequate final discharge out of total urban solid waste generated, by cities</a> <br><a href="#11.6.2">11.6.2 Annual mean levels of fine particulate matter (e.g. PM2.5 and PM10) in cities (population weighted)</a></p>
+</div>
+
+<div class="indicator" id="11.6.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 11.6.1</span>
+            <h3>Solid waste management</h3>
+            <p><strong>Definition:</strong> Indicator 11.6.1 is the <i><q>proportion of urban solid waste regularly collected and with adequate final discharge out of total urban solid waste generated, by cities</q></i>.<p>This indicator measures the share of urban solid waste regularly collected and with adequate final discharge out of total urban solid waste generated. Data is only available at the regional (not national) level.</p>
+            <p><strong>Goal:</strong> <i><q>By 2030, reduce the adverse per capita environmental impact of cities, including by paying special attention to municipal and other waste management</q></i>.</p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/proportion-of-population-served-by-municipal-waste-collection" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
+
+<hr>
+
+<div class="indicator" id="11.6.2">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 11.6.2</span>
+            <h3>Urban air pollution</h3>
+            <p><strong>Definition:</strong> Indicator 11.6.1 is the <i><q>annual mean levels of fine particulate matter (e.g. PM2.5 and PM10) in cities (population weighted)</q></i>.<p>This indicator measures the population-weighted exposure to ambient PM<sub>2.5</sub> pollution; that is, concentrations of suspended particles measuring less than 2.5 microns in diameter.</p>
+            <p><strong>Goal:</strong> <i><q>By 2030, reduce the adverse per capita environmental impact of cities, including by paying special attention to air pollution</q></i>.</p>
+            <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> on <a href="https://ourworldindata.org/air-pollution">Air Pollution</a>.</p>
+           <p><strong>Additional charts:</strong> <br><a href="https://ourworldindata.org/grapher/absolute-number-of-deaths-from-outdoor-air-pollution">Total deaths attributed to outdoor air pollution</a>
+<br><a href="https://ourworldindata.org/grapher/death-rate-by-source-from-air-pollution">Death rates from air pollution</a>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/PM25-air-pollution" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
