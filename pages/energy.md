@@ -136,3 +136,23 @@ featuredImage: /img/uploads/7.svg
         </div>
     </div>
 </div>
+
+<div class="target">
+<h2>Target 7.B: Expand and upgrade energy services for developing countries</h2>
+<p>UN definition: <q>By 2030, expand infrastructure and upgrade technology for supplying modern and sustainable energy services for all in developing countries, in particular least developed countries, small island developing States and landlocked developing countries, in accordance with their respective programmes of support.</q></p>
+<p>SDG Indicators: <br><a href="#7.B.1">7.B.1 Investments in energy efficiency as a proportion of GDP and the amount of foreign direct investment in financial transfer for infrastructure and technology to sustainable development services</a>.</p>
+</div>
+
+<div class="indicator" id="7.B.1">
+<div class="row">
+<div class="col-md">
+<span>SDG Indicator 7.B.1</span>
+<h3>Expanding energy services for developing countries</h3>
+<p><strong>Definition:</strong> Indicator 7.B.1 is <i><q>investments in energy efficiency as a proportion of GDP and the amount of foreign direct investment in financial transfer for infrastructure and technology to sustainable development services</q></i>.</p>
+<p><strong>Goal:</strong> <i><q>Expand infrastructure and upgrade technology for supplying modern and sustainable energy services for all in developing countries</q></i> by 2030.</p>
+</div>
+<div class="col-md">
+<br><br><br><br><br><br><br><b>We are currently not aware of available data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+</div>
+</div>
+</div>
