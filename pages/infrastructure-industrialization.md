@@ -193,3 +193,70 @@ employment</q></i>.<p>This indicator measures the manufacturing sector's employm
         </div>
     </div>
 </div>
+
+<div class="target">
+    <h2>Target 9.A: Facilitate sustainable infrastructure development for developing countries</h2>
+    <p>UN definition: <q>Facilitate sustainable and resilient infrastructure development in developing countries through enhanced financial, technological and technical support to African countries, least developed countries, landlocked developing countries and small island developing States.</q></p>
+    <p>SDG Indicators: <br><a href="#9.A.1">9.A.1 Total official international support (official development assistance plus other official flows) to
+infrastructure</a>.</p>
+</div>
+
+<div class="indicator" id="9.A.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 9.A.1</span>
+            <h3>Development assistance for infrastructure</h3>
+            <p><strong>Definition:</strong> Indicator 9.A.1 is the <i><q>total official international support (official development assistance plus other official flows) to infrastructure</q></i>.<p>This indicator measures total official development assistance (ODA) from all donors to infrastructure, measured as 2015 aUS$ received per recipient country.
+</p>
+            <p><strong>Goal:</strong> <i><q>Facilitate sustainable and resilient infrastructure development in developing countries through enhanced financial, technological and technical support to African countries, least developed countries, landlocked developing countries and small island developing States</q></i> by 2030.</p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/total-oda-for-infrastructure-by-recipient" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
+
+<div class="target">
+    <h2>Target 9.B: Support domestic technology development and industrial diversification</h2>
+    <p>UN definition: <q>Support domestic technology development, research and innovation in developing countries, including by ensuring a conducive policy environment for, inter alia, industrial diversification and value addition to commodities.</q></p>
+    <p>SDG Indicators: <br><a href="#9.B.1">9.B.1 Proportion of medium and high-tech industry value added in total value added</a>.</p>
+</div>
+
+<div class="indicator" id="9.B.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 9.B.1</span>
+            <h3>Development assistance for infrastructure</h3>
+            <p><strong>Definition:</strong> Indicator 9.B.1 is the <i><q>proportion of medium and high-tech industry value added in total value added</q></i>.<p>This indicator measures the share of a country's manufacturing value added which is derived from medium to high-tech industry outputs. Higher values indicate that a country's industrial sector is more focused on high-tech and innovation products.
+</p>
+            <p><strong>Goal:</strong> <i><q>Support domestic technology development, research and innovation in developing countries, including by ensuring a conducive policy environment for, inter alia, industrial diversification and value addition to commodities</q></i> by 2030.</p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/total-manufacturing-value-added-from-high-tech" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
+
+<div class="target">
+    <h2>Target 9.C: Universal access to information and communications technology</h2>
+    <p>UN definition: <q>Significantly increase access to information and communications technology and strive to provide universal and affordable access to the Internet in least developed countries by 2020.</q></p>
+    <p>SDG Indicators: <br><a href="#9.C.1">9.C.1 Proportion of population covered by a mobile network, by technology</a>.</p>
+</div>
+
+<div class="indicator" id="9.C.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 9.C.1</span>
+            <h3>Development assistance for infrastructure</h3>
+            <p><strong>Definition:</strong> Indicator 9.C.1 is the <i><q>proportion of population covered by a mobile network, by technology</q></i>.<p>There are two technology types featured for this indicator: the number of mobile cellphone subscriptions (per 100 people), and the share of a given population using the internet (on any device).
+</p>
+            <p><strong>Goal:</strong> <i><q>strive to provide universal and affordable access to the Internet in least developed countries by 2020</q></i>.<p>Unlike most SDG targets which are set for the year 2030, this indicator is set for 2020.</p>
+            <p><strong>More research:</strong> Further data and research on these topics are available at the <i>Our World in Data</i> entries on <a href="https://ourworldindata.org/internet">Internet</a> and <a href="https://ourworldindata.org/technology-adoption">Technology Diffusion & Adoption</a>.</p>
+            <p><strong>Additional charts:</strong> <br><a href="https://ourworldindata.org/grapher/mobile-cellular-subscriptions-by-country?tab=chart&country=IND+NGA+PAK+THA+GBR">Mobile phone subscriptions by country</a> <br><a href="https://ourworldindata.org/grapher/internet-users-by-world-region">Internet users by region</a></p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/mobile-cellular-subscriptions-per-100-people" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/share-of-individuals-using-the-internet" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
