@@ -164,3 +164,148 @@ disabilities</a>.</p>
 </div>
 </div>
 </div>
+
+<div class="target">
+    <h2>Target 8.6: Promote youth employment, education and training</h2>
+    <p>UN definition: <q>By 2020, substantially reduce the proportion of youth not in employment, education or training.</q></p>
+    <p>SDG Indicators: <br><a href="#8.6.1">8.6.1 Proportion of youth (aged 15–24 years) not in education, employment or training</a>.</p>
+</div>
+
+<div class="indicator" id="8.6.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 8.6.1</span>
+            <h3>Youth employment, education and training</h3>
+            <p><strong>Definition:</strong> Indicator 8.6.1 is the <i><q>proportion of youth (aged 15–24 years) not in education, employment or training</q></i>.<p>Current data for this indicator reports the share of young people (aged 15-29 years) not in education, employment or training (NEET) in a given year.</p>
+            <p><strong>Goal:</strong> <i><q>Substantially reduce the proportion of youth not in employment, education or training</q></i>.<p>Unlike most SDG targets set for the year 2030, this is set to be achieved by 2020.</p>
+           <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/tertiary-education">entry on Tertiary Education</a>.
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/youth-not-in-education-employment-training" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
+
+<div class="target">
+    <h2>Target 8.7: End modern slavery, trafficking, and child labour</h2>
+    <p>UN definition: <q>Take immediate and effective measures to eradicate forced labour, end modern slavery and human trafficking and secure the prohibition and elimination of the worst forms of child labour, including recruitment and use of child soldiers, and by 2025 end child labour in all its forms.</q></p>
+    <p>SDG Indicators: <br><a href="#8.7.1">8.7.1 Proportion and number of children aged 5–17 years engaged in child labour, by sex and age</a>.</p>
+</div>
+
+<div class="indicator" id="8.7.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 8.7.1</span>
+            <h3>Youth employment, education and training</h3>
+            <p><strong>Definition:</strong> Indicator 8.7.1 is the <i><q>proportion and number of children aged 5–17 years engaged in child labour, by sex and age</q></i>.<p>Current data for this indicator reports the share of children aged 7-14 years old in employment (working for at least one hour in week previous to the survey). This is also shown available by sex.</p>
+            <p><strong>Goal:</strong> <i><q>End child labour in all its forms</q></i> by 2025.</p>
+           <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/child-labor">entry on Child Labor</a>.
+           <p><strong>Additional charts:</strong> <br><a href="https://ourworldindata.org/grapher/average-working-hours-of-children">Average weekly working hours of children</a>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/incidence-of-child-labour?tab=map&year=2015" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/percentage-of-children-in-employment-by-sex" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
+
+<div class="target">
+    <h2>Target 8.8: Protect labour rights and promote safe working environments</h2>
+    <p>UN definition: <q>Protect labour rights and promote safe and secure working environments for all workers, including migrant workers, in particular women migrants, and those in precarious employment.</q></p>
+    <p>SDG Indicators: <br><a href="#8.8.1">8.8.1 Frequency rates of fatal and non-fatal occupational injuries, by sex and migrant status</a> <br><a href="#8.8.2">8.8.2 Level of national compliance with labour rights
+(freedom of association and collective bargaining) based on International Labour Organization (ILO) textual sources and national legislation, by sex and migrant status</a>.</p>
+</div>
+
+<div class="indicator" id="8.8.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 8.8.1</span>
+            <h3>Youth employment, education and training</h3>
+            <p><strong>Definition:</strong> Indicator 8.8.1 is the <i><q>frequency rates of fatal and non-fatal occupational injuries, by sex and migrant status</q></i>.<p>Data for this indicator reports the frequency rates of non-fatal and fatal occupational injuries by country. This is measured as the number of injuries per 100,000 employees.</p>
+            <p><strong>Goal:</strong> <i><q>Protect labour rights and promote safe and secure working environments for all workers</q></i> by 2030.</p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/non-fatal-occupational-injuries-per-100000" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/fatal-occupational-injuries-among-employees" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
+
+<hr>
+
+<div class="indicator" id="8.8.2">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 8.8.2</span>
+            <h3>Youth employment, education and training</h3>
+            <p><strong>Definition:</strong> Indicator 8.8.2 is the <i><q>frequency rates of fatal and non-fatal occupational injuries, by sex and migrant status</q></i>.<p>Data for this indicator reports the frequency rates of non-fatal and fatal occupational injuries by country. This is measured as the number of injuries per 100,000 employees.</p>
+            <p><strong>Goal:</strong> <i><q>Protect labour rights and promote safe and secure working environments for all workers</q></i> by 2030.</p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/non-fatal-occupational-injuries-per-100000" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/fatal-occupational-injuries-among-employees" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
+
+<div class="target">
+    <h2>Target 8.9: Promote beneficial and sustainable tourism</h2>
+    <p>UN definition: <q>By 2030, devise and implement policies to promote sustainable tourism that creates jobs and promotes local culture and products.</q></p>
+    <p>SDG Indicators: <br><a href="#8.9.1">8.9.1 Tourism direct GDP as a proportion of total GDP and in growth rate</a> <br><a href="#8.9.2">8.9.2 Proportion of jobs in sustainable tourism industries out of total tourism jobs</a>.</p>
+</div>
+
+<div class="indicator" id="8.9.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 8.9.1</span>
+            <h3>Tourism contribution to GDP</h3>
+            <p><strong>Definition:</strong> Indicator 8.9.1 is <i><q>tourism direct GDP as a proportion of total GDP and in growth rate</q></i>.</p>
+            <p><strong>Goal:</strong> <i><q>By 2030, devise and implement policies to promote sustainable tourism that creates jobs and promotes local culture and products</q></i>.</p>
+            <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/tourism">entry on Tourism</a>.</p>
+            <p><strong>Additional charts:</strong> <br><a href="https://ourworldindata.org/grapher/international-tourism-number-of-arrivals">Number of tourist arrivals</a></p>      
+        </div>
+        <div class="col-md">
+            <br><br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+        </div>
+    </div>
+</div>
+
+<hr>
+
+<div class="indicator" id="8.9.2">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 8.9.2</span>
+            <h3>Sustainable tourism jobs</h3>
+            <p><strong>Definition:</strong> Indicator 8.9.2 is the <i><q>proportion of jobs in sustainable tourism industries out of total tourism jobs</q></i>.</p>
+            <p><strong>Goal:</strong> <i><q>By 2030, devise and implement policies to promote sustainable tourism that creates jobs and promotes local culture and products</q></i>.</p>
+            <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/tourism">entry on Tourism</a>.</p>    
+        </div>
+        <div class="col-md">
+            <br><br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+        </div>
+    </div>
+</div>
+
+<div class="target">
+    <h2>Target 8.10: Universal access to banking, insurance and financial services</h2>
+    <p>UN definition: <q>Strengthen the capacity of domestic financial institutions to encourage and expand access to banking, insurance and financial services for all.</q></p>
+    <p>SDG Indicators: <br><a href="#8.10.1">8.10.1 (a) Number of commercial bank branches per 100,000 adults and (b) number of automated teller machines (ATMs) per 100,000 adults</a> <br><a href="#8.10.2">8.10.2 Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider</a>.</p>
+</div>
+
+<div class="indicator" id="8.8.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 8.8.1</span>
+            <h3>Youth employment, education and training</h3>
+            <p><strong>Definition:</strong> Indicator 8.8.1 is the <i><q>frequency rates of fatal and non-fatal occupational injuries, by sex and migrant status</q></i>.<p>Data for this indicator reports the frequency rates of non-fatal and fatal occupational injuries by country. This is measured as the number of injuries per 100,000 employees.</p>
+            <p><strong>Goal:</strong> <i><q>Protect labour rights and promote safe and secure working environments for all workers</q></i> by 2030.</p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/non-fatal-occupational-injuries-per-100000" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/fatal-occupational-injuries-among-employees" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
+
+<hr>
