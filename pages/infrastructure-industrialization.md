@@ -133,3 +133,25 @@ employment</q></i>.<p>This indicator measures the manufacturing sector's employm
         </div>
     </div>
 </div>
+
+<div class="target">
+    <h2>Target 9.4: Upgrade all industries and infrastructures for sustainability</h2>
+    <p>UN definition: <q>By 2030, upgrade infrastructure and retrofit industries to make them sustainable, with increased resource-use efficiency and greater adoption of clean and environmentally sound technologies and industrial processes, with all countries taking action in accordance with their respective capabilities.</q></p>
+    <p>SDG Indicators: <br><a href="#9.4.1">9.4.1 CO<sub>2</sub> emissions per unit of value added</a></p>
+</div>
+
+<div class="indicator" id="9.4.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 9.4.1</span>
+            <h3>CO<sub>2</sub> emissions per unit value added</h3>
+            <p><strong>Definition:</strong> Indicator 9.4.1 is <i><q>CO<sub>2</sub> emissions per unit of value added</q></i>.<p>This indicator is a measure of carbon intensity; it reports the quantity of carbon dioxide emissions generated per unit of economic value (kilograms of CO<sub>2</sub> emitted per dollar of GDP). 
+</p>
+            <p><strong>Goal:</strong> <i><q>By 2030, upgrade infrastructure and retrofit industries to make them sustainable, with increased resource-use efficiency and greater adoption of clean and environmentally sound technologies and industrial processes</q></i>.</p>
+            <p><strong>More research:</strong> Further data and research on these topics are available at the <i>Our World in Data</i> <a href="https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions">entry on CO<sub>2</sub> and other Greenhouse Gas Emissions</a>.</p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/carbon-emission-intensity-of-economies?tab=map" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
