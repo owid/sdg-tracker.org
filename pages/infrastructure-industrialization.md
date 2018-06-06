@@ -250,7 +250,7 @@ infrastructure</a>.</p>
             <h3>Development assistance for infrastructure</h3>
             <p><strong>Definition:</strong> Indicator 9.C.1 is the <i><q>proportion of population covered by a mobile network, by technology</q></i>.<p>There are two technology types featured for this indicator: the number of mobile cellphone subscriptions (per 100 people), and the share of a given population using the internet (on any device).
 </p>
-            <p><strong>Goal:</strong> <i><q>strive to provide universal and affordable access to the Internet in least developed countries by 2020</q></i>.<p>Unlike most SDG targets which are set for the year 2030, this indicator is set for 2020.</p>
+            <p><strong>Goal:</strong> <i><q>Strive to provide universal and affordable access to the Internet in least developed countries by 2020</q></i>.<p>Unlike most SDG targets which are set for the year 2030, this indicator is set for 2020.</p>
             <p><strong>More research:</strong> Further data and research on these topics are available at the <i>Our World in Data</i> entries on <a href="https://ourworldindata.org/internet">Internet</a> and <a href="https://ourworldindata.org/technology-adoption">Technology Diffusion & Adoption</a>.</p>
             <p><strong>Additional charts:</strong> <br><a href="https://ourworldindata.org/grapher/mobile-cellular-subscriptions-by-country?tab=chart&country=IND+NGA+PAK+THA+GBR">Mobile phone subscriptions by country</a> <br><a href="https://ourworldindata.org/grapher/internet-users-by-world-region">Internet users by region</a></p>
         </div>
