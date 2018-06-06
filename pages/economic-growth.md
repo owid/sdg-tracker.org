@@ -85,3 +85,42 @@ featuredImage: /img/uploads/8.svg
         </div>
     </div>
 </div>
+
+<div class="target">
+    <h2>Target 8.4: Improve resource efficiency in consumption and production</h2>
+    <p>UN definition: <q>Improve progressively, through 2030, global resource efficiency in consumption and production and endeavour to decouple economic growth from environmental degradation, in accordance with the 10‑Year Framework of Programmes on Sustainable Consumption and Production, with developed countries taking the lead.</q></p>
+    <p>SDG Indicators: <br><a href="#8.4.1">8.4.1 Material footprint, material footprint per capita, and material footprint per GDP</a> <br><a href="#8.4.2">8.4.2 Domestic material consumption, domestic material
+consumption per capita, and domestic material consumption per GDP</a>.</p>
+</div>
+
+<div class="indicator" id="8.4.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 8.4.1</span>
+            <h3>Material footprint</h3>
+            <p><strong>Definition:</strong> Indicator 8.4.1 is <i><q>material footprint, material footprint per capita, and material footprint per GDP</q></i>.<p>Material Footprint (MF) is the attribution of global material extraction to domestic final demand of a country. The total material footprint is the sum of the material footprint for biomass, fossil fuels, metal ores and non-metal ores. <p>Data on material footprints are outdated and unavailable for years following 2010.</p>
+            <p><strong>Goal:</strong> <i><q>Improve progressively, through 2030, global resource efficiency in consumption and production and endeavour to decouple economic growth from environmental degradation</q></i>.</p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/material-footprint-per-capita" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/material-footprint-per-unit-of-gdp" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
+
+<hr>
+
+<div class="indicator" id="8.4.2">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 8.4.2</span>
+            <h3>Material footprint</h3>
+            <p><strong>Definition:</strong> Indicator 8.4.2 is <i><q>domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP</q></i>.<p>Material Footprint (MF) is the attribution of global material extraction to domestic final demand of a country. The total material footprint is the sum of the material footprint for biomass, fossil fuels, metal ores and non-metal ores. <p>Domestic Material Consumption (DMC) is a production-side measure which does not account for supply chain inputs or exports, meaning a country could have a lower DMC value if it outsources a large proportion of its materials. Data on material footprints are outdated and unavailable for years following 2010.</p>
+            <p><strong>Goal:</strong> <i><q>Improve progressively, through 2030, global resource efficiency in consumption and production and endeavour to decouple economic growth from environmental degradation</q></i>.</p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/domestic-material-consumption-per-capita" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/domestic-material-consumption-per-unit-of-gdp" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
