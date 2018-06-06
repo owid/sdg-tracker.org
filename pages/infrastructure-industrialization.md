@@ -155,3 +155,41 @@ employment</q></i>.<p>This indicator measures the manufacturing sector's employm
         </div>
     </div>
 </div>
+
+<div class="target">
+    <h2>Target 9.5: Enhance research and upgrade industrial technologies</h2>
+    <p>UN definition: <q>Enhance scientific research, upgrade the technological capabilities of industrial sectors in all countries, in particular developing countries, including, by 2030, encouraging innovation and substantially increasing the number of research and development workers per 1 million people and public and private research and development spending.</q></p>
+    <p>SDG Indicators: <br><a href="#9.5.1">9.5.1 research and development expenditure as a proportion of GDP</a> <br><a href="#9.5.2">9.5.2 Researchers (in full-time equivalent) per million inhabitants</a></p>
+</div>
+
+<div class="indicator" id="9.5.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 9.5.1</span>
+            <h3>Research and Development (R&D) spending</h3>
+            <p><strong>Definition:</strong> Indicator 9.5.1 is <i><q>research and development expenditure as a proportion of GDP</q></i>.<p>This indicator measures expenditure on research and development (R&D) activities as a percentage of total gross domestic product (GDP) of a given country. <p>Expenditures for research and development are current and capital expenditures (both public and private) on creative work undertaken systematically to increase knowledge, including knowledge of humanity, culture, and society, and the use of knowledge for new applications. R&D covers basic research, applied research, and experimental development. 
+</p>
+            <p><strong>Goal:</strong> <i><q>Enhance scientific research, upgrade the technological capabilities of industrial sectors in all countries, in particular developing countries, including, by 2030, substantially increasing public and private research and development spending</q></i>.</p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/research-and-development-expenditure-of-gdp" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
+
+<hr>
+
+<div class="indicator" id="9.5.2">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 9.5.2</span>
+            <h3>Researchers per million inhabitants</h3>
+            <p><strong>Definition:</strong> Indicator 9.5.2 is the number of <i><q>researchers (in full-time equivalent) per million inhabitants</q></i>.<p>Researchers in R&D are professionals engaged in the conception or creation of new knowledge, products, processes, methods, or systems and in the management of the projects concerned. Postgraduate PhD students engaged in R&D are included.
+</p>
+            <p><strong>Goal:</strong> <i><q>Enhance scientific research, upgrade the technological capabilities of industrial sectors in all countries, in particular developing countries, including, by 2030, substantially increasing the number of research and development workers per 1 million people</q></i>.</p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/researchers-in-rd-per-million-people" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
