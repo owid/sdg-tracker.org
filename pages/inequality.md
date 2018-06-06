@@ -30,7 +30,7 @@ featuredImage: /img/uploads/10.svg
 <div class="target">
     <h2>Target 10.1: Reduce income inequalities</h2>
     <p>UN definition: <q>By 2030, progressively achieve and sustain income growth of the bottom 40 per cent of the population at a rate higher than the national average.</q></p>
-    <p>SDG Indicators: <br><a href="#10.1.1">10.1.1 Growth rates of household expenditure or income per capita among the bottom 40 per cent of the population and the total population</a>.</p>
+    <p>SDG Indicators: <br><a href="#10.1.1">10.1.1 Growth rates of household expenditure or income per capita among the bottom 40 per cent of the population and the total population</a></p>
 </div>
 
 <div class="indicator" id="10.1.1">
@@ -52,7 +52,7 @@ featuredImage: /img/uploads/10.svg
 <div class="target">
     <h2>Target 10.2: Promote universal social, economic and political inclusion</h2>
     <p>UN definition: <q>By 2030, empower and promote the social, economic and political inclusion of all, irrespective of age, sex, disability, race, ethnicity, origin, religion or economic or other status.</q></p>
-    <p>SDG Indicators: <br><a href="#10.2.1">10.2.1 Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities</a>.</p>
+    <p>SDG Indicators: <br><a href="#10.2.1">10.2.1 Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities</a></p>
 </div>
 
 <div class="indicator" id="10.2.1">
@@ -74,7 +74,7 @@ featuredImage: /img/uploads/10.svg
     <h2>Target 10.3: Ensure equal opportunities and end discrimination</h2>
     <p>UN definition: <q>Ensure equal opportunity and reduce inequalities of outcome, including by eliminating discriminatory laws, policies and practices and promoting appropriate legislation, policies and action in this regard.</q></p>
     <p>SDG Indicators: <br><a href="#10.3.1">10.3.1 Proportion of population reporting having personally felt discriminated against or harassed in the
-previous 12 months on the basis of a ground of discrimination prohibited under international human rights law</a>.</p>
+previous 12 months on the basis of a ground of discrimination prohibited under international human rights law</a></p>
 </div>
 
 <div class="indicator" id="10.3.1">
@@ -87,6 +87,47 @@ previous 12 months on the basis of a ground of discrimination prohibited under i
         </div>
         <div class="col-md">
             <br><br><br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+        </div>
+    </div>
+</div>
+
+<div class="target">
+    <h2>Target 10.4: Adopt fiscal and social policies that promotes equality</h2>
+    <p>UN definition: <q>Adopt policies, especially fiscal, wage and social protection policies, and progressively achieve greater equality.</q></p>
+    <p>SDG Indicators: <br><a href="#10.4.1">10.4.1 Labour share of GDP, comprising wages and social protection transfers</a></p>
+</div>
+
+<div class="indicator" id="10.4.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 10.4.1</span>
+            <h3>Policies for greater equality</h3>
+            <p><strong>Definition:</strong> Indicator 10.4.1 is the <i><q>labour share of GDP, comprising wages and social protection transfers</q></i>.<p>This indicator measures the the percentage of gross domestic product (GDP) derived from labour, which is inclusive of wages and social protection transfers.</p>
+            <p><strong>Goal:</strong> <i><q>Adopt policies, especially fiscal, wage and social protection policies, and progressively achieve greater equality</q></i> by 2030.</p>
+            <p><strong>More research:</strong> Further data and research on this topic can be found at <i>Our World in Data</i> entries on <a href="https://ourworldindata.org/income-inequality">Income Inequality</a> and <a href="https://ourworldindata.org/global-economic-inequality">Global Economic inequality</a>.</p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/labour-share-of-gdp" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
+
+<div class="target">
+    <h2>Target 10.5: Improved regulation of global financial markets and institutions</h2>
+    <p>UN definition: <q>Improve the regulation and monitoring of global financial markets and institutions and strengthen the implementation of such regulations.</q></p>
+    <p>SDG Indicators: <br><a href="#10.5.1">10.5.1 Financial Soundness Indicators</a></p>
+</div>
+
+<div class="indicator" id="10.4.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 10.5.1</span>
+            <h3>Regulating financial markets</h3>
+            <p><strong>Definition:</strong> Indicator 10.5.1 is the <i><q>financial soundness indicator</q></i>.</p>
+            <p><strong>Goal:</strong> <i><q>Improve the regulation and monitoring of global financial markets and institutions and strengthen the implementation of such regulations</q></i> by 2030.</p>
+        </div>
+        <div class="col-md">
+            <br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
         </div>
     </div>
 </div>
