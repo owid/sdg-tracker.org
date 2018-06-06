@@ -293,19 +293,34 @@ disabilities</a>.</p>
     <p>SDG Indicators: <br><a href="#8.10.1">8.10.1 (a) Number of commercial bank branches per 100,000 adults and (b) number of automated teller machines (ATMs) per 100,000 adults</a> <br><a href="#8.10.2">8.10.2 Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider</a>.</p>
 </div>
 
-<div class="indicator" id="8.8.1">
+<div class="indicator" id="8.10.1">
     <div class="row">
         <div class="col-md">
-            <span>SDG Indicator 8.8.1</span>
-            <h3>Youth employment, education and training</h3>
-            <p><strong>Definition:</strong> Indicator 8.8.1 is the <i><q>frequency rates of fatal and non-fatal occupational injuries, by sex and migrant status</q></i>.<p>Data for this indicator reports the frequency rates of non-fatal and fatal occupational injuries by country. This is measured as the number of injuries per 100,000 employees.</p>
-            <p><strong>Goal:</strong> <i><q>Protect labour rights and promote safe and secure working environments for all workers</q></i> by 2030.</p>
+            <span>SDG Indicator 8.10.1</span>
+            <h3>Access to financial services</h3>
+            <p><strong>Definition:</strong> Indicator 8.10.1 is the <i><q>(a) Number of commercial bank branches per 100,000 adults and (b) number of automated teller machines (ATMs) per 100,000 adults</q></i>.<p>Data presented here details the number of commercial bank branches and ATMs per 100,000 people in a given country.</p>
+            <p><strong>Goal:</strong> <i><q>Strengthen the capacity of domestic financial institutions</q></i> by 2030.</p>
         </div>
         <div class="col-md">
-            <iframe src="https://ourworldindata.org/grapher/non-fatal-occupational-injuries-per-100000" style="width: 100%; height: 600px; border: 0px none;"></iframe>
-            <iframe src="https://ourworldindata.org/grapher/fatal-occupational-injuries-among-employees" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/number-of-commercial-bank-branches-per-100000-adults" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/automated-teller-machines-atms-per-100000-adults" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
 </div>
 
 <hr>
+
+<div class="indicator" id="8.10.2">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 8.10.2</span>
+            <h3>Access to financial services</h3>
+            <p><strong>Definition:</strong> Indicator 8.10.2 is the <i><q>proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider</q></i>.<p>Data presented here details the percentage of adults (aged 15 and older) who report having an account (by themselves or together with someone else) at a bank or another type of financial institution.</p>
+            <p><strong>Goal:</strong> <i><q>Encourage and expand access to banking, insurance and financial services for all</q></i> by 2030.</p>
+            <p><strong>Additional charts:</strong> <br><a href="https://ourworldindata.org/grapher/registered-mobile-money-accounts-by-region">Registered mobile money reports by region</a></p> 
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/account-at-financial-institution" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
