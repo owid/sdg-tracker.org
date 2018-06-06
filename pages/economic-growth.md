@@ -324,3 +324,25 @@ disabilities</a>.</p>
         </div>
     </div>
 </div>
+
+<div class="target">
+    <h2>Target 8.A: Increase aid for trade support</h2>
+    <p>UN definition: <q>Increase Aid for Trade support for developing countries, in particular least developed countries, including through the Enhanced Integrated Framework for Trade-related Technical Assistance to Least Developed Countries.</q></p>
+    <p>SDG Indicators: <br><a href="#8.A.1">8.A.1 Aid for Trade commitments and disbursements</a>.</p>
+</div>
+
+<div class="indicator" id="8.A.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 8.A.1</span>
+            <h3>Aid for trade</h3>
+            <p><strong>Definition:</strong> Indicator 8.A.1 is <i><q>aid for trade commitments and disbursements</q></i>.<p>Aid for Trade is reported here by recipient, as well as by donor country. This is measured as total Official Development Assistance (ODA) allocated to aid for trade in 2015 US$.</p>
+            <p><strong>Goal:</strong> <i><q>Increase Aid for Trade support for developing countries</q></i> by 2030.</p>
+            <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/international-trade">entry on International Trade</a>.</p>    
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/total-oda-for-aid-for-trade-by-recipient" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/total-oda-for-aid-for-trade-by-donor" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
