@@ -94,3 +94,45 @@ featuredImage: /img/uploads/7.svg
         </div>
     </div>
 </div>
+
+<div class="target">
+<h2>Target 7.3: Double the improvement in energy efficiency</h2>
+<p>UN definition: <q>By 2030, double the global rate of improvement in energy efficiency.</q></p>
+<p>SDG Indicators: <br><a href="#7.3.1">7.3.1 Energy intensity measured in terms of primary energy and GDP</a>.</p>
+</div>
+
+<div class="indicator" id="7.3.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 7.3.1</span>
+            <h3>Energy efficiency</h3>
+            <p><strong>Definition:</strong> Indicator 7.3.1 is <i><q>energy intensity measured in terms of primary energy and GDP</q></i>.<p>This is measured as the energy intensity of economies (collectively across all sectors). Energy intensity is measured as the quantity of kilowatt-hours produced per 2011 international-$ of gross domestic product (kWh per 2011 int-$).</p>
+            <p><strong>Goal:</strong> <i><q>By 2030, double the global rate of improvement in energy efficiency</q></i>.</p>
+            <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i><a href="https://ourworldindata.org/energy-production-and-changing-energy-sources"> entry on Energy Production & Changing Energy Sources</a>.</p>
+            <p><strong>Additional charts:</strong> <br><a href="https://ourworldindata.org/grapher/energy-intensity-by-sector">Energy intensity by sector</a> 
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/energy-intensity-of-economies" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
+
+<div class="target">
+<h2>Target 7.A: Promote access, technology and investments in clean energy</h2>
+<p>UN definition: <q>By 2030, enhance international cooperation to facilitate access to clean energy research and technology, including renewable energy, energy efficiency and advanced and cleaner fossil-fuel technology, and promote investment in energy infrastructure and clean energy technology.</q></p>
+<p>SDG Indicators: <br><a href="#7.A.1">7.A.1 International financial flows to developing countries in support of clean energy research and development and renewable energy production, including in hybrid systems</a>.</p>
+</div>
+
+<div class="indicator" id="7.A.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 7.A.1</span>
+            <h3>Access and investments in clean energy</h3>
+            <p><strong>Definition:</strong> Indicator 7.A.1 is <i><q>international financial flows to developing countries in support of clean energy research and development and renewable energy production, including in hybrid systems</q></i>.</p>
+            <p><strong>Goal:</strong> <i><q>Enhance international cooperation to facilitate access to clean energy research and technology, including renewable energy, energy efficiency and advanced and cleaner fossil-fuel technology, and promote investment in energy infrastructure and clean energy technology</q></i> by 2030.</p>
+        </div>
+        <div class="col-md">
+            <br><br><br><br><br><br><br><b>We are currently not aware of available data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+        </div>
+    </div>
+</div>
