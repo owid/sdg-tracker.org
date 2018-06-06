@@ -115,3 +115,26 @@ of all cultural and natural heritage, by type of heritage (cultural, natural, mi
         </div>
     </div>
 </div>
+
+<div class="target">
+    <h2>Target 11.5: Reduce the adverse effects of natural disasters</h2>
+    <p>UN definition: <q>By 2030, significantly reduce the number of deaths and the number of people affected and substantially decrease the direct economic losses relative to global gross domestic product caused by disasters, including water-related disasters, with a focus on protecting the poor and people in vulnerable situations.</q></p>
+    <p>SDG Indicators: <br><a href="#11.5.1">11.5.1 Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population</a> <br><a href="#11.5.2">11.5.2 Direct economic loss in relation to global GDP, damage to critical infrastructure and number of disruptions to basic services, attributed to disasters</a></p>
+</div>
+
+<div class="indicator" id="11.5.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 11.5.1</span>
+            <h3>Deaths and injuries from natural disasters</h3>
+            <p><strong>Definition:</strong> Indicator 11.5.1 is the <i><q>number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population</q></i>.<p>Indicators measured here report mortality rates internally displaced persons, missing persons and total numbers affected by natural disasters.</p>
+            <p><strong>Goal:</strong> <i><q>By 2030, significantly reduce the number of deaths and the number of people affected by disasters</q></i>.</p>
+           <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> on <a href="https://ourworldindata.org/natural-catastrophes">Natural Catastrophes</a>.</p>
+           <p><strong>Additional charts:</strong> <br><a href="https://ourworldindata.org/grapher/natural-disaster-deaths-ihme">Total deaths from natural disasters</a></p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/death-rates-from-disasters?tab=chart" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/internally-displaced-persons-from-disasters" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
