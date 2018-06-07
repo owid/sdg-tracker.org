@@ -122,3 +122,40 @@ consumption per capita, and domestic material consumption per GDP</a></p>
         </div>
     </div>
 </div>
+
+<hr>
+
+<div class="indicator" id="12.4.2">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 12.4.2</span>
+            <h3>International agreements on hazardous waste</h3>
+            <p><strong>Definition:</strong> Indicator 12.4.2 is <i><q>hazardous waste generated per capita and proportion of hazardous waste treated, by type of treatment</q></i>.</p>
+            <p><strong>Goal:</strong> <i><q>Achieve the environmentally sound management of chemicals and all wastes throughout their life cycle, in accordance with agreed international frameworks</q></i> by 2020.<p>Unlike most SDG targets which are set for the year 2030, this indicator is set for 2020.</p>
+        </div>
+        <div class="col-md">
+              <br><br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+        </div>
+    </div>
+</div>
+
+<div class="target">
+    <h2>Target 12.5: Substantially reduce waste generation</h2>
+    <p>UN definition: <q>By 2030, substantially reduce waste generation through prevention, reduction, recycling and reuse.</q></p>
+    <p>SDG Indicators: <br><a href="#12.5.1">12.5.1 National recycling rate, tons of material recycled</a></p>
+</div>
+
+<div class="indicator" id="12.5.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 12.5.1</span>
+            <h3>Recycling rates</h3>
+            <p><strong>Definition:</strong> Indicator 12.5.1 is the <i><q>national recycling rate, tons of material recycled</q></i>.<p>Limited data is available for recycling rates of paper and cardboard, and glass. This is only available for a small subset of countries and is not available beyond 2005.</p>
+            <p><strong>Goal:</strong> <i><q>By 2030, substantially reduce waste generation through prevention, reduction, recycling and reuse</q></i>.<p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/recycling-rates-paper-and-cardboard" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/recycling-rates-glass" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
