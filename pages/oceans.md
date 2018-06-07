@@ -143,3 +143,24 @@ featuredImage: /img/uploads/14.svg
         </div>
     </div>
 </div>
+
+<div class="target">
+    <h2>Target 14.7: Increase the economic benefits from sustainable use of marine resources</h2>
+    <p>UN definition: <q>By 2030, increase the economic benefits to small island developing States and least developed countries from the sustainable use of marine resources, including through sustainable management of fisheries, aquaculture and tourism.</q></p>
+    <p>SDG Indicators: <br><a href="#14.7.1">14.7.1 Sustainable fisheries as a proportion of GDP in small island developing States, least developed countries
+and all countries</a></p>
+</div>
+
+<div class="indicator" id="14.7.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 14.7.1</span>
+            <h3>Income from sustainable fisheries</h3>
+            <p><strong>Definition:</strong> Indicator 14.7.1 is <i><q>sustainable fisheries as a proportion of GDP</q></i>.</p>
+            <p><strong>Goal:</strong> <i><q>By 2030, increase the economic benefits to small island developing States and least developed countries from the sustainable use of marine resources, including through sustainable management of fisheries, aquaculture and tourism</q></i>.</p>
+        </div>
+        <div class="col-md">
+            <br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+        </div>
+    </div>
+</div>
