@@ -167,7 +167,7 @@ policy/strategy/plan which increases their ability to adapt to the adverse impac
            <p><strong>Additional charts:</strong> <br><a href="https://ourworldindata.org/grapher/green-climate-fund-pledges-per-capita">Green Climate Fund (GCF) pledges per capita</a></p>
         </div>
         <div class="col-md">
-            <iframe src="https://ourworldindata.org/grapher/green-climate-fund-pledges" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/green-climate-gcf-fund-pledges" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
 </div>
