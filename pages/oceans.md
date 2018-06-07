@@ -93,11 +93,33 @@ featuredImage: /img/uploads/14.svg
         <div class="col-md">
             <span>SDG Indicator 14.4.1</span>
             <h3>Fish stocks within sustainable levels</h3>
-            <p><strong>Definition:</strong> Indicator 14.3.1 is the <i><q>proportion of fish stocks within biologically sustainable levels</q></i>.<p>This indicator measures the proportion of global fish stocks which are overexploited, fully exploited and not fully exploited.<p> A fish stock withabundance equal to or above the maximum sustainableyield (MSY) is classified as biologically sustainable. Whenabundance falls below the MSY level, the stock isconsidered biologically unsustainable. </p>
+            <p><strong>Definition:</strong> Indicator 14.4.1 is the <i><q>proportion of fish stocks within biologically sustainable levels</q></i>.<p>This indicator measures the proportion of global fish stocks which are overexploited, fully exploited and not fully exploited.<p> A fish stock with abundance equal to or above the maximum sustainable yield (MSY) is classified as biologically sustainable. When abundance falls below the MSY level, the stock is considered biologically unsustainable. </p>
             <p><strong>Goal:</strong> <i><q>By 2020, effectively regulate harvesting and end overfishing, illegal, unreported and unregulated fishing and destructive fishing practices and implement science-based management plans, in order to restore fish stocks in the shortest time feasible, at least to levels that can produce maximum sustainable yield</q></i>.<p>Unlike most SDG targets, which have a target year of 2030, this indicator is set to be achieved by 2020.</p>
+            <p><strong>More research:</strong> Further data and research on global and national fishing and seafood production can be found at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/meat-and-seafood-production-consumption">Meat and Seafood Production & Consumption</a>.</p>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/fish-stocks-within-sustainable-levels" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
+
+<div class="target">
+    <h2>Target 14.5: Conserve coastal and marine areas</h2>
+    <p>UN definition: <q>By 2020, conserve at least 10 per cent of coastal and marine areas, consistent with national and international law and based on the best available scientific information.</q></p>
+    <p>SDG Indicators: <br><a href="#14.5.1">14.5.1 Coverage of protected areas in relation to marine areas</a></p>
+</div>
+
+<div class="indicator" id="14.5.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 14.5.1</span>
+            <h3>Protected marine areas</h3>
+            <p><strong>Definition:</strong> Indicator 14.5.1 is the <i><q>coverage of protected areas in relation to marine areas</q></i>.<p>Particular marine areas — specifically those of special scientific interest and high biodiversity — are often reserved and protected within national and international law. This indicator measures the share of territorial waters which are reserved for this protection.</p>
+            <p><strong>Goal:</strong> <i><q>By 2020, conserve at least 10 per cent of coastal and marine areas, consistent with national and international law and based on the best available scientific information</q></i>.<p>Unlike most SDG targets, which have a target year of 2030, this indicator is set to be achieved by 2020.</p>
+           <p><strong>Additional charts:</strong> <br><a href="https://ourworldindata.org/grapher/fish-species-threatened">Fish species threatened</a></p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/marine-protected-areas" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
 </div>
