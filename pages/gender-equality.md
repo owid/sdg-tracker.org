@@ -98,13 +98,14 @@ who have undergone female genital mutilation/cutting</a>.</p>
         <div class="col-md">
             <span>SDG Indicator 5.3.1</span>
             <h3>Women married before age 15 or 18</h3>
-            <p><strong>Definition:</strong> Indicator 5.3.1 is the <i><q>proportion of women aged 20–24 years who were married or in a union before age 15 and before age 18</q></i>.<p>This is measured as the share of women aged 20-24 years old who were married before the age of 18. Data on the proportion of women married before age 15 is not available.</p>
+            <p><strong>Definition:</strong> Indicator 5.3.1 is the <i><q>proportion of women aged 20–24 years who were married or in a union before age 15 and before age 18</q></i>.<p>This is measured as the share of women aged 20-24 years old who were married before the age of 15; and the share who were married before the age of 18.</p>
             <p><strong>Goal:</strong> <i><q>Eliminate child, early or forced marriage</q></i> by 2030.</p>
             <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/violence-against-rights-for-children">entry on Violence Against & Rights for Children</a>.</p>
             <p><strong>Additional charts:</strong> 
 <br><a href="https://ourworldindata.org/grapher/does-law-prohibit-or-invalidate-child-or-early-marriage">Does the law prohibit or invalidate child marriage?</a></p>
         </div>
         <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/women-married-by-age-15" style="width: 100%; height: 600px; border: 0px none;"></iframe>
             <iframe src="https://ourworldindata.org/grapher/women-married-by-age-18" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
