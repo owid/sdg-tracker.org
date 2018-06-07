@@ -115,11 +115,31 @@ featuredImage: /img/uploads/14.svg
             <span>SDG Indicator 14.5.1</span>
             <h3>Protected marine areas</h3>
             <p><strong>Definition:</strong> Indicator 14.5.1 is the <i><q>coverage of protected areas in relation to marine areas</q></i>.<p>Particular marine areas — specifically those of special scientific interest and high biodiversity — are often reserved and protected within national and international law. This indicator measures the share of territorial waters which are reserved for this protection.</p>
-            <p><strong>Goal:</strong> <i><q>By 2020, conserve at least 10 per cent of coastal and marine areas, consistent with national and international law and based on the best available scientific information</q></i>.<p>Unlike most SDG targets, which have a target year of 2030, this indicator is set to be achieved by 2020.</p>
+            <p><strong>Goal:</strong> <i><q>By 2020, conserve at least 10 per cent of coastal and marine areas, consistent with national and international law</q></i>.<p>Unlike most SDG targets, which have a target year of 2030, this indicator is set to be achieved by 2020.</p>
            <p><strong>Additional charts:</strong> <br><a href="https://ourworldindata.org/grapher/fish-species-threatened">Fish species threatened</a></p>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/marine-protected-areas" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
+
+<div class="target">
+    <h2>Target 14.6: End subsidies contributing to overfishing</h2>
+    <p>UN definition: <q>By 2020, prohibit certain forms of fisheries subsidies which contribute to overcapacity and overfishing, eliminate subsidies that contribute to illegal, unreported and unregulated fishing and refrain from introducing new such subsidies, recognizing that appropriate and effective special and differential treatment for developing and least developed countries should be an integral part of the World Trade Organization fisheries subsidies negotiation.</q></p>
+    <p>SDG Indicators: <br><a href="#14.6.1">14.6.1 Progress by countries in the degree of implementation of international instruments aiming to combat illegal, unreported and unregulated fishing</a></p>
+</div>
+
+<div class="indicator" id="14.6.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 14.6.1</span>
+            <h3>Combat illegal, unreported and unregulated fishing</h3>
+            <p><strong>Definition:</strong> Indicator 14.6.1 is <i><q>progress by countries in the degree of implementation of international instruments aiming to combat illegal, unreported and unregulated fishing</q></i>.</p>
+            <p><strong>Goal:</strong> <i><q>Prohibit certain forms of fisheries subsidies which contribute to overcapacity and overfishing, eliminate subsidies that contribute to illegal, unreported and unregulated fishing and refrain from introducing new such subsidies</q></i> by 2020.<p>Unlike most SDGs, which are set for the year 2030, this indicator is targeted for 2020.</p>
+        </div>
+        <div class="col-md">
+            <br><br><br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
         </div>
     </div>
 </div>
