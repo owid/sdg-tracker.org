@@ -102,12 +102,15 @@ policy/strategy/plan which increases their ability to adapt to the adverse impac
         <div class="col-md">
             <span>SDG Indicator 13.2.1</span>
             <h3>Integration of climate change into national policies</h3>
-            <p><strong>Definition:</strong> Indicator 13.2.1 is the <i><q>number of countries that have communicated the establishment or operationalization of an integrated policy/strategy/plan which increases their ability to adapt to the adverse impacts of climate change and foster climate resilience and low greenhouse gas emissions development</q></i>.<p>Indicators measured here report mortality rates internally displaced persons, missing persons and total numbers affected by natural disasters.</p>
+            <p><strong>Definition:</strong> Indicator 13.2.1 is the <i><q>number of countries that have communicated the establishment or operationalization of an integrated policy/strategy/plan which increases their ability to adapt to the adverse impacts of climate change and foster climate resilience and low greenhouse gas emissions development</q></i>.<p>This indicator measures the number of countries signed on to multilateral agreements on climate change. Currently this indicator does not reflect the levels of operationalization or implementation of climate mitigation and adaption action.<p>National commitments within the <a href="https://unfccc.int/process-and-meetings/the-paris-agreement/the-paris-agreement">UNFCCC Paris Agreement</a> vary by country depending on their <a href="https://unfccc.int/process-and-meetings/the-paris-agreement/nationally-determined-contributions-ndcs">Nationally Determined Contributions (NCDs)</a> so are not directly comparable. In the additional charts below you will find data on national CO<sub>2</sub> emissions, per capita emissions and carbon intensity measures.</p>
             <p><strong>Goal:</strong> By 2030 <i><q>integrate climate change measures into national policies, strategies and planning</q></i>.</p>
            <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> on <a href="https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions">CO<sub>2</sub> and Other Greenhouse Gas Emissions</a>.</p>
+           <p><strong>Additional charts</strong>:<br><a href="https://ourworldindata.org/grapher/annual-co-emissions-per-country">CO<sub>2</sub> emissions by country</a>
+<br><a href="https://ourworldindata.org/grapher/co-emissions-per-capita">CO<sub>2</sub> emissions per capita</a>
+<br><a href="https://ourworldindata.org/grapher/carbon-emission-intensity-of-economies?tab=map">CO<sub>2</sub> emissions intensity</a></p>
         </div>
         <div class="col-md">
-            <iframe src="https://ourworldindata.org/grapher/number-of-parties-env-agreements" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/number-of-parties-env-agreements?country=OWID_WRL-12+OWID_WRL-5" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
 </div>
