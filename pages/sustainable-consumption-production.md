@@ -179,3 +179,85 @@ consumption per capita, and domestic material consumption per GDP</a></p>
         </div>
     </div>
 </div>
+
+<div class="target">
+    <h2>Target 12.7: Promote sustainable public procurement practices</h2>
+    <p>UN definition: <q>Promote public procurement practices that are sustainable, in accordance with national policies and priorities.</q></p>
+    <p>SDG Indicators: <br><a href="#12.7.1">12.7.1 Number of countries implementing sustainable public procurement policies and action plans</a></p>
+</div>
+
+<div class="indicator" id="12.7.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 12.7.1</span>
+            <h3>National sustainable procurement plans</h3>
+            <p><strong>Definition:</strong> Indicator 12.7.1 is the <i><q>number of countries implementing sustainable public procurement policies and action plans</q></i>.</p>
+            <p><strong>Goal:</strong> <i><q>Promote public procurement practices that are sustainable, in accordance with national policies and priorities</q></i> by 2030.</p>
+        </div>
+        <div class="col-md">
+            <br><br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+        </div>
+    </div>
+</div>
+
+<div class="target">
+    <h2>Target 12.8: Promote universal understanding of sustainable lifestyles</h2>
+    <p>UN definition: <q>By 2030, ensure that people everywhere have the relevant information and awareness for sustainable development and lifestyles in harmony with nature.</q></p>
+    <p>SDG Indicators: <br><a href="#12.8.1">12.8.1 Extent to which (i) global citizenship education and (ii) education for sustainable development (including
+climate change education) are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment</a></p>
+</div>
+
+<div class="indicator" id="12.8.1">
+<div class="row">
+<div class="col-md">
+<span>SDG Indicator 12.8.1</span>
+<h3>Understanding of sustainable lifestyles</h3>
+<p><strong>Definition:</strong> Indicator 12.8.1 is the <i><q>Extent to which (i) global citizenship education and (ii) education for sustainable development (including
+climate change education) are mainstreamed</q></i>.</p>
+<p><strong>Goal:</strong> <i><q>Ensure that people everywhere have the relevant information and awareness for sustainable development and lifestyles in harmony with nature</q></i> by 2030.</p>
+</div>
+<div class="col-md">
+<br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+</div>
+</div>
+</div>
+
+<div class="target">
+    <h2>Target 12.A: Support developing countries' scientific and technological capacity for sustainable consumption and production</h2>
+    <p>UN definition: <q>Support developing countries to strengthen their scientific and technological capacity to move towards more sustainable patterns of consumption and production.</q></p>
+    <p>SDG Indicators: <br><a href="#12.A.1">12.A.1 Amount of support to developing countries on research and development for sustainable consumption and production and environmentally sound technologies</a></p>
+</div>
+
+<div class="indicator" id="12.A.1">
+<div class="row">
+<div class="col-md">
+<span>SDG Indicator 12.A.1</span>
+<h3>Support for developing countries' capacity for sustainable production</h3>
+<p><strong>Definition:</strong> Indicator 12.A.1 is the <i><q>amount of support to developing countries on research and development for sustainable consumption and production and environmentally sound technologies</q></i>.</p>
+<p><strong>Goal:</strong> <i><q>Support developing countries' scientific and technological capacity for sustainable consumption and production</q></i> through 2030.</p>
+</div>
+<div class="col-md">
+<br><br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+</div>
+</div>
+</div>
+
+<div class="target">
+    <h2>Target 12.B: Develop and implement tools to monitor sustainable tourism</h2>
+    <p>UN definition: <q>Develop and implement tools to monitor sustainable development impacts for sustainable tourism that creates jobs and promotes local culture and products.</q></p>
+    <p>SDG Indicators: <br><a href="#12.B.1">12.B.1  Number of sustainable tourism strategies or policies and implemented action plans with agreed monitoring and evaluation tools</a></p>
+</div>
+
+<div class="indicator" id="12.B.1">
+<div class="row">
+<div class="col-md">
+<span>SDG Indicator 12.B.1</span>
+<h3>Monitoring sustainable tourism</h3>
+<p><strong>Definition:</strong> Indicator 12.B.1 is the <i><q>number of sustainable tourism strategies or policies and implemented action plans with agreed monitoring and evaluation tools</q></i>.</p>
+<p><strong>Goal:</strong> <i><q>Develop and implement tools to monitor sustainable development impacts for sustainable tourism</q></i> by 2030.</p>
+</div>
+<div class="col-md">
+<br><br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+</div>
+</div>
+</div>
