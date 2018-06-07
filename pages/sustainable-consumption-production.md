@@ -261,3 +261,23 @@ climate change education) are mainstreamed</q></i>.</p>
 </div>
 </div>
 </div>
+
+<div class="target">
+    <h2>Target 12.C: Remove market distortions that encourage wasteful consumption</h2>
+    <p>UN definition: <q>Rationalize inefficient fossil-fuel subsidies that encourage wasteful consumption by removing market distortions, in accordance with national circumstances, including by restructuring taxation and phasing out those harmful subsidies, where they exist, to reflect their environmental impacts, taking fully into account the specific needs and conditions of developing countries and minimizing the possible adverse impacts on their development in a manner that protects the poor and the affected communities.</q></p>
+    <p>SDG Indicators: <br><a href="#12.C.1">12.C.1 Amount of fossil-fuel subsidies per unit of GDP (production and consumption) and as a proportion of total national expenditure on fossil fuels</a></p>
+</div>
+
+<div class="indicator" id="12.C.1">
+<div class="row">
+<div class="col-md">
+<span>SDG Indicator 12.C.1</span>
+<h3>Removing fossil fuel subsidies</h3>
+<p><strong>Definition:</strong> Indicator 12.C.1 is the <i><q>amount of fossil-fuel subsidies per unit of GDP (production and consumption) and as a proportion of total national expenditure on fossil fuels</q></i>.</p>
+<p><strong>Goal:</strong> By 2030 <i><q>rationalize inefficient fossil-fuel subsidies that encourage wasteful consumption by removing market distortions, in accordance with national circumstances</q></i>.</p>
+</div>
+<div class="col-md">
+<br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+</div>
+</div>
+</div>
