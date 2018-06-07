@@ -10,31 +10,21 @@ description: >-
   measures that will reduce emissions and increase adaptation efforts.
 
 
-  Further data and statistics can be found at our entry on [CO<sub>2</sub> and
-  Other Greenhouse Gas
+  Further data and statistics can be found at the <i>Our World in Data</i> entry
+  on [CO<sub>2</sub> and Other Greenhouse Gas
   Emissions](https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions).
+
+
+  The UN has defined 5 "Targets" and 8 "Indicators" for SDG 13. Targets specify
+  the goals and Indicators represent the metrics by which the world aims to
+  track whether these Targets are achieved. Below we quote the original text of
+  all targets and show the data on the agreed Indicators.
 featuredImage: /img/uploads/13.svg
 ---
 
 <div class="target">
-    <h2>Target ?.?: Short target name</h2>
-    <p>UN definition: <q>How the UN defines this target. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</q></p>
-    <p>SDG Indicators: <a href="#?.?.?">?.?.? Name of the indicator</a></p>
+    <h2>Target 13.1: Strengthen resilience and adaptive capacity to climate-related disasters</h2>
+    <p>UN definition: <q>Strengthen resilience and adaptive capacity to climate-related hazards and natural disasters in all countries.</q></p>
+    <p>SDG Indicators: <br><a href="#13.1.1">13.1.1 Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population</a> <br><a href="#13.1.2">13.1.2 Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015–2030</a> <br><a href="#13.1.3">13.1.3 Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies</a></p>
 </div>
 
-<div class="indicator" id="?.?.?">
-    <div class="row">
-        <div class="col-md">
-            <span>SDG Indicator ?.?.?</span>
-            <h3>Name of the indicator</h3>
-            <p><strong>Definition:</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam consectetur malesuada sapien, vel lacinia lacus pharetra sagittis. Donec eget blandit risus.</p>
-            <p><strong>Goal:</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam consectetur malesuada sapien, vel lacinia lacus pharetra sagittis. Donec eget blandit risus. Curabitur vitae rhoncus diam. Cras sem nisl, viverra vitae iaculis sed, cursus a risus.</p>
-            <p><strong>More research:</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam consectetur malesuada sapien, vel lacinia lacus pharetra sagittis. Donec eget blandit risus. Curabitur vitae rhoncus diam. Cras sem nisl, viverra vitae iaculis sed, cursus a risus.</p>
-        </div>
-        <div class="col-md">
-            <iframe src="https://ourworldindata.org/grapher/placeholder" style="width: 100%; height: 600px; border: 0px none;"></iframe>
-        </div>
-    </div>
-</div>
-
-<hr>
