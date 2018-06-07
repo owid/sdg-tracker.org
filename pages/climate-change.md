@@ -162,12 +162,12 @@ policy/strategy/plan which increases their ability to adapt to the adverse impac
         <div class="col-md">
             <span>SDG Indicator 13.A.1</span>
             <h3>Green Climate Fund mobilization of $100 billion</h3>
-            <p><strong>Definition:</strong> Indicator 13.A.1 is the <i><q>mobilized amount of United States dollars per year between 2020 and 2025 accountable towards the $100 billion commitment</q></i>.<p>This indicator measures the number of countries signed on to multilateral agreements on climate change. Currently this indicator does not reflect the levels of operationalization or implementation of climate mitigation and adaption action.<p>National commitments within the <a href="https://unfccc.int/process-and-meetings/the-paris-agreement/the-paris-agreement">UNFCCC Paris Agreement</a> vary by country depending on their <a href="https://unfccc.int/process-and-meetings/the-paris-agreement/nationally-determined-contributions-ndcs">Nationally Determined Contributions (NCDs)</a> so are not directly comparable. In the additional charts below you will find data on national CO<sub>2</sub> emissions, per capita emissions and carbon intensity measures.</p>
+            <p><strong>Definition:</strong> Indicator 13.A.1 is the <i><q>mobilized amount of United States dollars per year between 2020 and 2025 accountable towards the $100 billion commitment</q></i>.<p>This indicator measures the current pledged commitments from countries to the Green Climate Fund (GCF) as annual US$ contributions pledged. Also shown is the collective global total. 
             <p><strong>Goal:</strong> <i><q>Implement the commitment undertaken by developed-country parties to the United Nations Framework Convention on Climate Change to a goal of mobilizing jointly $100 billion annually by 2020 from all sources</q></i> <p>Unlike most SDG targets which have a set target year of 2030, this indicator requires a mobilization of $100 billion per year from 2020 onwards.</p>
-           <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> on <a href="https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions">CO<sub>2</sub> and Other Greenhouse Gas Emissions</a>.</p>
+           <p><strong>Additional charts:</strong> <br><a href="https://ourworldindata.org/grapher/green-climate-fund-pledges-per-capita">Green Climate Fund (GCF) pledges per capita</a></p>
         </div>
         <div class="col-md">
-            <iframe src="https://ourworldindata.org/grapher/number-of-parties-env-agreements?country=OWID_WRL-12+OWID_WRL-5" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/green-climate-fund-pledges" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
 </div>
