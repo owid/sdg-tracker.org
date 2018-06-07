@@ -171,3 +171,24 @@ policy/strategy/plan which increases their ability to adapt to the adverse impac
         </div>
     </div>
 </div>
+
+<div class="target">
+    <h2>Target 13.B: Promote mechanisms to raise capacity for planning and management</h2>
+    <p>UN definition: <q>Promote mechanisms for raising capacity for effective climate change-related planning and management in least developed countries and small island developing States, including focusing on women, youth and local and marginalized communities.</q></p>
+    <p>SDG Indicators: <br><a href="#13.B.1">13.B.1 Number of least developed countries and small island developing States that are receiving specialized
+support, for mechanisms for raising capacities for effective climate change-related planning and management, including focusing on women, youth and local and marginalized communities</a></p>
+</div>
+
+<div class="indicator" id="13.B.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 13.B.1</span>
+            <h3>Support for planning and management in least-developed countries</h3>
+            <p><strong>Definition:</strong> Indicator 13.B.1 is the <i><q>number of least developed countries and small island developing States that are receiving specialized support, and amount of support, including finance, technology and capacity-building, for mechanisms for raising capacities for effective climate change-related planning and management</q></i>.
+            <p><strong>Goal:</strong> By 2030 <i><q>promote mechanisms for raising capacity for effective climate change-related planning and management in least developed countries</q></i>.</p>
+        </div>
+        <div class="col-md">
+            <br><br><br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+        </div>
+    </div>
+</div>
