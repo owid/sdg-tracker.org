@@ -151,11 +151,31 @@ consumption per capita, and domestic material consumption per GDP</a></p>
             <span>SDG Indicator 12.5.1</span>
             <h3>Recycling rates</h3>
             <p><strong>Definition:</strong> Indicator 12.5.1 is the <i><q>national recycling rate, tons of material recycled</q></i>.<p>Limited data is available for recycling rates globally. Data on quantities of recycled municipal waste are available for OECD countries; this is given in absolute terms (tonnes) and relative (percentage of municipal waste that is recycled).</p>
-            <p><strong>Goal:</strong> <i><q>By 2030, substantially reduce waste generation through prevention, reduction, recycling and reuse</q></i>.<p>
+            <p><strong>Goal:</strong> <i><q>By 2030, substantially reduce waste generation through prevention, reduction, recycling and reuse</q></i>.</p>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/municipal-waste-recycled" style="width: 100%; height: 600px; border: 0px none;"></iframe>
              <iframe src="https://ourworldindata.org/grapher/municipal-waste-recycling-rate" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
+
+<div class="target">
+    <h2>Target 12.6: Encourage companies to adopt sustainable practices and sustainability reporting</h2>
+    <p>UN definition: <q>Encourage companies, especially large and transnational companies, to adopt sustainable practices and to integrate sustainability information into their reporting cycle.</q></p>
+    <p>SDG Indicators: <br><a href="#12.6.1">12.6.1 Number of companies publishing sustainability reports</a></p>
+</div>
+
+<div class="indicator" id="12.6.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 12.6.1</span>
+            <h3>Companies publishing sustainability reports</h3>
+            <p><strong>Definition:</strong> Indicator 12.6.1 is the <i><q>number of companies publishing sustainability reports</q></i>.</p>
+            <p><strong>Goal:</strong> <i><q>Encourage companies to adopt sustainable practices and sustainability reporting</q></i> by 2030.</p>
+        </div>
+        <div class="col-md">
+            <br><br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
         </div>
     </div>
 </div>
