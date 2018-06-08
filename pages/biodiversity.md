@@ -32,7 +32,7 @@ featuredImage: /img/uploads/15.svg
         <div class="col-md">
             <span>SDG Indicator 15.1.1</span>
             <h3>Forest area</h3>
-            <p><strong>Definition:</strong> Indicator 15.1.1 is <i><q>Forest area as a proportion of total land area</q></i>.<p>Forest area is land under natural or planted stands of trees of at least 5 meters in situ, whether productive or not, and excludes tree stands in agricultural production systems (for example, in fruit plantations and agroforestry systems) and trees in urban parks and gardens.</p>
+            <p><strong>Definition:</strong> Indicator 15.1.1 is <i><q>forest area as a proportion of total land area</q></i>.<p>Forest area is land under natural or planted stands of trees of at least 5 meters in situ, whether productive or not, and excludes tree stands in agricultural production systems (for example, in fruit plantations and agroforestry systems) and trees in urban parks and gardens.</p>
             <p><strong>Goal:</strong> <i><q>By 2020, ensure the conservation, restoration and sustainable use of terrestrial and inland freshwater ecosystems and their services</q></i>. <p>Unlike most SDGs which have a target year of 2030, this indicator is set to be achieved by 2020.</p>
             <p><strong>Additional charts:</strong> <br><a href="https://ourworldindata.org/grapher/forest-area-km">Forest area (square kilometres)</a></p>
         </div>
@@ -43,3 +43,19 @@ featuredImage: /img/uploads/15.svg
 </div>
 
 <hr>
+
+<div class="indicator" id="15.1.2">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 15.1.2</span>
+            <h3>Important biodiversity sites protected</h3>
+            <p><strong>Definition:</strong> Indicator 15.1.2 is the <i><q>proportion of important sites for terrestrial and freshwater biodiversity that are covered by protected areas, by ecosystem type</q></i>.<p>Forest area is land under natural or planted stands of trees of at least 5 meters in situ, whether productive or not, and excludes tree stands in agricultural production systems (for example, in fruit plantations and agroforestry systems) and trees in urban parks and gardens.</p>
+            <p><strong>Goal:</strong> <i><q>By 2020, ensure the conservation, restoration and sustainable use of terrestrial and inland freshwater ecosystems and their services</q></i>. <p>Unlike most SDGs which have a target year of 2030, this indicator is set to be achieved by 2020.</p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/terrestrial-protected-areas" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/proportion-of-important-sites-for-terrestrial-biodiversity-covered-by-protected-areas" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/proportion-of-important-sites-for-freshwater-biodiversity-covered-by-protected-areas" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
