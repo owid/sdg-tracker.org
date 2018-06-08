@@ -164,3 +164,66 @@ and all countries</a></p>
         </div>
     </div>
 </div>
+
+<div class="target">
+    <h2>Target 14.A: Increase scientific knowledge, research and technology for ocean health</h2>
+    <p>UN definition: <q>Increase scientific knowledge, develop research capacity and transfer marine technology, taking into account the Intergovernmental Oceanographic Commission Criteria and Guidelines on the Transfer of Marine Technology, in order to improve ocean health and to enhance the contribution of marine biodiversity to the development of developing countries, in particular small island developing States and least developed countries.</q></p>
+    <p>SDG Indicators: <br><a href="#14.A.1">14.A.1 Proportion of total research budget allocated to research in the field of marine technology</a></p>
+</div>
+
+<div class="indicator" id="14.A.1">
+<div class="row">
+<div class="col-md">
+<span>SDG Indicator 14.A.1</span>
+<h3>Research resources for marine technology</h3>
+<p><strong>Definition:</strong> Indicator 14.A.1 is the <i><q>proportion of total research budget allocated to research in the field of marine technology</q></i>.</p>
+<p><strong>Goal:</strong> <i><q>Increase scientific knowledge, develop research capacity and transfer marine technology</q></i> by 2030.</p>
+</div>
+<div class="col-md">
+<br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+</div>
+</div>
+</div>
+
+<div class="target">
+    <h2>Target 14.B: Support small scale fishers</h2>
+    <p>UN definition: <q>Provide access for small-scale artisanal fishers to marine resources and markets.</q></p>
+    <p>SDG Indicators: <br><a href="#14.B.1">14.B.1  Progress by countries in the degree of application of a legal/regulatory/policy/institutional framework which recognizes and protects access rights for small-scale fisheries</a></p>
+</div>
+
+<div class="indicator" id="14.B.1">
+<div class="row">
+<div class="col-md">
+<span>SDG Indicator 14.B.1</span>
+<h3>Support small scale fishers</h3>
+<p><strong>Definition:</strong> Indicator 14.B.1 is <i><q>progress by countries in the degree of application of a legal/regulatory/policy/institutional framework which recognizes and protects access rights for small-scale fisheries</q></i>.</p>
+<p><strong>Goal:</strong> <i><q>Provide access for small-scale artisanal fishers to marine resources and markets</q></i> by 2030.</p>
+<p><strong>More research:</strong> Further data and research on global fishery catch and production are available at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/meat-and-seafood-production-consumption">Meat and Seafood Production & Consumption</a>.</p>
+<p><strong>Additional charts:</strong> <br><a href="https://ourworldindata.org/grapher/global-wild-fishery-catch-by-sector">Global wild fishery catch by sector</a></p>
+</div>
+<div class="col-md">
+<br><br><br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+</div>
+</div>
+</div>
+
+<div class="target">
+    <h2>Target 14.C: Implement and enforce international sea law</h2>
+    <p>UN definition: <q>Enhance the conservation and sustainable use of oceans and their resources by implementing international law as reflected in the United Nations Convention on the Law of the Sea, which provides the legal framework for the conservation and sustainable use of oceans and their resources, as recalled in paragraph 158 of “The future we want”.
+</q></p>
+    <p>SDG Indicators: <br><a href="#14.C.1">14.C.1  Number of countries making progress in ratifying, accepting and implementing through legal, policy and institutional frameworks, ocean-related instruments that implement international law, as reflected in the United Nations Convention on the Law of the Sea, for the conservation and sustainable use of the oceans and their resources</a></p>
+</div>
+
+<div class="indicator" id="14.C.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 14.C.1</span>
+            <h3>Implementing international sea law</h3>
+            <p><strong>Definition:</strong> Indicator 14.C.1 is the <i><q>number of countries making progress in ratifying, accepting and implementing through legal, policy and institutional frameworks, ocean-related instruments that implement international law, as reflected in the United Nations Convention on the Law of the Sea</q></i>.<p>Data for this indicator is shown here as the number of countries signed on to the United Nations Convention of the Law of the Sea (UNCLOS). <p>Progress on the implementation of such frameworks are, to our understanding, not currently available.</p>
+            <p><strong>Goal:</strong> <i><q>Enhance the conservation and sustainable use of oceans and their resources by implementing international law as reflected in the United Nations Convention on the Law of the Sea</q></i> by 2030.</p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/number-of-parties-env-agreements?country=OWID_WRL-11" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
