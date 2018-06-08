@@ -141,3 +141,45 @@ Three sub-indicators focus on the extension of forest area, biomass within the f
         </div>
     </div>
 </div>
+
+<div class="target">
+    <h2>Target 15.5: Protect biodiversity and natural habitats</h2>
+    <p>UN definition: <q>Take urgent and significant action to reduce the degradation of natural habitats, halt the loss of biodiversity and, by 2020, protect and prevent the extinction of threatened species.</q></p>
+    <p>SDG Indicators: <br><a href="#15.5.1">15.5.1 Red List Index</a></p>
+</div>
+
+<div class="indicator" id="15.5.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 15.5.1</span>
+            <h3>Red List Index</h3>
+            <p><strong>Definition:</strong> Indicator 15.5.1 is the <i><q>Red List Index</q></i>.<p>The Red List Index (RLI) defines the conservation status of major species groups, and measures trends in the proportion of species expected to remain extant in the near future without additional conservation action. <p>An RLI value of 1.0 equates to all species being categorised as 'Least Concern', and hence that none are expected to go extinct in the near future. A value of 0 indicates that all species have gone extinct.</p>
+            <p><strong>Goal:</strong> <i><q>By 2030, ensure the conservation of mountain ecosystems, including their biodiversity</q></i>.</p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/red-list-index" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
+
+<div class="target">
+    <h2>Target 15.6: Protect access to genetic resources and fair sharing of the benefits</h2>
+    <p>UN definition: <q>Promote fair and equitable sharing of the benefits arising from the utilization of genetic resources and promote appropriate access to such resources, as internationally agreed.</q></p>
+    <p>SDG Indicators: <br><a href="#15.6.1">15.6.1 Number of countries that have adopted legislative, administrative and policy frameworks to ensure fair and equitable sharing of benefits</a></p>
+</div>
+
+<div class="indicator" id="15.6.1">
+<div class="row">
+<div class="col-md">
+<span>SDG Indicator 15.6.1</span>
+<h3>Benefits of sharing genetic resources</h3>
+<p><strong>Definition:</strong> Indicator 15.6.1 is the <i><q>number of countries that have adopted legislative, administrative and policy frameworks to ensure fair and equitable sharing of benefits</q></i>.<p>The The indicators shown track parties to protocols concerned with the promotion and sharing of genetic resources for plants, food and agriculture.</p>
+<p><strong>Goal:</strong> By 2030 <i><q>promote fair and equitable sharing of the benefits arising from the utilization of genetic resources and promote appropriate access to such resources</q></i>.</p>
+</div>
+<div class="col-md">
+<iframe src="https://ourworldindata.org/grapher/countries-to-access-and-benefit-sharing-clearing-house" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/countries-to-the-international-treaty-on-plant-genetic-resources" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/countries-that-are-parties-to-the-nagoya-protocol" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+</div>
+</div>
+</div>
