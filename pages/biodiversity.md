@@ -85,3 +85,59 @@ Three sub-indicators focus on the extension of forest area, biomass within the f
         </div>
     </div>
 </div>
+
+<div class="target">
+    <h2>Target 15.3: End desertification and restore degraded land</h2>
+    <p>UN definition: <q>By 2030, combat desertification, restore degraded land and soil, including land affected by desertification, drought and floods, and strive to achieve a land degradation-neutral world.</q></p>
+    <p>SDG Indicators: <br><a href="#15.3.1">15.3.1 Proportion of land that is degraded over total land area</a></p>
+</div>
+
+<div class="indicator" id="15.3.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 15.3.1</span>
+            <h3>End desertification and land degradation</h3>
+            <p><strong>Definition:</strong> Indicator 15.3.1 is the <i><q>proportion of land that is degraded over total land area</q></i>.</p>
+            <p><strong>Goal:</strong> <i><q>By 2030, combat desertification, restore degraded land and soil, including land affected by desertification, drought and floods, and strive to achieve a land degradation-neutral world</q></i>.</p>
+        </div>
+        <div class="col-md">
+            <br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+        </div>
+    </div>
+</div>
+
+<div class="target">
+    <h2>Target 15.4: Ensure conservation of mountain ecosystems</h2>
+    <p>UN definition: <q>By 2030, ensure the conservation of mountain ecosystems, including their biodiversity, in order to enhance their capacity to provide benefits that are essential for sustainable development.</q></p>
+    <p>SDG Indicators: <br><a href="#15.4.1">15.4.1 Coverage by protected areas of important sites for mountain biodiversity</a> <br><a href="#15.4.2">15.4.2 Mountain Green Cover Index</a></p>
+</div>
+
+<div class="indicator" id="15.4.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 15.4.1</span>
+            <h3>Coverage of important sites for mountain biodiversity</h3>
+            <p><strong>Definition:</strong> Indicator 15.4.1 is <i><q>coverage by protected areas of important sites for mountain biodiversity</q></i>.<p>This indicator measures the average share of each important site for mountain biodiversity that is covered by designated protected areas. The indicator does not measure the effectiveness of protected areas in reducing biodiversity loss, which depends on a range of management and enforcement factors.</p>
+            <p><strong>Goal:</strong> <i><q>By 2030, ensure the conservation of mountain ecosystems, including their biodiversity</q></i>.</p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/coverage-by-protected-areas-of-important-sites-for-mountain-biodiversity" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
+
+<hr>
+
+<div class="indicator" id="15.4.2">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 15.4.2</span>
+            <h3>Coverage of important sites for mountain biodiversity</h3>
+            <p><strong>Definition:</strong> Indicator 15.4.2 is the <i><q>Mountain Green Cover Index</q></i>.<p>The Mountain Green Cover Index measures the percentage of mountainous areas covered by  some form of green vegetation.</p>
+            <p><strong>Goal:</strong> <i><q>By 2030, ensure the conservation of mountain ecosystems, including their biodiversity</q></i>.</p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/mountain-green-cover-index" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
