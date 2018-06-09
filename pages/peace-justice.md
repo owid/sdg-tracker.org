@@ -208,5 +208,75 @@ prison population</a></p>
 <div class="target">
     <h2>Target 16.4: Combat organized crime and illicit financial and arms flows</h2>
     <p>UN definition: <q>By 2030, significantly reduce illicit financial and arms flows, strengthen the recovery and return of stolen assets and combat all forms of organized crime.</q></p>
-    <p>SDG Indicators: <br><a href="#16.4.1">16.4.1 Total value of inward and outward illicit financial flows (in current United States dollars)</a> <br><a href="#16.3.2">16.4.2 Proportion of seized, found or surrendered arms whose illicit origin or context has been traced or established by a competent authority in line with international instruments</a></p>
+    <p>SDG Indicators: <br><a href="#16.4.1">16.4.1 Total value of inward and outward illicit financial flows (in current United States dollars)</a> <br><a href="#16.4.2">16.4.2 Proportion of seized, found or surrendered arms whose illicit origin or context has been traced or established by a competent authority in line with international instruments</a></p>
+</div>
+
+<div class="indicator" id="16.4.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 16.4.1</span>
+            <h3>Illicit financial flows</h3>
+            <p><strong>Definition:</strong> Indicator 16.4.1 is the <i><q>total value of inward and outward illicit financial flows</q></i>.</p>
+            <p><strong>Goal:</strong> <i><q>Significantly reduce illicit financial and arms flows</q></i> across all countries by 2030.</p>
+        </div>
+        <div class="col-md">
+            <br><br><br><br><b>We are currently not aware of available data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+        </div>
+    </div>
+</div>
+
+<hr>
+
+<div class="indicator" id="16.4.2">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 16.4.2</span>
+            <h3>Seized or surrendered arms</h3>
+            <p><strong>Definition:</strong> Indicator 16.4.2 is the <i><q>proportion of seized, found or surrendered arms whose illicit origin or context has been traced or established by a competent authority</q></i>.</p>
+            <p><strong>Goal:</strong> <i><q>Strengthen the recovery and return of stolen assets and combat all forms of organized crime</q></i> across all countries by 2030.</p>
+        </div>
+        <div class="col-md">
+            <br><br><br><br><br><b>We are currently not aware of available data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+        </div>
+    </div>
+</div>
+
+<div class="target">
+    <h2>Target 16.5: Substantially reduce corruption and bribery</h2>
+    <p>UN definition: <q>Substantially reduce corruption and bribery in all their forms.</q></p>
+    <p>SDG Indicators: <br><a href="#16.5.1">16.5.1 Proportion of persons who had at least one contact with a public official and who paid a bribe to a
+public official, or were asked for a bribe by those public officials, during the previous 12 months</a> <br><a href="#16.5.2">16.5.2 Proportion of businesses that had at least one contact with a public official and that paid a bribe to a
+public official, or were asked for a bribe by those public officials during the previous 12 months</a></p>
+</div>
+
+<div class="indicator" id="16.5.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 16.5.1</span>
+            <h3>Bribery prevalence</h3>
+            <p><strong>Definition:</strong> Indicator 16.5.1 is the <i><q>Proportion of persons who had at least one contact with a public official and who paid a bribe to a public official, or were asked for a bribe by those public officials, during the previous 12 months</q></i>.</p>
+            <p><strong>Goal:</strong> <i><q>Substantially reduce corruption and bribery in all their forms</q></i> across all countries by 2030.<p>There is no defined target level for this indicator.</p>
+            <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/corruption">entry on Corruption</a>.</p>
+        </div>
+        <div class="col-md">
+            <br><br><br><br><br><br><br><b>We are currently not aware of available data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+        </div>
+    </div>
+</div>
+
+<hr>
+
+<div class="indicator" id="16.5.2">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 16.5.2</span>
+            <h3>Bribery in business</h3>
+            <p><strong>Definition:</strong> Indicator 16.5.2 is the <i><q>proportion of businesses that had at least one contact with a public official and that paid a bribe to a public official, or were asked for a bribe by those public officials during the previous 12 months</q></i>.<p>Bribery incidence is the percentage of firms experiencing at least one bribe payment request across 6 public transactions dealing with utilities access, permits, licenses, and taxes.</p>
+            <p><strong>Goal:</strong> <i><q>Substantially reduce corruption and bribery in all their forms</q></i> across all countries by 2030.<p>There is no defined target level for this indicator.</p>
+            <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/corruption">entry on Corruption</a>.</p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/bribery-incidence-of-firms-experiencing-at-least-one-bribe-payment-request" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
 </div>
