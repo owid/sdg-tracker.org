@@ -115,3 +115,43 @@ Organization for Economic Cooperation and Development (OECD) Development Assista
         </div>
     </div>
 </div>
+
+<div class="target">
+    <h2>Target 17.4: Assist developing countries in attaining debt sustainability</h2>
+    <p>UN definition: <q>Assist developing countries in attaining long-term debt sustainability through coordinated policies aimed at fostering debt financing, debt relief and debt restructuring, as appropriate, and address the external debt of highly indebted poor countries to reduce debt distress.</q></p>
+    <p>SDG Indicators: <br><a href="#17.4.1">17.4.1 Debt service as a proportion of exports of goods and services</a></p>
+</div>
+
+<div class="indicator" id="17.4.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 17.4.1</span>
+            <h3>Debt service</h3>
+            <p><strong>Definition:</strong> Indicator 17.4.1 is <i><q>debt service as a proportion of exports of goods and services</q></i>.<p>Total debt service is the sum of principal repayments and interest actually paid in currency, goods, or services on long-term debt, interest paid on short-term debt, and repayments (repurchases and charges) to the IMF.</p>
+            <p><strong>Goal:</strong> <i><q>Assist developing countries in attaining long-term debt sustainability through coordinated policies aimed at fostering debt financing, debt relief and debt restructuring</q></i> by 2030.</p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/debt-service-of-exports-of-goods-services" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
+
+<div class="target">
+    <h2>Target 17.5: Invest in least-developed countries</h2>
+    <p>UN definition: <q>Adopt and implement investment promotion regimes for least developed countries.</q></p>
+    <p>SDG Indicators: <br><a href="#17.5.1">17.5.1 Number of countries that adopt and implement investment promotion regimes for least developed countries</a></p>
+</div>
+
+<div class="indicator" id="17.5.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 17.5.1</span>
+            <h3>Investment promotion for least-developed countries</h3>
+            <p><strong>Definition:</strong> Indicator 17.5.1 is the <i><q>number of countries that adopt and implement investment promotion regimes for least developed countries</q></i>.</p>
+            <p><strong>Goal:</strong> <i><q>Adopt and implement investment promotion regimes for least developed countries</q></i> by 2030.</p>
+        </div>
+        <div class="col-md">
+            <br><br><br><br><br><b>We are currently not aware of available data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+        </div>
+    </div>
+</div>
