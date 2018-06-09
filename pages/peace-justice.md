@@ -280,3 +280,9 @@ public official, or were asked for a bribe by those public officials during the 
         </div>
     </div>
 </div>
+
+<div class="target">
+    <h2>Target 16.6: Develop effective, accountable and transparent institutions</h2>
+    <p>UN definition: <q>Develop effective, accountable and transparent institutions at all levels.</q></p>
+    <p>SDG Indicators: <br><a href="#16.6.1">16.6.1 Primary government expenditures as a proportion of original approved budget, by sector (or by budget codes or similar)</a> <br><a href="#16.6.2">16.6.2 Proportion of population satisfied with their last experience of public services</a></p>
+</div>
