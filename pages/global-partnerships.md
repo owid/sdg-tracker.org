@@ -55,3 +55,27 @@ featuredImage: /img/uploads/17.svg
         </div>
     </div>
 </div>
+
+<div class="target">
+    <h2>Target 17.2: Implement all development assistance commitments</h2>
+    <p>UN definition: <q>Developed countries to implement fully their official development assistance commitments, including the commitment by many developed countries to achieve the target of 0.7 per cent of gross national income for official development assistance (ODA/GNI) to developing countries and 0.15 to 0.20 per cent of ODA/GNI to least developed countries; ODA providers are encouraged to consider setting a target to provide at least 0.20 per cent of ODA/GNI to least developed countries.</q></p>
+    <p>SDG Indicators: <br><a href="#17.2.1">17.2.1 Net official development assistance, total and to least developed countries, as a proportion of the
+Organization for Economic Cooperation and Development (OECD) Development Assistance Committee donors’ gross national income (GNI)</a></p>
+</div>
+
+<div class="indicator" id="17.2.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 17.2.1</span>
+            <h3>Government revenue</h3>
+            <p><strong>Definition:</strong> Indicator 17.2.1 is <i><q>net official development assistance, as a proportion of the Organization for Economic Cooperation and Development (OECD) Development Assistance Committee donors’ gross national income (GNI)</q></i>.<p>This indicator is measured as the net official development assistance (ODA) as a share of total gross national income (GNI) by OECD-DAC countries. It is given as the net ODA to all countries, as well as the ODA specifically allocated to least-developed countries (LDCs).</p>
+            <p><strong>Goal:</strong> <i><q>Developed countries to implement fully their official development assistance commitments, including the commitment by many developed countries to achieve the target of 0.7 per cent of gross national income for official development assistance (ODA/GNI) to developing countries and 0.15 to 0.20 per cent of ODA/GNI to least developed countries</q></i>.</p>
+            <p><strong>Additional charts:</strong> <br><a href="https://ourworldindata.org/grapher/net-oda-from-oecd-dac-countries">Official Development Assistance from OECD-DAC countries (US$)</a>
+<br><a href="https://ourworldindata.org/grapher/net-oda-to-ldcs-from-oecd-countries">Official Development Assistance to least-developed countries (US$)</a></p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/net-oda-as-percentage-of-oecd-donors-gni" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/net-oda-to-ldcs-as-percentage-of-donors-gni" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
