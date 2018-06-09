@@ -59,3 +59,52 @@ by sex, age and cause</a> <br><a href="#16.1.3">16.1.3 Proportion of population 
 </div>
 
 <hr>
+
+<div class="indicator" id="16.1.2">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 16.1.2</span>
+            <h3>Conflict-related deaths</h3>
+            <p><strong>Definition:</strong> Indicator 16.1.2 is <i><q>conflict-related deaths per 100,000 population,
+by sex, age and cause</q></i>.<p>Conflict-related deaths is the number of deaths per 100,000 people from war, conflict and terrorism-related deaths.</p>
+            <p><strong>Goal:</strong> <i><q>Significantly reduce all forms of violence and related death rates</q></i> across all countries by 2030.<p>There is no defined target level of reduction for this indicator.</p>
+            <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> entries on <a href="https://ourworldindata.org/terrorism">Terrorism</a> and <a href="https://ourworldindata.org/war-and-peace">War and Peace</a>.</p>
+            <p><strong>Additional charts:</strong> <br><a href="https://ourworldindata.org/grapher/fatalities-from-terrorism">Deaths from terrorism</a> <br><a href="https://ourworldindata.org/grapher/state-based-battle-related-deaths-per-100000-since-1946">State-based battle-related deaths</a> <br><a href="https://ourworldindata.org/grapher/violent-deaths-in-conflicts-and-one-sided-violence-since-1989">Violent deaths from conflict</a></p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/deaths-conflict-terrorism-per-100000" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
+
+<hr>
+
+<div class="indicator" id="16.1.3">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 16.1.3</span>
+            <h3>Prevalence of all forms of violence</h3>
+            <p><strong>Definition:</strong> Indicator 16.1.3 is the <i><q>proportion of population subjected to (a) physical violence, (b) psychological violence and (c) sexual violence in the previous 12 months</q></i>.<p>Data shown for this indicator is the share of women (aged 15 years or older) who have experienced sexual or physical violence from an intimate partner over the previous 12 months. <p>Data on violence for non-partnered women, men and psychological violence is not available.</p>
+            <p><strong>Goal:</strong> <i><q>Significantly reduce all forms of violence and related death rates</q></i> across all countries by 2030.<p>There is no defined target level of reduction for this indicator.</p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/women-violence-by-an-intimate-partner" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
+
+<hr>
+
+<div class="indicator" id="16.1.4">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 16.1.4</span>
+            <h3>Public safety</h3>
+            <p><strong>Definition:</strong> Indicator 16.1.4 is the <i><q>proportion of population that feel safe walking alone around the area they live</q></i>.</p>
+            <p><strong>Goal:</strong> <i><q>Significantly reduce all forms of violence and related death rates</q></i> across all countries by 2030.</p>
+        </div>
+        <div class="col-md">
+            <br><br><br><br><b>We are currently not aware of available data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+        </div>
+    </div>
+</div>
