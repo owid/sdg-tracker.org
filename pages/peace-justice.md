@@ -316,3 +316,60 @@ public official, or were asked for a bribe by those public officials during the 
         </div>
     </div>
 </div>
+
+<div class="target">
+    <h2>Target 16.7: Ensure responsive, inclusive and representative decision-making</h2>
+    <p>UN definition: <q>Ensure responsive, inclusive, participatory and representative decision-making at all levels.</q></p>
+    <p>SDG Indicators: <br><a href="#16.7.1">16.7.1 Proportions of positions (by sex, age, persons with disabilities and population groups) in public institutions (national and local legislatures, public service, and judiciary) compared to national distributions</a> <br><a href="#16.7.2">16.7.2 Proportion of population who believe decision-making is inclusive and responsive, by sex, age, disability and population group</a></p>
+</div>
+
+<div class="indicator" id="16.7.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 16.7.1</span>
+            <h3>Representation in public institutions</h3>
+            <p><strong>Definition:</strong> Indicator 16.7.1 is the <i><q>proportions of positions (by sex, age, persons with disabilities and population groups) in public institutions (national and local legislatures, public service, and judiciary) compared to national distributions</q></i>.</p>
+            <p><strong>Goal:</strong> <i><q>Ensure responsive, inclusive, participatory and representative decision-making at all levels</q></i> by 2030.</p>
+        </div>
+        <div class="col-md">
+            <br><br><br><br><br><br><br><b>We are currently not aware of available data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+        </div>
+    </div>
+</div>
+
+<hr>
+
+<div class="indicator" id="16.7.2">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 16.7.2</span>
+            <h3>Inclusive decision-making</h3>
+            <p><strong>Definition:</strong> Indicator 16.7.2 is the <i><q>proportion of population who believe decision-making is inclusive and responsive, by sex, age, disability and population group</q></i>.</p>
+            <p><strong>Goal:</strong> <i><q>Ensure responsive, inclusive, participatory and representative decision-making at all levels</q></i> by 2030.</p>
+        </div>
+        <div class="col-md">
+            <br><br><br><br><br><b>We are currently not aware of available data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+        </div>
+    </div>
+</div>
+
+<div class="target">
+    <h2>Target 16.8: Strengthen the participation in global governance</h2>
+    <p>UN definition: <q>Broaden and strengthen the participation of developing countries in the institutions of global governance.</q></p>
+    <p>SDG Indicators: <br><a href="#16.8.1">16.8.1 Proportion of members and voting rights of developing countries in international organizations</a></p>
+</div>
+
+<div class="indicator" id="16.8.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 16.8.1</span>
+            <h3>Developing country participation in international organizations</h3>
+            <p><strong>Definition:</strong> Indicator 16.8.1 is the <i><q>proportion of members and voting rights of developing countries in international organizations</q></i>.<p>This indicator is measured by the show the proportion of membership from developing countries across a range of international organizations, and the proportion of voting rights each country is allocated across such organizations.</p>
+            <p><strong>Goal:</strong> <i><q>Broaden and strengthen the participation of developing countries in the institutions of global governance</q></i> by 2030.</p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/proportion-of-members-of-developing-countries-in-international-organizations" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/proportion-of-voting-rights-in-international-organizations" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
