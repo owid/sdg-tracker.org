@@ -108,3 +108,61 @@ by sex, age and cause</q></i>.<p>Conflict-related deaths is the number of deaths
         </div>
     </div>
 </div>
+
+<div class="target">
+    <h2>Target 16.2: Protect children from abuse, exploitation, trafficking and violence</h2>
+    <p>UN definition: <q>End abuse, exploitation, trafficking and all forms of violence against and torture of children.</q></p>
+    <p>SDG Indicators: <br><a href="#16.2.1">16.2.1 Proportion of children aged 1–17 years who experienced any physical punishment and/or psychological
+aggression by caregivers in the past month</a> <br><a href="#16.2.2">16.2.2 Number of victims of human trafficking per 100,000 population, by sex, age and form of exploitation</a> <br><a href="#16.2.3">16.2.3 Proportion of young women and men aged 18–29 years who experienced sexual violence by age 18</a></p>
+</div>
+
+<div class="indicator" id="16.2.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 16.2.1</span>
+            <h3>Violence against children</h3>
+            <p><strong>Definition:</strong> Indicator 16.2.1 is the <i><q>proportion of children aged 1–17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month</q></i>.<p>Data for this indicator measures the percentage of children aged 14 years and younger who experienced violence from a caregiver in the previous month. Data on violence to adolescents older than 14 years, or violence outside of the home is not available.</p>
+            <p><strong>Goal:</strong> <i><q>Protect children from abuse, exploitation, trafficking and violence</q></i> across all countries by 2030.</p>
+            <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/violence-against-rights-for-children">entry on Violence Against & Rights for Children</a>.</p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/percentage-of-children-214-who-experience-violent-discipline-at-home?tab=map" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
+
+<hr>
+
+<div class="indicator" id="16.2.2">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 16.2.2</span>
+            <h3>Human trafficking</h3>
+            <p><strong>Definition:</strong> Indicator 16.2.2 is the <i><q>number of victims of human trafficking per 100,000 population</q></i>.<p>Data for this indicator measures the prevalence of human trafficking in females and males for those aged 18 years and younger, and those over 18 years.</p>
+            <p><strong>Goal:</strong> <i><q>Protect children from abuse, exploitation, trafficking and violence</q></i> across all countries by 2030.</p>
+            <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/violence-against-rights-for-children">entry on Violence Against & Rights for Children</a>.</p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/victims-of-human-trafficking-under-18-male-vs-female" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/human-trafficking-over-18-by-sex" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
+
+<hr>
+
+<div class="indicator" id="16.2.3">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 16.2.3</span>
+            <h3>Sexual violence against young men and women</h3>
+            <p><strong>Definition:</strong> Indicator 16.2.3 is the <i><q>proportion of young women and men aged 18–29 years who experienced sexual violence by age 18</q></i>.<p>Data for this indicator is provided as the proportion of women and men aged 18-29 years old who experienced sexual violence before the age of 18; this data is however very limited.</p>
+            <p><strong>Goal:</strong> <i><q>Protect children from abuse, exploitation, trafficking and violence</q></i> across all countries by 2030.</p>
+            <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/violence-against-rights-for-children">entry on Violence Against & Rights for Children</a>.</p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/women-who-experienced-sexual-violence-by-age-18" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/men-experienced-sexual-violence-by-age-18" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
