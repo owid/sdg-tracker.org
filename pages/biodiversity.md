@@ -227,6 +227,42 @@ Three sub-indicators focus on the extension of forest area, biomass within the f
 <div class="target">
     <h2>Target 15.9: Integrate ecosystem and biodiversity in governmental planning</h2>
     <p>UN definition: <q>By 2020, integrate ecosystem and biodiversity values into national and local planning, development processes, poverty reduction strategies and accounts.</q></p>
-    <p>SDG Indicators: <br><a href="#15.9.1">Progress towards national targets established in accordance with Aichi Biodiversity Target 2 of the
+    <p>SDG Indicators: <br><a href="#15.9.1">15.9.1 Progress towards national targets established in accordance with Aichi Biodiversity Target 2 of the
 Strategic Plan for Biodiversity 2011–2020</a></p>
+</div>
+
+<div class="indicator" id="15.9.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 15.9.1</span>
+            <h3>Integration of ecosystem and biodiversity in planning</h3>
+            <p><strong>Definition:</strong> Indicator 15.9.1 is <i><q>progress towards national targets established in accordance with Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011–2020</q></i>.</p>
+            <p><strong>Goal:</strong> <i><q>By 2020, integrate ecosystem and biodiversity values into national and local planning, development processes, poverty reduction strategies and accounts.</q></i>.<p>Unlike most SDG targets which are set to be achieved by 2030, this indicator is to be achieved by 2020.</p>
+        </div>
+        <div class="col-md">
+            <br><br><br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+        </div>
+    </div>
+</div>
+
+<div class="target">
+    <h2>Target 15.A: Increase financial resources to conserve and sustainably use ecosystem and biodiversity</h2>
+    <p>UN definition: <q>Mobilize and significantly increase financial resources from all sources to conserve and sustainably use biodiversity and ecosystems.</q></p>
+    <p>SDG Indicators: <br><a href="#15.A.1">15.A.1 Official development assistance and public expenditure on conservation and sustainable use of
+biodiversity and ecosystems</a></p>
+</div>
+
+<div class="indicator" id="15.A.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 15.A.1</span>
+            <h3>Official development assistance for biodiversity</h3>
+            <p><strong>Definition:</strong> Indicator 15.A.1 is the <i><q>official development assistance and public expenditure on conservation and sustainable use of biodiversity and ecosystems</q></i>.<p>This indicator is reported as the annual official development assistance (ODA) for biodiversity by recipient, and value of assistance by donor.</p>
+            <p><strong>Goal:</strong> <i><q>Mobilize and significantly increase financial resources from all sources to conserve and sustainably use biodiversity and ecosystems</q></i> by 2030.</p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/total-oda-for-biodiversity-by-recipient" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/total-oda-for-biodiversity-by-donor" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
 </div>
