@@ -254,7 +254,7 @@ public official, or were asked for a bribe by those public officials during the 
         <div class="col-md">
             <span>SDG Indicator 16.5.1</span>
             <h3>Bribery prevalence</h3>
-            <p><strong>Definition:</strong> Indicator 16.5.1 is the <i><q>Proportion of persons who had at least one contact with a public official and who paid a bribe to a public official, or were asked for a bribe by those public officials, during the previous 12 months</q></i>.</p>
+            <p><strong>Definition:</strong> Indicator 16.5.1 is the <i><q>proportion of persons who had at least one contact with a public official and who paid a bribe to a public official, or were asked for a bribe by those public officials, during the previous 12 months</q></i>.</p>
             <p><strong>Goal:</strong> <i><q>Substantially reduce corruption and bribery in all their forms</q></i> across all countries by 2030.<p>There is no defined target level for this indicator.</p>
             <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/corruption">entry on Corruption</a>.</p>
         </div>
@@ -285,4 +285,34 @@ public official, or were asked for a bribe by those public officials during the 
     <h2>Target 16.6: Develop effective, accountable and transparent institutions</h2>
     <p>UN definition: <q>Develop effective, accountable and transparent institutions at all levels.</q></p>
     <p>SDG Indicators: <br><a href="#16.6.1">16.6.1 Primary government expenditures as a proportion of original approved budget, by sector (or by budget codes or similar)</a> <br><a href="#16.6.2">16.6.2 Proportion of population satisfied with their last experience of public services</a></p>
+</div>
+
+<div class="indicator" id="16.6.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 16.6.1</span>
+            <h3>Governmental expenditures within budgets</h3>
+            <p><strong>Definition:</strong> Indicator 16.6.1 is <i><q>primary government expenditures as a proportion of original approved budget, by sector (or by budget codes or similar)</q></i>.</p>
+            <p><strong>Goal:</strong> <i><q>Develop effective, accountable and transparent institutions at all levels</q></i> by 2030.</p>
+        </div>
+        <div class="col-md">
+            <br><br><br><br><br><br><b>We are currently not aware of available data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+        </div>
+    </div>
+</div>
+
+<hr>
+
+<div class="indicator" id="16.6.2">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 16.6.2</span>
+            <h3>Satisfaction with public services</h3>
+            <p><strong>Definition:</strong> Indicator 16.6.2 is the <i><q>proportion of population satisfied with their last experience of public services</q></i>.</p>
+            <p><strong>Goal:</strong> <i><q>Develop effective, accountable and transparent institutions at all levels</q></i> by 2030.</p>
+        </div>
+        <div class="col-md">
+            <br><br><br><br><br><b>We are currently not aware of available data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+        </div>
+    </div>
 </div>
