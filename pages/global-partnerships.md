@@ -67,7 +67,7 @@ Organization for Economic Cooperation and Development (OECD) Development Assista
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 17.2.1</span>
-            <h3>Government revenue</h3>
+            <h3>Development assistance to least-developed countries</h3>
             <p><strong>Definition:</strong> Indicator 17.2.1 is <i><q>net official development assistance, as a proportion of the Organization for Economic Cooperation and Development (OECD) Development Assistance Committee donors’ gross national income (GNI)</q></i>.<p>This indicator is measured as the net official development assistance (ODA) as a share of total gross national income (GNI) by OECD-DAC countries. It is given as the net ODA to all countries, as well as the ODA specifically allocated to least-developed countries (LDCs).</p>
             <p><strong>Goal:</strong> <i><q>Developed countries to implement fully their official development assistance commitments, including the commitment by many developed countries to achieve the target of 0.7 per cent of gross national income for official development assistance (ODA/GNI) to developing countries and 0.15 to 0.20 per cent of ODA/GNI to least developed countries</q></i>.</p>
             <p><strong>Additional charts:</strong> <br><a href="https://ourworldindata.org/grapher/net-oda-from-oecd-dac-countries">Official Development Assistance from OECD-DAC countries (US$)</a>
@@ -76,6 +76,42 @@ Organization for Economic Cooperation and Development (OECD) Development Assista
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/net-oda-as-percentage-of-oecd-donors-gni" style="width: 100%; height: 600px; border: 0px none;"></iframe>
             <iframe src="https://ourworldindata.org/grapher/net-oda-to-ldcs-as-percentage-of-donors-gni" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
+
+<div class="target">
+    <h2>Target 17.3: Mobilize financial resources for developing countries</h2>
+    <p>UN definition: <q>Mobilize additional financial resources for developing countries from multiple sources.</q></p>
+    <p>SDG Indicators: <br><a href="#17.3.1">17.3.1 Foreign direct investment (FDI), official development assistance and South-South cooperation as a proportion of total domestic budget</a> <br><a href="#17.3.2">17.3.2 Volume of remittances (in United States dollars) as a proportion of total GDP</a></p>
+</div>
+
+<div class="indicator" id="17.3.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 17.3.1</span>
+            <h3>Foreign direct investment</h3>
+            <p><strong>Definition:</strong> Indicator 17.3.1 is <i><q>foreign direct investment (FDI), official development assistance and South-South cooperation as a proportion of total domestic budget</q></i>.<p>Foreign direct investment refers to direct investment equity flows in an economy. It is the sum of equity capital, reinvestment of earnings, and other capital. This series shows net outflows of investment from the reporting economy to the rest of the world, and is divided by GDP.</p>
+            <p><strong>Goal:</strong> <i><q>Mobilize additional financial resources for developing countries</q></i> by 2030.<p>A specific target level of financial resource mobilization is not provided for this indicator.</p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/foreign-direct-investment-net-outflows-of-gdp" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
+
+<hr>
+
+<div class="indicator" id="17.3.2">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 17.3.2</span>
+            <h3>Volume of remittances</h3>
+            <p><strong>Definition:</strong> Indicator 17.3.2 is the <i><q>volume of remittances (in United States dollars) as a proportion of total GDP</q></i>.<p>Personal remittances comprise personal transfers and compensation of employees. Personal transfers consist of all current transfers in cash or in kind made or received by resident households to or from nonresident households. <p>Compensation of employees refers to the income of border, seasonal, and other short-term workers who are employed in an economy where they are not resident and of residents employed by nonresident entities.</p>
+            <p><strong>Goal:</strong> <i><q>Mobilize additional financial resources for developing countries</q></i> by 2030.<p>A specific target level of financial resource mobilization is not provided for this indicator.</p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/personal-remittances-received-of-gdp" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
 </div>
