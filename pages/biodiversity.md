@@ -173,7 +173,7 @@ Three sub-indicators focus on the extension of forest area, biomass within the f
 <div class="col-md">
 <span>SDG Indicator 15.6.1</span>
 <h3>Benefits of sharing genetic resources</h3>
-<p><strong>Definition:</strong> Indicator 15.6.1 is the <i><q>number of countries that have adopted legislative, administrative and policy frameworks to ensure fair and equitable sharing of benefits</q></i>.<p>The The indicators shown track parties to protocols concerned with the promotion and sharing of genetic resources for plants, food and agriculture.</p>
+<p><strong>Definition:</strong> Indicator 15.6.1 is the <i><q>number of countries that have adopted legislative, administrative and policy frameworks to ensure fair and equitable sharing of benefits</q></i>.<p>The indicators shown track parties to protocols concerned with the promotion and sharing of genetic resources for plants, food and agriculture.</p>
 <p><strong>Goal:</strong> By 2030 <i><q>promote fair and equitable sharing of the benefits arising from the utilization of genetic resources and promote appropriate access to such resources</q></i>.</p>
 </div>
 <div class="col-md">
@@ -182,4 +182,51 @@ Three sub-indicators focus on the extension of forest area, biomass within the f
 <iframe src="https://ourworldindata.org/grapher/countries-that-are-parties-to-the-nagoya-protocol" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 </div>
 </div>
+</div>
+
+<div class="target">
+    <h2>Target 15.7: Eliminate poaching and trafficking of protected species</h2>
+    <p>UN definition: <q>Take urgent action to end poaching and trafficking of protected species of flora and fauna and address both demand and supply of illegal wildlife products.</q></p>
+    <p>SDG Indicators: <br><a href="#15.7.1">15.7.1 Proportion of traded wildlife that was poached or illicitly trafficked</a></p>
+</div>
+
+<div class="indicator" id="15.7.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 15.7.1</span>
+            <h3>Wildlife poaching and trafficking</h3>
+            <p><strong>Definition:</strong> Indicator 15.7.1 is the <i><q>proportion of traded wildlife that was poached or illicitly trafficked</q></i>.</p>
+            <p><strong>Goal:</strong> <i><q>Take urgent action to end poaching and trafficking of protected species of flora and fauna and address both demand and supply of illegal wildlife products</q></i>.</p>
+        </div>
+        <div class="col-md">
+            <br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+        </div>
+    </div>
+</div>
+
+<div class="target">
+    <h2>Target 15.8: Prevent invasive alien species on land and in water ecosystems</h2>
+    <p>UN definition: <q>By 2020, introduce measures to prevent the introduction and significantly reduce the impact of invasive alien species on land and water ecosystems and control or eradicate the priority species.</q></p>
+    <p>SDG Indicators: <br><a href="#15.8.1">15.8.1 Proportion of countries adopting relevant national legislation and adequately resourcing the prevention or control of invasive alien species</a></p>
+</div>
+
+<div class="indicator" id="15.8.1">
+<div class="row">
+<div class="col-md">
+<span>SDG Indicator 15.8.1</span>
+<h3>Prevent invasive alien species</h3>
+<p><strong>Definition:</strong> Indicator 15.8.1 is the <i><q>proportion of countries adopting relevant national legislation and adequately resourcing the prevention or control of invasive alien species</q></i>.</p>
+<p><strong>Goal:</strong> <i><q>Introduce measures to prevent the introduction and significantly reduce the impact of invasive alien species on land and water ecosystems and control or eradicate the priority species</q></i> by 2020.<p>Unlike most SDG targets which are set to be achieved by 2030, this indicator is to be achieved by 2020.</p>
+</div>
+<div class="col-md">
+<br><br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+</div>
+</div>
+</div>
+
+<div class="target">
+    <h2>Target 15.9: Integrate ecosystem and biodiversity in governmental planning</h2>
+    <p>UN definition: <q>By 2020, integrate ecosystem and biodiversity values into national and local planning, development processes, poverty reduction strategies and accounts.</q></p>
+    <p>SDG Indicators: <br><a href="#15.9.1">Progress towards national targets established in accordance with Aichi Biodiversity Target 2 of the
+Strategic Plan for Biodiversity 2011–2020</a></p>
 </div>
