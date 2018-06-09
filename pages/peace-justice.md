@@ -373,3 +373,101 @@ public official, or were asked for a bribe by those public officials during the 
         </div>
     </div>
 </div>
+
+<div class="target">
+    <h2>Target 16.9: Provide universal legal identity</h2>
+    <p>UN definition: <q>By 2030, provide legal identity for all, including birth registration.</q></p>
+    <p>SDG Indicators: <br><a href="#16.9.1">16.9.1 Proportion of children under 5 years of age whose births have been registered with a civil authority, by age</a></p>
+</div>
+
+<div class="indicator" id="16.9.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 16.9.1</span>
+            <h3>Birth registration</h3>
+            <p><strong>Definition:</strong> Indicator 16.9.1 is the <i><q>proportion of children under 5 years of age whose births have been registered with a civil authority</q></i>.<p>Completeness of birth registration is the percentage of children under age 5 whose births were registered at the time of the survey. <p>The numerator of completeness of birth registration includes children whose birth certificate was seen by the interviewer or whose mother or caretaker says the birth has been registered.</p>
+            <p><strong>Goal:</strong> <i><q>Provide legal identity for all</q></i> by 2030.<p>This requires universal birth registration in all countries by 2030.</p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/completeness-of-birth-registration" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
+
+<div class="target">
+    <h2>Target 16.10: Ensure public access to information and protect fundamental freedoms</h2>
+    <p>UN definition: <q>Ensure public access to information and protect fundamental freedoms, in accordance with national legislation and international agreements.</q></p>
+    <p>SDG Indicators: <br><a href="#16.10.1">16.10.1 Number of verified cases of killing, kidnapping, enforced disappearance, arbitrary detention and torture of journalists, associated media personnel, trade unionists and human rights advocates in the previous 12 months</a> <br><a href="#16.10.2">16.10.2 Number of countries that adopt and implement constitutional, statutory and/or policy guarantees for public access to information</a></p>
+</div>
+
+<div class="indicator" id="16.10.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 16.10.1</span>
+            <h3>Journalist and media killings</h3>
+            <p><strong>Definition:</strong> Indicator 16.10.1 is the <i><q>number of verified cases of killing, kidnapping, enforced disappearance, arbitrary detention and torture of journalists, associated media personnel, trade unionists and human rights advocates in the previous 12 months</q></i>.<p>Data is available for the number of homicides on journalists or other media personnel, given as the total number in a given country and breakdown by gender.</p>
+            <p><strong>Goal:</strong> <i><q>Protect fundamental freedoms</q></i> across all countries by 2030.</p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/cases-of-killings-of-journalists-and-media-personnel" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
+
+<hr>
+
+<div class="indicator" id="16.10.2">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 16.10.2</span>
+            <h3>Public access to information</h3>
+            <p><strong>Definition:</strong> Indicator 16.10.2 is the <i><q>number of countries that adopt and implement constitutional, statutory and/or policy guarantees for public access to information</q></i>.</p>
+            <p><strong>Goal:</strong> <i><q>Ensure public access to information</q></i> across all countries by 2030.</p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/countries-that-adopt-guarantees-for-public-access-to-information" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
+
+<div class="target">
+    <h2>Target 16.A: Strengthen national institutions to prevent violence and combat crime and terrorism</h2>
+    <p>UN definition: <q>Strengthen relevant national institutions, including through international cooperation, for building capacity at all levels, in particular in developing countries, to prevent violence and combat terrorism and crime.</q></p>
+    <p>SDG Indicators: <br><a href="#16.A.1">16.A.1 Existence of independent national human rights institutions in compliance with the Paris Principles</a> </p>
+</div>
+
+<div class="indicator" id="16.A.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 16.A.1</span>
+            <h3>National human rights institutions</h3>
+            <p><strong>Definition:</strong> Indicator 16.A.1 is the <i><q>existence of independent national human rights institutions in compliance with the Paris Principles</q></i>.<p>Data reflects compliance of existing national human rights institutions  with the Principles relating to the Status of National Institutions (The Paris Principles) based on the rules of procedure of the Global Alliance of National Human Rights Institutions (GANHRI).</p>
+            <p><strong>Goal:</strong> <i><q>Strengthen relevant national institutions for building capacity at all levels, to prevent violence and combat terrorism and crime</q></i> across all countries by 2030.</p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/countries-that-applied-for-accreditation-in-paris-principles" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/countries-in-compliance-with-paris-principles" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
+
+<div class="target">
+    <h2>Target 16.B: Promote and enforce non-discriminatory laws and policies</h2>
+    <p>UN definition: <q>Promote and enforce non-discriminatory laws and policies for sustainable development.</q></p>
+    <p>SDG Indicators: <br><a href="#16.B.1">16.B.1 Proportion of population reporting having personally felt discriminated against or harassed in the
+previous 12 months on the basis of a ground of discrimination prohibited under international human rights law</a></p>
+</div>
+
+<div class="indicator" id="16.B.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 16.B.1</span>
+            <h3>Public discrimination</h3>
+            <p><strong>Definition:</strong> Indicator 16.B.1 is the <i><q>proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights law</q></i>.</p>
+            <p><strong>Goal:</strong> <i><q>Promote and enforce non-discriminatory laws and policies for sustainable development</q></i> across all countries by 2030.</p>
+        </div>
+        <div class="col-md">
+            <br><br><br><br><br><br><b>We are currently not aware of available data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+        </div>
+    </div>
+</div>
