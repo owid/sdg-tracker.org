@@ -166,3 +166,41 @@ aggression by caregivers in the past month</a> <br><a href="#16.2.2">16.2.2 Numb
         </div>
     </div>
 </div>
+
+<div class="target">
+    <h2>Target 16.3: Promote the rule of law and ensure equal access to justice</h2>
+    <p>UN definition: <q>Promote the rule of law at the national and international levels and ensure equal access to justice for all.</q></p>
+    <p>SDG Indicators: <br><a href="#16.3.1">16.3.1 Proportion of victims of violence in the previous 12 months who reported their victimization to competent
+authorities or other officially recognized conflict resolution mechanisms</a> <br><a href="#16.3.2">16.3.2 Unsentenced detainees as a proportion of overall
+prison population</a></p>
+</div>
+
+<div class="indicator" id="16.3.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 16.3.1</span>
+            <h3>Victim reports of crime</h3>
+            <p><strong>Definition:</strong> Indicator 16.3.1 is the <i><q>proportion of victims of violence in the previous 12 months who reported their victimization to competent authorities</q></i>.</p>
+            <p><strong>Goal:</strong> <i><q>Ensure equal access to justice for all</q></i> across all countries by 2030.</p>
+        </div>
+        <div class="col-md">
+            <br><br><br><br><b>We are currently not aware of available data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+        </div>
+    </div>
+</div>
+
+<hr>
+
+<div class="indicator" id="16.3.2">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 16.3.2</span>
+            <h3>Unsentenced detainees</h3>
+            <p><strong>Definition:</strong> Indicator 16.3.2 is <i><q>unsentenced detainees as a proportion of overall prison population</q></i>.<p>This indicator measures the total number of persons held in detention who have not yet been sentenced, as a percentage of the total number of persons held in detention, on a specified date.</p>
+            <p><strong>Goal:</strong> <i><q>Ensure equal access to justice for all</q></i> across all countries by 2030.</p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/unsentenced-detainees-as-proportion-of-prison-population" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
