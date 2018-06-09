@@ -266,3 +266,45 @@ biodiversity and ecosystems</a></p>
         </div>
     </div>
 </div>
+
+<div class="target">
+    <h2>Target 15.B: Finance and incentivize sustainable forest management</h2>
+    <p>UN definition: <q>Mobilize significant resources from all sources and at all levels to finance sustainable forest management and provide adequate incentives to developing countries to advance such management, including for conservation and reforestation.</q></p>
+    <p>SDG Indicators: <br><a href="#15.B.1">15.B.1 Official development assistance and public expenditure on conservation and sustainable use of
+biodiversity and ecosystems</a></p>
+</div>
+
+<div class="indicator" id="15.B.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 15.B.1</span>
+            <h3>Official development assistance for forest management</h3>
+            <p><strong>Definition:</strong> Indicator 15.B.1 is the <i><q>official development assistance and public expenditure on conservation and sustainable use of biodiversity and ecosystems</q></i>.<p>This indicator is reported as the annual official development assistance (ODA) for biodiversity by recipient, and value of assistance by donor.</p>
+            <p><strong>Goal:</strong> <i><q>Mobilize significant resources from all sources and at all levels to finance sustainable forest management</q></i> by 2030.</p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/total-oda-for-biodiversity-by-recipient" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/total-oda-for-biodiversity-by-donor" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
+
+<div class="target">
+    <h2>Target 15.C: Combat global poaching and trafficking</h2>
+    <p>UN definition: <q>Enhance global support for efforts to combat poaching and trafficking of protected species, including by increasing the capacity of local communities to pursue sustainable livelihood opportunities.</q></p>
+    <p>SDG Indicators: <br><a href="#15.C.1">15.C.1 Proportion of traded wildlife that was poached or illicitly trafficked</a></p>
+</div>
+
+<div class="indicator" id="15.C.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 15.C.1</span>
+            <h3>Poaching and trafficking wildlife</h3>
+            <p><strong>Definition:</strong> Indicator 15.C.1 is the <i><q>proportion of traded wildlife that was poached or illicitly trafficked</q></i>.</p>
+            <p><strong>Goal:</strong> <i><q>Enhance global support for efforts to combat poaching and trafficking of protected species</q></i> by 2030.</p>
+        </div>
+        <div class="col-md">
+            <br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+        </div>
+    </div>
+</div>
