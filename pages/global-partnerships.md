@@ -155,3 +155,43 @@ Organization for Economic Cooperation and Development (OECD) Development Assista
         </div>
     </div>
 </div>
+
+<div class="target">
+    <h2>Target 17.6: Knowledge sharing and cooperation for access to science, technology and innovation</h2>
+    <p>UN definition: <q>Enhance North-South, South-South and triangular regional and international cooperation on and access to science, technology and innovation and enhance knowledge sharing on mutually agreed terms, including through improved coordination among existing mechanisms, in particular at the United Nations level, and through a global technology facilitation mechanism.
+</q></p>
+    <p>SDG Indicators: <br><a href="#17.6.1">17.6.1 Number of science and/or technology cooperation agreements and programmes between countries, by type of
+cooperation</a> <br><a href="#17.6.2">17.6.2 Fixed Internet broadband subscriptions per 100 inhabitants, by speed</a></p>
+</div>
+
+<div class="indicator" id="17.6.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 17.6.1</span>
+            <h3>Science and technology cooperation</h3>
+            <p><strong>Definition:</strong> Indicator 17.6.1 is the <i><q>number of science and/or technology cooperation agreements and programmes between countries</q></i>.</p>
+            <p><strong>Goal:</strong> <i><q>Enhance North-South, South-South and triangular regional and international cooperation on and access to science, technology and innovation</q></i> by 2030.</p>
+        </div>
+        <div class="col-md">
+            <br><br><br><br><br><br><b>We are currently not aware of available data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+        </div>
+    </div>
+</div>
+
+<hr>
+
+<div class="indicator" id="17.6.2">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 17.6.2</span>
+            <h3>Fixed broadband subscriptions</h3>
+            <p><strong>Definition:</strong> Indicator 17.6.2 is <i><q>fixed Internet broadband subscriptions per 100 inhabitants</q></i>.</p>
+            <p><strong>Goal:</strong> <i><q>Enhance North-South, South-South and triangular regional and international cooperation on and access to science, technology and innovation</q></i> by 2030.</p>
+            <p><strong>More research:</strong> Further data and research on this topic is available at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/technology-adoption">Technology Diffusion & Adoption</a>.</p>
+            <p><strong>Additional charts:</strong> <br><a href="https://ourworldindata.org/grapher/secure-internet-servers-per-1-million-people">Secure Internet servers (per million)</a> <br><a href="https://ourworldindata.org/grapher/share-of-individuals-using-the-internet">Share of population using the internet</a></p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/fixed-broadband-subscriptions-per-100-people?tab=chart" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
