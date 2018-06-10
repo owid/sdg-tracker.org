@@ -274,13 +274,33 @@ triangular cooperation) committed to developing countries</a></p>
         <div class="col-md">
             <span>SDG Indicator 17.10.1</span>
             <h3>Weighted average tariffs</h3>
-            <p><strong>Definition:</strong> Indicator 17.10.1 is the <i><q>worldwide weighted tariff-average</q></i>.<p>Weighted mean applied tariff is the average of effectively applied rates weighted by the product import shares corresponding to each partner country.
-</p>
+            <p><strong>Definition:</strong> Indicator 17.10.1 is the <i><q>worldwide weighted tariff-average</q></i>.<p>Weighted mean applied tariff is the average of effectively applied rates weighted by the product import shares corresponding to each partner country.</p>
             <p><strong>Goal:</strong> <i><q>Promote a universal, rules-based, open, non-discriminatory and equitable multilateral trading system under the World Trade Organization</q></i> by 2030.</p>
             <p><strong>More research:</strong> Further data and research on this topic is available at the <i>Our World in Data</i> <a href="https://ourworldindata.org/international-trade">entry on International Trade</a>.</p>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/tariff-rate-applied-weighted-mean-all-products" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
+
+<div class="target">
+    <h2>Target 17.11: Increase the exports of developing countries</h2>
+    <p>UN definition: <q>Significantly increase the exports of developing countries, in particular with a view to doubling the least developed countries’ share of global exports by 2020.</q></p>
+    <p>SDG Indicators: <br><a href="#17.11.1">17.11.1 Developing countries’ and least developed countries’ share of global exports</a></p>
+</div>
+
+<div class="indicator" id="17.11.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 17.11.1</span>
+            <h3>Exports from developing countries</h3>
+            <p><strong>Definition:</strong> Indicator 17.11.1 is the <i><q>Developing countries’ and least developed countries’ share of global exports</q></i>.<p> This indicator is assessed as the total export value of goods and services (in constant 2010 US$) aggregated by World Bank income group. Exports of goods and services represent the value of all goods and other market services provided to the rest of the world.</p>
+            <p><strong>Goal:</strong> <i><q>Significantly increase the exports of developing countries, in particular with a view to doubling the least developed countries’ share of global exports by 2020.</q></i> <p>Unlike most SDG targets which are set for the year 2030, this indicator is to be achieved by 2020.</p>
+            <p><strong>More research:</strong> Further data and research on this topic is available at the <i>Our World in Data</i> <a href="https://ourworldindata.org/international-trade">entry on International Trade</a>.</p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/exports-of-goods-and-services-income" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
 </div>
