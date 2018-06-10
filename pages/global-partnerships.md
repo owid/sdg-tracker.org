@@ -187,11 +187,56 @@ cooperation</a> <br><a href="#17.6.2">17.6.2 Fixed Internet broadband subscripti
             <h3>Fixed broadband subscriptions</h3>
             <p><strong>Definition:</strong> Indicator 17.6.2 is <i><q>fixed Internet broadband subscriptions per 100 inhabitants</q></i>.</p>
             <p><strong>Goal:</strong> <i><q>Enhance North-South, South-South and triangular regional and international cooperation on and access to science, technology and innovation</q></i> by 2030.</p>
-            <p><strong>More research:</strong> Further data and research on this topic is available at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/technology-adoption">Technology Diffusion & Adoption</a>.</p>
-            <p><strong>Additional charts:</strong> <br><a href="https://ourworldindata.org/grapher/secure-internet-servers-per-1-million-people">Secure Internet servers (per million)</a> <br><a href="https://ourworldindata.org/grapher/share-of-individuals-using-the-internet">Share of population using the internet</a></p>
+            <p><strong>More research:</strong> Further data and research on this topic is available at the <i>Our World in Data</i> entries on <a href="https://ourworldindata.org/technology-adoption">Technology Diffusion & Adoption</a> and <a href="https://ourworldindata.org/internet"> the Internet</a>.</p>
+            <p><strong>Additional charts:</strong> <br><a href="https://ourworldindata.org/grapher/secure-internet-servers-per-1-million-people">Secure Internet servers (per million)</a> <br><a href="https://ourworldindata.org/grapher/broadband-penetration-by-country">Broadband penetration by country</a>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/fixed-broadband-subscriptions-per-100-people?tab=chart" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
+
+<div class="target">
+    <h2>Target 17.7: Promote sustainable technologies to developing countries</h2>
+    <p>UN definition: <q>Promote the development, transfer, dissemination and diffusion of environmentally sound technologies to developing countries on favourable terms, including on concessional and preferential terms, as mutually agreed.</q></p>
+    <p>SDG Indicators: <br><a href="#17.7.1">17.7.1 Total amount of approved funding for developing countries to promote the development, transfer,
+dissemination and diffusion of environmentally sound technologies</a></p>
+</div>
+
+<div class="indicator" id="17.7.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 17.7.1</span>
+            <h3>Sustainable technologies in developing countries</h3>
+            <p><strong>Definition:</strong> Indicator 17.7.1 is the <i><q>total amount of approved funding for developing countries to promote the development, transfer, dissemination and diffusion of environmentally sound technologies</q></i>.</p>
+            <p><strong>Goal:</strong> <i><q>Promote the development, transfer, dissemination and diffusion of environmentally sound technologies to developing countries</q></i> by 2030.</p>
+        </div>
+        <div class="col-md">
+            <br><br><br><br><br><br><br><b>We are currently not aware of available data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+        </div>
+    </div>
+</div>
+
+<div class="target">
+    <h2>Target 17.8: Strengthen the science, technology and innovation capacity for least-developed countries</h2>
+    <p>UN definition: <q>Fully operationalize the technology bank and science, technology and innovation capacity-building mechanism for least developed countries by 2017 and enhance the use of enabling technology, in particular information and communications technology.</q></p>
+    <p>SDG Indicators: <br><a href="#17.8.1">17.8.1 Total amount of approved funding for developing countries to promote the development, transfer,
+dissemination and diffusion of environmentally sound technologies</a></p>
+</div>
+
+<div class="indicator" id="17.8.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 17.8.1</span>
+            <h3>Individuals using the Internet</h3>
+            <p><strong>Definition:</strong> Indicator 17.8.1 is the <i><q>proportion of individuals using the Internet</q></i>.<p>Internet users are individuals who have used the Internet (from any location) in the last 3 months. The Internet can be used via a computer, mobile phone, personal digital assistant, games machine, digital TV etc.</p>
+            <p><strong>Goal:</strong> <i><q>Fully operationalize the technology bank and science, technology and innovation capacity-building mechanism for least developed countries, in particular information and communications technology</q></i>.</p>
+            <p><strong>More research:</strong> Further data and research on this topic is available at the <i>Our World in Data</i> entries on <a href="https://ourworldindata.org/technology-adoption">Technology Diffusion & Adoption</a> and <a href="https://ourworldindata.org/internet"> the Internet</a>.</p>
+            <p><strong>Additional charts:</strong> <br><a href="https://ourworldindata.org/grapher/secure-internet-servers-per-1-million-people">Secure Internet servers (per million)</a> <br><a href="https://ourworldindata.org/grapher/internet-users-by-world-region">Internet users by region</a>
+<br><a href="https://ourworldindata.org/grapher/broadband-penetration-by-country">Broadband penetration by country</a>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/share-of-individuals-using-the-internet" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
 </div>
