@@ -240,3 +240,25 @@ dissemination and diffusion of environmentally sound technologies</a></p>
         </div>
     </div>
 </div>
+
+<div class="target">
+    <h2>Target 17.9: Enhanced SDG capacity in developing countries</h2>
+    <p>UN definition: <q>Enhance international support for implementing effective and targeted capacity-building in developing countries to support national plans to implement all the Sustainable Development Goals, including through North-South, South-South and triangular cooperation.</q></p>
+    <p>SDG Indicators: <br><a href="#17.9.1">17.9.1 Dollar value of financial and technical assistance (including through North-South, South-South and
+triangular cooperation) committed to developing countries</a></p>
+</div>
+
+<div class="indicator" id="17.9.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 17.9.1</span>
+            <h3>SDG support for developing countries</h3>
+            <p><strong>Definition:</strong> Indicator 17.9.1 is the <i><q>dollar value of financial and technical assistance committed to developing countries</q></i>.<p>This indicator is measured as net official development assistance (ODA), which consists of disbursements of loans made on concessional terms (net of repayments of principal) and grants by official agencies of the members of the Development Assistance Committee (DAC), by multilateral institutions, and by non-DAC countries.
+</p>
+            <p><strong>Goal:</strong> <i><q>Enhance international support for implementing effective and targeted capacity-building in developing countries to support national plans to implement all the Sustainable Development Goals</q></i> through 2030.</p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/net-official-development-assistance-and-aid-received" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
