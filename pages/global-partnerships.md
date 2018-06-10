@@ -262,3 +262,25 @@ triangular cooperation) committed to developing countries</a></p>
         </div>
     </div>
 </div>
+
+<div class="target">
+    <h2>Target 17.10: Promote a universal trading system under the WTO</h2>
+    <p>UN definition: <q>Promote a universal, rules-based, open, non-discriminatory and equitable multilateral trading system under the World Trade Organization, including through the conclusion of negotiations under its Doha Development Agenda.</q></p>
+    <p>SDG Indicators: <br><a href="#17.10.1">17.10.1 Worldwide weighted tariff-average</a></p>
+</div>
+
+<div class="indicator" id="17.10.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 17.10.1</span>
+            <h3>Weighted average tariffs</h3>
+            <p><strong>Definition:</strong> Indicator 17.10.1 is the <i><q>worldwide weighted tariff-average</q></i>.<p>Weighted mean applied tariff is the average of effectively applied rates weighted by the product import shares corresponding to each partner country.
+</p>
+            <p><strong>Goal:</strong> <i><q>Promote a universal, rules-based, open, non-discriminatory and equitable multilateral trading system under the World Trade Organization</q></i> by 2030.</p>
+            <p><strong>More research:</strong> Further data and research on this topic is available at the <i>Our World in Data</i> <a href="https://ourworldindata.org/international-trade">entry on International Trade</a>.</p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/tariff-rate-applied-weighted-mean-all-products" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
