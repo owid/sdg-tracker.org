@@ -130,7 +130,7 @@ policy/strategy/plan which increases their ability to adapt to the adverse impac
             <p><strong>Goal:</strong> By 2030 <i><q>improve education, awareness-raising and human and institutional capacity on climate change mitigation, adaptation, impact reduction and early warning</q></i>.</p>
         </div>
         <div class="col-md">
-            <br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+            <br><br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
         </div>
     </div>
 </div>
@@ -146,7 +146,7 @@ policy/strategy/plan which increases their ability to adapt to the adverse impac
             <p><strong>Goal:</strong> By 2030 <i><q>improve education, awareness-raising and human and institutional capacity on climate change mitigation, adaptation, impact reduction and early warning</q></i>.</p>
         </div>
         <div class="col-md">
-            <br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+            <br><br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
         </div>
     </div>
 </div>
@@ -188,7 +188,7 @@ support, for mechanisms for raising capacities for effective climate change-rela
             <p><strong>Goal:</strong> By 2030 <i><q>promote mechanisms for raising capacity for effective climate change-related planning and management in least developed countries</q></i>.</p>
         </div>
         <div class="col-md">
-            <br><br><br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+            <br><br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
         </div>
     </div>
 </div>
