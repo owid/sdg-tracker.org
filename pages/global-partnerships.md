@@ -365,3 +365,102 @@ triangular cooperation) committed to developing countries</a></p>
         </div>
     </div>
 </div>
+
+<div class="target">
+    <h2>Target 17.15: Respect national leadership to implement policies for the sustainable development goals</h2>
+    <p>UN definition: <q>Respect each country’s policy space and leadership to establish and implement policies for poverty eradication and sustainable development.</q></p>
+    <p>SDG Indicators: <br><a href="#17.15.1">17.15.1 Extent of use of country-owned results frameworks and planning tools by providers of development cooperation</a></p>
+</div>
+
+<div class="indicator" id="17.15.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 17.15.1</span>
+            <h3>Policy for sustainable development</h3>
+            <p><strong>Definition:</strong> Indicator 17.15.1 is the <i><q>extent of use of country-owned results frameworks and planning tools by providers of development cooperation</q></i>.<p>The indicator assesses the degree to which providers of development cooperation (i.e. development partners) design their interventions by relying on objectives and results indicators that are drawn from developing country government-led results frameworks reflecting the country’s development priorities and goals.</p>
+            <p><strong>Goal:</strong> <i><q>Respect national leadership to implement policies for the sustainable development goals</q></i> through 2030.</p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/use-of-crf-tools-by-providers-of-dev-cooperation" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
+
+<div class="target">
+    <h2>Target 17.16: Enhance the global partnership for sustainable development</h2>
+    <p>UN definition: <q>Enhance the Global Partnership for Sustainable Development, complemented by multi-stakeholder partnerships that mobilize and share knowledge, expertise, technology and financial resources, to support the achievement of the Sustainable Development Goals in all countries, in particular developing countries.</q></p>
+    <p>SDG Indicators: <br><a href="#17.16.1">17.16.1 Number of countries reporting progress in multistakeholder development effectiveness monitoring frameworks that support the achievement of the Sustainable Development Goals</a></p>
+</div>
+
+<div class="indicator" id="17.16.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 17.16.1</span>
+            <h3>Progress in multistakeholder development</h3>
+            <p><strong>Definition:</strong> Indicator 17.16.1 is the <i><q>number of countries reporting progress in multistakeholder development effectiveness monitoring frameworks</q></i>.<p>This indicator assesses countries which are and are not tracking multistakeholder monitoring frameworks for the SDGs in a given year.</p>
+            <p><strong>Goal:</strong> <i><q>Enhance the Global Partnership for Sustainable Development, complemented by multi-stakeholder partnerships that mobilize and share knowledge, expertise, technology and financial resources, to support the achievement of the Sustainable Development Goals</q></i> in all countries.</p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/progress-in-multistakeholder-monitoring-frameworks" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
+
+<div class="target">
+    <h2>Target 17.17: Encourage effective partnerships</h2>
+    <p>UN definition: <q>Encourage and promote effective public, public-private and civil society partnerships, building on the experience and resourcing strategies of partnerships.</q></p>
+    <p>SDG Indicators: <br><a href="#17.17.1">17.17.1 Amount of United States dollars committed to (a) public-private partnerships and (b) civil society
+partnerships</a></p>
+</div>
+
+<div class="indicator" id="17.17.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 17.17.1</span>
+            <h3>Public, private and civil society partnerships</h3>
+            <p><strong>Definition:</strong> Indicator 17.17.1 is the <i><q>amount of United States dollars committed to (a) public-private partnerships and (b) civil society
+partnerships</q></i>.</p>
+            <p><strong>Goal:</strong> <i><q>Encourage and promote effective public, public-private and civil society partnerships</q></i> by 2030.</p>
+        </div>
+        <div class="col-md">
+            <br><br><br><br><br><br><b>We are currently not aware of available data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+        </div>
+    </div>
+</div>
+
+<div class="target">
+    <h2>Target 17.18: Enhance availability of reliable data</h2>
+    <p>UN definition: <q>By 2020, enhance capacity-building support to developing countries, including for least developed countries and small island developing States, to increase significantly the availability of high-quality, timely and reliable data disaggregated by income, gender, age, race, ethnicity, migratory status, disability, geographic location and other characteristics relevant in national contexts.</q></p>
+    <p>SDG Indicators: <br><a href="#17.18.1">17.18.1 Proportion of sustainable development indicators produced at the national level with full disaggregation
+when relevant to the target, in accordance with the Fundamental Principles of Official Statistics</a> <br><a href="#17.18.2">17.18.2 Number of countries that have national statistical legislation that complies with the Fundamental Principles of Official Statistics</a> <br><a href="#17.18.3">17.18.3 Number of countries with a national statistical plan that is fully funded and under implementation, by source of funding</a></p>
+</div>
+
+<div class="indicator" id="17.18.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 17.18.1</span>
+            <h3>Statistical Capacity</h3>
+            <p><strong>Definition:</strong> Indicator 17.18.1 is the <i><q>proportion of sustainable development indicators produced at the national level with full disaggregation when relevant to the target, in accordance with the Fundamental Principles of Official Statistics</q></i>.<p>This indicator is measured using the Statistical Capacity Indicator which provides an overview of the capacity of a country's national statistical system based on a diagnostic framework thereby assessing three dimensions: Methodology, Source Data, and Periodicity and Timeliness.</p>
+            <p><strong>Goal:</strong> <i><q>Enhance capacity-building support to developing countries, including for least developed countries and small island developing States, to increase significantly the availability of high-quality, timely and reliable data</q></i> in all countries by 2020.<p>Unlike most SDGs which have a target year of 2030, this indicator is to be achieved by 2020.</p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/statistical-capacity-indicator" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
+
+<hr>
+
+<div class="indicator" id="17.18.2">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 17.18.2</span>
+            <h3>National statistical legislation</h3>
+            <p><strong>Definition:</strong> Indicator 17.18.2 is the <i><q>number of countries that have national statistical legislation that complies with the Fundamental Principles of Official Statistics</q></i>.</p>
+            <p><strong>Goal:</strong> <i><q>Enhance capacity-building support to developing countries, including for least developed countries and small island developing States, to increase significantly the availability of high-quality, timely and reliable data</q></i> in all countries by 2020.<p>Unlike most SDGs which have a target year of 2030, this indicator is to be achieved by 2020.</p>
+        </div>
+        <div class="col-md">
+            <br><br><br><br><br><br><br><br><b>We are currently not aware of available data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+        </div>
+    </div>
+</div>
