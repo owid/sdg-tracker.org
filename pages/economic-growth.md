@@ -12,8 +12,6 @@ description: >-
   and retool our economic and social policies aimed at eradicating poverty.
 
 
-
-
   The UN has defined 12 "Targets" and 17 "Indicators" for SDG 8. Targets specify
   the goals and Indicators represent the metrics by which the world aims to
   track whether these Targets are achieved. Below we quote the original text of
@@ -197,14 +195,14 @@ disabilities</a>.</p>
         <div class="col-md">
             <span>SDG Indicator 8.7.1</span>
             <h3>Youth employment, education and training</h3>
-            <p><strong>Definition:</strong> Indicator 8.7.1 is the <i><q>proportion and number of children aged 5–17 years engaged in child labour, by sex and age</q></i>.<p>Current data for this indicator reports the share of children aged 7-14 years old in employment (working for at least one hour in week previous to the survey). This is also shown available by sex.</p>
+            <p><strong>Definition:</strong> Indicator 8.7.1 is the <i><q>proportion and number of children aged 5–17 years engaged in child labour, by sex and age</q></i>.<p>Current data for this indicator reports the share of children aged 5-17 years old in employment (working for at least one hour in week previous to the survey). This is also shown available by sex.</p>
             <p><strong>Goal:</strong> <i><q>End child labour in all its forms</q></i> by 2025.</p>
            <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/child-labor">entry on Child Labor</a>.
            <p><strong>Additional charts:</strong> <br><a href="https://ourworldindata.org/grapher/average-working-hours-of-children">Average weekly working hours of children</a>
         </div>
         <div class="col-md">
-            <iframe src="https://ourworldindata.org/grapher/incidence-of-child-labour?tab=map&year=2015" style="width: 100%; height: 600px; border: 0px none;"></iframe>
-            <iframe src="https://ourworldindata.org/grapher/percentage-of-children-in-employment-by-sex" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/children-aged-5-17-engaged-in-labour" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/children-aged-5-17-years-engaged-in-labour" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
 </div>
