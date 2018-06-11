@@ -302,7 +302,7 @@ aftercare services) for substance use disorders</h3>
             <p><strong>More research:</strong> The <i>Our World in Data</i> <a href="https://ourworldindata.org/substance-use">entry on Substance Use</a> provides data on substance use disorder prevalence and limited data coverage of treatment interventions.</p>
         </div>
         <div class="col-md">
-         <br><br><br><br><br><br><br><br><br><br><br><br><br><b>We are currently unaware of available data for this indicator. You can submit or notify us of official data for this indicator here.</b> 
+         <br><br><br><br><br><br><br><br><br><br><b>We are currently unaware of available data for this indicator. You can submit or notify us of official data for this indicator here.</b> 
         </div>
     </div>
 </div>
