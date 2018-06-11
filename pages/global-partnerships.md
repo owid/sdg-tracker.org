@@ -151,7 +151,7 @@ Organization for Economic Cooperation and Development (OECD) Development Assista
             <p><strong>Goal:</strong> <i><q>Adopt and implement investment promotion regimes for least developed countries</q></i> by 2030.</p>
         </div>
         <div class="col-md">
-            <br><br><br><br><br><b>We are currently not aware of available data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+            <br><br><br><br><b>We are currently not aware of available data for this indicator. You can submit or notify us of official data for this indicator here.</b>
         </div>
     </div>
 </div>
@@ -173,7 +173,7 @@ cooperation</a> <br><a href="#17.6.2">17.6.2 Fixed Internet broadband subscripti
             <p><strong>Goal:</strong> <i><q>Enhance North-South, South-South and triangular regional and international cooperation on and access to science, technology and innovation</q></i> by 2030.</p>
         </div>
         <div class="col-md">
-            <br><br><br><br><br><br><b>We are currently not aware of available data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+            <br><br><br><br><br><b>We are currently not aware of available data for this indicator. You can submit or notify us of official data for this indicator here.</b>
         </div>
     </div>
 </div>
@@ -212,7 +212,7 @@ dissemination and diffusion of environmentally sound technologies</a></p>
             <p><strong>Goal:</strong> <i><q>Promote the development, transfer, dissemination and diffusion of environmentally sound technologies to developing countries</q></i> by 2030.</p>
         </div>
         <div class="col-md">
-            <br><br><br><br><br><br><br><b>We are currently not aware of available data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+            <br><br><br><br><br><b>We are currently not aware of available data for this indicator. You can submit or notify us of official data for this indicator here.</b>
         </div>
     </div>
 </div>
@@ -361,7 +361,7 @@ triangular cooperation) committed to developing countries</a></p>
             <p><strong>Goal:</strong> <i><q>Enhance policy coherence for sustainable development</q></i> through 2030.</p>
         </div>
         <div class="col-md">
-            <br><br><br><br><br><b>We are currently not aware of available data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+            <br><br><br><br><b>We are currently not aware of available data for this indicator. You can submit or notify us of official data for this indicator here.</b>
         </div>
     </div>
 </div>
@@ -423,7 +423,7 @@ partnerships</q></i>.</p>
             <p><strong>Goal:</strong> <i><q>Encourage and promote effective public, public-private and civil society partnerships</q></i> by 2030.</p>
         </div>
         <div class="col-md">
-            <br><br><br><br><br><br><b>We are currently not aware of available data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+            <br><br><br><br><br><b>We are currently not aware of available data for this indicator. You can submit or notify us of official data for this indicator here.</b>
         </div>
     </div>
 </div>
