@@ -295,12 +295,73 @@ triangular cooperation) committed to developing countries</a></p>
         <div class="col-md">
             <span>SDG Indicator 17.11.1</span>
             <h3>Exports from developing countries</h3>
-            <p><strong>Definition:</strong> Indicator 17.11.1 is the <i><q>Developing countries’ and least developed countries’ share of global exports</q></i>.<p> This indicator is assessed as the total export value of goods and services (in constant 2010 US$) aggregated by World Bank income group. Exports of goods and services represent the value of all goods and other market services provided to the rest of the world.</p>
+            <p><strong>Definition:</strong> Indicator 17.11.1 is <i><q>developing countries’ and least developed countries’ share of global exports</q></i>.<p> This indicator is assessed as the total export value of goods and services (in constant 2010 US$) aggregated by World Bank income group. Exports of goods and services represent the value of all goods and other market services provided to the rest of the world.</p>
             <p><strong>Goal:</strong> <i><q>Significantly increase the exports of developing countries, in particular with a view to doubling the least developed countries’ share of global exports by 2020.</q></i> <p>Unlike most SDG targets which are set for the year 2030, this indicator is to be achieved by 2020.</p>
             <p><strong>More research:</strong> Further data and research on this topic is available at the <i>Our World in Data</i> <a href="https://ourworldindata.org/international-trade">entry on International Trade</a>.</p>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/exports-of-goods-and-services-income" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
+
+<div class="target">
+    <h2>Target 17.12: Remove trade barriers fro least-developed countries</h2>
+    <p>UN definition: <q>Realize timely implementation of duty-free and quota-free market access on a lasting basis for all least developed countries, consistent with World Trade Organization decisions, including by ensuring that preferential rules of origin applicable to imports from least developed countries are transparent and simple, and contribute to facilitating market access.</q></p>
+    <p>SDG Indicators: <br><a href="#17.12.1">17.12.1 Average tariffs faced by developing countries, least developed countries and small island developing States</a></p>
+</div>
+
+<div class="indicator" id="17.12.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 17.12.1</span>
+            <h3>Tariffs for developing countries</h3>
+            <p><strong>Definition:</strong> Indicator 17.12.1 is the <i><q>average tariffs faced by developing countries, least developed countries and small island developing States</q></i>.<p>Data for this indictor is shown as the weighted average tariff rate (by product sector) for low-income countries. THis is, however, available to view for any country or other income groupings.</p>
+            <p><strong>Goal:</strong> <i><q>Realize timely implementation of duty-free and quota-free market access on a lasting basis for all least developed countries</q></i>.</p>
+            <p><strong>More research:</strong> Further data and research on this topic is available at the <i>Our World in Data</i> <a href="https://ourworldindata.org/international-trade">entry on International Trade</a>.</p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/tariff-rates" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
+
+<div class="target">
+    <h2>Target 17.13: Enhance global macroeconomic stability</h2>
+    <p>UN definition: <q>Enhance global macroeconomic stability, including through policy coordination and policy coherence.</q></p>
+    <p>SDG Indicators: <br><a href="#17.13.1">17.13.1 Macroeconomic Dashboard</a></p>
+</div>
+
+<div class="indicator" id="17.13.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 17.13.1</span>
+            <h3>Macroeconomic Dashboard</h3>
+            <p><strong>Definition:</strong> Indicator 17.13.1 is the <i><q>Macroeconomic Dashboard</q></i>.</p>
+            <p><strong>Goal:</strong> <i><q>Enhance global macroeconomic stability, including through policy coordination and policy coherence</q></i>.</p>
+        </div>
+        <div class="col-md">
+            <br><br><br><b>We are currently not aware of available data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+        </div>
+    </div>
+</div>
+
+<div class="target">
+    <h2>Target 17.14: Enhance policy coherence for sustainable development</h2>
+    <p>UN definition: <q>Enhance policy coherence for sustainable development.</q></p>
+    <p>SDG Indicators: <br><a href="#17.14.1">17.14.1 Number of countries with mechanisms in place to enhance policy coherence of sustainable development</a></p>
+</div>
+
+<div class="indicator" id="17.14.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 17.14.1</span>
+            <h3>Policy for sustainable development</h3>
+            <p><strong>Definition:</strong> Indicator 17.14.1 is the <i><q>number of countries with mechanisms in place to enhance policy coherence of sustainable development</q></i>.</p>
+            <p><strong>Goal:</strong> <i><q>Enhance policy coherence for sustainable development</q></i> through 2030.</p>
+        </div>
+        <div class="col-md">
+            <br><br><br><br><br><b>We are currently not aware of available data for this indicator. You can submit or notify us of official data for this indicator here.</b>
         </div>
     </div>
 </div>
