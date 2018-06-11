@@ -35,11 +35,11 @@ mainstreamed as a priority or a target into national policies</a></p>
         <div class="col-md">
             <span>SDG Indicator 12.1.1</span>
             <h3>Sustainable consumption and production action plans</h3>
-            <p><strong>Definition:</strong> Indicator 12.1.1 is the <i><q>Number of countries with sustainable consumption and production (SCP) national action plans or SCP mainstreamed as a priority or a target into national policies</q></i>.</p>
+            <p><strong>Definition:</strong> Indicator 12.1.1 is the <i><q>number of countries with sustainable consumption and production (SCP) national action plans or SCP mainstreamed as a priority or a target into national policies</q></i>.</p>
             <p><strong>Goal:</strong> <i><q>Implement the 10‑Year Framework of Programmes on Sustainable Consumption and Production Patterns</q></i> with all countries taking action by 2030.</p>
         </div>
         <div class="col-md">
-            <br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+            <br><br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
         </div>
     </div>
 </div>
