@@ -296,7 +296,7 @@ public official, or were asked for a bribe by those public officials during the 
             <p><strong>Goal:</strong> <i><q>Develop effective, accountable and transparent institutions at all levels</q></i> by 2030.</p>
         </div>
         <div class="col-md">
-            <br><br><br><br><br><br><b>We are currently not aware of available data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+            <br><br><br><br><br><b>We are currently not aware of available data for this indicator. You can submit or notify us of official data for this indicator here.</b>
         </div>
     </div>
 </div>
@@ -312,7 +312,7 @@ public official, or were asked for a bribe by those public officials during the 
             <p><strong>Goal:</strong> <i><q>Develop effective, accountable and transparent institutions at all levels</q></i> by 2030.</p>
         </div>
         <div class="col-md">
-            <br><br><br><br><br><b>We are currently not aware of available data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+            <br><br><br><br><b>We are currently not aware of available data for this indicator. You can submit or notify us of official data for this indicator here.</b>
         </div>
     </div>
 </div>
@@ -332,7 +332,7 @@ public official, or were asked for a bribe by those public officials during the 
             <p><strong>Goal:</strong> <i><q>Ensure responsive, inclusive, participatory and representative decision-making at all levels</q></i> by 2030.</p>
         </div>
         <div class="col-md">
-            <br><br><br><br><br><br><br><b>We are currently not aware of available data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+            <br><br><br><br><br><b>We are currently not aware of available data for this indicator. You can submit or notify us of official data for this indicator here.</b>
         </div>
     </div>
 </div>
@@ -348,7 +348,7 @@ public official, or were asked for a bribe by those public officials during the 
             <p><strong>Goal:</strong> <i><q>Ensure responsive, inclusive, participatory and representative decision-making at all levels</q></i> by 2030.</p>
         </div>
         <div class="col-md">
-            <br><br><br><br><br><b>We are currently not aware of available data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+            <br><br><br><br><b>We are currently not aware of available data for this indicator. You can submit or notify us of official data for this indicator here.</b>
         </div>
     </div>
 </div>
@@ -467,7 +467,7 @@ previous 12 months on the basis of a ground of discrimination prohibited under i
             <p><strong>Goal:</strong> <i><q>Promote and enforce non-discriminatory laws and policies for sustainable development</q></i> across all countries by 2030.</p>
         </div>
         <div class="col-md">
-            <br><br><br><br><br><br><b>We are currently not aware of available data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+            <br><br><br><br><br><b>We are currently not aware of available data for this indicator. You can submit or notify us of official data for this indicator here.</b>
         </div>
     </div>
 </div>
