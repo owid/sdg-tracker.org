@@ -65,7 +65,7 @@ featuredImage: /img/uploads/10.svg
             <p><strong>More research:</strong> Further data and research on this topic can be found at <i>Our World in Data</i> entries on <a href="https://ourworldindata.org/income-inequality">Income Inequality</a>, <a href="https://ourworldindata.org/global-economic-inequality">Global Economic inequality</a> and <a href="https://ourworldindata.org/economic-inequality-by-gender">Economic Inequality by Gender</a>.</p>
         </div>
         <div class="col-md">
-            <br><br><br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+            <br><br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
         </div>
     </div>
 </div>
@@ -86,7 +86,7 @@ previous 12 months on the basis of a ground of discrimination prohibited under i
             <p><strong>Goal:</strong> <i><q>Ensure equal opportunity and reduce inequalities of outcome, including by eliminating discriminatory laws, policies and practices</q></i> by 2030.</p>
         </div>
         <div class="col-md">
-            <br><br><br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+            <br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
         </div>
     </div>
 </div>
@@ -169,7 +169,7 @@ previous 12 months on the basis of a ground of discrimination prohibited under i
             <p><strong>Goal:</strong> By 2030 <i><q>facilitate orderly, safe, regular and responsible migration and mobility of people</q></i>.</p>
         </div>
         <div class="col-md">
-            <br><br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+            <br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
         </div>
     </div>
 </div>
@@ -185,7 +185,7 @@ previous 12 months on the basis of a ground of discrimination prohibited under i
             <p><strong>Goal:</strong> By 2030 <i><q>facilitate orderly, safe, regular and responsible migration and mobility of people, including through the implementation of planned and well-managed migration policies</q></i>.</p>
         </div>
         <div class="col-md">
-            <br><br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+            <br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
         </div>
     </div>
 </div>
