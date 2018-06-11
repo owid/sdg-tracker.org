@@ -98,7 +98,7 @@ consumption per capita, and domestic material consumption per GDP</a></p>
             <p><strong>Goal:</strong> <i><q>By 2030, halve per capita global food waste at the retail and consumer levels and reduce food losses along production and supply chains, including post-harvest losses</q></i>.</p>
         </div>
         <div class="col-md">
-            <br><br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+            <br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
         </div>
     </div>
 </div>
@@ -134,7 +134,7 @@ consumption per capita, and domestic material consumption per GDP</a></p>
             <p><strong>Goal:</strong> <i><q>Achieve the environmentally sound management of chemicals and all wastes throughout their life cycle, in accordance with agreed international frameworks</q></i> by 2020.<p>Unlike most SDG targets which are set for the year 2030, this indicator is set for 2020.</p>
         </div>
         <div class="col-md">
-              <br><br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+              <br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
         </div>
     </div>
 </div>
@@ -175,7 +175,7 @@ consumption per capita, and domestic material consumption per GDP</a></p>
             <p><strong>Goal:</strong> <i><q>Encourage companies to adopt sustainable practices and sustainability reporting</q></i> by 2030.</p>
         </div>
         <div class="col-md">
-            <br><br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+            <br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
         </div>
     </div>
 </div>
@@ -195,7 +195,7 @@ consumption per capita, and domestic material consumption per GDP</a></p>
             <p><strong>Goal:</strong> <i><q>Promote public procurement practices that are sustainable, in accordance with national policies and priorities</q></i> by 2030.</p>
         </div>
         <div class="col-md">
-            <br><br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+            <br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
         </div>
     </div>
 </div>
@@ -217,7 +217,7 @@ climate change education) are mainstreamed</q></i>.</p>
 <p><strong>Goal:</strong> <i><q>Ensure that people everywhere have the relevant information and awareness for sustainable development and lifestyles in harmony with nature</q></i> by 2030.</p>
 </div>
 <div class="col-md">
-<br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+<br><br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
 </div>
 </div>
 </div>
@@ -237,7 +237,7 @@ climate change education) are mainstreamed</q></i>.</p>
 <p><strong>Goal:</strong> <i><q>Support developing countries' scientific and technological capacity for sustainable consumption and production</q></i> through 2030.</p>
 </div>
 <div class="col-md">
-<br><br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+<br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
 </div>
 </div>
 </div>
@@ -277,7 +277,7 @@ climate change education) are mainstreamed</q></i>.</p>
 <p><strong>Goal:</strong> By 2030 <i><q>rationalize inefficient fossil-fuel subsidies that encourage wasteful consumption by removing market distortions, in accordance with national circumstances</q></i>.</p>
 </div>
 <div class="col-md">
-<br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+<br><br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
 </div>
 </div>
 </div>
