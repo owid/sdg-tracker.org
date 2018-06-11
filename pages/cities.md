@@ -230,7 +230,7 @@ of all cultural and natural heritage, by type of heritage (cultural, natural, mi
             <p><strong>Goal:</strong> <i><q>Provide universal access to safe, inclusive and accessible, green and public spaces in particular for women and children, older persons and persons with disabilities</q></i> by 2030.</p>
         </div>
         <div class="col-md">
-            <br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+            <br><br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
         </div>
     </div>
 </div>
