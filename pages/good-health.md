@@ -528,12 +528,10 @@ pollution and contamination.</q></p>
 
 <div class="target">
 <h2>Target 3.a: Implement the WHO framework convention on tobacco control</h2>
-
 <p>UN definition: <q>Strengthen the implementation of the World Health
 Organization Framework Convention on Tobacco Control in
 all countries, as appropriate.</q></p>
-
-<p>SDG Indicators: <a href="#3.a.1">3.A.1 Age-standardized prevalence of current tobacco use among persons aged 15 years and older</a>.</p>
+<p>SDG Indicators: <br><a href="#3.a.1">3.A.1 Age-standardized prevalence of current tobacco use among persons aged 15 years and older</a></p>
 
 </div>
 
