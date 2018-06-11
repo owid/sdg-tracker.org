@@ -464,3 +464,57 @@ when relevant to the target, in accordance with the Fundamental Principles of Of
         </div>
     </div>
 </div>
+
+<hr>
+
+<div class="indicator" id="17.18.3">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 17.18.3</span>
+            <h3>National statistical plans</h3>
+            <p><strong>Definition:</strong> Indicator 17.18.3 is the <i><q>number of countries with a national statistical plan that is fully funded and under implementation</q></i>.<p>This indicator measures the number of countries with a full-funded statistical plan, differentiated by source of funding.</p>
+            <p><strong>Goal:</strong> <i><q>Enhance capacity-building support to developing countries, including for least developed countries and small island developing States, to increase significantly the availability of high-quality, timely and reliable data</q></i> in all countries by 2020.<p>Unlike most SDGs which have a target year of 2030, this indicator is to be achieved by 2020.</p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/countries-with-stats-plan-funded-by-source" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
+
+<div class="target">
+    <h2>Target 17.19: Further develop measurements of progress</h2>
+    <p>UN definition: <q>By 2030, build on existing initiatives to develop measurements of progress on sustainable development that complement gross domestic product, and support statistical capacity-building in developing countries.</q></p>
+    <p>SDG Indicators: <br><a href="#17.19.1">17.19.1 Dollar value of all resources made available to strengthen statistical capacity in developing countries</a> <br><a href="#17.19.2">17.19.2 Proportion of countries that (a) have conducted at least one population and housing census in the last 10 years; and (b) have achieved 100 per cent birth registration and 80 per cent death registration</a></p>
+</div>
+
+<div class="indicator" id="17.19.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 17.19.1</span>
+            <h3>Resources for statistical capacity</h3>
+            <p><strong>Definition:</strong> Indicator 17.19.1 is the <i><q>dollar value of all resources made available to strengthen statistical capacity in developing countries</q></i>.</p>
+            <p><strong>Goal:</strong> <i><q>Build on existing initiatives to develop measurements of progress on sustainable development</q></i> in all countries by 2030.</p>
+        </div>
+        <div class="col-md">
+            <br><br><br><br><br><b>We are currently not aware of available data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+        </div>
+    </div>
+</div>
+
+<hr>
+
+<div class="indicator" id="17.19.2">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 17.19.2</span>
+            <h3>Completeness of census, birth and death registriation</h3>
+            <p><strong>Definition:</strong> Indicator 17.19.2 is the <i><q>proportion of countries that (a) have conducted at least one population and housing census in the last 10 years; and (b) have achieved 100 per cent birth registration and 80 per cent death registration</q></i>.<p>This indicator comprises of three measures:  countries which have completed a population census in the last 10 years; the percentage completeness of birth registration; and completeness of death registration.</p>
+            <p><strong>Goal:</strong> <i><q>Build on existing initiatives to develop measurements of progress on sustainable development</q></i> in all countries by 2030.</p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/completeness-population-census" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/completeness-of-birth-registration" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/completeness-of-death-reporting" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
