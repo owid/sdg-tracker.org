@@ -75,7 +75,7 @@ featuredImage: /img/uploads/7.svg
 <div class="target">
     <h2>Target 7.2: Increase global percentage of renewable energy</h2>
     <p>UN definition: <q>By 2030, increase substantially the share of renewable energy in the global energy mix.</q></p>
-    <p>SDG Indicators: <a href="#7.2.1">7.2.1 Renewable energy share in the total final energy consumption</a>.</p>
+    <p>SDG Indicators: <br><a href="#7.2.1">7.2.1 Renewable energy share in the total final energy consumption</a>.</p>
 </div>
 
 <div class="indicator" id="7.2.1">
