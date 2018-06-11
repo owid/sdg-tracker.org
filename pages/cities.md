@@ -250,7 +250,7 @@ of all cultural and natural heritage, by type of heritage (cultural, natural, mi
             <p><strong>Goal:</strong> <i><q>Support positive economic, social and environmental links between urban, peri-urban and rural areas by strengthening national and regional development planning</q></i> by 2030.</p>
         </div>
         <div class="col-md">
-            <br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+            <br><br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
         </div>
     </div>
 </div>
