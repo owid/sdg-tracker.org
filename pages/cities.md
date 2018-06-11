@@ -318,7 +318,7 @@ and retrofitting of sustainable, resilient and resource-efficient buildings util
             <p><strong>Goal:</strong> <i><q>Support least developed countries, including through financial and technical assistance, in building sustainable and resilient buildings utilizing local materials</q></i> by 2030.</p>
         </div>
         <div class="col-md">
-            <br><br><br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+            <br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
         </div>
     </div>
 </div>
