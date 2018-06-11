@@ -228,7 +228,7 @@ gender equality and human rights, are mainstreamed at all levels in (a) national
 <div class="target">
     <h2>Target 4.A: Build and upgrade inclusive and safe schools</h2>
     <p>UN definition: <q>Build and upgrade education facilities that are child, disability and gender sensitive and provide safe, non-violent, inclusive and effective learning environments for all.</q></p>
-    <p>SDG Indicators: <a href="#4.A.1">4.A.1 Proportion of schools with access to (a) electricity; (b) the Internet for pedagogical purposes; (c) computers
+    <p>SDG Indicators: <br><a href="#4.A.1">4.A.1 Proportion of schools with access to (a) electricity; (b) the Internet for pedagogical purposes; (c) computers
 for pedagogical purposes; (d) adapted infrastructure and materials for students with disabilities; (e) basic drinking water; (f) single-sex basic sanitation facilities; and (g) basic handwashing facilities (as per the WASH indicator definitions)</a>.</p>
 </div>
 
@@ -247,12 +247,33 @@ for pedagogical purposes; (d) adapted infrastructure and materials for students 
 </div>
 
 <div class="target">
+    <h2>Target 4.B: Expand higher education scholarships for developing countries</h2>
+    <p>UN definition: <q>By 2020, substantially expand globally the number of scholarships available to developing countries, in particular least developed countries, small island developing States and African countries, for enrolment in higher education, including vocational training and information and communications technology, technical, engineering and scientific programmes, in developed countries and other developing countries.</q></p>
+    <p>SDG Indicators: <br><a href="#4.B.1">4.B.1 Volume of official development assistance flows for scholarships by sector and type of study</a>.</p>
+</div>
+
+<div class="indicator" id="4.B.1">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 4.B.1</span>
+            <h3>Scholarships for developing countries</h3>
+            <p><strong>Definition:</strong> Indicator 4.B.1 is the <i><q>volume of official development assistance flows for scholarships</q></i>.<p>This indicator measures the levels of financial support and development assistance provided for education and training scholarships.</p>
+            <p><strong>Goal:</strong> By 2020 <i><q>substantially expand globally the number of scholarships available to developing countries</q></i>.<p>Unlike most SDG targets which are set to be achieved by 2030, this indicator has a target year of 2020.</p>
+            <p><strong>More research:</strong> Further data and research can be found at <i>Our World in Data</i> <a href="https://ourworldindata.org/financing-education">entry on Financing Education</a>.</p>
+        </div>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/oda-for-scholarships" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
+    </div>
+</div>
+
+<div class="target">
     <h2>Target 4.C: Increase the supply of qualified teachers in developing countries</h2>
     <p>UN definition: <q>By 2030, substantially increase the supply of qualified
 teachers, including through international cooperation for
 teacher training in developing countries, especially least
 developed countries and small island developing States.</q></p>
-    <p>SDG Indicators: <a href="#4.C.1">4.C.1 Proportion of teachers in (a) pre-primary; (b) primary; (c) lower secondary; and (d) upper secondary
+    <p>SDG Indicators: <br><a href="#4.C.1">4.C.1 Proportion of teachers in (a) pre-primary; (b) primary; (c) lower secondary; and (d) upper secondary
 education who have received at least the minimum organized teacher training</a>.</p>
 </div>
 
