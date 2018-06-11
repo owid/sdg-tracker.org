@@ -31,7 +31,7 @@ featuredImage: /img/uploads/7.svg
 <div class="target">
     <h2>Target 7.1: Universal access to modern energy</h2>
     <p>UN definition: <q>By 2030, ensure universal access to affordable, reliable and modern energy services.</q></p>
-    <p>SDG Indicators: <a href="#7.1.1">7.1.1 Proportion of population with access to electricity</a> <br><a href="#7.1.2">7.1.2 Proportion of population with primary reliance on clean fuels and technology</a>.</p>
+    <p>SDG Indicators: <br><a href="#7.1.1">7.1.1 Proportion of population with access to electricity</a> <br><a href="#7.1.2">7.1.2 Proportion of population with primary reliance on clean fuels and technology</a>.</p>
 </div>
 
 <div class="indicator" id="7.1.1">
