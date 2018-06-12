@@ -143,7 +143,7 @@ previous 12 months on the basis of a ground of discrimination prohibited under i
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 10.6.1</span>
-            <h3>Policies for greater equality</h3>
+            <h3>Voting rights for developing countries</h3>
             <p><strong>Definition:</strong> Indicator 10.6.1 is the <i><q>proportion of members and voting rights of developing countries in international organizations</q></i>.<p>These indicators measure the share of members and voting rights in international institutions which are held by developing countries.</p>
             <p><strong>Goal:</strong> By 2030 <i><q>ensure enhanced representation and voice for developing countries in decision-making in global international economic and financial institutions</q></i>.</p>
         </div>
