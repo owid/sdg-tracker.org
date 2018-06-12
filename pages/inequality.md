@@ -59,7 +59,7 @@ featuredImage: /img/uploads/10.svg
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 10.2.1</span>
-            <h3>Income growth inequalities</h3>
+            <h3>People living below 50 per cent of median income</h3>
             <p><strong>Definition:</strong> Indicator 10.2.1 is the <i><q>proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities</q></i>.</p>
             <p><strong>Goal:</strong> <i><q>By 2030, empower and promote the social, economic and political inclusion of all, irrespective of age, sex, disability, race, ethnicity, origin, religion or economic or other status</q></i>.</p>
             <p><strong>More research:</strong> Further data and research on this topic can be found at <i>Our World in Data</i> entries on <a href="https://ourworldindata.org/income-inequality">Income Inequality</a>, <a href="https://ourworldindata.org/global-economic-inequality">Global Economic inequality</a> and <a href="https://ourworldindata.org/economic-inequality-by-gender">Economic Inequality by Gender</a>.</p>
