@@ -72,7 +72,7 @@ featuredImage: /img/uploads/8.svg
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 8.3.1</span>
-            <h3>GDP per capita growth rate per employed person</h3>
+            <h3>Informal employment</h3>
             <p><strong>Definition:</strong> Indicator 8.3.1 is the <i><q>proportion of informal employment in non-agriculture employment, by sex</q></i>.<p>This is measured as employment in the informal economy as a percentage of total non-agricultural employment. This includes all jobs in unregistered and/or small-scale private unincorporated enterprises that produce goods or services meant for sale or barter. </p>
             <p><strong>Goal:</strong> <i><q>Promote development-oriented policies that support productive activities, decent job creation, entrepreneurship, creativity and innovation</q></i> by 2030.</p>
             <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/female-labor-supply">entry on Female Labor Supply</a>.
