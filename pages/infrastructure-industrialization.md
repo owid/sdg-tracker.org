@@ -113,7 +113,7 @@ employment</q></i>.<p>This indicator measures the manufacturing sector's employm
             <p><strong>Goal:</strong> <i><q>Increase the access of small-scale industrial and other enterprises, in particular in developing countries, to value chains and markets</q></i> by 2030.</p>
         </div>
         <div class="col-md">
-            <br><br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+            <br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
         </div>
     </div>
 </div>
@@ -129,7 +129,7 @@ employment</q></i>.<p>This indicator measures the manufacturing sector's employm
             <p><strong>Goal:</strong> <i><q>Increase the access of small-scale industrial and other enterprises, in particular in developing countries, to financial services, including affordable credit</q></i> by 2030.</p>
         </div>
         <div class="col-md">
-            <br><br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+            <br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
         </div>
     </div>
 </div>
