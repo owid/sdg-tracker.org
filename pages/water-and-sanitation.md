@@ -182,7 +182,7 @@ operational arrangement for water cooperation.</a></p>
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 6.5.1</span>
-            <h3>Water use efficiency</h3>
+            <h3>Integrated water management</h3>
             <p><strong>Definition:</strong> Indicator 6.5.1 is the <i><q>degree of integrated water resources management implementation (0–100)</q></i>.<p>This metric assesses the status of national development and implementation of Integrated Water Resource Management (IWRM) plans across the world.</p>
             <p><strong>Goal:</strong> <i><q>By 2030, implement integrated water resources management at all levels, including through transboundary cooperation as appropriate</q></i>.</p>
             <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/water-access-resources-sanitation">entry on Water Access, Resources & Sanitation</a>.</p>
@@ -205,7 +205,7 @@ operational arrangement for water cooperation</q></i>.
             <p><strong>Goal:</strong> <i><q>By 2030, implement integrated water resources management at all levels, including through transboundary cooperation as appropriate</q></i>.</p>
         </div>
         <div class="col-md">
-            <br><br><br><br><br><b>We are currently not aware of available data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+            <br><br><br><br><b>We are currently not aware of available data for this indicator. You can submit or notify us of official data for this indicator here.</b>
         </div>
     </div>
 </div>
