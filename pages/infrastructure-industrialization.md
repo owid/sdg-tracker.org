@@ -226,7 +226,7 @@ infrastructure</a>.</p>
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 9.B.1</span>
-            <h3>Development assistance for infrastructure</h3>
+            <h3>Medium and high-tech industry</h3>
             <p><strong>Definition:</strong> Indicator 9.B.1 is the <i><q>proportion of medium and high-tech industry value added in total value added</q></i>.<p>This indicator measures the share of a country's manufacturing value added which is derived from medium to high-tech industry outputs. Higher values indicate that a country's industrial sector is more focused on high-tech and innovation products.
 </p>
             <p><strong>Goal:</strong> <i><q>Support domestic technology development, research and innovation in developing countries, including by ensuring a conducive policy environment for, inter alia, industrial diversification and value addition to commodities</q></i> by 2030.</p>
