@@ -48,7 +48,7 @@ disabilities</a></p>
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 11.2.1</span>
-            <h3>Urban population living in slums</h3>
+            <h3>Public transport access</h3>
             <p><strong>Definition:</strong> Indicator 11.2.1 is the <i><q>proportion of population that has convenient access to public transport, by sex, age and persons with
 disabilities</q></i>.</p>
             <p><strong>Goal:</strong> <i><q>Provide access to safe, affordable, accessible and sustainable transport systems for all</q></i> by 2030.</p>
