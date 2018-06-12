@@ -311,7 +311,7 @@ disabilities</a>.</p>
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 8.10.2</span>
-            <h3>Access to financial services</h3>
+            <h3>Population with financial account</h3>
             <p><strong>Definition:</strong> Indicator 8.10.2 is the <i><q>proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider</q></i>.<p>Data presented here details the percentage of adults (aged 15 and older) who report having an account (by themselves or together with someone else) at a bank or another type of financial institution.</p>
             <p><strong>Goal:</strong> <i><q>Encourage and expand access to banking, insurance and financial services for all</q></i> by 2030.</p>
             <p><strong>Additional charts:</strong> <br><a href="https://ourworldindata.org/grapher/registered-mobile-money-accounts-by-region">Registered mobile money reports by region</a></p> 
