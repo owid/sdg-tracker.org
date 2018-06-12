@@ -129,7 +129,7 @@ consumption per capita, and domestic material consumption per GDP</a></p>
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 12.4.2</span>
-            <h3>International agreements on hazardous waste</h3>
+            <h3>Hazardous waste generation</h3>
             <p><strong>Definition:</strong> Indicator 12.4.2 is <i><q>hazardous waste generated per capita and proportion of hazardous waste treated, by type of treatment</q></i>.</p>
             <p><strong>Goal:</strong> <i><q>Achieve the environmentally sound management of chemicals and all wastes throughout their life cycle, in accordance with agreed international frameworks</q></i> by 2020.<p>Unlike most SDG targets which are set for the year 2030, this indicator is set for 2020.</p>
         </div>
