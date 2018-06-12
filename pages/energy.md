@@ -132,7 +132,7 @@ featuredImage: /img/uploads/7.svg
             <p><strong>Goal:</strong> <i><q>Enhance international cooperation to facilitate access to clean energy research and technology, including renewable energy, energy efficiency and advanced and cleaner fossil-fuel technology, and promote investment in energy infrastructure and clean energy technology</q></i> by 2030.</p>
         </div>
         <div class="col-md">
-            <br><br><br><br><br><br><br><b>We are currently not aware of available data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+            <br><br><br><br><br><b>We are currently not aware of available data for this indicator. You can submit or notify us of official data for this indicator here.</b>
         </div>
     </div>
 </div>
@@ -152,7 +152,7 @@ featuredImage: /img/uploads/7.svg
 <p><strong>Goal:</strong> <i><q>Expand infrastructure and upgrade technology for supplying modern and sustainable energy services for all in developing countries</q></i> by 2030.</p>
 </div>
 <div class="col-md">
-<br><br><br><br><br><br><br><b>We are currently not aware of available data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+<br><br><br><br><br><b>We are currently not aware of available data for this indicator. You can submit or notify us of official data for this indicator here.</b>
 </div>
 </div>
 </div>
