@@ -112,7 +112,7 @@ consumption per capita, and domestic material consumption per GDP</a>.</p>
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 8.4.2</span>
-            <h3>Material footprint</h3>
+            <h3>Domestic material consumption</h3>
             <p><strong>Definition:</strong> Indicator 8.4.2 is <i><q>domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP</q></i>.<p>Material Footprint (MF) is the attribution of global material extraction to domestic final demand of a country. The total material footprint is the sum of the material footprint for biomass, fossil fuels, metal ores and non-metal ores. <p>Domestic Material Consumption (DMC) is a production-side measure which does not account for supply chain inputs or exports, meaning a country could have a lower DMC value if it outsources a large proportion of its materials. Data on material footprints are outdated and unavailable for years following 2010.</p>
             <p><strong>Goal:</strong> <i><q>Improve progressively, through 2030, global resource efficiency in consumption and production and endeavour to decouple economic growth from environmental degradation</q></i>.</p>
         </div>
