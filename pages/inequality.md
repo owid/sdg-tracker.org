@@ -128,7 +128,7 @@ previous 12 months on the basis of a ground of discrimination prohibited under i
             <p><strong>Goal:</strong> <i><q>Improve the regulation and monitoring of global financial markets and institutions and strengthen the implementation of such regulations</q></i> by 2030.</p>
         </div>
         <div class="col-md">
-            <br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+            <br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
         </div>
     </div>
 </div>
