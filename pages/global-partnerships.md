@@ -460,7 +460,7 @@ when relevant to the target, in accordance with the Fundamental Principles of Of
             <p><strong>Goal:</strong> <i><q>Enhance capacity-building support to developing countries, including for least developed countries and small island developing States, to increase significantly the availability of high-quality, timely and reliable data</q></i> in all countries by 2020.<p>Unlike most SDGs which have a target year of 2030, this indicator is to be achieved by 2020.</p>
         </div>
         <div class="col-md">
-            <br><br><br><br><br><br><br><br><b>We are currently not aware of available data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+            <br><br><br><br><br><br><br><b>We are currently not aware of available data for this indicator. You can submit or notify us of official data for this indicator here.</b>
         </div>
     </div>
 </div>
