@@ -423,7 +423,7 @@ partnerships</q></i>.</p>
             <p><strong>Goal:</strong> <i><q>Encourage and promote effective public, public-private and civil society partnerships</q></i> by 2030.</p>
         </div>
         <div class="col-md">
-            <br><br><br><br><br><b>We are currently not aware of available data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+            <br><br><br><br><b>We are currently not aware of available data for this indicator. You can submit or notify us of official data for this indicator here.</b>
         </div>
     </div>
 </div>
