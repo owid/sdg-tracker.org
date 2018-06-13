@@ -376,7 +376,7 @@ triangular cooperation) committed to developing countries</a></p>
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 17.15.1</span>
-            <h3>Policy for sustainable development</h3>
+            <h3>National results frameworks</h3>
             <p><strong>Definition:</strong> Indicator 17.15.1 is the <i><q>extent of use of country-owned results frameworks and planning tools by providers of development cooperation</q></i>.<p>The indicator assesses the degree to which providers of development cooperation (i.e. development partners) design their interventions by relying on objectives and results indicators that are drawn from developing country government-led results frameworks reflecting the country’s development priorities and goals.</p>
             <p><strong>Goal:</strong> <i><q>Respect national leadership to implement policies for the sustainable development goals</q></i> through 2030.</p>
         </div>
