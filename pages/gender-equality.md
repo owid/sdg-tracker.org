@@ -4,8 +4,9 @@ title: Achieve gender equality and empower all women and girls
 goalNum: 5
 name: Gender Equality
 description: >-
-  The UN explains: <i><q>Gender equality is not only a fundamental human right,
-  but a necessary foundation for a peaceful, prosperous and sustainable world. 
+  The [UN explains](https://www.un.org/sustainabledevelopment/gender-equality/):
+  <i><q>Gender equality is not only a fundamental human right, but a necessary
+  foundation for a peaceful, prosperous and sustainable world. 
 
 
   Providing women and girls with equal access to education, health care, decent
