@@ -317,7 +317,7 @@ aftercare services) for substance use disorders</h3>
             <p><strong>More research:</strong> The <i>Our World in Data</i> <a href="https://ourworldindata.org/substance-use">entry on Substance Use</a> provides data on substance use disorder prevalence and limited data coverage of treatment interventions.</p>
         </div>
         <div class="col-md">
-         <br><br><br><br><br><br><br><br><br><br><b>We are currently unaware of available data for this indicator. You can submit or notify us of official data for this indicator here.</b> 
+         <br><br><br><br><br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b> 
         </div>
     </div>
 </div>
@@ -467,7 +467,7 @@ essential medicines and vaccines for all.</q></p>
 <br><a href="https://ourworldindata.org/grapher/risk-of-impoverishing-expenditure-for-surgical-care">Risk of impoverishing expenditure for surgical care</a>
         </div>
         <div class="col-md">
-            <br><br><br><br><br><br><br><br><b>We are currently not aware of available data for this indicator. You can submit or notify us of official data for this indicator here.</b> 
+            <br><br><br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b> 
         </div>
     </div>
 </div>
@@ -639,7 +639,7 @@ research and basic health sectors</a> <br><a href="#3.B.3">3.B.3 Proportion of h
             <p><strong>Goal:</strong> By 2030 <q><i>provide affordable access to essential medicines for all</q></i>.
         </div>
         <div class="col-md">
-            <br><br><br><br><br><b>We are currently not aware of available data for this indicator. You can submit or notify us of official data for this indicator here.</b> 
+            <br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b> 
         </div>
     </div>
 </div>
