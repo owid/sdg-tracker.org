@@ -13,7 +13,7 @@ description: >-
   will fuel sustainable economies and benefit societies and humanity at large.
 
 
-  The UN has defined 9 "Targets" and 14 "Indicators" for SDG 5. Targets specify
+  The UN has defined 9 _Targets_ and 14 _Indicators_ for SDG 5. Targets specify
   the goals and Indicators represent the metrics by which the world aims to
   track whether these Targets are achieved. Below we quote the original text of
   all targets and show the data on the agreed Indicators.
@@ -81,7 +81,7 @@ psychological violence by a current or former intimate partner in the previous 1
             <p><strong>Goal:</strong> By 2030 <i><q>eliminate all forms of violence against all women and girls</q></i>.</p>
         </div>
         <div class="col-md">
-            <br><br><br><br><br><br><b>We are currently not aware of available data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+            <br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
         </div>
     </div>
 </div>
@@ -231,7 +231,7 @@ contraceptive use and reproductive health care</a> <br><a href="#5.6.2">5.6.2 Nu
 <br><a href="https://ourworldindata.org/grapher/unmet-need-for-contraception-share-of-married-women-of-reproductive-age">Unmet need for contraception</a></p>
         </div>
         <div class="col-md">
-            <br><br><br><br><br><br><br><b>We are currently not aware of available data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+            <br><br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
         </div>
     </div>
 </div>
@@ -309,7 +309,7 @@ empowerment</a>.</p>
             <p><strong>Goal:</strong> By 2030 <i><q>adopt and strengthen sound policies and enforceable legislation for the promotion of gender equality</q></i>.</p>
         </div>
         <div class="col-md">
-            <br><br><br><br><b>We are currently not aware of available data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+            <br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
         </div>
     </div>
 </div>
