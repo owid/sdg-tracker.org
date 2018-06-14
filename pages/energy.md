@@ -21,7 +21,7 @@ description: >-
   Fuels](https://ourworldindata.org/fossil-fuels).
 
 
-  The UN has defined 5 "Targets" and 6 "Indicators" for SDG 7. Targets specify
+  The UN has defined 5 _Targets_ and 6 _Indicators_ for SDG 7. Targets specify
   the goals and Indicators represent the metrics by which the world aims to
   track whether these Targets are achieved. Below we quote the original text of
   all targets and show the data on the agreed Indicators.
@@ -132,7 +132,7 @@ featuredImage: /img/uploads/7.svg
             <p><strong>Goal:</strong> <i><q>Enhance international cooperation to facilitate access to clean energy research and technology, including renewable energy, energy efficiency and advanced and cleaner fossil-fuel technology, and promote investment in energy infrastructure and clean energy technology</q></i> by 2030.</p>
         </div>
         <div class="col-md">
-            <br><br><br><br><br><b>We are currently not aware of available data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+            <br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
         </div>
     </div>
 </div>
@@ -152,7 +152,7 @@ featuredImage: /img/uploads/7.svg
 <p><strong>Goal:</strong> <i><q>Expand infrastructure and upgrade technology for supplying modern and sustainable energy services for all in developing countries</q></i> by 2030.</p>
 </div>
 <div class="col-md">
-<br><br><br><br><br><b>We are currently not aware of available data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+<br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
 </div>
 </div>
 </div>
