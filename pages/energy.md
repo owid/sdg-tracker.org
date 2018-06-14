@@ -4,14 +4,15 @@ title: 'Ensure access to affordable, reliable, sustainable and modern energy for
 goalNum: 7
 name: Affordable and Clean Energy
 description: >-
-  Energy is central to nearly every major challenge and opportunity the world
-  faces today. Be it for jobs, security, climate change, food production or
-  increasing incomes, access to energy for all is essential. 
+  The UN explains: <i><q>Energy is central to nearly every major challenge and
+  opportunity the world faces today. Be it for jobs, security, climate change,
+  food production or increasing incomes, access to energy for all is essential. 
 
 
   Transitioning the global economy towards clean and sustainable sources of
   energy is one of our greatest challenges in the coming decades. Sustainable
-  energy is an opportunity – it transforms lives, economies and the planet.
+  energy is an opportunity – it transforms lives, economies and the
+  planet.</q></i>
 
 
   More information on energy access and sources can be found at the _Our World
@@ -24,7 +25,7 @@ description: >-
   The UN has defined 5 _Targets_ and 6 _Indicators_ for SDG 7. Targets specify
   the goals and Indicators represent the metrics by which the world aims to
   track whether these Targets are achieved. Below we quote the original text of
-  all targets and show the data on the agreed Indicators.
+  all <i>Targets</i> and show the data on the agreed <i>Indicators</i>.
 featuredImage: /img/uploads/7.svg
 ---
 
