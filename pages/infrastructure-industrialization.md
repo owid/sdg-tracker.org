@@ -13,7 +13,7 @@ description: >-
   and education outcomes require investment in infrastructure.
 
 
-  The UN has defined 8 "Targets" and 12 "Indicators" for SDG 9. Targets specify
+  The UN has defined 8 _Targets_ and 12 _Indicators_ for SDG 9. Targets specify
   the goals and Indicators represent the metrics by which the world aims to
   track whether these Targets are achieved. Below we quote the original text of
   all targets and show the data on the agreed Indicators.
@@ -35,7 +35,7 @@ featuredImage: /img/uploads/9.svg
             <p><strong>Goal:</strong> <i><q>Develop quality, reliable, sustainable and resilient infrastructure, including regional and transborder infrastructure, with a focus on affordable and equitable access for all</q></i> by 2030.</p>
         </div>
         <div class="col-md">
-            <br><br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+            <br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
         </div>
     </div>
 </div>
@@ -113,7 +113,7 @@ employment</q></i>.<p>This indicator measures the manufacturing sector's employm
             <p><strong>Goal:</strong> <i><q>Increase the access of small-scale industrial and other enterprises, in particular in developing countries, to value chains and markets</q></i> by 2030.</p>
         </div>
         <div class="col-md">
-            <br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+            <br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
         </div>
     </div>
 </div>
@@ -129,7 +129,7 @@ employment</q></i>.<p>This indicator measures the manufacturing sector's employm
             <p><strong>Goal:</strong> <i><q>Increase the access of small-scale industrial and other enterprises, in particular in developing countries, to financial services, including affordable credit</q></i> by 2030.</p>
         </div>
         <div class="col-md">
-            <br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+            <br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
         </div>
     </div>
 </div>
