@@ -6,19 +6,29 @@ title: >-
 goalNum: 2
 name: Zero Hunger
 description: >-
-  Food and nutrition is a basic requirement for health and wellbeing. Whilst
-  globally we produce more than enough food for today's population, [815 million
-  people remained
-  undernourished](https://ourworldindata.org/grapher/global-population-defined-as-undernourished)
-  in 2016. 
+  The UN explains: <i><q>It is time to rethink how we grow, share and consume
+  our food.
 
 
-  Improving nutrition extends beyond basic caloric needs and incorporates all
-  forms of malnutrition including [childhood wasting,
-  stunting](https://ourworldindata.org/hunger-and-undernourishment#undernourishment-of-children),
-  micronutrient deficiencies (particularly in children, pregnant and lactating
-  women), and obesity. Malnutrition is therefore highly relevant to all
-  countries.
+  If done right, agriculture, forestry and fisheries can provide nutritious food
+  for all and generate decent incomes, while supporting people-centred rural
+  development and protecting the environment.
+
+
+  Right now, our soils, freshwater, oceans, forests and biodiversity are being
+  rapidly degraded. Climate change is putting even more pressure on the
+  resources we depend on, increasing risks associated with disasters such as
+  droughts and floods. Many rural women and men can no longer make ends meet on
+  their land, forcing them to migrate to cities in search of opportunities.
+
+
+  A profound change of the global food and agriculture system is needed if we
+  are to nourish today’s 815 million hungry and the additional 2 billion people
+  expected by 2050.
+
+
+  The food and agriculture sector offers key solutions for development, and is
+  central for hunger and poverty eradication.</q></i>
 
 
   You can find many more visuals and statistics on [hunger and
@@ -36,7 +46,7 @@ description: >-
   The UN has defined 8 _Targets_ and 13 _Indicators_ for SDG 2. Targets specify
   the goals and Indicators represent the metrics by which the world aims to
   track whether these Targets are achieved. Below we quote the original text of
-  all targets and show the data on the agreed Indicators.
+  all _Targets_ and show the data on the agreed _Indicators_.
 featuredImage: /img/uploads/2.svg
 ---
 <div class="target">
