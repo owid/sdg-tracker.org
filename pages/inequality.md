@@ -4,12 +4,12 @@ title: Reduce inequality within and among countries
 goalNum: 10
 name: Reduced Inequalities
 description: >-
-  The international community has made significant strides towards lifting
-  people out of poverty.  The most vulnerable nations – the least developed
-  countries, the landlocked developing countries and the small island developing
-  states – continue to make inroads into poverty reduction.  However, inequality
-  still persists and large disparities remain in access to health and education
-  services and other assets.
+  The UN explains: <i><q>The international community has made significant
+  strides towards lifting people out of poverty.  The most vulnerable nations –
+  the least developed countries, the landlocked developing countries and the
+  small island developing states – continue to make inroads into poverty
+  reduction.  However, inequality still persists and large disparities remain in
+  access to health and education services and other assets.</q></i>
 
 
   Further statistics, analysis and visuals on inequality can be found at <i>Our
@@ -23,7 +23,7 @@ description: >-
   The UN has defined 10 _Targets_ and 11 _Indicators_ for SDG 10. Targets
   specify the goals and Indicators represent the metrics by which the world aims
   to track whether these Targets are achieved. Below we quote the original text
-  of all targets and show the data on the agreed Indicators.
+  of all <i>Targets</i> and show the data on the agreed <i>Indicators</i>.
 featuredImage: /img/uploads/10.svg
 ---
 
