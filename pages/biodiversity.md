@@ -14,7 +14,7 @@ description: >-
   hectares.
 
 
-  The UN has defined 12 "Targets" and 14 "Indicators" for SDG 15. Targets
+  The UN has defined 12 _Targets_ and 14 _Indicators_ for SDG 15. Targets
   specify the goals and Indicators represent the metrics by which the world aims
   to track whether these Targets are achieved. Below we quote the original text
   of all targets and show the data on the agreed Indicators.
@@ -101,7 +101,7 @@ Three sub-indicators focus on the extension of forest area, biomass within the f
             <p><strong>Goal:</strong> <i><q>By 2030, combat desertification, restore degraded land and soil, including land affected by desertification, drought and floods, and strive to achieve a land degradation-neutral world</q></i>.</p>
         </div>
         <div class="col-md">
-            <br><br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+            <br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
         </div>
     </div>
 </div>
@@ -199,7 +199,7 @@ Three sub-indicators focus on the extension of forest area, biomass within the f
             <p><strong>Goal:</strong> <i><q>Take urgent action to end poaching and trafficking of protected species of flora and fauna and address both demand and supply of illegal wildlife products</q></i>.</p>
         </div>
         <div class="col-md">
-            <br><br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+            <br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
         </div>
     </div>
 </div>
@@ -219,7 +219,7 @@ Three sub-indicators focus on the extension of forest area, biomass within the f
 <p><strong>Goal:</strong> <i><q>Introduce measures to prevent the introduction and significantly reduce the impact of invasive alien species on land and water ecosystems and control or eradicate the priority species</q></i> by 2020.<p>Unlike most SDG targets which are set to be achieved by 2030, this indicator is to be achieved by 2020.</p>
 </div>
 <div class="col-md">
-<br><br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+<br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
 </div>
 </div>
 </div>
@@ -240,7 +240,7 @@ Strategic Plan for Biodiversity 2011–2020</a></p>
             <p><strong>Goal:</strong> <i><q>By 2020, integrate ecosystem and biodiversity values into national and local planning, development processes, poverty reduction strategies and accounts.</q></i>.<p>Unlike most SDG targets which are set to be achieved by 2030, this indicator is to be achieved by 2020.</p>
         </div>
         <div class="col-md">
-            <br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+            <br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
         </div>
     </div>
 </div>
@@ -304,7 +304,7 @@ biodiversity and ecosystems</a></p>
             <p><strong>Goal:</strong> <i><q>Enhance global support for efforts to combat poaching and trafficking of protected species</q></i> by 2030.</p>
         </div>
         <div class="col-md">
-            <br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+            <br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
         </div>
     </div>
 </div>
