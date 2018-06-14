@@ -33,7 +33,7 @@ featuredImage: /img/uploads/5.svg
         <div class="col-md">
             <span>SDG Indicator 5.1.1</span>
             <h3>Legal frameworks for gender equality and non-discrimination</h3>
-            <p><strong>Definition:</strong> Indicator 5.1.1 is <i><q>whether or not legal frameworks are in place to promote, enforce and monitor equality and non-discrimination on the basis of sex.</q></i> <p>There are various legal frameworks which can be applied to promote and enforce non-discrimination on the basis of sex. This is assessed here across various measures, including hiring, equal pay, marital rape and property rights, among others.</p>
+            <p><strong>Definition:</strong> Indicator 5.1.1 is <i><q>whether or not legal frameworks are in place to promote, enforce and monitor equality and non-discrimination on the basis of sex.</q></i> <p>There are various legal frameworks which can be applied to promote and enforce non-discrimination on the basis of sex. This is assessed here in the SDG Tracker – see also the 'additional charts' – across various measures, including hiring, equal pay, marital rape and property rights, among others.</p>
             <p><strong>Goal:</strong> By 2030 <i><q>end all forms of discrimination against all women and girls everywhere</q></i>.<p>This requires legal frameworks in place to enforce gender equality for all countries.</p>
             <p><strong>Additional charts:</strong>
 <br><a href="https://ourworldindata.org/grapher/law-mandate-equal-pay">Does law mandate equal pay for males and females?</a>
@@ -142,7 +142,7 @@ who have undergone female genital mutilation/cutting</a>.</p>
             <span>SDG Indicator 5.4.1</span>
             <h3>Time spent on unpaid domestic and care work</h3>
             <p><strong>Definition:</strong> Indicator 5.4.1 is the <i><q>proportion of time spent on unpaid domestic and care work, by sex, age and location</q></i>.<p>This is shown here as the average time men and women spend on unpaid domestic and care work per day.</p>
-            <p><strong>Goal:</strong> By 2030 <i><q>recognize and value unpaid care and domestic work, and promote shared responsibility within the household and family</q></i>.<p>Specific targets related to distribution and recognition of unpaid work are not clearly defined.</p>
+            <p><strong>Goal:</strong> By 2030 <i><q>recognize and value unpaid care and domestic work, and promote shared responsibility within the household and family</q></i>.<p>Specific targets related to the distribution and recognition of unpaid work are not clearly defined.</p>
             <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> entries on <a href="https://ourworldindata.org/female-labor-supply">Female Labor Supply</a> and <a href="https://ourworldindata.org/working-hours">Working Hours</a>.</p>
         </div>
         <div class="col-md">
@@ -250,7 +250,7 @@ agricultural land, by type of tenure</a> <br><a href="#5.A.2">5.A.2 Proportion o
         <div class="col-md">
             <span>SDG Indicator 5.A.1</span>
             <h3>Female land rights or ownership</h3>
-            <p><strong>Definition:</strong> Indicator 5.A.1 is the <i><q>proportion of total agricultural population with ownership or secure rights over agricultural land, by sex; and (b) share of women among owners or rights-bearers of agricultural land, by type of tenure</q></i>. <p>This is measured as the percentage of men and women (aged 15-49) who solely own land which is legally registered to their name.</p>
+            <p><strong>Definition:</strong> Indicator 5.A.1 is the <i><q>proportion of total agricultural population with ownership or secure rights over agricultural land, by sex; and (b) share of women among owners or rights-bearers of agricultural land, by type of tenure</q></i>. <p>This is measured here in the SDG Tracker as the percentage of men and women (aged 15-49) who solely own land which is legally registered to their name.</p>
             <p><strong>Goal:</strong> By 2030 <i><q>give women equal rights to economic resources, as well as access to ownership and control over land and other forms of property</q></i>.</p>
         </div>
         <div class="col-md">
