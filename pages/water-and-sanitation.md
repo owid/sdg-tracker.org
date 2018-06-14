@@ -20,7 +20,7 @@ description: >-
   [here](https://ourworldindata.org/water-access-resources-sanitation).
 
 
-  The UN has defined 8 "Targets" and 11 "Indicators" for SDG 6. Targets specify
+  The UN has defined 8 _Targets_ and 11 _Indicators_ for SDG 6. Targets specify
   the goals and Indicators represent the metrics by which the world aims to
   track whether these Targets are achieved. Below we quote the original text of
   all targets and show the data on the agreed Indicators.
@@ -104,7 +104,7 @@ water quality.</a></p>
             <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/water-access-resources-sanitation">entry on Water Access, Resources & Sanitation</a>.</p>
         </div>
         <div class="col-md">
-            <br><br><br><br><br><br><b>We are currently not aware of available data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+            <br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
         </div>
     </div>
 </div>
@@ -121,7 +121,7 @@ water quality.</a></p>
             <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/water-access-resources-sanitation">entry on Water Access, Resources & Sanitation</a>.</p>
         </div>
         <div class="col-md">
-            <br><br><br><br><br><br><b>We are currently not aware of available data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+            <br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
         </div>
     </div>
 </div>
@@ -205,7 +205,7 @@ operational arrangement for water cooperation</q></i>.
             <p><strong>Goal:</strong> <i><q>By 2030, implement integrated water resources management at all levels, including through transboundary cooperation as appropriate</q></i>.</p>
         </div>
         <div class="col-md">
-            <br><br><br><br><b>We are currently not aware of available data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+            <br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
         </div>
     </div>
 </div>
@@ -226,7 +226,7 @@ operational arrangement for water cooperation</q></i>.
             <p><strong>Goal:</strong> <i><q>By 2020, protect and restore water-related ecosystems, including mountains, forests, wetlands, rivers, aquifers and lakes</q></i>.<p>The target is set to be achieved by 2020, unlike most SDG targets which have a timeline of 2030.</p>
         </div>
         <div class="col-md">
-            <br><br><br><br><br><b>We are currently not aware of available data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+            <br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
         </div>
     </div>
 </div>
@@ -271,7 +271,7 @@ participation of local communities in water and sanitation management</a>.
             <p><strong>Goal:</strong> By 2030 <i><q>support and strengthen the participation of local communities in improving water and sanitation management</q></i>.</p>
         </div>
         <div class="col-md">
-            <br><br><br><br><br><b>We are currently not aware of available data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+            <br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
         </div>
     </div>
 </div>
