@@ -6,17 +6,17 @@ title: >-
 goalNum: 9
 name: 'Industry, Innovation and Infrastructure'
 description: >-
-  Investments in infrastructure – transport, irrigation, energy and information
-  and communication technology – are crucial to achieving sustainable
-  development and empowering communities in many countries. It has long been
-  recognized that growth in productivity and incomes, and improvements in health
-  and education outcomes require investment in infrastructure.
+  The UN explains: <i><q>Investments in infrastructure – transport, irrigation,
+  energy and information and communication technology – are crucial to achieving
+  sustainable development and empowering communities in many countries. It has
+  long been recognized that growth in productivity and incomes, and improvements
+  in health and education outcomes require investment in infrastructure.</q></i>
 
 
   The UN has defined 8 _Targets_ and 12 _Indicators_ for SDG 9. Targets specify
   the goals and Indicators represent the metrics by which the world aims to
   track whether these Targets are achieved. Below we quote the original text of
-  all targets and show the data on the agreed Indicators.
+  all <i>Targets</i> and show the data on the agreed <i>Indicators</i>.
 featuredImage: /img/uploads/9.svg
 ---
 
