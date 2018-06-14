@@ -4,21 +4,21 @@ title: 'Conserve and sustainably use the oceans, seas and marine resources'
 goalNum: 14
 name: Life below Water
 description: >-
-  Our oceans — their temperature, circulation, chemistry, and ecosystems  — play
-  a fundamental role in making Earth habitable. 
+  The UN explains: <i><q>Our oceans — their temperature, circulation, chemistry,
+  and ecosystems  — play a fundamental role in making Earth habitable. 
 
 
   Our rainwater, drinking water, weather, climate, coastlines, much of our food,
   and even the oxygen in the air we breathe, are all ultimately provided and
   regulated by the sea. Throughout history, oceans and seas have been vital
   conduits for trade and transportation. Careful management of this essential
-  global resource is a key feature of a sustainable future.
+  global resource is a key feature of a sustainable future.</q></i>
 
 
   The UN has defined 10 _Targets_ and 10 _Indicators_ for SDG 14. Targets
   specify the goals and Indicators represent the metrics by which the world aims
   to track whether these Targets are achieved. Below we quote the original text
-  of all targets and show the data on the agreed Indicators.
+  of all <i>Targets</i> and show the data on the agreed <i>Indicators</i>.
 featuredImage: /img/uploads/14.svg
 ---
 
