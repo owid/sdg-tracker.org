@@ -4,10 +4,11 @@ title: 'Promote just, peaceful and inclusive societies'
 goalNum: 16
 name: 'Peace, Justice and Strong Institutions'
 description: >-
-  The UN explains: <i><q>Goal 16 of the Sustainable Development Goals is
-  dedicated to the promotion of peaceful and inclusive societies for sustainable
-  development, the provision of access to justice for all, and building
-  effective, accountable institutions at all levels.
+  The [UN explains](https://www.un.org/sustainabledevelopment/peace-justice/):
+  <i><q>Goal 16 of the Sustainable Development Goals is dedicated to the
+  promotion of peaceful and inclusive societies for sustainable development, the
+  provision of access to justice for all, and building effective, accountable
+  institutions at all levels.
 
 
   This aims to promote peaceful societies at national levels, as well as the
