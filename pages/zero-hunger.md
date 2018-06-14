@@ -6,8 +6,8 @@ title: >-
 goalNum: 2
 name: Zero Hunger
 description: >-
-  The UN explains: <i><q>It is time to rethink how we grow, share and consume
-  our food.
+  The [UN explains](https://www.un.org/sustainabledevelopment/hunger/): <i><q>It
+  is time to rethink how we grow, share and consume our food.
 
 
   If done right, agriculture, forestry and fisheries can provide nutritious food
