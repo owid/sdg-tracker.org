@@ -11,7 +11,7 @@ description: >-
   global, regional, national and local level.
 
 
-  The UN has defined 19 "Targets" and 25 "Indicators" for SDG 17. Targets
+  The UN has defined 19 _Targets_ and 25 _Indicators_ for SDG 17. Targets
   specify the goals and Indicators represent the metrics by which the world aims
   to track whether these Targets are achieved. Below we quote the original text
   of all targets and show the data on the agreed Indicators.
@@ -151,7 +151,7 @@ Organization for Economic Cooperation and Development (OECD) Development Assista
             <p><strong>Goal:</strong> <i><q>Adopt and implement investment promotion regimes for least developed countries</q></i> by 2030.</p>
         </div>
         <div class="col-md">
-            <br><br><br><br><b>We are currently not aware of available data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+            <br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
         </div>
     </div>
 </div>
@@ -173,7 +173,7 @@ cooperation</a> <br><a href="#17.6.2">17.6.2 Fixed Internet broadband subscripti
             <p><strong>Goal:</strong> <i><q>Enhance North-South, South-South and triangular regional and international cooperation on and access to science, technology and innovation</q></i> by 2030.</p>
         </div>
         <div class="col-md">
-            <br><br><br><br><br><b>We are currently not aware of available data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+            <br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
         </div>
     </div>
 </div>
@@ -212,7 +212,7 @@ dissemination and diffusion of environmentally sound technologies</a></p>
             <p><strong>Goal:</strong> <i><q>Promote the development, transfer, dissemination and diffusion of environmentally sound technologies to developing countries</q></i> by 2030.</p>
         </div>
         <div class="col-md">
-            <br><br><br><br><br><b>We are currently not aware of available data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+            <br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
         </div>
     </div>
 </div>
@@ -361,7 +361,7 @@ triangular cooperation) committed to developing countries</a></p>
             <p><strong>Goal:</strong> <i><q>Enhance policy coherence for sustainable development</q></i> through 2030.</p>
         </div>
         <div class="col-md">
-            <br><br><br><br><b>We are currently not aware of available data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+            <br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
         </div>
     </div>
 </div>
@@ -460,7 +460,7 @@ when relevant to the target, in accordance with the Fundamental Principles of Of
             <p><strong>Goal:</strong> <i><q>Enhance capacity-building support to developing countries, including for least developed countries and small island developing States, to increase significantly the availability of high-quality, timely and reliable data</q></i> in all countries by 2020.<p>Unlike most SDGs which have a target year of 2030, this indicator is to be achieved by 2020.</p>
         </div>
         <div class="col-md">
-            <br><br><br><br><br><br><br><b>We are currently not aware of available data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+            <br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
         </div>
     </div>
 </div>
@@ -496,7 +496,7 @@ when relevant to the target, in accordance with the Fundamental Principles of Of
             <p><strong>Goal:</strong> <i><q>Build on existing initiatives to develop measurements of progress on sustainable development</q></i> in all countries by 2030.</p>
         </div>
         <div class="col-md">
-            <br><br><br><br><br><b>We are currently not aware of available data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+            <br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
         </div>
     </div>
 </div>
