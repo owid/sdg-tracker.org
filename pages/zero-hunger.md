@@ -33,7 +33,7 @@ description: >-
   to these topics.
 
 
-  The UN has defined 8 "Targets" and 13 "Indicators" for SDG 2. Targets specify
+  The UN has defined 8 _Targets_ and 13 _Indicators_ for SDG 2. Targets specify
   the goals and Indicators represent the metrics by which the world aims to
   track whether these Targets are achieved. Below we quote the original text of
   all targets and show the data on the agreed Indicators.
@@ -168,7 +168,7 @@ services, markets and opportunities for value addition and non-farm employment.<
             <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> entries on <a href="https://ourworldindata.org/food-prices">Food Prices</a> and <a href="https://ourworldindata.org/employment-in-agriculture">Employment in Agriculture</a>.</p>
         </div>
         <div class="col-md">
-            <br><br><br><br><br><b>We are currently not aware of available data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+            <br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
         </div>
     </div>
 </div>
@@ -193,7 +193,7 @@ services, markets and opportunities for value addition and non-farm employment.<
 <br><a href="https://ourworldindata.org/grapher/share-of-arable-land-which-is-organic">Share of arable land that is organic</a>
         </div>
         <div class="col-md">
-            <br><br><br><br><br><br><br><br><br><br><br><b>We are currently not aware of available data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+            <br><br><br><br><br><br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
         </div>
     </div>
 </div>
@@ -290,7 +290,7 @@ conservation facilities</a> <br><a href="#2.5.2">2.5.2 Proportion of local breed
             <p><strong>Goal:</strong> By 2030 <i><q>correct and prevent trade restrictions and distortions in world agricultural markets, including through the parallel elimination of all forms of agricultural export subsidies</q></i> <p>This target requires an elimination of agricultural export subsidies by 2030.</p>
         </div>
         <div class="col-md">
-            <br><br><br><br><b>We are currently not aware of available data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+            <br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
         </div>
     </div>
 </div>
