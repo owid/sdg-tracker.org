@@ -595,10 +595,10 @@ research and basic health sectors</a> <br><a href="#3.B.3">3.B.3 Proportion of h
         <div class="col-md">
             <span>SDG Indicator 3.B.1</span>
             <h3>Vaccine coverage</h3>
-            <p><strong>Definition:</strong> Indicator 3.B.1 is the <i><q>Proportion of the target population covered by all vaccines included in their national programme</q></i>.
+            <p><strong>Definition:</strong> Indicator 3.B.1 is the <i><q>proportion of the target population covered by all vaccines included in their national programme</q></i>.
 <p>The UN does not currently define which vaccinations are measured by this indicator. The <i>Institute of Health Metrics and Evaluation (IHME)</i> defines this indicator based on the mean coverage of the following eight vaccines: 
 <br><q><i>three-dose diphtheria, pertussis, and tetanus (DPT3); three-dose polio; first-dose measles vaccine; and for countries where the vaccine(s) are included in the national schedule: BCG vaccine, three-dose pneumococcal conjugate vaccine (PCV3), three-dose Haemophilus influenzae type b vaccine (Hib3), three-dose hepatitis B vaccine (delivered as part of pentavalent vaccines), and two-dose or three-dose rotavirus vaccine</q></i></p>
-            <p><strong>Goal:</strong> By 2030 <q><i>provide access to affordable essential medicines and vaccines for all</q></i>. <br>This assumes universal coverage of vaccines in national programmes.
+            <p><strong>Goal:</strong> By 2030 <q><i>provide access to affordable essential medicines and vaccines for all</q></i>. <p>For this indicator, this means universal coverage of the vaccines noted above (if included in national vaccination programmes) must be achieved by 2030.
 
 <p><strong>Additional charts:</strong> 
 <br><a href="https://ourworldindata.org/grapher/share-of-children-immunized-dtp3">Share of children who receive the DTP3 vaccine</a>
