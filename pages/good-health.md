@@ -635,7 +635,7 @@ research and basic health sectors</a> <br><a href="#3.B.3">3.B.3 Proportion of h
         <div class="col-md">
             <span>SDG Indicator 3.B.3</span>
             <h3>Availability of essential medicines</h3>
-            <p><strong>Definition:</strong> Indicator 3.B.3 is the <i><q>proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis</q></i>.</p>
+            <p><strong>Definition:</strong> Indicator 3.B.3 is the <i><q>proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis</q></i>.<p>The <i>WHO Taskforce on Innovative International Financing for Health Systems</i> provide a list of medicines considered essential in its <a href="http://www.who.int/pmnch/media/membernews/2009/htltf_wg1_report_EN.pdf"> Working Group Report</a>.</p>
             <p><strong>Goal:</strong> By 2030 <q><i>provide affordable access to essential medicines for all</q></i>.
         </div>
         <div class="col-md">
