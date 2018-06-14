@@ -4,9 +4,10 @@ title: Ensure healthy lives and promote well-being for all at all ages
 goalNum: 3
 name: Good Health and Well-Being
 description: >-
-  The UN explains: <i><q>Significant strides have been made in increasing life
-  expectancy and reducing some of the common killers responsible for child and
-  maternal mortality. 
+  The [UN explains](https://www.un.org/sustainabledevelopment/health/):
+  <i><q>Significant strides have been made in increasing life expectancy and
+  reducing some of the common killers responsible for child and maternal
+  mortality. 
 
 
   Major progress has also been made on increasing access to clean water and
