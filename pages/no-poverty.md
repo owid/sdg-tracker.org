@@ -21,10 +21,14 @@ description: >-
   [here](https://ourworldindata.org/extreme-poverty).
 
 
-  The UN has defined 7 "Targets" and 14 "Indicators" for SDG 1. Targets specify
-  the goals and Indicators represent the metrics by which the world aims to
-  track whether these Targets are achieved. Below we quote the original text of
-  all targets and show the data on the agreed Indicators.
+
+
+
+
+  The UN has defined 7 _Targets_ and 14 _Indicators_ for SDG 1. _Targets_
+  specify the goals and _Indicators_ represent the metrics by which the world
+  aims to track whether these Targets are achieved. Below we quote the original
+  text of all targets and show the data on the agreed Indicators.
 featuredImage: /img/uploads/1.svg
 ---
 <div class="target">
@@ -38,7 +42,9 @@ featuredImage: /img/uploads/1.svg
         <div class="col-md">
             <span>SDG Indicator 1.1.1</span>
             <h3>Eradicate extreme poverty</h3>
-            <p><strong>Definition:</strong> Indicator 1.1.1 is <i><q>proportion of population below the international poverty line, by sex, age, employment status and geographical location (urban/rural)</q></i>. <p>The international poverty line is defined as $1.90 per day (updated from the previous poverty line of $1.25 to $1.90 in 2015). This poverty line is based on 2011 international dollars adjusted for cross-country price differences.</p>
+            <p><strong>Definition:</strong> Indicator 1.1.1 is the <i><q>proportion of population below the international poverty line, by sex, age, employment status and geographical location (urban/rural)</q></i>. <p>The "international poverty line" is defined as $1.90 per day (updated from the previous poverty line of $1.25 to $1.90 in 2015).
+
+This poverty line is measured in "international dollars" which are a hypothetical currency that adjusts for price differences between countries (purchasing power parity) and it is measured in prices of 2011 to adjust for price changes over time (inflation).</p>
             <p><strong>Goal:</strong> By 2030 <i><q>eradicate extreme poverty for all people everywhere, currently measured as people living on less than $1.90 a day</q></i>.</p>
             <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/extreme-poverty">entry on Global Extreme Poverty</a>.</p>
 <p><strong>Additional charts:</strong>
@@ -65,7 +71,7 @@ dimensions according to national definitions.</q></p>
         <div class="col-md">
             <span>SDG Indicator 1.2.1</span>
             <h3>Halve population below national poverty line </h3>
-            <p><strong>Definition:</strong> Indicator 1.2.1 is the <i><q>proportion of population living below the national poverty line.</q></i> <p>National poverty lines differ by country depending on country circumstances, living standards and cost of living. Shown here is the share of a country's population which lives below its specific national poverty line.</p>
+            <p><strong>Definition:</strong> Indicator 1.2.1 is the <i><q>proportion of population living below the national poverty line.</q></i> <p>National poverty lines differ by country depending on country circumstances, living standards and cost of living. Shown here is the share of a country's population which lives below each country's specific national poverty line.</p>
             <p><strong>Goal:</strong> By 2030 <i><q>reduce at least by half the proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions</q></i>.</p>
             <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/extreme-poverty">entry on Global Extreme Poverty</a>.</p>
 <p><strong>Additional charts:</strong>
@@ -85,7 +91,7 @@ dimensions according to national definitions.</q></p>
         <div class="col-md">
             <span>SDG Indicator 1.2.2</span>
             <h3>Population in poverty according to national definitions</h3>
-            <p><strong>Definition:</strong>Indicator 1.2.2 is the <i><q>proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions</q></i>. <p>Here it is not clear what is meant by <i>all its dimensions according to national definitions</i>. One interpretation (shown here) may be the multidimensional poverty index (MPI) which is an aggregate measure of deprivation taking into account poor health, lack of education, inadequate living standard, lack of income, disempowerment, poor quality of work and threat from violence.</p>
+            <p><strong>Definition:</strong> Indicator 1.2.2 is the <i><q>proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions</q></i>. <p>Here it is not clear what is meant by <i>all its dimensions according to national definitions</i>. One interpretation (shown here) may be the multidimensional poverty index (MPI) which is an aggregate measure of deprivation taking into account poor health, lack of education, inadequate living standard, lack of income, disempowerment, poor quality of work and threat from violence.</p>
             <p><strong>Goal:</strong> By 2030 <i><q>reduce at least by half the proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions</q></i>.</p>
             <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/extreme-poverty">entry on Global Extreme Poverty</a>.</p>
         </div>
@@ -135,7 +141,7 @@ achieve substantial coverage of the poor and the vulnerable</q></i>.</p>
             <h3>Access to basic services</h3>
             <p><strong>Definition:</strong> Indicator 1.4.1 is the <i><q>proportion of population living in households with access to basic services</q></i>.
 
-<p>Here we show the percentage of the population with access to basic services, including improved drinking water, sanitation, electricity, and clean cooking fuels.</p>
+<p>Here we show the share of the world population with access to basic services, including improved drinking water, sanitation, electricity, and clean cooking fuels. (It is possible to change the perspective to other countries and world regions with the option below the chart.)</p>
             <p><strong>Goal:</strong> By 2030 <i><q>ensure that all men and women, in particular the poor and the vulnerable, have access to basic services</q></i>. This sets a target of universal access to basic services for all households.</p>
            <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> entries on <a href="https://ourworldindata.org/water-access-resources-sanitation">Water Access, Consumption & Sanitation</a>, <a href="https://ourworldindata.org/energy-production-and-changing-energy-sources">Energy Production & Changing Energy Sources</a>, and <a href="https://ourworldindata.org/indoor-air-pollution">Indoor Air Pollution</a>.</p>
             <p><strong>Additional charts:</strong> 
