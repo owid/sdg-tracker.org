@@ -4,19 +4,20 @@ title: Achieve gender equality and empower all women and girls
 goalNum: 5
 name: Gender Equality
 description: >-
-  Gender equality is not only a fundamental human right, but a necessary
-  foundation for a peaceful, prosperous and sustainable world. 
+  The UN explains: <i><q>Gender equality is not only a fundamental human right,
+  but a necessary foundation for a peaceful, prosperous and sustainable world. 
 
 
   Providing women and girls with equal access to education, health care, decent
   work, and representation in political and economic decision-making processes
-  will fuel sustainable economies and benefit societies and humanity at large.
+  will fuel sustainable economies and benefit societies and humanity at
+  large.</q></i>
 
 
   The UN has defined 9 _Targets_ and 14 _Indicators_ for SDG 5. Targets specify
   the goals and Indicators represent the metrics by which the world aims to
   track whether these Targets are achieved. Below we quote the original text of
-  all targets and show the data on the agreed Indicators.
+  all <i>Targets</i> and show the data on the agreed <i>Indicators</i>.
 featuredImage: /img/uploads/5.svg
 ---
 
