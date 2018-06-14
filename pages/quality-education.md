@@ -241,7 +241,7 @@ for pedagogical purposes; (d) adapted infrastructure and materials for students 
             <h3>Inclusive and safe schools</h3>
             <p><strong>Definition:</strong> Indicator 4.A.1 is the <i><q>proportion of schools with access to (a) electricity; (b) the Internet for pedagogical purposes; (c) computers for pedagogical purposes; (d) adapted infrastructure and materials for students with disabilities; (e) basic drinking water; (f) single-sex basic sanitation facilities; and (g) basic handwashing facilities (as per the WASH indicator definitions)</q></i>.</p>
             <p><strong>Goal:</strong> The target is to ensure all children have access to a safe, inclusive and effective learning environment by 2030.</p>
-<p><strong>Additional data:</strong> Limited data on some aspects of this indicator - the share of schools with potable water, sanitation, handwashing and electricity - is available for Africa only from the <a href="https://data.worldbank.org/data-catalog/ed-stats">UNICEF database</a>.
+<p><strong>Additional data:</strong> Limited data on some aspects of this indicator - the share of schools with potable water, sanitation, handwashing and electricity - is available for Africa only from the <a href="https://data.worldbank.org/data-catalog/ed-stats">UNESCO database</a>.
         </div>
         <div class="col-md">
             <br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
