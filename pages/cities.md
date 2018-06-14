@@ -10,7 +10,7 @@ description: >-
   access to basic services, energy, housing, transportation and more.
 
 
-  The UN has defined 10 "Targets" and 15 "Indicators" for SDG 11. Targets
+  The UN has defined 10 _Targets_ and 15 _Indicators_ for SDG 11. Targets
   specify the goals and Indicators represent the metrics by which the world aims
   to track whether these Targets are achieved. Below we quote the original text
   of all targets and show the data on the agreed Indicators.
@@ -54,7 +54,7 @@ disabilities</q></i>.</p>
             <p><strong>Goal:</strong> <i><q>Provide access to safe, affordable, accessible and sustainable transport systems for all</q></i> by 2030.</p>
         </div>
         <div class="col-md">
-            <br><br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+            <br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
         </div>
     </div>
 </div>
@@ -74,7 +74,7 @@ disabilities</q></i>.</p>
             <p><strong>Goal:</strong> <i><q>Enhance inclusive and sustainable urbanization and capacity for participatory, integrated and sustainable human settlement</q></i> by 2030.</p>
         </div>
         <div class="col-md">
-            <br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+            <br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
         </div>
     </div>
 </div>
@@ -90,7 +90,7 @@ disabilities</q></i>.</p>
             <p><strong>Goal:</strong> <i><q>Enhance inclusive and sustainable urbanization and capacity for participatory, integrated and sustainable human settlement planning and management in all countries</q></i> by 2030.</p>
         </div>
         <div class="col-md">
-            <br><br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+            <br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
         </div>
     </div>
 </div>
@@ -111,7 +111,7 @@ of all cultural and natural heritage, by type of heritage (cultural, natural, mi
             <p><strong>Goal:</strong> <i><q>Strengthen efforts to protect and safeguard the world’s cultural and natural heritage</q></i> by 2030.</p>
         </div>
         <div class="col-md">
-            <br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+            <br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
         </div>
     </div>
 </div>
@@ -214,7 +214,7 @@ of all cultural and natural heritage, by type of heritage (cultural, natural, mi
             <p><strong>Goal:</strong> <i><q>Provide universal access to safe, inclusive and accessible, green and public spaces</q></i> by 2030.</p>
         </div>
         <div class="col-md">
-            <br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+            <br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
         </div>
     </div>
 </div>
@@ -230,7 +230,7 @@ of all cultural and natural heritage, by type of heritage (cultural, natural, mi
             <p><strong>Goal:</strong> <i><q>Provide universal access to safe, inclusive and accessible, green and public spaces in particular for women and children, older persons and persons with disabilities</q></i> by 2030.</p>
         </div>
         <div class="col-md">
-            <br><br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+            <br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
         </div>
     </div>
 </div>
@@ -250,7 +250,7 @@ of all cultural and natural heritage, by type of heritage (cultural, natural, mi
             <p><strong>Goal:</strong> <i><q>Support positive economic, social and environmental links between urban, peri-urban and rural areas by strengthening national and regional development planning</q></i> by 2030.</p>
         </div>
         <div class="col-md">
-            <br><br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+            <br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
         </div>
     </div>
 </div>
@@ -297,7 +297,7 @@ Sendai Framework for Disaster Risk Reduction 2015–2030</a> <br><a href="#11.B.
 <br><a href="https://ourworldindata.org/grapher/total-affected-by-natural-disasters">Number affected by natural disasters</a></p>
         </div>
         <div class="col-md">
-            <br><br><br><br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+            <br><br><br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
         </div>
     </div>
 </div>
@@ -318,7 +318,7 @@ and retrofitting of sustainable, resilient and resource-efficient buildings util
             <p><strong>Goal:</strong> <i><q>Support least developed countries, including through financial and technical assistance, in building sustainable and resilient buildings utilizing local materials</q></i> by 2030.</p>
         </div>
         <div class="col-md">
-            <br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+            <br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
         </div>
     </div>
 </div>
