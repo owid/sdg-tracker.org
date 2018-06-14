@@ -4,15 +4,17 @@ title: Ensure inclusive and quality education for all and promote lifelong learn
 goalNum: 4
 name: Quality Education
 description: >-
-  Obtaining a quality education underpins a range of fundamental development
-  drivers. Major progress has been made towards increasing access to education
-  at all levels, particularly for women and girls. 
+  The UN explains: <i><q>Obtaining a quality education underpins a range of
+  fundamental development drivers. Major progress has been made towards
+  increasing access to education at all levels, particularly for women and
+  girls. 
 
 
   Basic literacy skills across the world have improved tremendously, yet bolder
   efforts are needed to achieve universal education goals for all. For example,
   the world has achieved equality in primary education between girls and boys,
-  but few countries have achieved that target at all levels of education.
+  but few countries have achieved that target at all levels of
+  education.</q></i>
 
 
   The charts and visuals below provide data on the major developments in global
@@ -31,7 +33,7 @@ description: >-
   The UN has defined 10 _Targets_ and 11 _Indicators_ for SDG 4. Targets specify
   the goals and Indicators represent the metrics by which the world aims to
   track whether these Targets are achieved. Below we quote the original text of
-  all targets and show the data on the agreed Indicators.
+  all <i>Targets</i> and show the data on the agreed <i>Indicators</i>.
 featuredImage: /img/uploads/4.svg
 ---
 <div class="target">
