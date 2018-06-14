@@ -22,10 +22,6 @@ description: >-
   [here](https://ourworldindata.org/extreme-poverty).
 
 
-
-
-
-
   The UN has defined 7 _Targets_ and 14 _Indicators_ for SDG 1. _Targets_
   specify the goals and _Indicators_ represent the metrics by which the world
   aims to track whether these Targets are achieved. Below we quote the original
