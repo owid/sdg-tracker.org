@@ -49,7 +49,7 @@ description: >-
   * and [Smoking](https://ourworldindata.org/smoking).
 
 
-  The UN has defined 13 "Targets" and 28 "Indicators" for SDG 3. Targets specify
+  The UN has defined 13 _Targets_ and 28 _Indicators_ for SDG 3. Targets specify
   the goals and Indicators represent the metrics by which the world aims to
   track whether these Targets are achieved. Below we quote the original text of
   all <i>Targets</i> and show the data on the agreed <i>Indicators</i>.
