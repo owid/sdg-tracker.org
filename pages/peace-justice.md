@@ -4,14 +4,14 @@ title: 'Promote just, peaceful and inclusive societies'
 goalNum: 16
 name: 'Peace, Justice and Strong Institutions'
 description: >-
-  Goal 16 of the Sustainable Development Goals is dedicated to the promotion of
-  peaceful and inclusive societies for sustainable development, the provision of
-  access to justice for all, and building effective, accountable institutions at
-  all levels.
+  The UN explains: <i><q>Goal 16 of the Sustainable Development Goals is
+  dedicated to the promotion of peaceful and inclusive societies for sustainable
+  development, the provision of access to justice for all, and building
+  effective, accountable institutions at all levels.
 
 
   This aims to promote peaceful societies at national levels, as well as the
-  role of cooperation at the international level.
+  role of cooperation at the international level.</q></i>
 
 
   You can find further details on the topics aligned to peace, cooperation and
@@ -30,7 +30,7 @@ description: >-
   The UN has defined 12 _Targets_ and 23 _Indicators_ for SDG 16. Targets
   specify the goals and Indicators represent the metrics by which the world aims
   to track whether these Targets are achieved. Below we quote the original text
-  of all targets and show the data on the agreed Indicators.
+  of all <i>Targets</i> and show the data on the agreed <i>Indicators</i>.
 featuredImage: /img/uploads/16.svg
 ---
 
