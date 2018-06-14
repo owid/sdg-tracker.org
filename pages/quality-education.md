@@ -47,9 +47,9 @@ featuredImage: /img/uploads/4.svg
         <div class="col-md">
             <span>SDG Indicator 4.1.1</span>
             <h3>Achieving proficiency in reading and mathematics</h3>
-            <p><strong>Definition:</strong> Indicator 4.1.1 is the <i><q>proportion of children and young people (a) in grades 2/3; (b) at the end of primary; and (c) at the end of lower secondary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics, by sex</q></i>.<p>This is shown as the share of students at each stage of education who reach at least the minimum reading and mathematics proficiency level.</p>
+            <p><strong>Definition:</strong> Indicator 4.1.1 is the <i><q>proportion of children and young people (a) in grades 2/3; (b) at the end of primary; and (c) at the end of lower secondary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics, by sex</q></i>.<p>In the SDG Tracker this is shown as the share of students at each stage of education who reach at least the minimum reading and mathematics proficiency level.</p>
             <p><strong>Goal:</strong> By 2030 <i><q>ensure that all girls and boys complete free, equitable and quality primary and secondary education leading to relevant and effective learning outcomes</q></i>.
-            <p><strong>More research:</strong> Further data and research on primary and secondary education can be found at <i>Our World in Data</i> entries on <a href="https://ourworldindata.org/global-rise-of-education">Global Rise of Education</a>, <a href="https://ourworldindata.org/primary-education">Primary Education</a>, <a href="https://ourworldindata.org/secondary-education">Secondary Education</a>, and <a href="https://ourworldindata.org/literacy">Literacy</a>.</p>
+            <p><strong>More research:</strong> Further data and research on primary and secondary education can be found at <i>Our World in Data</i> entries on <a href="https://ourworldindata.org/quality-of-education">Quality of Education</a>,  <a href="https://ourworldindata.org/global-rise-of-education">Global Rise of Education</a>, <a href="https://ourworldindata.org/primary-education">Primary Education</a>, <a href="https://ourworldindata.org/secondary-education">Secondary Education</a>, and <a href="https://ourworldindata.org/literacy">Literacy</a>.</p>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/share-of-students-in-early-primary-education-achieving-minimum-reading-proficiency-2010-2015" style="width: 100%; height: 600px; border: 0px none;"></iframe>
@@ -73,7 +73,7 @@ featuredImage: /img/uploads/4.svg
         <div class="col-md">
             <span>SDG Indicator 4.2.1</span>
             <h3>Ensuring children are developmentally on track</h3>
-            <p><strong>Definition:</strong> Indicator 4.2.1 is the <i><q>proportion of children under 5 years of age who are developmentally on track in health, learning and psychosocial well-being, by sex</q></i>.<p>This is measured as the percentage of under-5s who are developmentally on-track in at least three of the following four domains: literacy-numeracy, physical, socio-emotional and learning.<p>Specific criteria of 'developmentally on-track' are described in <a href="https://data.unicef.org/wp-content/uploads/2015/12/Measuring-ECD-Brochure-HR-10_8_116.pdf">UNICEF's report</a> on measuring Early Childhood Development.</p>
+            <p><strong>Definition:</strong> Indicator 4.2.1 is the <i><q>proportion of children under 5 years of age who are developmentally on track in health, learning and psychosocial well-being, by sex</q></i>.<p>This is measured as the percentage of under-5s who are developmentally on-track in at least three of the following four domains: literacy-numeracy, physical, socio-emotional and learning.</p>
             <p><strong>Goal:</strong> By 2030 <i><q>ensure that all girls and boys are ready for primary education</q></i>.</p>
             <p><strong>More research:</strong> Further data and research can be found at <i>Our World in Data</i><a href="https://ourworldindata.org/pre-primary-education"> entry on  Pre-Primary Education</a>.</p>
         </div>
@@ -90,7 +90,7 @@ featuredImage: /img/uploads/4.svg
         <div class="col-md">
             <span>SDG Indicator 4.2.2</span>
             <h3>Participation in pre-primary education</h3>
-            <p><strong>Definition:</strong> Indicator 4.2.2 is the <i><q>participation rate in organized learning (one year before the official primary entry age), by sex</q></i>.<p>This is measured as the net enrolment rate in pre-primary education, which is the number of children of the relevant age group enrolled in pre-primary as a percentage of the total population of that age group.</p>
+            <p><strong>Definition:</strong> Indicator 4.2.2 is the <i><q>participation rate in organized learning (one year before the official primary entry age), by sex</q></i>.<p>This is measured here as the net enrolment rate in pre-primary education, which is the number of children of the relevant age group enrolled in pre-primary as a percentage of the total population of that age group.</p>
             <p><strong>Goal:</strong> By 2030 <i><q>ensure that all girls and boys have access to quality early childhood development, care and pre-primary education</q></i>.</p>
             <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i><a href="https://ourworldindata.org/pre-primary-education"> entry on Pre-Primary Education</a>.</p>
             <p><strong>Additional charts:</strong> 
@@ -118,7 +118,7 @@ featuredImage: /img/uploads/4.svg
         <div class="col-md">
             <span>SDG Indicator 4.3.1</span>
             <h3>Equal access to further education</h3>
-            <p><strong>Definition:</strong> Indicator 4.3.1 is the <i><q>participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, by sex</q></i>.<p>This is measured as the total enrollment in tertiary education, regardless of age, expressed as a percentage of the total population of the  five-year age group following on from secondary school leaving. Data on non-formal further education and training is not available.</p>
+            <p><strong>Definition:</strong> Indicator 4.3.1 is the <i><q>participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, by sex</q></i>.<p>It is not clear how this is supposed to be tracked. Here we show the total enrollment in tertiary education, regardless of age, expressed as a percentage of the total population of the  five-year age group following on from secondary school leaving. Data on non-formal further education and training is not available.</p>
             <p><strong>Goal:</strong> By 2030 <q><i>ensure equal access for all women and men to affordable and quality technical, vocational and tertiary education</q></i>.<p>There is no defined target level of further education participation rates per year for this indicator.</p>
             <p><strong>More research:</strong> Further data and research can be found at <i>Our World in Data</i> <a href="https://ourworldindata.org/tertiary-education">entry on Tertiary Education</a>.</p>
             <p><strong>Additional charts:</strong>
@@ -163,7 +163,7 @@ featuredImage: /img/uploads/4.svg
         <div class="col-md">
             <span>SDG Indicator 4.5.1</span>
             <h3>Disparities in educational access</h3>
-            <p><strong>Definition:</strong> Indicator 4.5.1 is <i><q>Parity indices (female/male, rural/urban, bottom/top wealth quintile and others such as disability status, indigenous peoples and conflict-affected, as data become available) for all education indicators</q></i>.<p>This is measured as gender parity in school enrolment, life expectancy, and completion rate. Data on parity for other indices is not available.</p>
+            <p><strong>Definition:</strong> Indicator 4.5.1 is <i><q>Parity indices (female/male, rural/urban, bottom/top wealth quintile and others such as disability status, indigenous peoples and conflict-affected, as data become available) for all education indicators</q></i>.<p>This is measured as gender parity in school enrolment, school life expectancy, and completion rate. Data on parity for other indices is not available.</p>
             <p><strong>Goal:</strong> By 2030 <i><q>eliminate gender disparities in education and ensure equal access to all levels of education and vocational training</q></i> for all.</p>
             <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i><a href="https://ourworldindata.org/educational-mobility-inequality"> entry on Educational Mobility & Inequality</a>.</p>
            <p><strong>Additional charts:</strong> 
@@ -240,8 +240,7 @@ for pedagogical purposes; (d) adapted infrastructure and materials for students 
             <span>SDG Indicator 4.A.1</span>
             <h3>Inclusive and safe schools</h3>
             <p><strong>Definition:</strong> Indicator 4.A.1 is the <i><q>proportion of schools with access to (a) electricity; (b) the Internet for pedagogical purposes; (c) computers for pedagogical purposes; (d) adapted infrastructure and materials for students with disabilities; (e) basic drinking water; (f) single-sex basic sanitation facilities; and (g) basic handwashing facilities (as per the WASH indicator definitions)</q></i>.</p>
-            <p><strong>Goal:</strong> The target is to ensure all children have access to a safe, inclusive and effective learning environment by 2030.</p>
-<p><strong>Additional data:</strong> Limited data on some aspects of this indicator - the share of schools with potable water, sanitation, handwashing and electricity - is available for Africa only from the <a href="https://data.worldbank.org/data-catalog/ed-stats">UNESCO database</a>.
+            <p><strong>Goal:</strong> The target is to ensure all children have access to a safe, inclusive and effective learning environment by 2030.</p> 
         </div>
         <div class="col-md">
             <br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
@@ -300,3 +299,4 @@ education who have received at least the minimum organized teacher training</a>.
         </div>
     </div>
 </div>
+
