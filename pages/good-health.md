@@ -4,8 +4,9 @@ title: Ensure healthy lives and promote well-being for all at all ages
 goalNum: 3
 name: Good Health and Well-Being
 description: >-
-  Significant strides have been made in increasing life expectancy and reducing
-  some of the common killers responsible for child and maternal mortality. 
+  The UN explains: <i><q>Significant strides have been made in increasing life
+  expectancy and reducing some of the common killers responsible for child and
+  maternal mortality. 
 
 
   Major progress has also been made on increasing access to clean water and
@@ -13,7 +14,7 @@ description: >-
 
 
   However, many more efforts are needed to control a wide range of diseases and
-  address many different persistent and emerging health issues.
+  address many different persistent and emerging health issues.</q></i>
 
 
   In-depth analysis across a range of health-related topics can be found at the
@@ -51,7 +52,7 @@ description: >-
   The UN has defined 13 "Targets" and 28 "Indicators" for SDG 3. Targets specify
   the goals and Indicators represent the metrics by which the world aims to
   track whether these Targets are achieved. Below we quote the original text of
-  all targets and show the data on the agreed Indicators.
+  all <i>Targets</i> and show the data on the agreed <i>Indicators</i>.
 featuredImage: /img/uploads/3.svg
 ---
 <div class="target">
