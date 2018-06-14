@@ -4,12 +4,13 @@ title: Reduce inequality within and among countries
 goalNum: 10
 name: Reduced Inequalities
 description: >-
-  The UN explains: <i><q>The international community has made significant
-  strides towards lifting people out of poverty.  The most vulnerable nations –
-  the least developed countries, the landlocked developing countries and the
-  small island developing states – continue to make inroads into poverty
-  reduction.  However, inequality still persists and large disparities remain in
-  access to health and education services and other assets.</q></i>
+  The [UN explains](https://www.un.org/sustainabledevelopment/inequality/):
+  <i><q>The international community has made significant strides towards lifting
+  people out of poverty.  The most vulnerable nations – the least developed
+  countries, the landlocked developing countries and the small island developing
+  states – continue to make inroads into poverty reduction.  However, inequality
+  still persists and large disparities remain in access to health and education
+  services and other assets.</q></i>
 
 
   Further statistics, analysis and visuals on inequality can be found at <i>Our
