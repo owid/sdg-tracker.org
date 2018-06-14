@@ -4,35 +4,48 @@ title: Ensure healthy lives and promote well-being for all at all ages
 goalNum: 3
 name: Good Health and Well-Being
 description: >-
-  Ensuring healthy lives and promoting the well-being for all at all ages is
-  essential to sustainable development. Significant strides have been made in
-  increasing life expectancy and reducing some of the common killers associated
-  with child and maternal mortality. 
+  Significant strides have been made in increasing life expectancy and reducing
+  some of the common killers responsible for child and maternal mortality. 
 
 
-  Major progress has been made on increasing access to clean water and
+  Major progress has also been made on increasing access to clean water and
   sanitation, reducing malaria, tuberculosis, polio and the spread of HIV/AIDS. 
 
 
-  However, many more efforts are needed to fully eradicate a wide range of
-  diseases and address many different persistent and emerging health issues.
+  However, many more efforts are needed to control a wide range of diseases and
+  address many different persistent and emerging health issues.
 
 
   In-depth analysis across a range of health-related topics can be found at the
-  _Our World in Data_ entries on: [Global
-  Health](https://ourworldindata.org/health-meta),
-  [Polio](https://ourworldindata.org/polio), [Life
-  Expectancy](https://ourworldindata.org/life-expectancy), [Maternal
-  Mortality](https://ourworldindata.org/maternal-mortality), [Child
-  Mortality](https://ourworldindata.org/child-mortality),
-  [Malaria](https://ourworldindata.org/malaria),
-  [HIV/AIDS](https://ourworldindata.org/hiv-aids),
-  [Suicide](https://ourworldindata.org/suicide), [Burden of
-  Disease](https://ourworldindata.org/burden-of-disease), [Eradication of
-  Diseases](https://ourworldindata.org/eradication-of-diseases), [Causes of
-  Death](https://ourworldindata.org/causes-of-death), [Financing
-  Healthcare](https://ourworldindata.org/financing-healthcare), and
-  [Smoking](https://ourworldindata.org/smoking).
+  _Our World in Data_ entries on: 
+
+
+  * [Global Health](https://ourworldindata.org/health-meta), 
+
+  * [Polio](https://ourworldindata.org/polio), 
+
+  * [Life Expectancy](https://ourworldindata.org/life-expectancy), 
+
+  * [Maternal Mortality](https://ourworldindata.org/maternal-mortality),
+
+  * [Child Mortality](https://ourworldindata.org/child-mortality), 
+
+  * [Malaria](https://ourworldindata.org/malaria), 
+
+  * [HIV/AIDS](https://ourworldindata.org/hiv-aids), 
+
+  * [Suicide](https://ourworldindata.org/suicide), 
+
+  * [Burden of Disease](https://ourworldindata.org/burden-of-disease),
+
+  * [Eradication of
+  Diseases](https://ourworldindata.org/eradication-of-diseases), 
+
+  * [Causes of Death](https://ourworldindata.org/causes-of-death), 
+
+  * [Financing Healthcare](https://ourworldindata.org/financing-healthcare), 
+
+  * and [Smoking](https://ourworldindata.org/smoking).
 
 
   The UN has defined 13 "Targets" and 28 "Indicators" for SDG 3. Targets specify
@@ -53,7 +66,7 @@ featuredImage: /img/uploads/3.svg
             <span>SDG Indicator 3.1.1</span>
             <h3>Maternal mortality ratio</h3>
             <p><strong>Definition:</strong> Indicator 3.1.1 is the <i><q>maternal mortality ratio</q></i>.<p>The maternal mortality ratio refers to the number of women who die from pregnancy-related causes while pregnant or within 42 days of pregnancy termination per 100,000 live births.</p>
-            <p><strong>Goal:</strong> By 2030 <i><q>Reduce global maternal mortality to less than 70 per 100,000 live births</q></i> per year. No defined target has been set at the national level.</p>
+            <p><strong>Goal:</strong> By 2030 <i><q>Reduce global maternal mortality to less than 70 per 100,000 live births</q></i> per year. (No target has been set at the national level.)</p>
             <p><strong>More research:</strong> <i>The Our World in Data</i><a href="https://ourworldindata.org/maternal-mortality">  entry on maternal mortality</a> gives a long-run perspective over the last centuries and presents research on the causes and consequences of the deaths of mothers.</p>
 <p><strong>Additional charts:</strong> 
 <br><a href="https://ourworldindata.org/https://ourworldindata.org/grapher/number-of-maternal-deaths-by-region">Number of maternal deaths by region</a>
@@ -73,7 +86,9 @@ featuredImage: /img/uploads/3.svg
             <span>SDG Indicator 3.1.2</span>
             <h3>Skilled birth attendance</h3>
             <p><strong>Definition:</strong> Indicator 3.1.2 is the <i><q>percentage of births attended by personnel trained to give the necessary supervision, care, and advice to women during pregnancy, labor, and the postpartum period; to conduct deliveries on their own; and to care for newborns</q></i>.</p>
-            <p><strong>Goal:</strong> The UN target is to <i><q>Reduce global maternal mortality to less than 70 per 100,000 live births.</q></i> However, there is no goal specified by the UN for the share of births attended by skilled staff.
+            <p><strong>Goal:</strong> The UN Target 3.1 is to <i><q>Reduce global maternal mortality to less than 70 per 100,000 live births.</q></i>
+
+However, there is no goal specified by the UN for the share of births attended by skilled staff.
 
 <p><strong>More research:</strong> Research shows that <a href="https://ourworldindata.org/maternal-mortality#maternal-mortality-in-the-long-run">skilled staff can reduce maternal mortality</a>.</p>
         </div>
@@ -162,10 +177,10 @@ featuredImage: /img/uploads/3.svg
         <div class="col-md">
             <span>SDG Indicator 3.3.2</span>
             <h3>Tuberculosis incidence per 100,000 population</h3>
-            <p><strong>Definition:</strong> Indicator 3.3.2 is <i><q>tper 100,000 population</q></i>. <p>Tuberculosis incidence is the number of new cases of tuberculosis per 100,000 people.</p>
+            <p><strong>Definition:</strong> Indicator 3.3.2 is <i><q>tubercolusis per 100,000 population</q></i>. <p>Tuberculosis incidence is the number of new cases of tuberculosis per 100,000 people.</p>
             <p><strong>Goal:</strong> The 2030 target is to <i><q>end the epidemic of tuberculosis (TB)</q></i> in all countries. The targeted level of reduction, however, is not defined. 
 
-<p>The WHO's <i>Stop TB Partnership</i> has <a href="http://www.who.int/tb/strategy/en/">set a target</a> (not specifically related to the SDGs) of reducing national incidence of TB to fewer than 20 cases per 100,000 by 2030.</p>
+<p>The World Health Organization's <i>Stop TB Partnership</i> has <a href="http://www.who.int/tb/strategy/en/">set a target</a> (not specifically related to the SDGs) of reducing national incidence of TB to fewer than 20 cases per 100,000 by 2030.</p>
 <p><strong>Additional charts:</strong> 
 <br><a href="https://ourworldindata.org/grapher/tuberculosis-death-rates">Tuberculosis death rates</a>
 <br><a href="https://ourworldindata.org/grapher/tuberculosis-deaths-by-age">Number of tuberculosis deaths</a>
@@ -183,7 +198,7 @@ featuredImage: /img/uploads/3.svg
         <div class="col-md">
             <span>SDG Indicator 3.3.3</span>
             <h3>Malaria incidence per 1,000 population</h3>
-            <p><strong>Definition:</strong> Indicator 3.3.3 is <i><q>malaria incidence per 1,000 population</q></i>. <p>Malaria incidence is the number of new cases of malaria per 1,000 people in a given population.</p>
+            <p><strong>Definition:</strong> Indicator 3.3.3 is <i><q>malaria incidence per 1,000 population</q></i>. <p>Malaria incidence is the number of new cases of malaria in one year per 1,000 people in a given population.</p>
             <p><strong>Goal:</strong> By 2030 <i><q>end the epidemic of malaria</q></i> in all countries. The targeted level of reduction, however, is not defined. 
 
 <p>The  <i><a href="http://www.who.int/malaria/areas/global_targets/en/"> WHO Global Technical Strategy</a></i> has set a target of reducing incidence by 90 percent by 2030. This would infer a target of 9 or fewer cases of malaria per 1,000 people globally in 2030.</p>
@@ -205,7 +220,7 @@ featuredImage: /img/uploads/3.svg
         <div class="col-md">
             <span>SDG Indicator 3.3.4</span>
             <h3>Hepatitis B incidence per 100,000 population</h3>
-            <p><strong>Definition:</strong> Indicator 3.3.4 is <i><q>Hepatitis B incidence per 100,000 population</q></i>. <p>Hepatitis B incidence is the number of new cases of hepatitis B per 100,000 individuals in a given population per year.</p>
+            <p><strong>Definition:</strong> Indicator 3.3.4 is <i><q>Hepatitis B incidence per 100,000 population</q></i>. <p>Hepatitis B incidence is the number of new cases of hepatitis B in one year per 100,000 individuals in a given population.</p>
             <p><strong>Goal:</strong> By 2030 <i><q>combat hepatitis</q></i> in all countries with a focus on hepatitis B. The targeted level of reduction, however, is not defined.
             <p><strong>Additional charts:</strong> 
 <br><a href="https://ourworldindata.org/grapher/heptatitis-death-rate">Hepatitis death rates</a>
@@ -246,7 +261,7 @@ featuredImage: /img/uploads/3.svg
         <div class="col-md">
             <span>SDG Indicator 3.4.1</span>
             <h3>Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease</h3>
-            <p><strong>Definition:</strong> Indicator 3.4.1 is <i><q>mortality  rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease.</q></i>. <p>This is defined as the percent of 30-year-old-people who would die before their 70th birthday from any of cardiovascular disease, cancer, diabetes, or chronic respiratory disease, assuming thats/he would experience current mortality rates at every age and s/he would not die from any other cause of death (e.g. injuries or HIV/AIDS).</p>
+            <p><strong>Definition:</strong> Indicator 3.4.1 is the <i><q>mortality  rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease.</q></i> <p>This is defined as the percent of 30-year-old-people who would die before their 70th birthday from any of cardiovascular disease, cancer, diabetes, or chronic respiratory disease, assuming that s/he would experience current mortality rates at every age and s/he would not die from any other cause of death (e.g. injuries or HIV/AIDS).</p>
             <p><strong>Goal:</strong> By 2030 <i><q>reduce premature mortality from non-communicable diseases (NCDs) by one-third</q></i> in all countries.</p>
             <p><strong>More research:</strong> Further data and research on non-communicable diseases can be found at <i>Our World in Data</i> entries on <a href="https://ourworldindata.org/causes-of-death"> Causes of Death</a>, <a href="https://ourworldindata.org/burden-of-disease"> Burden of Disease</a>, and <a href="https://ourworldindata.org/cancer"> Cancer</a>.</p>
 <p><strong>Additional charts:</strong> 
@@ -346,9 +361,9 @@ injuries from road traffic accidents.</q></p>
             <h3>Halve the number of road traffic deaths</h3>
             <p><strong>Definition:</strong> Indicator 3.6.1 is the <i><q>death rate due to road traffic injuries</q></i>. <p>Mortality from road traffic injuries is measured here in absolute (total number of deaths) and rates (deaths per 100,000 population). Road traffic deaths include vehicle drivers, passengers, motorcyclists, cyclists and pedestrians.</p>
             <p><strong>Goal:</strong> By 2020 <i><q>halve the number of global deaths and injuries from road traffic accidents.</q></i>
-<p>While most targets are set for 2030, this is set to be achieved for 2020.  
+<p>While most SDG targets are set for 2030, this is set to be achieved for 2020.  
 This is measured relative to 2010 levels as it was defined as part of the <a href="http://www.who.int/roadsafety/decade_of_action/en/">UN Decade of Action for Road Safety (2011-2020)</a>.</p>
-<p></p>
+<p>Note that the SDG Indicator is the <i>rate</i> of road deaths while the target is set for the <i>absolute number</i> of road deaths. Because of this we show both metrics.</p>
 <p><strong>Additional charts:</strong>
 <br><a href="https://ourworldindata.org/grapher/road-deaths-by-type">Road traffic deaths by user</a>
         </div>
@@ -376,11 +391,10 @@ satisfied with modern methods</a> <br><a href="#3.7.2">3.7.2 Adolescent birth ra
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 3.7.1</span>
-            <h3>Proportion of women of reproductive age (aged 15–49 years) who have their need for family planning
-satisfied with modern methods</h3>
+            <h3>Proportion of women of reproductive age (aged 15–49 years) who have their need for family planning satisfied with modern methods</h3>
             <p><strong>Definition:</strong> Indicator 3.7.1 is the <i><q>percentage of married women ages 15-49 years whose need for family planning is satisfied with modern methods of contraception</q></i>.</p>
             <p><strong>Goal:</strong> By 2030 <i><q>ensure universal access to sexual and reproductive healthcare services, including for family planning.</q></i></p>
-<p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/fertility-rate">entry on Fertility Rate</a>.</p>
+<p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/fertility-rate">entry on the Fertility Rate</a>.</p>
             <p><strong>Additional charts:</strong> 
 <br><a href="https://ourworldindata.org/grapher/unmet-need-for-contraception-share-of-married-women-of-reproductive-age?tab=map">Unmet need for contraception</a>
 <br><a href="https://ourworldindata.org/grapher/contraceptive-prevalence-any-methods-of-women-ages-15-49">Contraception prevalence, any methods</a>
@@ -474,8 +488,8 @@ pollution and contamination.</q></p>
         <div class="col-md">
             <span>SDG Indicator 3.9.1</span>
             <h3>Mortality rate from air pollution</h3>
-            <p><strong>Definition:</strong> Indicator 3.9.1 is the <i><q>mortality rate attributed to household and ambient air pollution</q></i>. <p>This is measured is the number of deaths attributed to indoor and outdoor air pollution per 100,000 individuals.</p>
-            <p><strong>Goal:</strong> By 2030 <i><q>substantially reduce the number of deaths and illnesses from air pollution</q></i>. There is, however, not a defined target level for this indicator.</p>
+            <p><strong>Definition:</strong> Indicator 3.9.1 is the <i><q>mortality rate attributed to household and ambient air pollution</q></i>. <p>This is measured as the number of deaths attributed to indoor and outdoor air pollution per 100,000 individuals.</p>
+            <p><strong>Goal:</strong> By 2030 <i><q>substantially reduce the number of deaths and illnesses from air pollution</q></i>. There is, however, not a defined quantitative target level for this indicator.</p>
 <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> entries on <a href="https://ourworldindata.org/air-pollution">Air Pollution</a> and <a href="https://ourworldindata.org/indoor-air-pollution">Indoor Air Pollution</a>.</p>
 <p><strong>Additional charts:</strong> 
 <br><a href="https://ourworldindata.org/grapher/death-rate-from-ambient-particulate-air-pollution-per-100000?tab=map">Mortality rate from ambient air pollution</a>
@@ -497,7 +511,7 @@ pollution and contamination.</q></p>
             <span>SDG Indicator 3.9.2</span>
             <h3>Mortality rate from unsafe water, sanitation, hygiene (WASH)</h3>
             <p><strong>Definition:</strong> Indicator 3.9.2 is the <i><q>mortality rate attributed to unsafe water, sanitation, and lack of hygiene</q></i>. <p>Mortality rate from water, sanitation and hygiene (WASH) factors is measured as the number of attributed deaths per 100,000 people.</p>
-            <p><strong>Goal:</strong> By 2030 <i><q>substantially reduce the number of deaths and illnesses from water pollution and contamination</q></i>. There is, however, not a defined target level for this indicator.</p>
+            <p><strong>Goal:</strong> By 2030 <i><q>substantially reduce the number of deaths and illnesses from water pollution and contamination</q></i>. There is, however, not a defined quantified target level for this indicator.</p>
 
 <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/water-access-resources-sanitation"> entry on Water Access, Resources and Sanitation</a>.</p>
 <p><strong>Additional charts:</strong> 
@@ -518,7 +532,7 @@ pollution and contamination.</q></p>
             <span>SDG Indicator 3.9.3</span>
             <h3>Mortality rate attributed to unintentional poisoning</h3>
             <p><strong>Definition:</strong> Indicator 3.9.3 is the <i><q>mortality rate attributed to unintentional poisoning</q></i> <p>This measures the number of deaths per 100,000 people attributed to unintentional exposure to hazardous chemicals or substances.</p>
-            <p><strong>Goal:</strong> By 2030 <i><q>substantially reduce the number of deaths and illnesses from hazardous chemicals and soil pollution</q></i>. There is, however, not a defined target level for this indicator.</p>
+            <p><strong>Goal:</strong> By 2030 <i><q>substantially reduce the number of deaths and illnesses from hazardous chemicals and soil pollution</q></i>. There is, however, not a defined quantified target level for this indicator.</p>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/death-rate-from-poisonings" style="width: 100%; height: 600px; border: 0px none;"></iframe>
@@ -582,7 +596,7 @@ research and basic health sectors</a> <br><a href="#3.B.3">3.B.3 Proportion of h
             <span>SDG Indicator 3.B.1</span>
             <h3>Vaccine coverage</h3>
             <p><strong>Definition:</strong> Indicator 3.B.1 is the <i><q>Proportion of the target population covered by all vaccines included in their national programme</q></i>.
-<p>The UN does not currently define vaccinations covered for this indicator. The <i>Institute of Health Metrics and Evaluation (IHME)</i> define this indicator based on the mean coverage of eight vaccines (if included in national programmes: 
+<p>The UN does not currently define which vaccinations are measured by this indicator. The <i>Institute of Health Metrics and Evaluation (IHME)</i> defines this indicator based on the mean coverage of the following eight vaccines: 
 <br><q><i>three-dose diphtheria, pertussis, and tetanus (DPT3); three-dose polio; first-dose measles vaccine; and for countries where the vaccine(s) are included in the national schedule: BCG vaccine, three-dose pneumococcal conjugate vaccine (PCV3), three-dose Haemophilus influenzae type b vaccine (Hib3), three-dose hepatitis B vaccine (delivered as part of pentavalent vaccines), and two-dose or three-dose rotavirus vaccine</q></i></p>
             <p><strong>Goal:</strong> By 2030 <q><i>provide access to affordable essential medicines and vaccines for all</q></i>. <br>This assumes universal coverage of vaccines in national programmes.
 
@@ -636,7 +650,7 @@ research and basic health sectors</a> <br><a href="#3.B.3">3.B.3 Proportion of h
 <p>UN definition: <q>Substantially increase health financing and the
 recruitment, development, training and retention of the
 health workforce in developing countries, especially in least
-developed countries and small island developing States.</q></p>
+developed countries and small island developing states.</q></p>
 
 <p>SDG Indicators: <br><a href="#3.C.1">3.C.1 Health worker density and distribution</a>.</p>
 
@@ -647,7 +661,7 @@ developed countries and small island developing States.</q></p>
         <div class="col-md">
             <span>SDG Indicator 3.C.1</span>
             <h3>Health worker density</h3>
-            <p><strong>Definition:</strong> Indicator 3.C.1 is <i><q>Health worker density and distribution</q></i>. <p>Health worker density is the size of the health workforce per 1,000 or 100,000 people. It is measured here based on the density of physicians, surgeons, nurses and midwives, dentistry and pharmaceutical personnel.</p>
+            <p><strong>Definition:</strong> Indicator 3.C.1 is <i><q>Health worker density and distribution</q></i>. <p>Health worker density is the size of the health workforce per 1,000 people. It is measured here based on the density of physicians, surgeons, nurses and midwives, dentistry and pharmaceutical personnel.</p>
             <p><strong>Goal:</strong> By 2030 <q><i>Substantially increase health financing and the recruitment, development, training and retention of the
 health workforce in developing countries</q></i>.
 
