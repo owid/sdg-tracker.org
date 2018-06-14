@@ -12,7 +12,7 @@ description: >-
   and retool our economic and social policies aimed at eradicating poverty.
 
 
-  The UN has defined 12 "Targets" and 17 "Indicators" for SDG 8. Targets specify
+  The UN has defined 12 _Targets_ and 17 _Indicators_ for SDG 8. Targets specify
   the goals and Indicators represent the metrics by which the world aims to
   track whether these Targets are achieved. Below we quote the original text of
   all targets and show the data on the agreed Indicators.
@@ -262,7 +262,7 @@ disabilities</a>.</p>
             <p><strong>Additional charts:</strong> <br><a href="https://ourworldindata.org/grapher/international-tourism-number-of-arrivals">Number of tourist arrivals</a></p>      
         </div>
         <div class="col-md">
-            <br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+            <br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
         </div>
     </div>
 </div>
@@ -279,7 +279,7 @@ disabilities</a>.</p>
             <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/tourism">entry on Tourism</a>.</p>    
         </div>
         <div class="col-md">
-            <br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+            <br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
         </div>
     </div>
 </div>
@@ -360,7 +360,7 @@ strategy or as part of a national employment strategy</a>.</p>
             <p><strong>Goal:</strong> <i><q>Develop and operationalize a global strategy for youth employment</q></i>.<p>Unlike most SDG targets with a target for 2030, the goal date for this indicator is 2020.</p>    
         </div>
         <div class="col-md">
-            <br><br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+            <br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
         </div>
     </div>
 </div>
