@@ -142,7 +142,7 @@ proportion of available freshwater resources.</a></p>
         <div class="col-md">
             <span>SDG Indicator 6.4.1</span>
             <h3>Water use efficiency</h3>
-            <p><strong>Definition:</strong> Indicator 6.4.1 is the <i><q>change in water-use efficiency over time</q></i>.<p>Water efficiency is measured here as a productivity metric, given as a country's total gross domestic product (GDP) divided by total freshwater withdrawals. Water-efficient economies are those which achieve a high gross domestic product (GDP) per unit of freshwater withdrawal.</p>
+            <p><strong>Definition:</strong> Indicator 6.4.1 is the <i><q>change in water-use efficiency over time</q></i>.<p>Water efficiency is measured here in the SDG Tracker as a productivity metric, given as a country's total gross domestic product (GDP) divided by total freshwater withdrawals. Water-efficient economies are those which achieve a high gross domestic product (GDP) per unit of freshwater withdrawal.</p>
             <p><strong>Goal:</strong> By 2030 <i><q>substantially increase water-use efficiency across all sectors</q></i>.</p>
             <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/water-access-resources-sanitation">entry on Water Access, Resources & Sanitation</a>.</p>
         </div>
