@@ -39,7 +39,6 @@ description: >-
   all targets and show the data on the agreed Indicators.
 featuredImage: /img/uploads/2.svg
 ---
-
 <div class="target">
     <h2>Target 2.1: Universal access to safe and nutritious food</h2>
     <p>UN definition: <q>End hunger, achieve food security and improved nutrition and promote sustainable agriculture.</q></p>
@@ -99,7 +98,7 @@ and lactating women and older persons.</q></p>
         <div class="col-md">
             <span>SDG Indicator 2.2.1</span>
             <h3>Prevalence of childhood stunting</h3>
-            <p><strong>Definition:</strong> Indicator 2.2.1 is the <i><q>prevalence of stunting among children under 5 years of age</q></i>. <p>Stunting represents severe malnutrition as is apparent when a child has too <a href="https://ourworldindata.org/hunger-and-undernourishment#too-little-height-for-age-stunting">low height-for-age</a>. A child is stunted when his or her height-for-age is 2 or more standard deviations below the median of the World Health Organization (WHO) Child Growth Standards).</p>
+            <p><strong>Definition:</strong> Indicator 2.2.1 is the <i><q>prevalence of stunting among children under 5 years of age</q></i>. <p>Stunting represents severe malnutrition as is apparent when a child has too <a href="https://ourworldindata.org/hunger-and-undernourishment#too-little-height-for-age-stunting">low height-for-age</a>. A child is stunted when his or her height-for-age is 2 or more standard deviations below the median of the World Health Organization (WHO) <i>Child Growth Standards</i>.</p>
             <p><strong>Goal:</strong> By 2030 <i><q>end all forms of malnutrition, including achieving, by 2025, the internationally agreed targets on stunting and wasting in children under 5 years of age</q></i>. <p>The intermediate target is a reduction in the prevalence of stunting <a href="http://apps.who.int/iris/bitstream/handle/10665/149018/WHO_NMH_NHD_14.2_eng.pdf?sequence=1"> by 40% by 2025</a> (from 2012 levels).</p>
             <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/hunger-and-undernourishment">entry on Hunger and Undernourishment</a>.</p>
             <p><strong>Additional charts:</strong>
@@ -118,7 +117,11 @@ and lactating women and older persons.</q></p>
         <div class="col-md">
             <span>SDG Indicator 2.2.2</span>
             <h3>Prevalence of childhood malnutrition (wasting or overweight)</h3>
-            <p><strong>Definition:</strong> Indicator 2.2.2 is the <i><q>prevalence of malnutrition among children under 5 years of age, by type (wasting and overweight)</q></i>. <p>Being <a href="https://ourworldindata.org/hunger-and-undernourishment#too-little-weight-for-height-wasting">underweight (wasting)</a> or overweight are both defined as malnourished. A child is defined as wasted or overweight if his or her weight-for-height is more than 2 standard deviations below or above the median of the WHO Child Growth Standards), respectively.</p>
+            <p><strong>Definition:</strong> Indicator 2.2.2 is the <i><q>prevalence of malnutrition among children under 5 years of age, by type (wasting and overweight)</q></i>. <p>Being <a href="https://ourworldindata.org/hunger-and-undernourishment#too-little-weight-for-height-wasting">underweight (wasting)</a> or overweight are both defined as malnourished: 
+
+A child is defined as "wasted" if his or her weight-for-height is more than 2 standard deviations below the median of the WHO <i>Child Growth Standards</i>.
+
+A child is defined as "overweight" if his or her weight-for-height is more than 2 standard deviations above the median of the WHO <i>Child Growth Standards</i>.</p>
             <p><strong>Goal:</strong> By 2030 <i><q>end all forms of malnutrition, including achieving, by 2025, the internationally agreed targets on stunting and wasting in children under 5 years of age, and address the nutritional needs of adolescent girls, pregnant and lactating women and older persons</q></i>.<p>This targets an elimination of wasting, and the prevalence of children being overweight by 2030.</p>
             <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> entries on <a href="https://ourworldindata.org/hunger-and-undernourishment">Hunger and Undernourishment</a>, <a href="https://ourworldindata.org/obesity">Obesity</a> and <a href="https://ourworldindata.org/micronutrient-deficiency">Micronutrient Deficiency</a>.</p>
             <p><strong>Additional charts:</strong>
@@ -146,7 +149,7 @@ services, markets and opportunities for value addition and non-farm employment.<
         <div class="col-md">
             <span>SDG Indicator 2.3.1</span>
             <h3>Production per labour unit</h3>
-            <p><strong>Definition:</strong> Indicator 2.3.1 is the <i><q>volume of production per labour unit by classes of farming/pastoral/forestry enterprise size</q></i>.<p>This is reported here as the economic value added her agricultural worker (labour unit).</p>
+            <p><strong>Definition:</strong> Indicator 2.3.1 is the <i><q>volume of production per labour unit by classes of farming/pastoral/forestry enterprise size</q></i>.<p>This is reported here in the SDG Tracker as the economic value added per agricultural worker.</p>
             <p><strong>Goal:</strong> By 2030 <i><q>double the average productivity of food producers</q></i>.<p>This would require a doubling in agricultural value added per worker by 2030.</p>
             <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/yields-and-land-use-in-agriculture">entry on Yields and Land Use in Agriculture</a> and <a href="https://ourworldindata.org/employment-in-agriculture">Employment in Agriculture</a>.</p>
         </div>
@@ -168,7 +171,7 @@ services, markets and opportunities for value addition and non-farm employment.<
             <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> entries on <a href="https://ourworldindata.org/food-prices">Food Prices</a> and <a href="https://ourworldindata.org/employment-in-agriculture">Employment in Agriculture</a>.</p>
         </div>
         <div class="col-md">
-            <br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
+            <br><br><br><br><br><b>We are currently not aware of available data for this indicator. You can submit or notify us of official data for this indicator here.</b>
         </div>
     </div>
 </div>
@@ -187,13 +190,10 @@ services, markets and opportunities for value addition and non-farm employment.<
             <p><strong>Definition:</strong> Indicator 2.4.1 is the <i><q>proportion of agricultural area under productive and sustainable agriculture.</q></i> <p>It is currently not clear or well-defined what constitutes productive and sustainable agricultural practice.</p>
             <p><strong>Goal:</strong> By 2030 <i><q>ensure sustainable food production systems and implement resilient agricultural practices that increase productivity and production, that help maintain ecosystems, that strengthen capacity for adaptation to climate change, extreme weather, drought, flooding and other disasters and that progressively improve land and soil quality</q></i>.</p>
             <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/yields-and-land-use-in-agriculture">entry on Yields and Land Use in Agriculture</a>, and comparison of the environmental impact of<a href="https://ourworldindata.org/is-organic-agriculture-better-for-the-environment"> organic vs. conventional agriculture</a>.</p>
-            <p><strong>Additional charts:</strong>
-<br><a href="https://ourworldindata.org/grapher/organic-agricultural-area">Organic agricultural area</a>
-<br><a href="https://ourworldindata.org/grapher/organic-arable-land-area">Organic arable land area</a>
-<br><a href="https://ourworldindata.org/grapher/share-of-arable-land-which-is-organic">Share of arable land that is organic</a>
+            <p>
         </div>
         <div class="col-md">
-            <br><br><br><br><br><br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
+            <br><br><br><br><br><br><br><br><br><br><br><b>We are currently not aware of available data for this indicator. You can submit or notify us of official data for this indicator here.</b>
         </div>
     </div>
 </div>
@@ -250,7 +250,9 @@ conservation facilities</a> <br><a href="#2.5.2">2.5.2 Proportion of local breed
             <span>SDG Indicator 2.A.1</span>
             <h3>Agriculture orientation index</h3>
             <p><strong>Definition:</strong> Indicator 2.A.1 is the <i><q>agriculture orientation index for government expenditures</q></i>. <p>The agriculture orientation index (AOI) is the agriculture share of government expenditures, divided by the agriculture share of GDP.
-<p>An AOI >1 means the agriculture section receives a higher share of government spending relative to its economic value. An AOI <1 reflects a lower orientation to agriculture.</p>
+<p>An AOI larger than 1 means the agriculture section receives a higher share of government spending relative to its economic value. 
+
+An AOI smaller than 1 reflects a lower orientation to agriculture.</p>
             <p><strong>Goal:</strong> By 2030 <i><q>Increase investment, including through enhanced international cooperation, in rural infrastructure, agricultural research and extension services, technology development and plant and livestock gene banks in order to enhance agricultural productive capacity in developing countries, in particular least developed countries</q></i>.</p>
         </div>
         <div class="col-md">
@@ -290,7 +292,7 @@ conservation facilities</a> <br><a href="#2.5.2">2.5.2 Proportion of local breed
             <p><strong>Goal:</strong> By 2030 <i><q>correct and prevent trade restrictions and distortions in world agricultural markets, including through the parallel elimination of all forms of agricultural export subsidies</q></i> <p>This target requires an elimination of agricultural export subsidies by 2030.</p>
         </div>
         <div class="col-md">
-            <br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
+            <br><br><br><br><b>We are currently not aware of available data for this indicator. You can submit or notify us of official data for this indicator here.</b>
         </div>
     </div>
 </div>
