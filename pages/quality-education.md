@@ -73,7 +73,7 @@ featuredImage: /img/uploads/4.svg
         <div class="col-md">
             <span>SDG Indicator 4.2.1</span>
             <h3>Ensuring children are developmentally on track</h3>
-            <p><strong>Definition:</strong> Indicator 4.2.1 is the <i><q>proportion of children under 5 years of age who are developmentally on track in health, learning and psychosocial well-being, by sex</q></i>.<p>This is measured as the percentage of under-5s who are developmentally on-track in at least three of the following four domains: literacy-numeracy, physical, socio-emotional and learning.</p>
+            <p><strong>Definition:</strong> Indicator 4.2.1 is the <i><q>proportion of children under 5 years of age who are developmentally on track in health, learning and psychosocial well-being, by sex</q></i>.<p>This is measured as the percentage of under-5s who are developmentally on-track in at least three of the following four domains: literacy-numeracy, physical, socio-emotional and learning.<p>Specific criteria of 'developmentally on-track' are described in <a href="https://data.unicef.org/wp-content/uploads/2015/12/Measuring-ECD-Brochure-HR-10_8_116.pdf">UNICEF's report</a> on measuring Early Childhood Development.</p>
             <p><strong>Goal:</strong> By 2030 <i><q>ensure that all girls and boys are ready for primary education</q></i>.</p>
             <p><strong>More research:</strong> Further data and research can be found at <i>Our World in Data</i><a href="https://ourworldindata.org/pre-primary-education"> entry on  Pre-Primary Education</a>.</p>
         </div>
@@ -240,7 +240,8 @@ for pedagogical purposes; (d) adapted infrastructure and materials for students 
             <span>SDG Indicator 4.A.1</span>
             <h3>Inclusive and safe schools</h3>
             <p><strong>Definition:</strong> Indicator 4.A.1 is the <i><q>proportion of schools with access to (a) electricity; (b) the Internet for pedagogical purposes; (c) computers for pedagogical purposes; (d) adapted infrastructure and materials for students with disabilities; (e) basic drinking water; (f) single-sex basic sanitation facilities; and (g) basic handwashing facilities (as per the WASH indicator definitions)</q></i>.</p>
-            <p><strong>Goal:</strong> The target is to ensure all children have access to a safe, inclusive and effective learning environment by 2030.</p> 
+            <p><strong>Goal:</strong> The target is to ensure all children have access to a safe, inclusive and effective learning environment by 2030.</p>
+<p><strong>Additional data:</strong> Limited data on some aspects of this indicator - the share of schools with potable water, sanitation, handwashing and electricity - is available for Africa only from the <a href="https://data.worldbank.org/data-catalog/ed-stats">UNICEF database</a>.
         </div>
         <div class="col-md">
             <br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
@@ -299,4 +300,3 @@ education who have received at least the minimum organized teacher training</a>.
         </div>
     </div>
 </div>
-
