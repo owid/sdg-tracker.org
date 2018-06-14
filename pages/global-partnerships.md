@@ -4,17 +4,17 @@ title: Revitalize the global partnership for sustainable development
 goalNum: 17
 name: Partnerships for the Goals
 description: >-
-  A successful sustainable development agenda requires partnerships between
-  governments, the private sector and civil society. These inclusive
-  partnerships built upon principles and values, a shared vision, and shared
-  goals that place people and the planet at the centre, are needed at the
-  global, regional, national and local level.
+  The UN explains: <i><q>A successful sustainable development agenda requires
+  partnerships between governments, the private sector and civil society. These
+  inclusive partnerships built upon principles and values, a shared vision, and
+  shared goals that place people and the planet at the centre, are needed at the
+  global, regional, national and local level.</q></i>
 
 
   The UN has defined 19 _Targets_ and 25 _Indicators_ for SDG 17. Targets
   specify the goals and Indicators represent the metrics by which the world aims
   to track whether these Targets are achieved. Below we quote the original text
-  of all targets and show the data on the agreed Indicators.
+  of all <i>Targets</i> and show the data on the agreed <i>Indicators</i>.
 featuredImage: /img/uploads/17.svg
 ---
 
