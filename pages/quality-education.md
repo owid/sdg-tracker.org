@@ -28,7 +28,7 @@ description: >-
   [Literacy](https://ourworldindata.org/literacy).
 
 
-  The UN has defined 10 "Targets" and 11 "Indicators" for SDG 4. Targets specify
+  The UN has defined 10 _Targets_ and 11 _Indicators_ for SDG 4. Targets specify
   the goals and Indicators represent the metrics by which the world aims to
   track whether these Targets are achieved. Below we quote the original text of
   all targets and show the data on the agreed Indicators.
@@ -220,7 +220,7 @@ gender equality and human rights, are mainstreamed at all levels in (a) national
             <p><strong>Goal:</strong> By 2030 <i><q>ensure that all learners acquire the knowledge and skills needed to promote sustainable development</q></i>.</p> 
         </div>
         <div class="col-md">
-            <br><br><br><br><br><br><b>We are currently unaware of available data for this indicator. You can submit or notify us of official data for this indicator here</b>. 
+            <br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a></b>. 
         </div>
     </div>
 </div>
@@ -241,7 +241,7 @@ for pedagogical purposes; (d) adapted infrastructure and materials for students 
             <p><strong>Goal:</strong> The target is to ensure all children have access to a safe, inclusive and effective learning environment by 2030.</p> 
         </div>
         <div class="col-md">
-            <br><br><br><br><br><br><b>We are currently unaware of available data for this indicator. You can submit or notify us of official data for this indicator here</b>
+            <br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
         </div>
     </div>
 </div>
