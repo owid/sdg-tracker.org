@@ -6,10 +6,11 @@ title: >-
 goalNum: 8
 name: Decent Work and Economic Growth
 description: >-
-  Roughly half the world’s population still lives on the equivalent of about
-  US$2 a day. And in too many places, having a job doesn’t guarantee the ability
-  to escape from poverty. This slow and uneven progress requires us to rethink
-  and retool our economic and social policies aimed at eradicating poverty.
+  The UN explains: <i><q>Roughly half the world’s population still lives on the
+  equivalent of about US$2 a day. And in too many places, having a job doesn’t
+  guarantee the ability to escape from poverty. This slow and uneven progress
+  requires us to rethink and retool our economic and social policies aimed at
+  eradicating poverty.</q></i>
 
 
   The UN has defined 12 _Targets_ and 17 _Indicators_ for SDG 8. Targets specify
