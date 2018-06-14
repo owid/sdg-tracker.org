@@ -4,11 +4,12 @@ title: 'Make cities inclusive, safe, resilient and sustainable'
 goalNum: 11
 name: Sustainable Cities and Communities
 description: >-
-  The UN explains: <i><q>The challenges cities face can be overcome in ways that
-  allow them to continue to thrive and grow, while improving resource use and
-  reducing pollution and poverty. The future we want includes cities of
-  opportunities for all, with access to basic services, energy, housing,
-  transportation and more.</q></i>
+  The [UN explains](https://www.un.org/sustainabledevelopment/cities/):
+  <i><q>The challenges cities face can be overcome in ways that allow them to
+  continue to thrive and grow, while improving resource use and reducing
+  pollution and poverty. The future we want includes cities of opportunities for
+  all, with access to basic services, energy, housing, transportation and
+  more.</q></i>
 
 
   The UN has defined 10 _Targets_ and 15 _Indicators_ for SDG 11. Targets
