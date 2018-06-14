@@ -4,12 +4,12 @@ title: Ensure sustainable consumption and production patterns
 goalNum: 12
 name: Responsible Consumption and Production
 description: >-
-  Sustainable consumption and production is about promoting resource and energy
-  efficiency, sustainable infrastructure, and providing access to basic
-  services, green and decent jobs and a better quality of life for all. Its
-  implementation helps to achieve overall development plans, reduce future
-  economic, environmental and social costs, strengthen economic competitiveness
-  and reduce poverty.
+  The UN explains: <i><q>Sustainable consumption and production is about
+  promoting resource and energy efficiency, sustainable infrastructure, and
+  providing access to basic services, green and decent jobs and a better quality
+  of life for all. Its implementation helps to achieve overall development
+  plans, reduce future economic, environmental and social costs, strengthen
+  economic competitiveness and reduce poverty.</q></i>
 
 
   Definitions of, and indicators for sustainable resource consumption is
@@ -19,7 +19,7 @@ description: >-
   The UN has defined 11 _Targets_ and 13 _Indicators_ for SDG 12. Targets
   specify the goals and Indicators represent the metrics by which the world aims
   to track whether these Targets are achieved. Below we quote the original text
-  of all targets and show the data on the agreed Indicators.
+  of all <i>Targets</i> and show the data on the agreed <i>Indicators</i>.
 featuredImage: /img/uploads/12.svg
 ---
 
