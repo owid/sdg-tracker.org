@@ -6,8 +6,10 @@ title: >-
 goalNum: 9
 name: 'Industry, Innovation and Infrastructure'
 description: >-
-  The UN explains: <i><q>Investments in infrastructure – transport, irrigation,
-  energy and information and communication technology – are crucial to achieving
+  The [UN
+  explains](https://www.un.org/sustainabledevelopment/infrastructure-industrialization/):
+  <i><q>Investments in infrastructure – transport, irrigation, energy and
+  information and communication technology – are crucial to achieving
   sustainable development and empowering communities in many countries. It has
   long been recognized that growth in productivity and incomes, and improvements
   in health and education outcomes require investment in infrastructure.</q></i>
