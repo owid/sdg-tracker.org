@@ -15,7 +15,7 @@ description: >-
   Emissions](https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions).
 
 
-  The UN has defined 5 "Targets" and 8 "Indicators" for SDG 13. Targets specify
+  The UN has defined 5 _Targets_ and 8 _Indicators_ for SDG 13. Targets specify
   the goals and Indicators represent the metrics by which the world aims to
   track whether these Targets are achieved. Below we quote the original text of
   all targets and show the data on the agreed Indicators.
@@ -85,7 +85,7 @@ featuredImage: /img/uploads/13.svg
 <br><a href="https://ourworldindata.org/grapher/total-affected-by-natural-disasters">Number affected by natural disasters</a></p>
         </div>
         <div class="col-md">
-            <br><br><br><br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+            <br><br><br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
         </div>
     </div>
 </div>
@@ -130,7 +130,7 @@ policy/strategy/plan which increases their ability to adapt to the adverse impac
             <p><strong>Goal:</strong> By 2030 <i><q>improve education, awareness-raising and human and institutional capacity on climate change mitigation, adaptation, impact reduction and early warning</q></i>.</p>
         </div>
         <div class="col-md">
-            <br><br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+            <br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
         </div>
     </div>
 </div>
@@ -146,7 +146,7 @@ policy/strategy/plan which increases their ability to adapt to the adverse impac
             <p><strong>Goal:</strong> By 2030 <i><q>improve education, awareness-raising and human and institutional capacity on climate change mitigation, adaptation, impact reduction and early warning</q></i>.</p>
         </div>
         <div class="col-md">
-            <br><br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+            <br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
         </div>
     </div>
 </div>
@@ -188,7 +188,7 @@ support, for mechanisms for raising capacities for effective climate change-rela
             <p><strong>Goal:</strong> By 2030 <i><q>promote mechanisms for raising capacity for effective climate change-related planning and management in least developed countries</q></i>.</p>
         </div>
         <div class="col-md">
-            <br><br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+            <br><br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
         </div>
     </div>
 </div>
