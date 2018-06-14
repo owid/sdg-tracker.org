@@ -4,14 +4,14 @@ title: Ensure access to water and sanitation for all
 goalNum: 6
 name: Clean Water and Sanitation
 description: >-
-  Clean water is a basic human need, and one that should be easily accessible to
-  all. There is sufficient fresh water on the planet to achieve this. However,
-  due to poor infrastructure, investment and planning, every year millions of
-  people — [most of them
+  The UN explains: <i><q>Clean water is a basic human need, and one that should
+  be easily accessible to all. There is sufficient fresh water on the planet to
+  achieve this. However, due to poor infrastructure, investment and planning,
+  every year millions of people — [most of them
   children](https://ourworldindata.org/grapher/deaths-by-risk-under5s) — die
   from [diseases associated
   with](https://ourworldindata.org/grapher/deaths-from-diarrheal-diseases-by-age)
-  inadequate water supply, sanitation and hygiene.
+  inadequate water supply, sanitation and hygiene.</q></i>
 
 
   The charts below summarise progress towards improved water and sanitation
@@ -23,7 +23,7 @@ description: >-
   The UN has defined 8 _Targets_ and 11 _Indicators_ for SDG 6. Targets specify
   the goals and Indicators represent the metrics by which the world aims to
   track whether these Targets are achieved. Below we quote the original text of
-  all targets and show the data on the agreed Indicators.
+  all <i>Targets</i> and show the data on the agreed <i>Indicators</i>.
 featuredImage: /img/uploads/6.svg
 ---
 
