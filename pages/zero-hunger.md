@@ -145,6 +145,7 @@ A child is defined as "overweight" if his or her weight-for-height is more than 
             <iframe src="https://ourworldindata.org/grapher/children-who-are-overweight-sdgs?tab=chart" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
+
 </div>
 
 <div class="target">
@@ -181,7 +182,7 @@ services, markets and opportunities for value addition and non-farm employment.<
             <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> entries on <a href="https://ourworldindata.org/food-prices">Food Prices</a> and <a href="https://ourworldindata.org/employment-in-agriculture">Employment in Agriculture</a>.</p>
         </div>
         <div class="col-md">
-            <br><br><br><br><br><b>We are currently not aware of available data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+            <br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
         </div>
     </div>
 </div>
@@ -203,7 +204,7 @@ services, markets and opportunities for value addition and non-farm employment.<
             <p>
         </div>
         <div class="col-md">
-            <br><br><br><br><br><br><br><br><br><br><br><b>We are currently not aware of available data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+            <br><br><br><br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
         </div>
     </div>
 </div>
@@ -269,6 +270,7 @@ An AOI smaller than 1 reflects a lower orientation to agriculture.</p>
             <iframe src="https://ourworldindata.org/grapher/agriculture-orientation-index" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
+
 </div>
 
 <hr>
@@ -302,7 +304,7 @@ An AOI smaller than 1 reflects a lower orientation to agriculture.</p>
             <p><strong>Goal:</strong> By 2030 <i><q>correct and prevent trade restrictions and distortions in world agricultural markets, including through the parallel elimination of all forms of agricultural export subsidies</q></i> <p>This target requires an elimination of agricultural export subsidies by 2030.</p>
         </div>
         <div class="col-md">
-            <br><br><br><br><b>We are currently not aware of available data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+            <br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
         </div>
     </div>
 </div>
