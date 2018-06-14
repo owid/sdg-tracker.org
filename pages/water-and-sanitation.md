@@ -4,10 +4,12 @@ title: Ensure access to water and sanitation for all
 goalNum: 6
 name: Clean Water and Sanitation
 description: >-
-  The UN explains: <i><q>Clean water is a basic human need, and one that should
-  be easily accessible to all. There is sufficient fresh water on the planet to
-  achieve this. However, due to poor infrastructure, investment and planning,
-  every year millions of people — [most of them
+  The [UN
+  explains](https://www.un.org/sustainabledevelopment/water-and-sanitation/):
+  <i><q>Clean water is a basic human need, and one that should be easily
+  accessible to all. There is sufficient fresh water on the planet to achieve
+  this. However, due to poor infrastructure, investment and planning, every year
+  millions of people — [most of them
   children](https://ourworldindata.org/grapher/deaths-by-risk-under5s) — die
   from [diseases associated
   with](https://ourworldindata.org/grapher/deaths-from-diarrheal-diseases-by-age)
