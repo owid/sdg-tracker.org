@@ -4,9 +4,10 @@ title: 'Ensure access to affordable, reliable, sustainable and modern energy for
 goalNum: 7
 name: Affordable and Clean Energy
 description: >-
-  The UN explains: <i><q>Energy is central to nearly every major challenge and
-  opportunity the world faces today. Be it for jobs, security, climate change,
-  food production or increasing incomes, access to energy for all is essential. 
+  The [UN explains](https://www.un.org/sustainabledevelopment/energy/):
+  <i><q>Energy is central to nearly every major challenge and opportunity the
+  world faces today. Be it for jobs, security, climate change, food production
+  or increasing incomes, access to energy for all is essential. 
 
 
   Transitioning the global economy towards clean and sustainable sources of
