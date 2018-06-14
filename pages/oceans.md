@@ -4,8 +4,9 @@ title: 'Conserve and sustainably use the oceans, seas and marine resources'
 goalNum: 14
 name: Life below Water
 description: >-
-  The UN explains: <i><q>Our oceans — their temperature, circulation, chemistry,
-  and ecosystems  — play a fundamental role in making Earth habitable. 
+  The [UN explains](https://www.un.org/sustainabledevelopment/oceans/):
+  <i><q>Our oceans — their temperature, circulation, chemistry, and ecosystems 
+  — play a fundamental role in making Earth habitable. 
 
 
   Our rainwater, drinking water, weather, climate, coastlines, much of our food,
