@@ -15,7 +15,7 @@ description: >-
   global resource is a key feature of a sustainable future.
 
 
-  The UN has defined 10 "Targets" and 10 "Indicators" for SDG 14. Targets
+  The UN has defined 10 _Targets_ and 10 _Indicators_ for SDG 14. Targets
   specify the goals and Indicators represent the metrics by which the world aims
   to track whether these Targets are achieved. Below we quote the original text
   of all targets and show the data on the agreed Indicators.
@@ -37,7 +37,7 @@ featuredImage: /img/uploads/14.svg
             <p><strong>Goal:</strong> <i><q>Prevent and significantly reduce marine pollution of all kinds</q></i> by 2025.<p>Unlike most SDGs, which are set for the year 2030, this indicator is targeted for 2025.</p>
         </div>
         <div class="col-md">
-            <br><br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+            <br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
         </div>
     </div>
 </div>
@@ -57,7 +57,7 @@ featuredImage: /img/uploads/14.svg
             <p><strong>Goal:</strong> <i><q>Sustainably manage and protect marine and coastal ecosystems to avoid significant adverse impacts</q></i> by 2020.<p>Unlike most SDGs, which are set for the year 2030, this indicator is targeted for 2020.</p>
         </div>
         <div class="col-md">
-            <br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+            <br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
         </div>
     </div>
 </div>
@@ -77,7 +77,7 @@ featuredImage: /img/uploads/14.svg
             <p><strong>Goal:</strong> <i><q>Minimize and address the impacts of ocean acidification</q></i> by 2030.</p>
         </div>
         <div class="col-md">
-            <br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+            <br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
         </div>
     </div>
 </div>
@@ -139,7 +139,7 @@ featuredImage: /img/uploads/14.svg
             <p><strong>Goal:</strong> <i><q>Prohibit certain forms of fisheries subsidies which contribute to overcapacity and overfishing, eliminate subsidies that contribute to illegal, unreported and unregulated fishing and refrain from introducing new such subsidies</q></i> by 2020.<p>Unlike most SDGs, which are set for the year 2030, this indicator is targeted for 2020.</p>
         </div>
         <div class="col-md">
-            <br><br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+            <br><br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
         </div>
     </div>
 </div>
@@ -160,7 +160,7 @@ and all countries</a></p>
             <p><strong>Goal:</strong> <i><q>By 2030, increase the economic benefits to small island developing States and least developed countries from the sustainable use of marine resources, including through sustainable management of fisheries, aquaculture and tourism</q></i>.</p>
         </div>
         <div class="col-md">
-            <br><br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+            <br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
         </div>
     </div>
 </div>
@@ -180,7 +180,7 @@ and all countries</a></p>
 <p><strong>Goal:</strong> <i><q>Increase scientific knowledge, develop research capacity and transfer marine technology</q></i> by 2030.</p>
 </div>
 <div class="col-md">
-<br><br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+<br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
 </div>
 </div>
 </div>
@@ -202,7 +202,7 @@ and all countries</a></p>
 <p><strong>Additional charts:</strong> <br><a href="https://ourworldindata.org/grapher/global-wild-fishery-catch-by-sector">Global wild fishery catch by sector</a></p>
 </div>
 <div class="col-md">
-<br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+<br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
 </div>
 </div>
 </div>
