@@ -59,7 +59,7 @@ featuredImage: /img/uploads/3.svg
 <div class="target">
     <h2>Target 3.1: Reduce maternal mortality</h2>
     <p>UN definition: <q>By 2030, reduce the global maternal mortality ratio to less than 70 per 100,000 live births</q></p>
-    <p>SDG Indicators: <br><a href="#3.1.1">3.1.1 Maternal mortality ratio</a>, <br><a href="#3.1.2">3.1.2 Proportion of births attended by skilled health personnel</a></p>
+    <p></p>
 </div>
 
 <div class="indicator" id="3.1.1">
@@ -103,7 +103,7 @@ However, there is no goal specified by the UN for the share of births attended b
 <div class="target">
     <h2>Target 3.2: End all preventable deaths under 5 years of age</h2>
     <p>UN definition: <q>By 2030, end preventable deaths of newborns and children under 5 years of age, with all countries aiming to reduce neonatal mortality to at least as low as 12 per 1,000 live births and under‑5 mortality to at least as low as 25 per 1,000 live births</q></p>
-    <p>SDG Indicators: <br><a href="#3.2.1">3.2.1 Under-5 mortality rate</a> <br><a href="#3.2.2">3.2.2 Neonatal mortality rate</a></p>
+    <p></p>
 </div>
 
 <div class="indicator" id="3.2.1">
@@ -148,7 +148,7 @@ However, there is no goal specified by the UN for the share of births attended b
 <div class="target">
     <h2>Target 3.3: Fight communicable diseases</h2>
     <p>UN definition: <q>By 2030, end the epidemics of AIDS, tuberculosis, malaria and neglected tropical diseases and combat hepatitis, water-borne diseases and other communicable diseases.</q></p>
-    <p>SDG Indicators: <br><a href="#3.3.1">3.3.1 Number of new HIV infections per 1,000 uninfected population, by sex, age and key populations</a> <br><a href="#3.3.2">3.3.2 Tuberculosis incidence per 100,000 population</a> <br><a href="#3.3.3">3.3.3 Malaria incidence per 1,000 population</a> <br><a href="#3.3.4">3.3.4 Hepatitis B incidence per 100,000 population</a> <br><a href="#3.3.5">3.3.5 Number of people requiring interventions against neglected tropical diseases</a></p>
+    <p></p>
 </div>
 
 <div class="indicator" id="3.3.1">
@@ -255,7 +255,7 @@ However, there is no goal specified by the UN for the share of births attended b
 <div class="target"> 
 <h2>Target 3.4: Reduce mortality from non-communicable diseases and promote mental health</h2>    
 <p>UN definition: <q>By 2030, reduce by one third premature mortality from non-communicable diseases through prevention and treatment and promote mental health and well-being.</q></p>
-<p>SDG Indicators: <br><a href="#3.4.1">3.4.1 Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease</a> <br><a href="#3.4.2">3.4.2 Suicide mortality rate</a></p>
+<p></p>
 
 </div>
 <div class="indicator" id="3.4.1">
@@ -299,15 +299,10 @@ However, there is no goal specified by the UN for the share of births attended b
 
 <div class="target">
 <h2>Target 3.5: Prevent and treat substance abuse</h2>
-
 <p>UN definition: <q>Strengthen the prevention and treatment of substance abuse, including narcotic drug abuse and harmful use of alcohol.</q></p>
-
-<p>SDG Indicators: <br><a href="#3.5.1">3.5.1 Coverage of treatment interventions
-(pharmacological, psychosocial and rehabilitation and
-aftercare services) for substance use disorders</a> <br><a href="#3.5.2">3.5.2 Harmful use of alcohol, defined according to the
-national context as alcohol per capita consumption (aged 15 years and older) within a calendar year in litres of pure alcohol</a>.</p>
-
+<p></p>
 </div>
+
 <div class="indicator" id="3.5.1">
     <div class="row">
         <div class="col-md">
@@ -352,7 +347,7 @@ aftercare services) for substance use disorders</h3>
 <p>UN definition: <q>By 2020, halve the number of global deaths and
 injuries from road traffic accidents.</q></p>
 
-<p>SDG Indicators: <br><a href="#3.6.1">3.6.1 Death rate due to road traffic injuries</a>.</p>
+<p></p>
 
 </div>
 
@@ -384,8 +379,7 @@ reproductive health-care services, including for family
 planning, information and education, and the integration of
 reproductive health into national strategies and programmes.</q></p>
 
-<p>SDG Indicators: <br><br><a href="#3.7.1">3.7.1 Proportion of women of reproductive age (aged 15–49 years) who have their need for family planning
-satisfied with modern methods</a> <br><a href="#3.7.2">3.7.2 Adolescent birth rate (aged 10–14 years; aged 15–19 years) per 1,000 women in that age group</a>.</p>
+<p></p>
 
 </div>
 
@@ -433,7 +427,7 @@ risk protection, access to quality essential health-care
 services and access to safe, effective, quality and affordable
 essential medicines and vaccines for all.</q></p>
 
-<p>SDG Indicators: <br><a href="#3.8.1">3.8.1 Coverage of essential health services</a> <br><a href="#3.8.2">3.8.2 Proportion of population with large household expenditures on health</a>.</p>
+<p></p>
 
 </div>
 
@@ -481,7 +475,7 @@ essential medicines and vaccines for all.</q></p>
 illnesses from hazardous chemicals and air, water and soil
 pollution and contamination.</q></p>
 
-<p>SDG Indicators: <br><a href="#3.9.1">3.9.1 Mortality rate attributed to household and ambient air pollution</a> <br><a href="#3.9.2">3.9.2 Mortality rate attributed to unsafe water, sanitation and hygiene</a> <br><a href="#3.9.3">3.9.3 Mortality rate attributed to unintentional poisoning</a>.</p>
+<p></p>
 
 </div>
 
@@ -547,7 +541,7 @@ pollution and contamination.</q></p>
 <p>UN definition: <q>Strengthen the implementation of the World Health
 Organization Framework Convention on Tobacco Control in
 all countries, as appropriate.</q></p>
-<p>SDG Indicators: <br><a href="#3.a.1">3.A.1 Age-standardized prevalence of current tobacco use among persons aged 15 years and older</a></p>
+<p></p>
 
 </div>
 
@@ -587,8 +581,7 @@ Agreement on Trade-Related Aspects of Intellectual
 Property Rights regarding flexibilities to protect public
 health, and, in particular, provide access to medicines for all.</q></p>
 
-<p>SDG Indicators: <br><a href="#3.BB.1">3.B.1 Proportion of the target population covered by all vaccines included in their national programme</a> <br><a href="#3.B.2">3.B.2 Total net official development assistance to medical
-research and basic health sectors</a> <br><a href="#3.B.3">3.B.3 Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis</a>.</p>
+<p></p>
 
 </div>
 
@@ -654,7 +647,7 @@ recruitment, development, training and retention of the
 health workforce in developing countries, especially in least
 developed countries and small island developing states.</q></p>
 
-<p>SDG Indicators: <br><a href="#3.C.1">3.C.1 Health worker density and distribution</a>.</p>
+<p></p>
 
 </div>
 
@@ -684,7 +677,7 @@ health workforce in developing countries</q></i>.
 
 <p>UN definition: <q>Strengthen the capacity of all countries, in particular developing countries, for early warning, risk reduction and management of national and global health risks.</q></p>
 
-<p>SDG Indicators: <br><a href="#3.DD.1">3.d.1 International Health Regulations (IHR) capacity and health emergency preparedness</a>.</p>
+<p></p>
 
 </div>
 
