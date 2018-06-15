@@ -26,7 +26,7 @@ featuredImage: /img/uploads/14.svg
 <div class="target">
     <h2>Target 14.1: Reduce marine pollution</h2>
     <p>UN definition: <q>By 2025, prevent and significantly reduce marine pollution of all kinds, in particular from land-based activities, including marine debris and nutrient pollution.</q></p>
-    <p>SDG Indicators: <br><a href="#14.1.1">14.1.1 Index of coastal eutrophication and floating plastic debris density</a></p>
+    <p></p>
 </div>
 
 <div class="indicator" id="14.1.1">
@@ -46,7 +46,7 @@ featuredImage: /img/uploads/14.svg
 <div class="target">
     <h2>Target 14.2: Protect and restore ecosystems</h2>
     <p>UN definition: <q>By 2020, sustainably manage and protect marine and coastal ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in order to achieve healthy and productive oceans.</q></p>
-    <p>SDG Indicators: <br><a href="#14.2.1">14.2.1 Proportion of national exclusive economic zones managed using ecosystem-based approaches</a></p>
+    <p></p>
 </div>
 
 <div class="indicator" id="14.2.1">
@@ -66,7 +66,7 @@ featuredImage: /img/uploads/14.svg
 <div class="target">
     <h2>Target 14.3: Reduce ocean acidification</h2>
     <p>UN definition: <q>Minimize and address the impacts of ocean acidification, including through enhanced scientific cooperation at all levels.</q></p>
-    <p>SDG Indicators: <br><a href="#14.3.1">14.3.1 Average marine acidity (pH) measured at agreed suite of representative sampling stations</a></p>
+    <p></p>
 </div>
 
 <div class="indicator" id="14.3.1">
@@ -86,7 +86,7 @@ featuredImage: /img/uploads/14.svg
 <div class="target">
     <h2>Target 14.4: Sustainable fishing</h2>
     <p>UN definition: <q>By 2020, effectively regulate harvesting and end overfishing, illegal, unreported and unregulated fishing and destructive fishing practices and implement science-based management plans, in order to restore fish stocks in the shortest time feasible, at least to levels that can produce maximum sustainable yield as determined by their biological characteristics.</q></p>
-    <p>SDG Indicators: <br><a href="#14.4.1">14.4.1 Proportion of fish stocks within biologically sustainable levels</a></p>
+    <p></p>
 </div>
 
 <div class="indicator" id="14.4.1">
@@ -94,7 +94,7 @@ featuredImage: /img/uploads/14.svg
         <div class="col-md">
             <span>SDG Indicator 14.4.1</span>
             <h3>Fish stocks within sustainable levels</h3>
-            <p><strong>Definition:</strong> Indicator 14.4.1 is the <i><q>proportion of fish stocks within biologically sustainable levels</q></i>.<p>This indicator measures the proportion of global fish stocks which are overexploited, fully exploited and not fully exploited.<p> A fish stock with abundance equal to or above the maximum sustainable yield (MSY) is classified as biologically sustainable. When abundance falls below the MSY level, the stock is considered biologically unsustainable. </p>
+            <p><strong>Definition:</strong> Indicator 14.4.1 is the <i><q>proportion of fish stocks within biologically sustainable levels</q></i>.<p>This indicator measures the proportion of global fish stocks which are overexploited, fully exploited and not fully exploited. Sustainable levels of fish stocks are those which are underexploited or fully exploited. Overexploited fish stocks are unsustainable.<p> A fish stock with abundance equal to or above the maximum sustainable yield (MSY) is classified as biologically sustainable. When abundance falls below the MSY level, the stock is considered biologically unsustainable. </p>
             <p><strong>Goal:</strong> <i><q>By 2020, effectively regulate harvesting and end overfishing, illegal, unreported and unregulated fishing and destructive fishing practices and implement science-based management plans, in order to restore fish stocks in the shortest time feasible, at least to levels that can produce maximum sustainable yield</q></i>.<p>Unlike most SDG targets, which have a target year of 2030, this indicator is set to be achieved by 2020.</p>
             <p><strong>More research:</strong> Further data and research on global and national fishing and seafood production can be found at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/meat-and-seafood-production-consumption">Meat and Seafood Production & Consumption</a>.</p>
         </div>
@@ -107,7 +107,7 @@ featuredImage: /img/uploads/14.svg
 <div class="target">
     <h2>Target 14.5: Conserve coastal and marine areas</h2>
     <p>UN definition: <q>By 2020, conserve at least 10 per cent of coastal and marine areas, consistent with national and international law and based on the best available scientific information.</q></p>
-    <p>SDG Indicators: <br><a href="#14.5.1">14.5.1 Coverage of protected areas in relation to marine areas</a></p>
+    <p></p>
 </div>
 
 <div class="indicator" id="14.5.1">
@@ -128,7 +128,7 @@ featuredImage: /img/uploads/14.svg
 <div class="target">
     <h2>Target 14.6: End subsidies contributing to overfishing</h2>
     <p>UN definition: <q>By 2020, prohibit certain forms of fisheries subsidies which contribute to overcapacity and overfishing, eliminate subsidies that contribute to illegal, unreported and unregulated fishing and refrain from introducing new such subsidies, recognizing that appropriate and effective special and differential treatment for developing and least developed countries should be an integral part of the World Trade Organization fisheries subsidies negotiation.</q></p>
-    <p>SDG Indicators: <br><a href="#14.6.1">14.6.1 Progress by countries in the degree of implementation of international instruments aiming to combat illegal, unreported and unregulated fishing</a></p>
+    <p></p>
 </div>
 
 <div class="indicator" id="14.6.1">
@@ -148,8 +148,7 @@ featuredImage: /img/uploads/14.svg
 <div class="target">
     <h2>Target 14.7: Increase the economic benefits from sustainable use of marine resources</h2>
     <p>UN definition: <q>By 2030, increase the economic benefits to small island developing States and least developed countries from the sustainable use of marine resources, including through sustainable management of fisheries, aquaculture and tourism.</q></p>
-    <p>SDG Indicators: <br><a href="#14.7.1">14.7.1 Sustainable fisheries as a proportion of GDP in small island developing States, least developed countries
-and all countries</a></p>
+    <p></p>
 </div>
 
 <div class="indicator" id="14.7.1">
@@ -169,7 +168,7 @@ and all countries</a></p>
 <div class="target">
     <h2>Target 14.A: Increase scientific knowledge, research and technology for ocean health</h2>
     <p>UN definition: <q>Increase scientific knowledge, develop research capacity and transfer marine technology, taking into account the Intergovernmental Oceanographic Commission Criteria and Guidelines on the Transfer of Marine Technology, in order to improve ocean health and to enhance the contribution of marine biodiversity to the development of developing countries, in particular small island developing States and least developed countries.</q></p>
-    <p>SDG Indicators: <br><a href="#14.A.1">14.A.1 Proportion of total research budget allocated to research in the field of marine technology</a></p>
+    <p></p>
 </div>
 
 <div class="indicator" id="14.A.1">
@@ -189,7 +188,7 @@ and all countries</a></p>
 <div class="target">
     <h2>Target 14.B: Support small scale fishers</h2>
     <p>UN definition: <q>Provide access for small-scale artisanal fishers to marine resources and markets.</q></p>
-    <p>SDG Indicators: <br><a href="#14.B.1">14.B.1  Progress by countries in the degree of application of a legal/regulatory/policy/institutional framework which recognizes and protects access rights for small-scale fisheries</a></p>
+    <p></p>
 </div>
 
 <div class="indicator" id="14.B.1">
@@ -212,7 +211,7 @@ and all countries</a></p>
     <h2>Target 14.C: Implement and enforce international sea law</h2>
     <p>UN definition: <q>Enhance the conservation and sustainable use of oceans and their resources by implementing international law as reflected in the United Nations Convention on the Law of the Sea, which provides the legal framework for the conservation and sustainable use of oceans and their resources, as recalled in paragraph 158 of “The future we want”.
 </q></p>
-    <p>SDG Indicators: <br><a href="#14.C.1">14.C.1  Number of countries making progress in ratifying, accepting and implementing through legal, policy and institutional frameworks, ocean-related instruments that implement international law, as reflected in the United Nations Convention on the Law of the Sea, for the conservation and sustainable use of the oceans and their resources</a></p>
+    <p></p>
 </div>
 
 <div class="indicator" id="14.C.1">
