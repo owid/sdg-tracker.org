@@ -361,7 +361,7 @@ by sex, age and cause</q></i>.<p>Conflict-related deaths is the number of deaths
         <div class="col-md">
             <span>SDG Indicator 16.8.1</span>
             <h3>Developing country participation in international organizations</h3>
-            <p><strong>Definition:</strong> Indicator 16.8.1 is the <i><q>proportion of members and voting rights of developing countries in international organizations</q></i>.<p>This indicator is measured by the show the proportion of membership from developing countries across a range of international organizations, and the proportion of voting rights each country is allocated across such organizations.</p>
+            <p><strong>Definition:</strong> Indicator 16.8.1 is the <i><q>proportion of members and voting rights of developing countries in international organizations</q></i>.<p>This indicator is measured by the proportion of membership from developing countries across a range of international organizations, and the proportion of voting rights each country is allocated across such organizations.</p>
             <p><strong>Goal:</strong> <i><q>Broaden and strengthen the participation of developing countries in the institutions of global governance</q></i> by 2030.</p>
         </div>
         <div class="col-md">
