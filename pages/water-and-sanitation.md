@@ -32,7 +32,7 @@ featuredImage: /img/uploads/6.svg
 <div class="target">
     <h2>Target 6.1: Safe and affordable drinking water</h2>
     <p>UN definition: <q>By 2030, achieve universal and equitable access to safe and affordable drinking water for all.</q></p>
-    <p>SDG Indicators: <br><a href="#6.1.1">6.1.1 Proportion of population using safely managed drinking water services.</a></p>
+    <p></p>
 </div>
 
 <div class="indicator" id="6.1.1">
@@ -61,7 +61,7 @@ featuredImage: /img/uploads/6.svg
 <h2>Target 6.2: End open defecation and provide access to sanitation and hygiene</h2>
 <p>UN definition: <q>By 2030, achieve access to adequate and equitable sanitation and hygiene for all and end open defecation, paying special attention to the needs of women and girls and those in vulnerable situations.</q>
 </q></p>
-<p>SDG Indicators: <br><a href="#6.2.1">6.2.1 Proportion of population using (a) safely managed sanitation services and (b) a hand-washing facility with soap and water.</a></p>
+<p></p>
 </div>
 
 <div class="indicator" id="6.2.1">
@@ -91,9 +91,7 @@ featuredImage: /img/uploads/6.svg
 <h2>Target 6.3: Improve water quality, wastewater treatment and safe reuse</h2>
 <p>UN definition: <q>By 2030, improve water quality by reducing pollution, eliminating dumping and minimizing release of hazardous chemicals and materials, halving the proportion of untreated wastewater and substantially increasing recycling and safe reuse globally.</q>
 </q></p>
-<p>SDG Indicators: <br><a href="#6.3.1">6.3.1 Proportion of wastewater safely treated</a>
-<br><a href="#6.3.2">6.3.2 Proportion of bodies of water with good ambient
-water quality.</a></p>
+<p></p>
 </div>
 
 <div class="indicator" id="6.3.1">
@@ -132,9 +130,7 @@ water quality.</a></p>
 <h2>Target 6.4: Increase water use efficiency and ensure freshwater supplies</h2>
 <p>UN definition: <q>By 2030, substantially increase water-use efficiency across all sectors and ensure sustainable withdrawals and supply of freshwater to address water scarcity and substantially reduce the number of people suffering from water scarcity.</q>
 </q></p>
-<p>SDG Indicators: <br><a href="#6.4.1">6.4.1 Change in water-use efficiency over time</a>
-<br><a href="#6.4.2">6.4.2 Level of water stress: freshwater withdrawal as a
-proportion of available freshwater resources.</a></p>
+<p></p>
 </div>
 
 <div class="indicator" id="6.4.1">
@@ -175,9 +171,7 @@ proportion of available freshwater resources.</a></p>
 <h2>Target 6.5: Implement integrated water resources management</h2>
 <p>UN definition: <q>By 2030, implement integrated water resources management at all levels, including through transboundary cooperation as appropriate.</q>
 </q></p>
-<p>SDG Indicators: <br><a href="#6.5.1">6.5.1 Degree of integrated water resources management implementation (0–100)</a>
-<br><a href="#6.5.2">6.5.2 Proportion of transboundary basin area with an
-operational arrangement for water cooperation.</a></p>
+<p></p>
 </div>
 
 <div class="indicator" id="6.5.1">
@@ -216,7 +210,7 @@ operational arrangement for water cooperation</q></i>.
 <h2>Target 6.6: Protect and restore water-related ecosystems</h2>
 <p>UN definition: <q>By 2020, protect and restore water-related ecosystems, including mountains, forests, wetlands, rivers, aquifers and lakes.</q>
 </q></p>
-<p>SDG Indicators: <br><a href="#6.6.1">6.6.1 Change in the extent of water-related ecosystems over time.</a>
+<p></p>
 </div>
 
 <div class="indicator" id="6.6.1">
@@ -237,8 +231,7 @@ operational arrangement for water cooperation</q></i>.
 <h2>Target 6.A: Expand water and sanitation support to developing countries</h2>
 <p>UN definition: <q>By 2030, expand international cooperation and capacity-building support to developing countries in water- and sanitation-related activities and programmes, including water harvesting, desalination, water efficiency, wastewater treatment, recycling and reuse technologies.</q>
 </q></p>
-<p>SDG Indicators: <br><a href="#6.A.1">6.A.1 Amount of water- and sanitation-related official development assistance that is part of a government coordinated
-spending plan.</a>
+<p></p>
 </div>
 
 <div class="indicator" id="6.A.1">
@@ -260,8 +253,7 @@ spending plan.</a>
 <h2>Target 6.B: Support local engagement in water and sanitation management</h2>
 <p>UN definition: <q>Support and strengthen the participation of local communities in improving water and sanitation management.</q>
 </q></p>
-<p>SDG Indicators: <br><a href="#6.B.1">6.B.1 Proportion of local administrative units with established and operational policies and procedures for
-participation of local communities in water and sanitation management</a>.
+<p></p>
 </div>
 
 <div class="indicator" id="6.B.1">
