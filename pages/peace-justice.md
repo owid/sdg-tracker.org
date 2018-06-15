@@ -39,8 +39,7 @@ featuredImage: /img/uploads/16.svg
 <div class="target">
     <h2>Target 16.1: Reduce violence everywhere</h2>
     <p>UN definition: <q>Significantly reduce all forms of violence and related death rates everywhere.</q></p>
-    <p>SDG Indicators: <br><a href="#16.1.1">16.1.1 Number of victims of intentional homicide per 100,000 population, by sex and age</a> <br><a href="#16.1.2">16.1.2 Conflict-related deaths per 100,000 population,
-by sex, age and cause</a> <br><a href="#16.1.3">16.1.3 Proportion of population subjected to (a) physical violence, (b) psychological violence and (c) sexual violence in the previous 12 months</a> <br><a href="#16.1.4">16.1.4 Proportion of population that feel safe walking alone around the area they live</a></p>
+    <p></p>
 </div>
 
 <div class="indicator" id="16.1.1">
@@ -54,7 +53,7 @@ by sex, age and cause</a> <br><a href="#16.1.3">16.1.3 Proportion of population 
             <p><strong>Additional charts:</strong> <br><a href="https://ourworldindata.org/grapher/homicide-rate-by-age">Homicide rates by age</a> <br><a href="https://ourworldindata.org/grapher/number-of-homicide-deaths">Number of homicide deaths</a> <br><a href="https://ourworldindata.org/grapher/homicide-deaths-by-age">Number of homicide deaths by age</a></p>
         </div>
         <div class="col-md">
-            <iframe src="https://ourworldindata.org/grapher/homicide-rate" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/intentional-homicides-per-100000-people" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
 </div>
@@ -85,7 +84,7 @@ by sex, age and cause</q></i>.<p>Conflict-related deaths is the number of deaths
         <div class="col-md">
             <span>SDG Indicator 16.1.3</span>
             <h3>Prevalence of all forms of violence</h3>
-            <p><strong>Definition:</strong> Indicator 16.1.3 is the <i><q>proportion of population subjected to (a) physical violence, (b) psychological violence and (c) sexual violence in the previous 12 months</q></i>.<p>Data shown for this indicator is the share of women (aged 15 years or older) who have experienced sexual or physical violence from an intimate partner over the previous 12 months. <p>Data on violence for non-partnered women, men and psychological violence is not available.</p>
+            <p><strong>Definition:</strong> Indicator 16.1.3 is the <i><q>proportion of population subjected to (a) physical violence, (b) psychological violence and (c) sexual violence in the previous 12 months</q></i>.<p>Complete data for this indicator is not available. Data shown here is only one aspect of the complete indicator: the share of women (aged 15 years or older) who have experienced sexual or physical violence from an intimate partner over the previous 12 months. <p>Data on violence for non-partnered women, men and psychological violence is not available.</p>
             <p><strong>Goal:</strong> <i><q>Significantly reduce all forms of violence and related death rates</q></i> across all countries by 2030.<p>There is no defined target level of reduction for this indicator.</p>
         </div>
         <div class="col-md">
@@ -113,8 +112,7 @@ by sex, age and cause</q></i>.<p>Conflict-related deaths is the number of deaths
 <div class="target">
     <h2>Target 16.2: Protect children from abuse, exploitation, trafficking and violence</h2>
     <p>UN definition: <q>End abuse, exploitation, trafficking and all forms of violence against and torture of children.</q></p>
-    <p>SDG Indicators: <br><a href="#16.2.1">16.2.1 Proportion of children aged 1–17 years who experienced any physical punishment and/or psychological
-aggression by caregivers in the past month</a> <br><a href="#16.2.2">16.2.2 Number of victims of human trafficking per 100,000 population, by sex, age and form of exploitation</a> <br><a href="#16.2.3">16.2.3 Proportion of young women and men aged 18–29 years who experienced sexual violence by age 18</a></p>
+    <p></p>
 </div>
 
 <div class="indicator" id="16.2.1">
@@ -157,13 +155,15 @@ aggression by caregivers in the past month</a> <br><a href="#16.2.2">16.2.2 Numb
         <div class="col-md">
             <span>SDG Indicator 16.2.3</span>
             <h3>Sexual violence against young men and women</h3>
-            <p><strong>Definition:</strong> Indicator 16.2.3 is the <i><q>proportion of young women and men aged 18–29 years who experienced sexual violence by age 18</q></i>.<p>Data for this indicator is provided as the proportion of women and men aged 18-29 years old who experienced sexual violence before the age of 18; this data is however very limited.</p>
+            <p><strong>Definition:</strong> Indicator 16.2.3 is the <i><q>proportion of young women and men aged 18–29 years who experienced sexual violence by age 18</q></i>.<p>Data for this indicator is provided as the proportion of women and men aged 18-29 years old who experienced sexual violence before the age of 18; this data is however very limited.<p>The <a href="https://ourworldindata.org/violence-against-rights-for-children#what-are-the-main-forms-of-sexual-violence-against-children">definition of sexual violence</a> is broader than forced sex, however additional data coverage on forced sex (despite not being the official indicator) is also provided for additional context.</p>
             <p><strong>Goal:</strong> <i><q>Protect children from abuse, exploitation, trafficking and violence</q></i> across all countries by 2030.</p>
             <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/violence-against-rights-for-children">entry on Violence Against & Rights for Children</a>.</p>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/women-who-experienced-sexual-violence-by-age-18" style="width: 100%; height: 600px; border: 0px none;"></iframe>
             <iframe src="https://ourworldindata.org/grapher/men-experienced-sexual-violence-by-age-18" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/percentage-of-women-18-to-29-who-report-having-been-victims-of-forced-sex-as-children" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/percentage-of-men-18-to-29-who-report-having-been-victims-of-forced-sex-as-children" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
 </div>
@@ -171,9 +171,7 @@ aggression by caregivers in the past month</a> <br><a href="#16.2.2">16.2.2 Numb
 <div class="target">
     <h2>Target 16.3: Promote the rule of law and ensure equal access to justice</h2>
     <p>UN definition: <q>Promote the rule of law at the national and international levels and ensure equal access to justice for all.</q></p>
-    <p>SDG Indicators: <br><a href="#16.3.1">16.3.1 Proportion of victims of violence in the previous 12 months who reported their victimization to competent
-authorities or other officially recognized conflict resolution mechanisms</a> <br><a href="#16.3.2">16.3.2 Unsentenced detainees as a proportion of overall
-prison population</a></p>
+    <p></p>
 </div>
 
 <div class="indicator" id="16.3.1">
@@ -209,7 +207,7 @@ prison population</a></p>
 <div class="target">
     <h2>Target 16.4: Combat organized crime and illicit financial and arms flows</h2>
     <p>UN definition: <q>By 2030, significantly reduce illicit financial and arms flows, strengthen the recovery and return of stolen assets and combat all forms of organized crime.</q></p>
-    <p>SDG Indicators: <br><a href="#16.4.1">16.4.1 Total value of inward and outward illicit financial flows (in current United States dollars)</a> <br><a href="#16.4.2">16.4.2 Proportion of seized, found or surrendered arms whose illicit origin or context has been traced or established by a competent authority in line with international instruments</a></p>
+    <p></p>
 </div>
 
 <div class="indicator" id="16.4.1">
@@ -245,9 +243,7 @@ prison population</a></p>
 <div class="target">
     <h2>Target 16.5: Substantially reduce corruption and bribery</h2>
     <p>UN definition: <q>Substantially reduce corruption and bribery in all their forms.</q></p>
-    <p>SDG Indicators: <br><a href="#16.5.1">16.5.1 Proportion of persons who had at least one contact with a public official and who paid a bribe to a
-public official, or were asked for a bribe by those public officials, during the previous 12 months</a> <br><a href="#16.5.2">16.5.2 Proportion of businesses that had at least one contact with a public official and that paid a bribe to a
-public official, or were asked for a bribe by those public officials during the previous 12 months</a></p>
+    <p></p>
 </div>
 
 <div class="indicator" id="16.5.1">
@@ -285,7 +281,7 @@ public official, or were asked for a bribe by those public officials during the 
 <div class="target">
     <h2>Target 16.6: Develop effective, accountable and transparent institutions</h2>
     <p>UN definition: <q>Develop effective, accountable and transparent institutions at all levels.</q></p>
-    <p>SDG Indicators: <br><a href="#16.6.1">16.6.1 Primary government expenditures as a proportion of original approved budget, by sector (or by budget codes or similar)</a> <br><a href="#16.6.2">16.6.2 Proportion of population satisfied with their last experience of public services</a></p>
+    <p></p>
 </div>
 
 <div class="indicator" id="16.6.1">
@@ -321,7 +317,7 @@ public official, or were asked for a bribe by those public officials during the 
 <div class="target">
     <h2>Target 16.7: Ensure responsive, inclusive and representative decision-making</h2>
     <p>UN definition: <q>Ensure responsive, inclusive, participatory and representative decision-making at all levels.</q></p>
-    <p>SDG Indicators: <br><a href="#16.7.1">16.7.1 Proportions of positions (by sex, age, persons with disabilities and population groups) in public institutions (national and local legislatures, public service, and judiciary) compared to national distributions</a> <br><a href="#16.7.2">16.7.2 Proportion of population who believe decision-making is inclusive and responsive, by sex, age, disability and population group</a></p>
+    <p></p>
 </div>
 
 <div class="indicator" id="16.7.1">
@@ -357,7 +353,7 @@ public official, or were asked for a bribe by those public officials during the 
 <div class="target">
     <h2>Target 16.8: Strengthen the participation in global governance</h2>
     <p>UN definition: <q>Broaden and strengthen the participation of developing countries in the institutions of global governance.</q></p>
-    <p>SDG Indicators: <br><a href="#16.8.1">16.8.1 Proportion of members and voting rights of developing countries in international organizations</a></p>
+    <p></p>
 </div>
 
 <div class="indicator" id="16.8.1">
@@ -378,7 +374,7 @@ public official, or were asked for a bribe by those public officials during the 
 <div class="target">
     <h2>Target 16.9: Provide universal legal identity</h2>
     <p>UN definition: <q>By 2030, provide legal identity for all, including birth registration.</q></p>
-    <p>SDG Indicators: <br><a href="#16.9.1">16.9.1 Proportion of children under 5 years of age whose births have been registered with a civil authority, by age</a></p>
+    <p></p>
 </div>
 
 <div class="indicator" id="16.9.1">
@@ -398,7 +394,7 @@ public official, or were asked for a bribe by those public officials during the 
 <div class="target">
     <h2>Target 16.10: Ensure public access to information and protect fundamental freedoms</h2>
     <p>UN definition: <q>Ensure public access to information and protect fundamental freedoms, in accordance with national legislation and international agreements.</q></p>
-    <p>SDG Indicators: <br><a href="#16.10.1">16.10.1 Number of verified cases of killing, kidnapping, enforced disappearance, arbitrary detention and torture of journalists, associated media personnel, trade unionists and human rights advocates in the previous 12 months</a> <br><a href="#16.10.2">16.10.2 Number of countries that adopt and implement constitutional, statutory and/or policy guarantees for public access to information</a></p>
+    <p></p>
 </div>
 
 <div class="indicator" id="16.10.1">
@@ -434,7 +430,7 @@ public official, or were asked for a bribe by those public officials during the 
 <div class="target">
     <h2>Target 16.A: Strengthen national institutions to prevent violence and combat crime and terrorism</h2>
     <p>UN definition: <q>Strengthen relevant national institutions, including through international cooperation, for building capacity at all levels, in particular in developing countries, to prevent violence and combat terrorism and crime.</q></p>
-    <p>SDG Indicators: <br><a href="#16.A.1">16.A.1 Existence of independent national human rights institutions in compliance with the Paris Principles</a> </p>
+    <p></a> </p>
 </div>
 
 <div class="indicator" id="16.A.1">
@@ -455,8 +451,7 @@ public official, or were asked for a bribe by those public officials during the 
 <div class="target">
     <h2>Target 16.B: Promote and enforce non-discriminatory laws and policies</h2>
     <p>UN definition: <q>Promote and enforce non-discriminatory laws and policies for sustainable development.</q></p>
-    <p>SDG Indicators: <br><a href="#16.B.1">16.B.1 Proportion of population reporting having personally felt discriminated against or harassed in the
-previous 12 months on the basis of a ground of discrimination prohibited under international human rights law</a></p>
+    <p></p>
 </div>
 
 <div class="indicator" id="16.B.1">
