@@ -31,7 +31,7 @@ featuredImage: /img/uploads/1.svg
 <div class="target">
     <h2>Target 1.1: Eradicate extreme poverty</h2>
     <p>UN definition: <q>By 2030, eradicate extreme poverty for all people everywhere, currently measured as people living on less than $1.90 a day.</q></p>
-    <p>SDG Indicators: <br><a href="#1.1.1">1.1.1 Proportion of population below the international poverty line</a></p>
+    <p></p>
 </div>
 
 <div class="indicator" id="1.1.1">
@@ -60,7 +60,7 @@ This poverty line is measured in "international dollars" which are a hypothetica
     <p>UN definition: <q>By 2030, reduce at least by half the proportion of men,
 women and children of all ages living in poverty in all its
 dimensions according to national definitions.</q></p>
-    <p>SDG Indicators: <br><a href="#1.2.1">1.2.1 Proportion of population living below the national poverty line</a> <br><a href="#1.2.2">1.2.2 Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions</a>.</p>
+    <p></p>
 </div>
 
 <div class="indicator" id="1.2.1">
@@ -103,7 +103,7 @@ dimensions according to national definitions.</q></p>
     <p>UN definition: <q>Implement nationally appropriate social protection
 systems and measures for all, including floors, and by 2030
 achieve substantial coverage of the poor and the vulnerable.</q></p>
-    <p>SDG Indicators: <br><a href="#1.3.1">1.3.1 Proportion of population covered by social protection floors/systems</a>.</p>
+    <p></p>
 </div>
 
 <div class="indicator" id="1.3.1">
@@ -128,7 +128,7 @@ achieve substantial coverage of the poor and the vulnerable</q></i>.</p>
 <div class="target">
     <h2>Target 1.4: Equal rights to ownership, basic services, technology and economic resources</h2>
     <p>UN definition: <q>By 2030, ensure that all men and women, in particular the poor and the vulnerable, have equal rights to economic resources, as well as access to basic services, ownership and control over land and other forms of property, inheritance, natural resources, appropriate new technology and financial services, including microfinance.</q></p>
-    <p>SDG Indicators: <br><a href="#1.4.1">1.4.1 Proportion of population living in households with access to basic services</a> <br><a href="#1.4.2">1.4.2 Proportion of total adult population with secure tenure rights to land</a>.</p>
+    <p></p>
 </div>
 
 <div class="indicator" id="1.4.1">
@@ -172,9 +172,7 @@ achieve substantial coverage of the poor and the vulnerable</q></i>.</p>
 <div class="target">
     <h2>Target 1.5: Build resilience to environmental, economic and social disasters</h2>
     <p>UN definition: <q>By 2030, build the resilience of the poor and those in vulnerable situations and reduce their exposure and vulnerability to climate-related extreme events and other economic, social and environmental shocks and disasters.</q></p>
-    <p>SDG Indicators: <br><a href="#1.5.1">1.5.1 Number of deaths, missing persons and directly affected persons attributed to disasters</a> <br><a href="#1.5.2">1.5.2 Direct economic loss attributed to disasters in relation to global gross domestic product (GDP)</a> <br><a href="#1.5.3">1.5.3 Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015–2030)</a> <br><a href="#1.5.4">1.5.4 Proportion of local governments that adopt and
-implement local disaster risk reduction strategies in line
-with national disaster risk reduction strategies</a>.</p>
+    <p></p>
 </div>
 
 <div class="indicator" id="1.5.1">
@@ -258,9 +256,7 @@ with national disaster risk reduction strategies</a>.</p>
     <h2>Target 1.a: Mobilisation of resources to end poverty</h2>
     <p>UN definition: <q>Ensure significant mobilization of resources from a
 variety of sources, including through enhanced development cooperation, in order to provide adequate and predictable means for developing countries, in particular least developed countries, to implement programmes and policies to end poverty in all its dimensions</q></p>
-    <p>SDG Indicators: <br><a href="#1.a.1">1.a.1 Proportion of domestically generated resources allocated by the government directly to poverty reduction
-programmes</a> <br><a href="#1.a.2">1.a.2 Proportion of total government spending on essential services</a> <br><a href="#1.a.3">1.a.3 Sum of total grants and non-debt-creating inflows directly allocated to poverty reduction programmes as a
-proportion of GDP</a>.</p>
+    <p></p>
 </div>
 
 <div class="indicator" id="1.a.1">
