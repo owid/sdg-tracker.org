@@ -22,7 +22,7 @@ featuredImage: /img/uploads/11.svg
 <div class="target">
     <h2>Target 11.1: Safe and affordable housing</h2>
     <p>UN definition: <q>By 2030, ensure access for all to adequate, safe and affordable housing and basic services and upgrade slums.</q></p>
-    <p>SDG Indicators: <br><a href="#11.1.1">11.1.1 Proportion of urban population living in slums, informal settlements or inadequate housing</a></p>
+    <p></p>
 </div>
 
 <div class="indicator" id="11.1.1">
@@ -42,8 +42,7 @@ featuredImage: /img/uploads/11.svg
 <div class="target">
     <h2>Target 11.2: Affordable and sustainable transport systems</h2>
     <p>UN definition: <q>By 2030, provide access to safe, affordable, accessible and sustainable transport systems for all, improving road safety, notably by expanding public transport, with special attention to the  needs of those in vulnerable situations, women, children, persons with disabilities and older persons.</q></p>
-    <p>SDG Indicators: <br><a href="#11.2.1">11.2.1 Proportion of population that has convenient access to public transport, by sex, age and persons with
-disabilities</a></p>
+    <p></p>
 </div>
 
 <div class="indicator" id="11.2.1">
@@ -64,7 +63,7 @@ disabilities</q></i>.</p>
 <div class="target">
     <h2>Target 11.3: Inclusive and sustainable urbanization</h2>
     <p>UN definition: <q>By 2030, enhance inclusive and sustainable urbanization and capacity for participatory, integrated and sustainable human settlement planning and management in all countries.</q></p>
-    <p>SDG Indicators: <br><a href="#11.3.1">11.3.1 Ratio of land consumption rate to population growth rate</a> <br><a href="#11.3.2">11.3.2 Proportion of cities with a direct participation structure of civil society in urban planning and management that operate regularly and democratically</a></p>
+    <p></p>
 </div>
 
 <div class="indicator" id="11.3.1">
@@ -100,8 +99,7 @@ disabilities</q></i>.</p>
 <div class="target">
     <h2>Target 11.4: Protect the world's cultural and natural heritage</h2>
     <p>UN definition: <q>Strengthen efforts to protect and safeguard the world’s cultural and natural heritage.</q></p>
-    <p>SDG Indicators: <br><a href="#11.4.1">11.4.1 Total expenditure (public and private) per capita spent on the preservation, protection and conservation
-of all cultural and natural heritage, by type of heritage (cultural, natural, mixed and World Heritage Centre designation), level of government (national, regional and local/municipal), type of expenditure (operating expenditure/investment) and type of private funding (donations in kind, private non-profit sector and sponsorship)</a></p>
+    <p></p>
 </div>
 
 <div class="indicator" id="11.4.1">
@@ -121,7 +119,7 @@ of all cultural and natural heritage, by type of heritage (cultural, natural, mi
 <div class="target">
     <h2>Target 11.5: Reduce the adverse effects of natural disasters</h2>
     <p>UN definition: <q>By 2030, significantly reduce the number of deaths and the number of people affected and substantially decrease the direct economic losses relative to global gross domestic product caused by disasters, including water-related disasters, with a focus on protecting the poor and people in vulnerable situations.</q></p>
-    <p>SDG Indicators: <br><a href="#11.5.1">11.5.1 Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population</a> <br><a href="#11.5.2">11.5.2 Direct economic loss in relation to global GDP, damage to critical infrastructure and number of disruptions to basic services, attributed to disasters</a></p>
+    <p></p>
 </div>
 
 <div class="indicator" id="11.5.1">
@@ -165,7 +163,7 @@ of all cultural and natural heritage, by type of heritage (cultural, natural, mi
 <div class="target">
     <h2>Target 11.6: Reduce the environmental impacts of cities</h2>
     <p>UN definition: <q>By 2030, reduce the adverse per capita environmental impact of cities, including by paying special attention to air quality and municipal and other waste management.</q></p>
-    <p>SDG Indicators: <br><a href="#11.6.1">11.6.1 Proportion of urban solid waste regularly collected and with adequate final discharge out of total urban solid waste generated, by cities</a> <br><a href="#11.6.2">11.6.2 Annual mean levels of fine particulate matter (e.g. PM2.5 and PM10) in cities (population weighted)</a></p>
+    <p></p>
 </div>
 
 <div class="indicator" id="11.6.1">
@@ -204,7 +202,7 @@ of all cultural and natural heritage, by type of heritage (cultural, natural, mi
 <div class="target">
     <h2>Target 11.7: Provide access to safe and inclusive green and public spaces</h2>
     <p>UN definition: <q>By 2030, provide universal access to safe, inclusive and accessible, green and public spaces, in particular for women and children, older persons and persons with disabilities.</q></p>
-    <p>SDG Indicators: <br><a href="#11.7.1">11.7.1 Average share of the built-up area of cities that is open space for public use for all, by sex, age and persons with disabilities</a> <br><a href="#11.7.2">11.7.2 Proportion of persons victim of physical or sexual harassment, by sex, age, disability status and place of occurrence, in the previous 12 months</a></p>
+    <p></p>
 </div>
 
 <div class="indicator" id="11.7.1">
@@ -240,7 +238,7 @@ of all cultural and natural heritage, by type of heritage (cultural, natural, mi
 <div class="target">
     <h2>Target 11.A: Strong national and regional development planning</h2>
     <p>UN definition: <q>Support positive economic, social and environmental links between urban, peri-urban and rural areas by strengthening national and regional development planning.</q></p>
-    <p>SDG Indicators: <br><a href="#11.A.1">11.A.1 Proportion of population living in cities that implement urban and regional development plans integrating population projections and resource needs, by size of city</a></p>
+    <p></p>
 </div>
 
 <div class="indicator" id="11.A.1">
@@ -260,8 +258,7 @@ of all cultural and natural heritage, by type of heritage (cultural, natural, mi
 <div class="target">
     <h2>Target 11.B: Implement policies for inclusion, resource efficiency and disaster risk reduction</h2>
     <p>UN definition: <q>By 2020, substantially increase the number of cities and human settlements adopting and implementing integrated policies and plans towards inclusion, resource efficiency, mitigation and adaptation to climate change, resilience to disasters, and develop and implement, in line with the Sendai Framework for Disaster Risk Reduction 2015–2030, holistic disaster risk management at all levels.</q></p>
-    <p>SDG Indicators: <br><a href="#11.B.1">11.B.1 Number of countries that adopt and implement national disaster risk reduction strategies in line with the
-Sendai Framework for Disaster Risk Reduction 2015–2030</a> <br><a href="#11.B.2">11.B.2 Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies</a></p>
+    <p></p>
 </div>
 
 <div class="indicator" id="11.B.1">
@@ -307,8 +304,7 @@ Sendai Framework for Disaster Risk Reduction 2015–2030</a> <br><a href="#11.B.
 <div class="target">
     <h2>Target 11.C: Support least developed countries in sustainable and resilient building</h2>
     <p>UN definition: <q>Support least developed countries, including through financial and technical assistance, in building sustainable and resilient buildings utilizing local materials.</q></p>
-    <p>SDG Indicators: <br><a href="#11.C.1">11.C.1 Proportion of financial support to the least developed countries that is allocated to the construction
-and retrofitting of sustainable, resilient and resource-efficient buildings utilizing local materials</a></p>
+    <p></p>
 </div>
 
 <div class="indicator" id="11.C.1">
