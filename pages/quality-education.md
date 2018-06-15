@@ -39,7 +39,7 @@ featuredImage: /img/uploads/4.svg
 <div class="target">
     <h2>Target 4.1: Free primary and secondary education</h2>
     <p>UN definition: <q>By 2030, ensure that all girls and boys complete free, equitable and quality primary and secondary education leading to relevant and effective learning outcomes.</q></p>
-    <p>SDG Indicators: <br><a href="#4.1.1">4.1.1 Proportion of children and young people achieving at least a minimum proficiency level in (i) reading and (ii) mathematics</a>.</p>
+    <p></p>
 </div>
 
 <div class="indicator" id="4.1.1">
@@ -65,7 +65,7 @@ featuredImage: /img/uploads/4.svg
 <div class="target">
     <h2>Target 4.2: Equal access to quality pre-primary education</h2>
     <p>UN definition: <q>By 2030, ensure that all girls and boys have access to quality early childhood development, care and pre-primary education so that they are ready for primary education.</q></p>
-    <p>SDG Indicators: <br><a href="#4.2.1">4.2.1 Proportion of children under 5 years of age who are developmentally on track</a> <br><a href="#4.2.2">4.2.2 Participation rate in organized learning (one year before the official primary entry age)</a>.</p>
+    <p></p>
 </div>
 
 <div class="indicator" id="4.2.1">
@@ -109,8 +109,7 @@ featuredImage: /img/uploads/4.svg
 <div class="target">
     <h2>Target 4.3: Equal access to affordable technical, vocational and higher education</h2>
     <p>UN definition: <q>By 2030, ensure equal access for all women and men to affordable and quality technical, vocational and tertiary education, including university.</q></p>
-    <p>SDG Indicators: <br><a href="#4.3.1">4.3.1 Participation rate of youth and adults in formal and non-formal education and training in the previous
-12 months</a>.</p>
+    <p></p>
 </div>
 
 <div class="indicator" id="4.3.1">
@@ -133,7 +132,7 @@ featuredImage: /img/uploads/4.svg
 <div class="target">
     <h2>Target 4.4: Increase the number of people with relevant skills for financial success</h2>
     <p>UN definition: <q>By 2030, substantially increase the number of youth and adults who have relevant skills, including technical and vocational skills, for employment, decent jobs and entrepreneurship.</q></p>
-    <p>SDG Indicators: <br><a href="#4.4.1">4.4.1 Proportion of youth and adults with information and communications technology (ICT) skills</a>.</p>
+    <p></p>
 </div>
 
 <div class="indicator" id="4.4.1">
@@ -155,7 +154,7 @@ featuredImage: /img/uploads/4.svg
 <div class="target">
     <h2>Target 4.5: Eliminate all discrimination in education</h2>
     <p>UN definition: <q>By 2030, eliminate gender disparities in education and ensure equal access to all levels of education and vocational training for the vulnerable, including persons with disabilities, indigenous peoples and children in vulnerable situations.</q></p>
-    <p>SDG Indicators: <br><a href="#4.5.1">4.5.1 Parity indices (female/male, rural/urban, bottom/top wealth quintile and others such as disability status) for all education indicators</a>.</p>
+    <p></p>
 </div>
 
 <div class="indicator" id="4.5.1">
@@ -181,8 +180,7 @@ featuredImage: /img/uploads/4.svg
 <div class="target">
     <h2>Target 4.6: Universal literacy and numeracy</h2>
     <p>UN definition: <q>By 2030, ensure that all youth and a substantial proportion of adults, both men and women, achieve literacy and numeracy.</q></p>
-    <p>SDG Indicators: <br><a href="#4.6.1">4.6.1 Proportion of population in a given age group achieving at least a fixed level of proficiency in functional
-(a) literacy and (b) numeracy skills, by sex</a>.</p>
+    <p></p>
 </div>
 
 <div class="indicator" id="4.6.1">
@@ -209,8 +207,7 @@ featuredImage: /img/uploads/4.svg
 <div class="target">
     <h2>Target 4.7: Education for sustainable development and global citizenship</h2>
     <p>UN definition: <q>By 2030, ensure that all learners acquire the knowledge and skills needed to promote sustainable development, including, among others, through education for sustainable development and sustainable lifestyles, human rights, gender equality, promotion of a culture of peace and non-violence, global citizenship and appreciation of cultural diversity and of culture’s contribution to sustainable development.</q></p>
-    <p>SDG Indicators: <br><a href="#4.7.1">4.7.1 Extent to which (i) global citizenship education and(ii) education for sustainable development, including
-gender equality and human rights, are mainstreamed at all levels in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment</a>.</p>
+    <p></p>
 </div>
 
 <div class="indicator" id="4.7.1">
@@ -230,8 +227,7 @@ gender equality and human rights, are mainstreamed at all levels in (a) national
 <div class="target">
     <h2>Target 4.A: Build and upgrade inclusive and safe schools</h2>
     <p>UN definition: <q>Build and upgrade education facilities that are child, disability and gender sensitive and provide safe, non-violent, inclusive and effective learning environments for all.</q></p>
-    <p>SDG Indicators: <br><a href="#4.A.1">4.A.1 Proportion of schools with access to (a) electricity; (b) the Internet for pedagogical purposes; (c) computers
-for pedagogical purposes; (d) adapted infrastructure and materials for students with disabilities; (e) basic drinking water; (f) single-sex basic sanitation facilities; and (g) basic handwashing facilities (as per the WASH indicator definitions)</a>.</p>
+    <p></p>
 </div>
 
 <div class="indicator" id="4.A.1">
@@ -251,7 +247,7 @@ for pedagogical purposes; (d) adapted infrastructure and materials for students 
 <div class="target">
     <h2>Target 4.B: Expand higher education scholarships for developing countries</h2>
     <p>UN definition: <q>By 2020, substantially expand globally the number of scholarships available to developing countries, in particular least developed countries, small island developing States and African countries, for enrolment in higher education, including vocational training and information and communications technology, technical, engineering and scientific programmes, in developed countries and other developing countries.</q></p>
-    <p>SDG Indicators: <br><a href="#4.B.1">4.B.1 Volume of official development assistance flows for scholarships by sector and type of study</a>.</p>
+    <p></p>
 </div>
 
 <div class="indicator" id="4.B.1">
@@ -275,8 +271,7 @@ for pedagogical purposes; (d) adapted infrastructure and materials for students 
 teachers, including through international cooperation for
 teacher training in developing countries, especially least
 developed countries and small island developing States.</q></p>
-    <p>SDG Indicators: <br><a href="#4.C.1">4.C.1 Proportion of teachers in (a) pre-primary; (b) primary; (c) lower secondary; and (d) upper secondary
-education who have received at least the minimum organized teacher training</a>.</p>
+    <p></p>
 </div>
 
 <div class="indicator" id="4.C.1">
