@@ -23,7 +23,7 @@ featuredImage: /img/uploads/17.svg
 <div class="target">
     <h2>Target 17.1: Mobilize resources to improve domestic revenue collection</h2>
     <p>UN definition: <q>Strengthen domestic resource mobilization, including through international support to developing countries, to improve domestic capacity for tax and other revenue collection.</q></p>
-    <p>SDG Indicators: <br><a href="#17.1.1">17.1.1 Total government revenue as a proportion of GDP, by source</a> <br><a href="#17.1.2">17.1.2 Proportion of domestic budget funded by domestic taxes</a></p>
+    <p></p>
 </div>
 
 <div class="indicator" id="17.1.1">
@@ -31,9 +31,9 @@ featuredImage: /img/uploads/17.svg
         <div class="col-md">
             <span>SDG Indicator 17.1.1</span>
             <h3>Government revenue</h3>
-            <p><strong>Definition:</strong> Indicator 17.1.1 is <i><q>total government revenue as a proportion of GDP</q></i>.<p>Revenue is cash receipts from taxes, social contributions, and other revenues such as fines, fees, rent, and income from property or sales. Grants are also considered revenue but are excluded here.</p>
+            <p><strong>Definition:</strong> Indicator 17.1.1 is <i><q>total government revenue as a proportion of GDP</q></i>.<p>Revenue is cash receipts from taxes, social contributions, and other revenues such as fines, fees, rent, and income from property or sales. Grants are also considered revenue but are excluded here.<p>Because budgetary accounts may not include all central government units (such as social security funds), they usually <a href="https://ourworldindata.org/public-spending#limitations">provide an incomplete picture</a>. In federal states the central government accounts provide an incomplete view of total public finance.</p>
             <p><strong>Goal:</strong> <i><q>Strengthen domestic resource mobilization, to improve domestic capacity for tax and other revenue collection</q></i> across all countries by 2030.</p>
-            <p><strong>More research:</strong> Further data and research on this topic is available at the <i>Our World in Data</i> <a href="https://ourworldindata.org/public-spending">entry on Public Spending</a>.</p>
+            <p><strong>More research:</strong> Further data and research on this topic is available at the <i>Our World in Data</i> entries on <a href="https://ourworldindata.org/public-spending">Public Spending</a> and <a href="https://ourworldindata.org/taxation">Taxation</a>.</p>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/total-government-revenue-of-gdp" style="width: 100%; height: 600px; border: 0px none;"></iframe>
@@ -61,8 +61,7 @@ featuredImage: /img/uploads/17.svg
 <div class="target">
     <h2>Target 17.2: Implement all development assistance commitments</h2>
     <p>UN definition: <q>Developed countries to implement fully their official development assistance commitments, including the commitment by many developed countries to achieve the target of 0.7 per cent of gross national income for official development assistance (ODA/GNI) to developing countries and 0.15 to 0.20 per cent of ODA/GNI to least developed countries; ODA providers are encouraged to consider setting a target to provide at least 0.20 per cent of ODA/GNI to least developed countries.</q></p>
-    <p>SDG Indicators: <br><a href="#17.2.1">17.2.1 Net official development assistance, total and to least developed countries, as a proportion of the
-Organization for Economic Cooperation and Development (OECD) Development Assistance Committee donors’ gross national income (GNI)</a></p>
+    <p></p>
 </div>
 
 <div class="indicator" id="17.2.1">
@@ -85,7 +84,7 @@ Organization for Economic Cooperation and Development (OECD) Development Assista
 <div class="target">
     <h2>Target 17.3: Mobilize financial resources for developing countries</h2>
     <p>UN definition: <q>Mobilize additional financial resources for developing countries from multiple sources.</q></p>
-    <p>SDG Indicators: <br><a href="#17.3.1">17.3.1 Foreign direct investment (FDI), official development assistance and South-South cooperation as a proportion of total domestic budget</a> <br><a href="#17.3.2">17.3.2 Volume of remittances (in United States dollars) as a proportion of total GDP</a></p>
+    <p></p>
 </div>
 
 <div class="indicator" id="17.3.1">
@@ -121,7 +120,7 @@ Organization for Economic Cooperation and Development (OECD) Development Assista
 <div class="target">
     <h2>Target 17.4: Assist developing countries in attaining debt sustainability</h2>
     <p>UN definition: <q>Assist developing countries in attaining long-term debt sustainability through coordinated policies aimed at fostering debt financing, debt relief and debt restructuring, as appropriate, and address the external debt of highly indebted poor countries to reduce debt distress.</q></p>
-    <p>SDG Indicators: <br><a href="#17.4.1">17.4.1 Debt service as a proportion of exports of goods and services</a></p>
+    <p></p>
 </div>
 
 <div class="indicator" id="17.4.1">
@@ -141,7 +140,7 @@ Organization for Economic Cooperation and Development (OECD) Development Assista
 <div class="target">
     <h2>Target 17.5: Invest in least-developed countries</h2>
     <p>UN definition: <q>Adopt and implement investment promotion regimes for least developed countries.</q></p>
-    <p>SDG Indicators: <br><a href="#17.5.1">17.5.1 Number of countries that adopt and implement investment promotion regimes for least developed countries</a></p>
+    <p></p>
 </div>
 
 <div class="indicator" id="17.5.1">
@@ -162,8 +161,7 @@ Organization for Economic Cooperation and Development (OECD) Development Assista
     <h2>Target 17.6: Knowledge sharing and cooperation for access to science, technology and innovation</h2>
     <p>UN definition: <q>Enhance North-South, South-South and triangular regional and international cooperation on and access to science, technology and innovation and enhance knowledge sharing on mutually agreed terms, including through improved coordination among existing mechanisms, in particular at the United Nations level, and through a global technology facilitation mechanism.
 </q></p>
-    <p>SDG Indicators: <br><a href="#17.6.1">17.6.1 Number of science and/or technology cooperation agreements and programmes between countries, by type of
-cooperation</a> <br><a href="#17.6.2">17.6.2 Fixed Internet broadband subscriptions per 100 inhabitants, by speed</a></p>
+    <p></p>
 </div>
 
 <div class="indicator" id="17.6.1">
@@ -187,7 +185,7 @@ cooperation</a> <br><a href="#17.6.2">17.6.2 Fixed Internet broadband subscripti
         <div class="col-md">
             <span>SDG Indicator 17.6.2</span>
             <h3>Fixed broadband subscriptions</h3>
-            <p><strong>Definition:</strong> Indicator 17.6.2 is <i><q>fixed Internet broadband subscriptions per 100 inhabitants</q></i>.</p>
+            <p><strong>Definition:</strong> Indicator 17.6.2 is <i><q>fixed Internet broadband subscriptions per 100 inhabitants</q></i>.<p>Fixed broadband subscriptions refers to fixed subscriptionsto high-speed access to the public Internet (a TCP/IPconnection), at downstream speeds equal to, or greaterthan, 256 kbit/s.</p>
             <p><strong>Goal:</strong> <i><q>Enhance North-South, South-South and triangular regional and international cooperation on and access to science, technology and innovation</q></i> by 2030.</p>
             <p><strong>More research:</strong> Further data and research on this topic is available at the <i>Our World in Data</i> entries on <a href="https://ourworldindata.org/technology-adoption">Technology Diffusion & Adoption</a> and <a href="https://ourworldindata.org/internet"> the Internet</a>.</p>
             <p><strong>Additional charts:</strong> <br><a href="https://ourworldindata.org/grapher/secure-internet-servers-per-1-million-people">Secure Internet servers (per million)</a> <br><a href="https://ourworldindata.org/grapher/broadband-penetration-by-country">Broadband penetration by country</a>
@@ -201,8 +199,7 @@ cooperation</a> <br><a href="#17.6.2">17.6.2 Fixed Internet broadband subscripti
 <div class="target">
     <h2>Target 17.7: Promote sustainable technologies to developing countries</h2>
     <p>UN definition: <q>Promote the development, transfer, dissemination and diffusion of environmentally sound technologies to developing countries on favourable terms, including on concessional and preferential terms, as mutually agreed.</q></p>
-    <p>SDG Indicators: <br><a href="#17.7.1">17.7.1 Total amount of approved funding for developing countries to promote the development, transfer,
-dissemination and diffusion of environmentally sound technologies</a></p>
+    <p></p>
 </div>
 
 <div class="indicator" id="17.7.1">
@@ -222,8 +219,7 @@ dissemination and diffusion of environmentally sound technologies</a></p>
 <div class="target">
     <h2>Target 17.8: Strengthen the science, technology and innovation capacity for least-developed countries</h2>
     <p>UN definition: <q>Fully operationalize the technology bank and science, technology and innovation capacity-building mechanism for least developed countries by 2017 and enhance the use of enabling technology, in particular information and communications technology.</q></p>
-    <p>SDG Indicators: <br><a href="#17.8.1">17.8.1 Total amount of approved funding for developing countries to promote the development, transfer,
-dissemination and diffusion of environmentally sound technologies</a></p>
+    <p></p>
 </div>
 
 <div class="indicator" id="17.8.1">
@@ -246,8 +242,7 @@ dissemination and diffusion of environmentally sound technologies</a></p>
 <div class="target">
     <h2>Target 17.9: Enhanced SDG capacity in developing countries</h2>
     <p>UN definition: <q>Enhance international support for implementing effective and targeted capacity-building in developing countries to support national plans to implement all the Sustainable Development Goals, including through North-South, South-South and triangular cooperation.</q></p>
-    <p>SDG Indicators: <br><a href="#17.9.1">17.9.1 Dollar value of financial and technical assistance (including through North-South, South-South and
-triangular cooperation) committed to developing countries</a></p>
+    <p></p>
 </div>
 
 <div class="indicator" id="17.9.1">
@@ -268,7 +263,7 @@ triangular cooperation) committed to developing countries</a></p>
 <div class="target">
     <h2>Target 17.10: Promote a universal trading system under the WTO</h2>
     <p>UN definition: <q>Promote a universal, rules-based, open, non-discriminatory and equitable multilateral trading system under the World Trade Organization, including through the conclusion of negotiations under its Doha Development Agenda.</q></p>
-    <p>SDG Indicators: <br><a href="#17.10.1">17.10.1 Worldwide weighted tariff-average</a></p>
+    <p></p>
 </div>
 
 <div class="indicator" id="17.10.1">
@@ -289,7 +284,7 @@ triangular cooperation) committed to developing countries</a></p>
 <div class="target">
     <h2>Target 17.11: Increase the exports of developing countries</h2>
     <p>UN definition: <q>Significantly increase the exports of developing countries, in particular with a view to doubling the least developed countries’ share of global exports by 2020.</q></p>
-    <p>SDG Indicators: <br><a href="#17.11.1">17.11.1 Developing countries’ and least developed countries’ share of global exports</a></p>
+    <p></p>
 </div>
 
 <div class="indicator" id="17.11.1">
@@ -297,20 +292,21 @@ triangular cooperation) committed to developing countries</a></p>
         <div class="col-md">
             <span>SDG Indicator 17.11.1</span>
             <h3>Exports from developing countries</h3>
-            <p><strong>Definition:</strong> Indicator 17.11.1 is <i><q>developing countries’ and least developed countries’ share of global exports</q></i>.<p> This indicator is assessed as the total export value of goods and services (in constant 2010 US$) aggregated by World Bank income group. Exports of goods and services represent the value of all goods and other market services provided to the rest of the world.</p>
+            <p><strong>Definition:</strong> Indicator 17.11.1 is <i><q>developing countries’ and least developed countries’ share of global exports</q></i>.<p> This indicator is assessed as the total export value of goods and services by aggregated World Bank income groups as a share of the global total. Exports of goods and services represent the value of all goods and other market services provided to the rest of the world.<p>Data on the total export value of good and service by income group (in constant 2010 US$) is also shown for context.</p>
             <p><strong>Goal:</strong> <i><q>Significantly increase the exports of developing countries, in particular with a view to doubling the least developed countries’ share of global exports by 2020.</q></i> <p>Unlike most SDG targets which are set for the year 2030, this indicator is to be achieved by 2020.</p>
             <p><strong>More research:</strong> Further data and research on this topic is available at the <i>Our World in Data</i> <a href="https://ourworldindata.org/international-trade">entry on International Trade</a>.</p>
         </div>
         <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/exports-by-income-group" style="width: 100%; height: 600px; border: 0px none;"></iframe>
             <iframe src="https://ourworldindata.org/grapher/exports-of-goods-and-services-income" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
 </div>
 
 <div class="target">
-    <h2>Target 17.12: Remove trade barriers fro least-developed countries</h2>
+    <h2>Target 17.12: Remove trade barriers for least-developed countries</h2>
     <p>UN definition: <q>Realize timely implementation of duty-free and quota-free market access on a lasting basis for all least developed countries, consistent with World Trade Organization decisions, including by ensuring that preferential rules of origin applicable to imports from least developed countries are transparent and simple, and contribute to facilitating market access.</q></p>
-    <p>SDG Indicators: <br><a href="#17.12.1">17.12.1 Average tariffs faced by developing countries, least developed countries and small island developing States</a></p>
+    <p></p>
 </div>
 
 <div class="indicator" id="17.12.1">
@@ -331,7 +327,7 @@ triangular cooperation) committed to developing countries</a></p>
 <div class="target">
     <h2>Target 17.13: Enhance global macroeconomic stability</h2>
     <p>UN definition: <q>Enhance global macroeconomic stability, including through policy coordination and policy coherence.</q></p>
-    <p>SDG Indicators: <br><a href="#17.13.1">17.13.1 Macroeconomic Dashboard</a></p>
+    <p></p>
 </div>
 
 <div class="indicator" id="17.13.1">
@@ -343,7 +339,7 @@ triangular cooperation) committed to developing countries</a></p>
             <p><strong>Goal:</strong> <i><q>Enhance global macroeconomic stability, including through policy coordination and policy coherence</q></i>.</p>
         </div>
         <div class="col-md">
-            <br><br><br><b>We are currently not aware of available data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+            <br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
         </div>
     </div>
 </div>
@@ -351,7 +347,7 @@ triangular cooperation) committed to developing countries</a></p>
 <div class="target">
     <h2>Target 17.14: Enhance policy coherence for sustainable development</h2>
     <p>UN definition: <q>Enhance policy coherence for sustainable development.</q></p>
-    <p>SDG Indicators: <br><a href="#17.14.1">17.14.1 Number of countries with mechanisms in place to enhance policy coherence of sustainable development</a></p>
+    <p></p>
 </div>
 
 <div class="indicator" id="17.14.1">
@@ -371,7 +367,7 @@ triangular cooperation) committed to developing countries</a></p>
 <div class="target">
     <h2>Target 17.15: Respect national leadership to implement policies for the sustainable development goals</h2>
     <p>UN definition: <q>Respect each country’s policy space and leadership to establish and implement policies for poverty eradication and sustainable development.</q></p>
-    <p>SDG Indicators: <br><a href="#17.15.1">17.15.1 Extent of use of country-owned results frameworks and planning tools by providers of development cooperation</a></p>
+    <p></p>
 </div>
 
 <div class="indicator" id="17.15.1">
@@ -391,7 +387,7 @@ triangular cooperation) committed to developing countries</a></p>
 <div class="target">
     <h2>Target 17.16: Enhance the global partnership for sustainable development</h2>
     <p>UN definition: <q>Enhance the Global Partnership for Sustainable Development, complemented by multi-stakeholder partnerships that mobilize and share knowledge, expertise, technology and financial resources, to support the achievement of the Sustainable Development Goals in all countries, in particular developing countries.</q></p>
-    <p>SDG Indicators: <br><a href="#17.16.1">17.16.1 Number of countries reporting progress in multistakeholder development effectiveness monitoring frameworks that support the achievement of the Sustainable Development Goals</a></p>
+    <p></p>
 </div>
 
 <div class="indicator" id="17.16.1">
@@ -411,8 +407,7 @@ triangular cooperation) committed to developing countries</a></p>
 <div class="target">
     <h2>Target 17.17: Encourage effective partnerships</h2>
     <p>UN definition: <q>Encourage and promote effective public, public-private and civil society partnerships, building on the experience and resourcing strategies of partnerships.</q></p>
-    <p>SDG Indicators: <br><a href="#17.17.1">17.17.1 Amount of United States dollars committed to (a) public-private partnerships and (b) civil society
-partnerships</a></p>
+    <p></p>
 </div>
 
 <div class="indicator" id="17.17.1">
@@ -423,9 +418,10 @@ partnerships</a></p>
             <p><strong>Definition:</strong> Indicator 17.17.1 is the <i><q>amount of United States dollars committed to (a) public-private partnerships and (b) civil society
 partnerships</q></i>.</p>
             <p><strong>Goal:</strong> <i><q>Encourage and promote effective public, public-private and civil society partnerships</q></i> by 2030.</p>
+            <p><strong>More research:</strong> Related data on this indicator, specifically related to partnerships in infrastructure projects is available at the <i>Our World in Data</i> <a href="https://ourworldindata.org/public-spending#procurement-of-infrastructure-projects-has-grown-substantially-in-low-and-middle-income-countries">entry on Public Spending</a>.</p>
         </div>
         <div class="col-md">
-            <br><br><br><br><b>We are currently not aware of available data for this indicator. You can submit or notify us of official data for this indicator here.</b>
+            <br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
         </div>
     </div>
 </div>
@@ -433,8 +429,7 @@ partnerships</q></i>.</p>
 <div class="target">
     <h2>Target 17.18: Enhance availability of reliable data</h2>
     <p>UN definition: <q>By 2020, enhance capacity-building support to developing countries, including for least developed countries and small island developing States, to increase significantly the availability of high-quality, timely and reliable data disaggregated by income, gender, age, race, ethnicity, migratory status, disability, geographic location and other characteristics relevant in national contexts.</q></p>
-    <p>SDG Indicators: <br><a href="#17.18.1">17.18.1 Proportion of sustainable development indicators produced at the national level with full disaggregation
-when relevant to the target, in accordance with the Fundamental Principles of Official Statistics</a> <br><a href="#17.18.2">17.18.2 Number of countries that have national statistical legislation that complies with the Fundamental Principles of Official Statistics</a> <br><a href="#17.18.3">17.18.3 Number of countries with a national statistical plan that is fully funded and under implementation, by source of funding</a></p>
+    <p></p>
 </div>
 
 <div class="indicator" id="17.18.1">
@@ -486,7 +481,7 @@ when relevant to the target, in accordance with the Fundamental Principles of Of
 <div class="target">
     <h2>Target 17.19: Further develop measurements of progress</h2>
     <p>UN definition: <q>By 2030, build on existing initiatives to develop measurements of progress on sustainable development that complement gross domestic product, and support statistical capacity-building in developing countries.</q></p>
-    <p>SDG Indicators: <br><a href="#17.19.1">17.19.1 Dollar value of all resources made available to strengthen statistical capacity in developing countries</a> <br><a href="#17.19.2">17.19.2 Proportion of countries that (a) have conducted at least one population and housing census in the last 10 years; and (b) have achieved 100 per cent birth registration and 80 per cent death registration</a></p>
+    <p></p>
 </div>
 
 <div class="indicator" id="17.19.1">
