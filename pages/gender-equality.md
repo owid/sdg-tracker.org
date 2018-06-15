@@ -205,7 +205,7 @@ contraceptive use and reproductive health care</a> <br><a href="#5.6.2">5.6.2 Nu
         <div class="col-md">
             <span>SDG Indicator 5.6.1</span>
             <h3>Women decision-making on contraceptive use and healthcare</h3>
-            <p><strong>Definition:</strong> Indicator 5.6.1 is the <i><q>proportion of women aged 15–49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care</q></i>.<p>This is measured as the percentage of married women aged 15-49 years old who makes their own informed decisions regarding healthcare.</p>
+            <p><strong>Definition:</strong> Indicator 5.6.1 is the <i><q>proportion of women aged 15–49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care</q></i>.<p>This is measured as the percentage of married women aged 15-49 years old who makes their own informed decisions regarding sexual relations, and reproductive healthcare.<p>Only women who answer "yes" to the following three conditions are considered to make their own informed decisions: can say no to sexual intercourse with their husband or partner if they do not want; decide on use of contraception; and decide on their own healthcare.</p>
             <p><strong>Goal:</strong> By 2030 <q><i>ensure universal access to sexual and reproductive health and reproductive rights</q></i>.</p>
             <p><strong>Additional charts:</strong> 
 <br><a href="https://ourworldindata.org/grapher/share-of-women-using-modern-contraceptive-methods">Share of women using modern contraceptive methods</a>
@@ -213,7 +213,7 @@ contraceptive use and reproductive health care</a> <br><a href="#5.6.2">5.6.2 Nu
 <br><a href="https://ourworldindata.org/grapher/unmet-need-for-contraception-share-of-married-women-of-reproductive-age">Unmet need for contraception</a></p>
         </div>
         <div class="col-md">
-            <iframe src="https://ourworldindata.org/grapher/proportion-of-women-who-make-their-own-informed-health-care-decisions" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/women-informed-decisions-health-sexual-relations" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
 </div>
