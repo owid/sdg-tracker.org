@@ -25,7 +25,7 @@ featuredImage: /img/uploads/15.svg
 <div class="target">
     <h2>Target 15.1: Conserve and restore terrestrial and freshwater ecosystems</h2>
     <p>UN definition: <q>By 2020, ensure the conservation, restoration and sustainable use of terrestrial and inland freshwater ecosystems and their services, in particular forests, wetlands, mountains and drylands, in line with obligations under international agreements.</q></p>
-    <p>SDG Indicators: <br><a href="#15.1.1">15.1.1 Forest area as a proportion of total land area</a> <br><a href="#15.1.2">15.1.2 Proportion of important sites for terrestrial and freshwater biodiversity that are covered by protected areas, by ecosystem type</a></p>
+    <p></p>
 </div>
 
 <div class="indicator" id="15.1.1">
@@ -64,7 +64,7 @@ featuredImage: /img/uploads/15.svg
 <div class="target">
     <h2>Target 15.2: End deforestation and restore degraded forests</h2>
     <p>UN definition: <q>By 2020, promote the implementation of sustainable management of all types of forests, halt deforestation, restore degraded forests and substantially increase afforestation and reforestation globally.</q></p>
-    <p>SDG Indicators: <br><a href="#15.2.1">15.2.1 Progress towards sustainable forest management</a></p>
+    <p></p>
 </div>
 
 <div class="indicator" id="15.2.1">
@@ -90,7 +90,7 @@ Three sub-indicators focus on the extension of forest area, biomass within the f
 <div class="target">
     <h2>Target 15.3: End desertification and restore degraded land</h2>
     <p>UN definition: <q>By 2030, combat desertification, restore degraded land and soil, including land affected by desertification, drought and floods, and strive to achieve a land degradation-neutral world.</q></p>
-    <p>SDG Indicators: <br><a href="#15.3.1">15.3.1 Proportion of land that is degraded over total land area</a></p>
+    <p></p>
 </div>
 
 <div class="indicator" id="15.3.1">
@@ -110,7 +110,7 @@ Three sub-indicators focus on the extension of forest area, biomass within the f
 <div class="target">
     <h2>Target 15.4: Ensure conservation of mountain ecosystems</h2>
     <p>UN definition: <q>By 2030, ensure the conservation of mountain ecosystems, including their biodiversity, in order to enhance their capacity to provide benefits that are essential for sustainable development.</q></p>
-    <p>SDG Indicators: <br><a href="#15.4.1">15.4.1 Coverage by protected areas of important sites for mountain biodiversity</a> <br><a href="#15.4.2">15.4.2 Mountain Green Cover Index</a></p>
+    <p></p>
 </div>
 
 <div class="indicator" id="15.4.1">
@@ -134,7 +134,8 @@ Three sub-indicators focus on the extension of forest area, biomass within the f
         <div class="col-md">
             <span>SDG Indicator 15.4.2</span>
             <h3>Coverage of important sites for mountain biodiversity</h3>
-            <p><strong>Definition:</strong> Indicator 15.4.2 is the <i><q>Mountain Green Cover Index</q></i>.<p>The Mountain Green Cover Index measures the percentage of mountainous areas covered by  some form of green vegetation.</p>
+            <p><strong>Definition:</strong> Indicator 15.4.2 is the <i><q>Mountain Green Cover Index</q></i>.<p>The Mountain Green Cover Index measures the percentage of mountainous areas covered by  some form of green vegetation.<p>The Green Cover Index measures the changes of the green vegetation in mountain areas - i.e. forest, shrubs, trees, pasture land, crop land, etc. – in order to monitor progress on the mountain target.<p>This is monitored through very high resolution multi-temporal images from Google Earth and Bing 
+Maps and Landsat 7 and 8 datasets from Google Earth Engine. </p>
             <p><strong>Goal:</strong> <i><q>By 2030, ensure the conservation of mountain ecosystems, including their biodiversity</q></i>.</p>
         </div>
         <div class="col-md">
@@ -146,7 +147,7 @@ Three sub-indicators focus on the extension of forest area, biomass within the f
 <div class="target">
     <h2>Target 15.5: Protect biodiversity and natural habitats</h2>
     <p>UN definition: <q>Take urgent and significant action to reduce the degradation of natural habitats, halt the loss of biodiversity and, by 2020, protect and prevent the extinction of threatened species.</q></p>
-    <p>SDG Indicators: <br><a href="#15.5.1">15.5.1 Red List Index</a></p>
+    <p></p>
 </div>
 
 <div class="indicator" id="15.5.1">
@@ -174,7 +175,7 @@ Three sub-indicators focus on the extension of forest area, biomass within the f
 <div class="col-md">
 <span>SDG Indicator 15.6.1</span>
 <h3>Benefits of sharing genetic resources</h3>
-<p><strong>Definition:</strong> Indicator 15.6.1 is the <i><q>number of countries that have adopted legislative, administrative and policy frameworks to ensure fair and equitable sharing of benefits</q></i>.<p>The indicators shown track parties to protocols concerned with the promotion and sharing of genetic resources for plants, food and agriculture.</p>
+<p><strong>Definition:</strong> Indicator 15.6.1 is the <i><q>number of countries that have adopted legislative, administrative and policy frameworks to ensure fair and equitable sharing of benefits</q></i>.<p>This indicator is measured through several sub indicators that track countries’ participation in protocols concerned with the promotion and sharing of genetic resources for plants, food and agriculture.</p>
 <p><strong>Goal:</strong> By 2030 <i><q>promote fair and equitable sharing of the benefits arising from the utilization of genetic resources and promote appropriate access to such resources</q></i>.</p>
 </div>
 <div class="col-md">
@@ -188,7 +189,7 @@ Three sub-indicators focus on the extension of forest area, biomass within the f
 <div class="target">
     <h2>Target 15.7: Eliminate poaching and trafficking of protected species</h2>
     <p>UN definition: <q>Take urgent action to end poaching and trafficking of protected species of flora and fauna and address both demand and supply of illegal wildlife products.</q></p>
-    <p>SDG Indicators: <br><a href="#15.7.1">15.7.1 Proportion of traded wildlife that was poached or illicitly trafficked</a></p>
+    <p></p>
 </div>
 
 <div class="indicator" id="15.7.1">
@@ -208,7 +209,7 @@ Three sub-indicators focus on the extension of forest area, biomass within the f
 <div class="target">
     <h2>Target 15.8: Prevent invasive alien species on land and in water ecosystems</h2>
     <p>UN definition: <q>By 2020, introduce measures to prevent the introduction and significantly reduce the impact of invasive alien species on land and water ecosystems and control or eradicate the priority species.</q></p>
-    <p>SDG Indicators: <br><a href="#15.8.1">15.8.1 Proportion of countries adopting relevant national legislation and adequately resourcing the prevention or control of invasive alien species</a></p>
+    <p></p>
 </div>
 
 <div class="indicator" id="15.8.1">
@@ -228,8 +229,7 @@ Three sub-indicators focus on the extension of forest area, biomass within the f
 <div class="target">
     <h2>Target 15.9: Integrate ecosystem and biodiversity in governmental planning</h2>
     <p>UN definition: <q>By 2020, integrate ecosystem and biodiversity values into national and local planning, development processes, poverty reduction strategies and accounts.</q></p>
-    <p>SDG Indicators: <br><a href="#15.9.1">15.9.1 Progress towards national targets established in accordance with Aichi Biodiversity Target 2 of the
-Strategic Plan for Biodiversity 2011–2020</a></p>
+    <p></p>
 </div>
 
 <div class="indicator" id="15.9.1">
@@ -249,8 +249,7 @@ Strategic Plan for Biodiversity 2011–2020</a></p>
 <div class="target">
     <h2>Target 15.A: Increase financial resources to conserve and sustainably use ecosystem and biodiversity</h2>
     <p>UN definition: <q>Mobilize and significantly increase financial resources from all sources to conserve and sustainably use biodiversity and ecosystems.</q></p>
-    <p>SDG Indicators: <br><a href="#15.A.1">15.A.1 Official development assistance and public expenditure on conservation and sustainable use of
-biodiversity and ecosystems</a></p>
+    <p></p>
 </div>
 
 <div class="indicator" id="15.A.1">
@@ -271,8 +270,7 @@ biodiversity and ecosystems</a></p>
 <div class="target">
     <h2>Target 15.B: Finance and incentivize sustainable forest management</h2>
     <p>UN definition: <q>Mobilize significant resources from all sources and at all levels to finance sustainable forest management and provide adequate incentives to developing countries to advance such management, including for conservation and reforestation.</q></p>
-    <p>SDG Indicators: <br><a href="#15.B.1">15.B.1 Official development assistance and public expenditure on conservation and sustainable use of
-biodiversity and ecosystems</a></p>
+    <p></p>
 </div>
 
 <div class="indicator" id="15.B.1">
@@ -293,7 +291,7 @@ biodiversity and ecosystems</a></p>
 <div class="target">
     <h2>Target 15.C: Combat global poaching and trafficking</h2>
     <p>UN definition: <q>Enhance global support for efforts to combat poaching and trafficking of protected species, including by increasing the capacity of local communities to pursue sustainable livelihood opportunities.</q></p>
-    <p>SDG Indicators: <br><a href="#15.C.1">15.C.1 Proportion of traded wildlife that was poached or illicitly trafficked</a></p>
+    <p></p>
 </div>
 
 <div class="indicator" id="15.C.1">
