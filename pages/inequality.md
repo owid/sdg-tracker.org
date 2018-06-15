@@ -31,7 +31,7 @@ featuredImage: /img/uploads/10.svg
 <div class="target">
     <h2>Target 10.1: Reduce income inequalities</h2>
     <p>UN definition: <q>By 2030, progressively achieve and sustain income growth of the bottom 40 per cent of the population at a rate higher than the national average.</q></p>
-    <p>SDG Indicators: <br><a href="#10.1.1">10.1.1 Growth rates of household expenditure or income per capita among the bottom 40 per cent of the population and the total population</a></p>
+    <p></p>
 </div>
 
 <div class="indicator" id="10.1.1">
@@ -53,7 +53,7 @@ featuredImage: /img/uploads/10.svg
 <div class="target">
     <h2>Target 10.2: Promote universal social, economic and political inclusion</h2>
     <p>UN definition: <q>By 2030, empower and promote the social, economic and political inclusion of all, irrespective of age, sex, disability, race, ethnicity, origin, religion or economic or other status.</q></p>
-    <p>SDG Indicators: <br><a href="#10.2.1">10.2.1 Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities</a></p>
+    <p></p>
 </div>
 
 <div class="indicator" id="10.2.1">
@@ -74,8 +74,7 @@ featuredImage: /img/uploads/10.svg
 <div class="target">
     <h2>Target 10.3: Ensure equal opportunities and end discrimination</h2>
     <p>UN definition: <q>Ensure equal opportunity and reduce inequalities of outcome, including by eliminating discriminatory laws, policies and practices and promoting appropriate legislation, policies and action in this regard.</q></p>
-    <p>SDG Indicators: <br><a href="#10.3.1">10.3.1 Proportion of population reporting having personally felt discriminated against or harassed in the
-previous 12 months on the basis of a ground of discrimination prohibited under international human rights law</a></p>
+    <p></p>
 </div>
 
 <div class="indicator" id="10.3.1">
@@ -95,7 +94,7 @@ previous 12 months on the basis of a ground of discrimination prohibited under i
 <div class="target">
     <h2>Target 10.4: Adopt fiscal and social policies that promotes equality</h2>
     <p>UN definition: <q>Adopt policies, especially fiscal, wage and social protection policies, and progressively achieve greater equality.</q></p>
-    <p>SDG Indicators: <br><a href="#10.4.1">10.4.1 Labour share of GDP, comprising wages and social protection transfers</a></p>
+    <p></p>
 </div>
 
 <div class="indicator" id="10.4.1">
@@ -117,7 +116,7 @@ previous 12 months on the basis of a ground of discrimination prohibited under i
 <div class="target">
     <h2>Target 10.5: Improved regulation of global financial markets and institutions</h2>
     <p>UN definition: <q>Improve the regulation and monitoring of global financial markets and institutions and strengthen the implementation of such regulations.</q></p>
-    <p>SDG Indicators: <br><a href="#10.5.1">10.5.1 Financial Soundness Indicators</a></p>
+    <p></p>
 </div>
 
 <div class="indicator" id="10.5.1">
@@ -137,7 +136,7 @@ previous 12 months on the basis of a ground of discrimination prohibited under i
 <div class="target">
     <h2>Target 10.6: Enhanced representation for developing countries in financial institutions</h2>
     <p>UN definition: <q>Ensure enhanced representation and voice for developing countries in decision-making in global international economic and financial institutions in order to deliver more effective, credible, accountable and legitimate institutions.</q></p>
-    <p>SDG Indicators: <br><a href="#10.6.1">10.6.1 Proportion of members and voting rights of developing countries in international organizations</a></p>
+    <p></p>
 </div>
 
 <div class="indicator" id="10.6.1">
@@ -158,7 +157,7 @@ previous 12 months on the basis of a ground of discrimination prohibited under i
 <div class="target">
     <h2>Target 10.7: Responsible and well-managed migration policies</h2>
     <p>UN definition: <q>Facilitate orderly, safe, regular and responsible migration and mobility of people, including through the implementation of planned and well-managed migration policies.</q></p>
-    <p>SDG Indicators: <br><a href="#10.7.1">10.7.1 Recruitment cost borne by employee as a proportion of yearly income earned in country of destination</a><br><a href="#10.7.2">10.7.2 Number of countries that have implemented well-managed migration policies</a></p>
+    <p></p>
 </div>
 
 <div class="indicator" id="10.7.1">
@@ -194,8 +193,7 @@ previous 12 months on the basis of a ground of discrimination prohibited under i
 <div class="target">
     <h2>Target 10.A: Special and differential treatment for developing countries</h2>
     <p>UN definition: <q>Implement the principle of special and differential treatment for developing countries, in particular least developed countries, in accordance with World Trade Organization agreements.</q></p>
-    <p>SDG Indicators: <br><a href="#10.A.1">10.A.1 Proportion of tariff lines applied to imports from least developed countries and developing countries with
-zero-tariff</a></p>
+    <p></p>
 </div>
 
 <div class="indicator" id="10.A.1">
@@ -215,8 +213,7 @@ zero-tariff</a></p>
 <div class="target">
     <h2>Target 10.B: Encourage development assistance and investment in least developed countries</h2>
     <p>UN definition: <q>Encourage official development assistance and financial flows, including foreign direct investment, to States where the need is greatest, in particular least developed countries, African countries, small island developing States and landlocked developing countries, in accordance with their national plans and programmes.</q></p>
-    <p>SDG Indicators: <br><a href="#10.B.1">10.B.1 Total resource flows for development, by recipient and donor countries and type of flow (e.g. official
-development assistance, foreign direct investment and other flows)</a></p>
+    <p></p>
 </div>
 
 <div class="indicator" id="10.B.1">
@@ -237,7 +234,7 @@ development assistance, foreign direct investment and other flows)</a></p>
 <div class="target">
     <h2>Target 10.C: Reduce transaction costs for migrant remittances</h2>
     <p>UN definition: <q>By 2030, reduce to less than 3 per cent the transaction costs of migrant remittances and eliminate remittance corridors with costs higher than 5 per cent.</q></p>
-    <p>SDG Indicators: <br><a href="#10.C.1">10.C.1 Remittance costs as a proportion of the amount remitted</a></p>
+    <p></p>
 </div>
 
 <div class="indicator" id="10.C.1">
