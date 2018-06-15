@@ -25,7 +25,7 @@ featuredImage: /img/uploads/5.svg
 <div class="target">
     <h2>Target 5.1: End discrimination against women and girls</h2>
     <p>UN definition: <q>End all forms of discrimination against all women and girls everywhere.</q></p>
-    <p>SDG Indicators: <br><a href="#5.1.1">5.1.1 Whether or not legal frameworks are in place to promote, enforce and monitor equality and non-discrimination on the basis of sex</a>.</p>
+<p></p>
 </div>
 
 <div class="indicator" id="5.1.1">
@@ -54,8 +54,7 @@ featuredImage: /img/uploads/5.svg
 <div class="target">
     <h2>Target 5.2: End all violence against and exploitation of women and girls</h2>
     <p>UN definition: <q>Eliminate all forms of violence against all women and girls in the public and private spheres, including trafficking and sexual and other types of exploitation.</q></p>
-    <p>SDG Indicators: <br><a href="#5.2.1">5.2.1 Proportion of ever-partnered women and girls aged 15 years and older subjected to physical, sexual or
-psychological violence by a current or former intimate partner in the previous 12 months</a> <br><a href="#5.2.2">5.2.2 Proportion of women and girls aged 15 years and older subjected to sexual violence by persons other than an intimate partner in the previous 12 months</a>.</p>
+ <p></p>
 </div>
 
 <div class="indicator" id="5.2.1">
@@ -91,8 +90,7 @@ psychological violence by a current or former intimate partner in the previous 1
 <div class="target">
     <h2>Target 5.3: Eliminate forced marriages and genital mutilation</h2>
     <p>UN definition: <q>Eliminate all harmful practices, such as child, early and forced marriage and female genital mutilation.</q></p>
-    <p>SDG Indicators: <br><a href="#5.3.1">5.3.1 Proportion of women aged 20–24 years who were married or in a union before age 15 and before age 18</a> <br><a href="#5.3.2">5.3.2 Proportion of girls and women aged 15–49 years
-who have undergone female genital mutilation/cutting</a>.</p>
+    <p></p>
 </div>
 
 <div class="indicator" id="5.3.1">
@@ -133,7 +131,7 @@ who have undergone female genital mutilation/cutting</a>.</p>
 <div class="target">
     <h2>Target 5.4: Value unpaid care and promote shared domestic responsibilities</h2>
     <p>UN definition: <q>Recognize and value unpaid care and domestic work through the provision of public services, infrastructure and social protection policies and the promotion of shared responsibility within the household and the family as nationally appropriate.</q></p>
-    <p>SDG Indicators: <br><a href="#5.4.1">5.4.1 Proportion of time spent on unpaid domestic and care work, by sex, age and location</a>.</p>
+    <p></p>
 </div>
 
 <div class="indicator" id="5.4.1">
@@ -155,7 +153,7 @@ who have undergone female genital mutilation/cutting</a>.</p>
 <div class="target">
     <h2>Target 5.5: Ensure full participation in leadership and decision-making</h2>
     <p>UN definition: <q>Ensure women’s full and effective participation and equal opportunities for leadership at all levels of decision-making in political, economic and public life.</q></p>
-    <p>SDG Indicators: <br><a href="#5.5.1">5.5.1 Proportion of seats held by women in (a) national parliaments and (b) local governments</a> <br><a href="#5.5.2">5.5.2 Proportion of women in managerial positions</a>.</p>
+    <p></p>
 </div>
 
 <div class="indicator" id="5.5.1">
@@ -196,8 +194,7 @@ who have undergone female genital mutilation/cutting</a>.</p>
 <div class="target">
     <h2>Target 5.6: Universal access to reproductive rights and health</h2>
     <p>UN definition: <q>Ensure universal access to sexual and reproductive health and reproductive rights as agreed in accordance with the Programme of Action of the International Conference on Population and Development and the Beijing Platform for Action and the outcome documents of their review conferences.</q></p>
-    <p>SDG Indicators: <br><a href="#5.6.1">5.6.1 Proportion of women aged 15–49 years who make their own informed decisions regarding sexual relations,
-contraceptive use and reproductive health care</a> <br><a href="#5.6.2">5.6.2 Number of countries with laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education</a>.</p>
+    <p></p>
 </div>
 
 <div class="indicator" id="5.6.1">
@@ -241,8 +238,7 @@ contraceptive use and reproductive health care</a> <br><a href="#5.6.2">5.6.2 Nu
 <div class="target">
     <h2>Target 5.A: Equal rights to economic resources, property ownership and financial services</h2>
     <p>UN definition: <q>Undertake reforms to give women equal rights to economic resources, as well as access to ownership and control over land and other forms of property, financial services, inheritance and natural resources, in accordance with national laws.</q></p>
-    <p>SDG Indicators: <br><a href="#5.A.1">5.A.1 (a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex; and (b) share of women among owners or rights-bearers of
-agricultural land, by type of tenure</a> <br><a href="#5.A.2">5.A.2 Proportion of countries where the legal framework (including customary law) guarantees women’s equal rights to land ownership and/or control</a>.</p>
+    <p></p>
 </div>
 
 <div class="indicator" id="5.A.1">
@@ -278,7 +274,7 @@ agricultural land, by type of tenure</a> <br><a href="#5.A.2">5.A.2 Proportion o
 <div class="target">
     <h2>Target 5.B: Promote empowerment of women through technology</h2>
     <p>UN definition: <q>Enhance the use of enabling technology, in particular information and communications technology, to promote the empowerment of women.</q></p>
-    <p>SDG Indicators: <br><a href="#5.B.1">5.B.1 Proportion of individuals who own a mobile telephone, by sex</a>.</p>
+    <p></p>
 </div>
 
 <div class="indicator" id="5.B.1">
@@ -298,8 +294,7 @@ agricultural land, by type of tenure</a> <br><a href="#5.A.2">5.A.2 Proportion o
 <div class="target">
     <h2>Target 5.C: Adopt and strengthen policies and enforceable legislation for gender equality</h2>
     <p>UN definition: <q>Adopt and strengthen sound policies and enforceable legislation for the promotion of gender equality and the empowerment of all women and girls at all levels.</q></p>
-    <p>SDG Indicators: <br><a href="#5.C.1">5.C.1 Proportion of countries with systems to track and make public allocations for gender equality and women’s
-empowerment</a>.</p>
+    <p></p>
 </div>
 
 <div class="indicator" id="5.C.1">
