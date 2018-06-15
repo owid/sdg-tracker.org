@@ -27,7 +27,7 @@ featuredImage: /img/uploads/13.svg
 <div class="target">
     <h2>Target 13.1: Strengthen resilience and adaptive capacity to climate-related disasters</h2>
     <p>UN definition: <q>Strengthen resilience and adaptive capacity to climate-related hazards and natural disasters in all countries.</q></p>
-    <p>SDG Indicators: <br><a href="#13.1.1">13.1.1 Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population</a> <br><a href="#13.1.2">13.1.2 Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015–2030</a> <br><a href="#13.1.3">13.1.3 Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies</a></p>
+    <p></p>
 </div>
 
 <div class="indicator" id="13.1.1">
@@ -35,7 +35,7 @@ featuredImage: /img/uploads/13.svg
         <div class="col-md">
             <span>SDG Indicator 13.1.1</span>
             <h3>Deaths and injuries from natural disasters</h3>
-            <p><strong>Definition:</strong> Indicator 13.1.1 is the <i><q>number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population</q></i>.<p>Indicators measured here report mortality rates internally displaced persons, missing persons and total numbers affected by natural disasters.</p>
+            <p><strong>Definition:</strong> Indicator 13.1.1 is the <i><q>number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population</q></i>.<p>Indicators measured here report mortality rates, internally displaced persons, missing persons and total numbers affected by natural disasters.</p>
             <p><strong>Goal:</strong> By 2030 <i><q>strengthen resilience and adaptive capacity to climate-related hazards and natural disasters in all countries</q></i>.</p>
            <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> on <a href="https://ourworldindata.org/natural-catastrophes">Natural Catastrophes</a>.</p>
            <p><strong>Additional charts:</strong> <br><a href="https://ourworldindata.org/grapher/natural-disaster-deaths-ihme">Total deaths from natural disasters</a>
@@ -95,8 +95,7 @@ featuredImage: /img/uploads/13.svg
 <div class="target">
     <h2>Target 13.2: Integrate climate change measures into policy and planning</h2>
     <p>UN definition: <q>Integrate climate change measures into national policies, strategies and planning.</q></p>
-    <p>SDG Indicators: <br><a href="#13.2.1">13.2.1 Number of countries that have communicated the establishment or operationalization of an integrated
-policy/strategy/plan which increases their ability to adapt to the adverse impacts of climate change, and foster climate resilience and low greenhouse gas emissions development in a manner that does not threaten food production (including a national adaptation plan, nationally determined contribution, national communication, biennial update report or other)</a></p>
+    <p></p>
 </div>
 
 <div class="indicator" id="13.2.1">
@@ -120,7 +119,7 @@ policy/strategy/plan which increases their ability to adapt to the adverse impac
 <div class="target">
     <h2>Target 13.3: Build knowledge and capacity to meet climate change</h2>
     <p>UN definition: <q>Improve education, awareness-raising and human and institutional capacity on climate change mitigation, adaptation, impact reduction and early warning.</q></p>
-    <p>SDG Indicators: <br><a href="#13.3.1">13.3.1 Number of countries that have integrated mitigation, adaptation, impact reduction and early warning into primary, secondary and tertiary curricula</a> <br><a href="#13.3.2">13.3.2 Number of countries that have communicated the strengthening of institutional, systemic and individual capacity-building to implement adaptation, mitigation and technology transfer, and development actions</a></p>
+    <p></p>
 </div>
 
 <div class="indicator" id="13.3.1">
@@ -156,7 +155,7 @@ policy/strategy/plan which increases their ability to adapt to the adverse impac
 <div class="target">
     <h2>Target 13.A: Implement then UN Framework Convention on Climate Change</h2>
     <p>UN definition: <q>Implement the commitment undertaken by developed-country parties to the United Nations Framework Convention on Climate Change to a goal of mobilizing jointly $100 billion annually by 2020 from all sources to address the needs of developing countries in the context of meaningful mitigation actions and transparency on implementation and fully operationalize the Green Climate Fund through its capitalization as soon as possible.</q></p>
-    <p>SDG Indicators: <br><a href="#13.A.1">13.A.1 Mobilized amount of United States dollars per year between 2020 and 2025 accountable towards the $100 billion commitment</a></p>
+    <p></p>
 </div>
 
 <div class="indicator" id="13.A.1">
@@ -177,8 +176,7 @@ policy/strategy/plan which increases their ability to adapt to the adverse impac
 <div class="target">
     <h2>Target 13.B: Promote mechanisms to raise capacity for planning and management</h2>
     <p>UN definition: <q>Promote mechanisms for raising capacity for effective climate change-related planning and management in least developed countries and small island developing States, including focusing on women, youth and local and marginalized communities.</q></p>
-    <p>SDG Indicators: <br><a href="#13.B.1">13.B.1 Number of least developed countries and small island developing States that are receiving specialized
-support, for mechanisms for raising capacities for effective climate change-related planning and management, including focusing on women, youth and local and marginalized communities</a></p>
+    <p></p>
 </div>
 
 <div class="indicator" id="13.B.1">
