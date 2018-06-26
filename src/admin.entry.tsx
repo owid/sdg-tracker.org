@@ -1,12 +1,13 @@
 import * as React from 'react'
 import {parseMarkdown} from './formatting'
-import GoalPage, {GoalPageProps} from './GoalPage'
+import GoalPage from './GoalPage'
+import AboutPage from '../src/AboutPage'
 
 function renderGoalPage(pageInfo: any) {
-    const props: GoalPageProps = pageInfo.entry.get("data").toJS()
-    props.slug = pageInfo.entry.get("slug")
-    props.isPreview = true
-    return <GoalPage {...props}/>
+    const page: any = pageInfo.entry.get("data").toJS()
+    page.slug = pageInfo.entry.get("slug")
+    page.isPreview = true
+    return page.layout === "goal" ? <GoalPage {...page}/> : <AboutPage {...page}/>
 }
 
 declare var CMS: any
