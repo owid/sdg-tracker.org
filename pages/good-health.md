@@ -243,20 +243,20 @@ However, there is no goal specified by the UN for the share of births attended b
             <h3>Number of people requiring interventions against neglected tropical diseases</h3>
             <p><strong>Definition:</strong> Indicator 3.3.5 is the <i><q>number of people requiring interventions against neglected tropical diseases</q></i>. <p>This is defined as the number of people who require interventions (treatment and care) for any of the 15 neglected tropical diseases (NTDs) <a href="http://www.who.int/neglected_diseases/diseases/en/">identified by the WHO NTD Roadmap</a> and World Health Assembly resolutions. Treatment and care is broadly defined to allow for preventive, curative, surgical or rehabilitative treatment and care.</p>
             <p><strong>Goal:</strong> By 2030 <i><q>end the epidemic of neglected tropical diseases (NTDs)</q></i> in all countries. The targeted level of reduction, however, is not defined.</p>
-<p><strong>Additional charts:</strong> 
-<br><a href="https://ourworldindata.org/grapher/number-requiring-treatment-for-ntds-by-region">Number of people requiring interventions for NTDs by region</a>
+            <p>
+                <strong>Additional charts:</strong>
+                <br><a href="https://ourworldindata.org/grapher/number-requiring-treatment-for-ntds-by-region">Number of people requiring interventions for NTDs by region</a>
+            </p>
+        </div>
+    </div>
+    <div class="col-md">
+        <iframe src="https://ourworldindata.org/grapher/interventions-ntds-sdgs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+    </div>
+</div>
 
-</div>    
-        <div class="col-md">
-            <iframe src="https://ourworldindata.org/grapher/interventions-ntds-sdgs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
-    
-</div>
-</div>
 <div class="target"> 
-<h2>Target 3.4: Reduce mortality from non-communicable diseases and promote mental health</h2>    
-<p>UN definition: <q>By 2030, reduce by one third premature mortality from non-communicable diseases through prevention and treatment and promote mental health and well-being.</q></p>
-<p></p>
-
+    <h2>Target 3.4: Reduce mortality from non-communicable diseases and promote mental health</h2>    
+    <p>UN definition: <q>By 2030, reduce by one third premature mortality from non-communicable diseases through prevention and treatment and promote mental health and well-being.</q></p>
 </div>
 <div class="indicator" id="3.4.1">
     <div class="row">
@@ -313,8 +313,8 @@ aftercare services) for substance use disorders</h3>
             <p><strong>Goal:</strong> By 2030 <i><q>Strengthen the prevention and treatment of substance abuse</q></i> across all countries. However, there is no defined target level for this indicator.</p>
             <p><strong>More research:</strong> The <i>Our World in Data</i> <a href="https://ourworldindata.org/substance-use">entry on Substance Use</a> provides data on substance use disorder prevalence and limited data coverage of treatment interventions.</p>
         </div>
-        <div class="col-md">
-         <br><br><br><br><br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b> 
+        <div class="col-md align-self-center">
+         <b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b> 
         </div>
     </div>
 </div>
@@ -462,8 +462,8 @@ essential medicines and vaccines for all.</q></p>
 <br><a href="https://ourworldindata.org/grapher/risk-of-catastrophic-expenditure-for-surgical-care">Risk of catastrophic expenditure for surgical care</a>
 <br><a href="https://ourworldindata.org/grapher/risk-of-impoverishing-expenditure-for-surgical-care">Risk of impoverishing expenditure for surgical care</a>
         </div>
-        <div class="col-md">
-            <br><br><br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b> 
+        <div class="col-md align-self-center">
+            <b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b> 
         </div>
     </div>
 </div>
@@ -633,8 +633,8 @@ health, and, in particular, provide access to medicines for all.</q></p>
             <p><strong>Definition:</strong> Indicator 3.B.3 is the <i><q>proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis</q></i>.<p>The <i>WHO Taskforce on Innovative International Financing for Health Systems</i> provide a list of medicines considered essential in its <a href="http://www.who.int/pmnch/media/membernews/2009/htltf_wg1_report_EN.pdf"> Working Group Report</a>.</p>
             <p><strong>Goal:</strong> By 2030 <q><i>provide affordable access to essential medicines for all</q></i>.
         </div>
-        <div class="col-md">
-            <br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b> 
+        <div class="col-md align-self-center">
+            <b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b> 
         </div>
     </div>
 </div>
@@ -673,12 +673,9 @@ health workforce in developing countries</q></i>.
 </div>
 
 <div class="target">
-<h2>Target 3.D: Improve early warning systems for global health risks</h2>
-
-<p>UN definition: <q>Strengthen the capacity of all countries, in particular developing countries, for early warning, risk reduction and management of national and global health risks.</q></p>
-
-<p></p>
-
+    <h2>Target 3.D: Improve early warning systems for global health risks</h2>
+    <p>UN definition: <q>Strengthen the capacity of all countries, in particular developing countries, for early warning, risk reduction and management of national and global health risks.</q></p>
+    <p></p>
 </div>
 
 <div class="indicator" id="3.D.1">

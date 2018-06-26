@@ -133,8 +133,8 @@ featuredImage: /img/uploads/7.svg
             <p><strong>Definition:</strong> Indicator 7.A.1 is <i><q>international financial flows to developing countries in support of clean energy research and development and renewable energy production, including in hybrid systems</q></i>.</p>
             <p><strong>Goal:</strong> <i><q>Enhance international cooperation to facilitate access to clean energy research and technology, including renewable energy, energy efficiency and advanced and cleaner fossil-fuel technology, and promote investment in energy infrastructure and clean energy technology</q></i> by 2030.</p>
         </div>
-        <div class="col-md">
-            <br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
+        <div class="col-md align-self-center">
+            <b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
         </div>
     </div>
 </div>
@@ -153,8 +153,8 @@ featuredImage: /img/uploads/7.svg
 <p><strong>Definition:</strong> Indicator 7.B.1 is <i><q>investments in energy efficiency as a proportion of GDP and the amount of foreign direct investment in financial transfer for infrastructure and technology to sustainable development services</q></i>.</p>
 <p><strong>Goal:</strong> <i><q>Expand infrastructure and upgrade technology for supplying modern and sustainable energy services for all in developing countries</q></i> by 2030.</p>
 </div>
-<div class="col-md">
-<br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
+<div class="col-md align-self-center">
+<b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
 </div>
 </div>
 </div>
