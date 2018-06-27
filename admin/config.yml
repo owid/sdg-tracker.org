@@ -13,7 +13,7 @@ collections:
       - {label: "Layout", name: "layout", widget: "hidden", default: "goal"}
       - {label: "Page Title", name: "title", widget: "string"}
       - {label: "Goal Number", name: "goalNum", widget: "number", valueType: 'int', required: false}
-      - {label: "Short Name", name: "name", widget: "string"}
+      - {label: "Short Name", name: "name", widget: "string", required: false}
       - {label: "Description", name: "description", widget: "markdown" }
       - {label: "Featured Image", name: "featuredImage", widget: "image"}
       - {label: "Body", name: "body", widget: "markdown"}

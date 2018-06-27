@@ -5,12 +5,12 @@ name: About
 description: >-
   Our World in Data’s SDG Tracker is the first resource where users can track
   and explore global and country-level progress towards each of the 17
-  Sustainable Development Goals through interactive data visualisations. This
+  Sustainable Development Goals through interactive data visualizations. This
   resource is kept up-to-date with all of the latest data across all of the 17
   Goals.
 featuredImage: /img/uploads/18.png
 ---
-Our World in Data’s SDG Tracker is the first resource where users can track and explore global and country-level progress towards each of the 17 Sustainable Development Goals through interactive data visualisations. This resource is kept up-to-date with all of the latest data across all of the 17 Goals.
+Our World in Data’s SDG Tracker is the first resource where users can track and explore global and country-level progress towards each of the 17 Sustainable Development Goals through interactive data visualizations. This resource is kept up-to-date with all of the latest data across all of the 17 Goals.
  
  
 In 2015 the world set a new sustainable development agenda, pledging within the United Nations (UN) to achieve 17 development goals by 2030: The [Sustainable Development Goals](https://www.un.org/sustainabledevelopment/sustainable-development-goals/) (also known as The Global Goals). Ranging from eradicating poverty, to ensuring clean energy for all, to reaching sustainable levels of consumption, the array of targets across these goals were selected to drive our efforts in the 15 years up to 2030.

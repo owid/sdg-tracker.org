@@ -13,7 +13,7 @@ description: >-
 
 
   Sustainable Development Goal 1 (SDG1) aims to eradicate extreme poverty by
-  2030. The visualisations and data below present the latest data on our
+  2030. The visualizations and data below present the latest data on our
   progress there.
 
 
@@ -25,7 +25,7 @@ description: >-
   The UN has defined 7 _Targets_ and 14 _Indicators_ for SDG 1. Targets specify
   the goals and Indicators represent the metrics by which the world aims to
   track whether these Targets are achieved. Below we quote the original text of
-  all <i>Targets</i> and show the data on the agreed <i>Indicators</i>.
+  all Targets and show the data on the agreed Indicators.
 featuredImage: /img/uploads/1.svg
 ---
 <div class="target">
