@@ -7,12 +7,12 @@ goalNum: 15
 name: Life on Land
 description: >-
   The [UN explains](https://www.un.org/sustainabledevelopment/biodiversity/):
-  <i><q>Forests cover 30 per cent of the Earth’s surface and in addition to
+  <q>Forests cover 30 per cent of the Earth’s surface and in addition to
   providing food security and shelter, forests are key to combating climate
   change, protecting biodiversity and the homes of the indigenous population. 
   Thirteen million hectares of forests are being lost every year while the
   persistent degradation of drylands has led to the desertification of 3.6
-  billion hectares.</q></i>
+  billion hectares.</q>
 
 
   The UN has defined 12 _Targets_ and 14 _Indicators_ for SDG 15. Targets

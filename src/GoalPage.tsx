@@ -41,7 +41,7 @@ export default class GoalPage extends React.Component<GoalPageProps> {
                                         <a href="#targets"><i className="fa fa-arrow-down"/> How is the world doing on this goal?</a>
                                     </div>
                                     <div className="col-md-4">
-                                        <img src={sdgsUrl(featuredImage)} />
+                                        <img alt={`${name} Logo`} src={sdgsUrl(featuredImage)} />
                                     </div>
                                 </div>
                             </div>
