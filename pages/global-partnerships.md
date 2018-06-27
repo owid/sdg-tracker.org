@@ -50,7 +50,7 @@ featuredImage: /img/uploads/17.svg
             <h3>Domestic taxes</h3>
             <p><strong>Definition:</strong> Indicator 17.1.2 is the <q>proportion of domestic budget funded by domestic taxes</q>.<p>Tax revenue refers to compulsory transfers to the central government for public purposes. Compulsory transfers such as fines, penalties, and most social security contributions are excluded.</p>
             <p><strong>Goal:</strong> <q>Strengthen domestic resource mobilization, to improve domestic capacity for tax and other revenue collection</q> across all countries by 2030.</p>
-            <p><strong>More research:</strong> Further data and research on this topic is available at the <i>Our World in Data</i> <a href="https://ourworldindata.org/public-spending">entry on Public Spending</a>.</p>
+            <p><strong>More research:</strong> Further data and research on this topic is available at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/public-spending">Public Spending</a>.</p>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/proportion-of-domestic-budget-funded-by-domestic-taxes-of-gdp" style="width: 100%; height: 600px; border: 0px none;"></iframe>
@@ -267,7 +267,7 @@ featuredImage: /img/uploads/17.svg
             <h3>Weighted average tariffs</h3>
             <p><strong>Definition:</strong> Indicator 17.10.1 is the <q>worldwide weighted tariff-average</q>.<p>Weighted mean applied tariff is the average of effectively applied rates weighted by the product import shares corresponding to each partner country.</p>
             <p><strong>Goal:</strong> <q>Promote a universal, rules-based, open, non-discriminatory and equitable multilateral trading system under the World Trade Organization</q> by 2030.</p>
-            <p><strong>More research:</strong> Further data and research on this topic is available at the <i>Our World in Data</i> <a href="https://ourworldindata.org/international-trade">entry on International Trade</a>.</p>
+            <p><strong>More research:</strong> Further data and research on this topic is available at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/international-trade">International Trade</a>.</p>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/tariff-rate-applied-weighted-mean-all-products" style="width: 100%; height: 600px; border: 0px none;"></iframe>
@@ -288,7 +288,7 @@ featuredImage: /img/uploads/17.svg
             <h3>Exports from developing countries</h3>
             <p><strong>Definition:</strong> Indicator 17.11.1 is <q>developing countries’ and least developed countries’ share of global exports</q>.<p> This indicator is assessed as the total export value of goods and services by aggregated World Bank income groups as a share of the global total. Exports of goods and services represent the value of all goods and other market services provided to the rest of the world.<p>Data on the total export value of good and service by income group (in constant 2010 US$) is also shown for context.</p>
             <p><strong>Goal:</strong> <q>Significantly increase the exports of developing countries, in particular with a view to doubling the least developed countries’ share of global exports by 2020.</q> <p>Unlike most SDG targets which are set for the year 2030, this indicator is to be achieved by 2020.</p>
-            <p><strong>More research:</strong> Further data and research on this topic is available at the <i>Our World in Data</i> <a href="https://ourworldindata.org/international-trade">entry on International Trade</a>.</p>
+            <p><strong>More research:</strong> Further data and research on this topic is available at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/international-trade">International Trade</a>.</p>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/exports-by-income-group" style="width: 100%; height: 600px; border: 0px none;"></iframe>
@@ -310,7 +310,7 @@ featuredImage: /img/uploads/17.svg
             <h3>Tariffs for developing countries</h3>
             <p><strong>Definition:</strong> Indicator 17.12.1 is the <q>average tariffs faced by developing countries, least developed countries and small island developing States</q>.<p>Data for this indictor is shown as the weighted average tariff rate (by product sector) for low-income countries. THis is, however, available to view for any country or other income groupings.</p>
             <p><strong>Goal:</strong> <q>Realize timely implementation of duty-free and quota-free market access on a lasting basis for all least developed countries</q>.</p>
-            <p><strong>More research:</strong> Further data and research on this topic is available at the <i>Our World in Data</i> <a href="https://ourworldindata.org/international-trade">entry on International Trade</a>.</p>
+            <p><strong>More research:</strong> Further data and research on this topic is available at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/international-trade"> International Trade</a>.</p>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/tariff-rates" style="width: 100%; height: 600px; border: 0px none;"></iframe>
@@ -408,7 +408,7 @@ featuredImage: /img/uploads/17.svg
             <p><strong>Definition:</strong> Indicator 17.17.1 is the <q>amount of United States dollars committed to (a) public-private partnerships and (b) civil society
 partnerships</q>.</p>
             <p><strong>Goal:</strong> <q>Encourage and promote effective public, public-private and civil society partnerships</q> by 2030.</p>
-            <p><strong>More research:</strong> Related data on this indicator, specifically related to partnerships in infrastructure projects is available at the <i>Our World in Data</i> <a href="https://ourworldindata.org/public-spending#procurement-of-infrastructure-projects-has-grown-substantially-in-low-and-middle-income-countries">entry on Public Spending</a>.</p>
+            <p><strong>More research:</strong> Related data on this indicator, specifically related to partnerships in infrastructure projects is available at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/public-spending#procurement-of-infrastructure-projects-has-grown-substantially-in-low-and-middle-income-countries">Public Spending</a>.</p>
         </div>
         <NoData/>
     </div>

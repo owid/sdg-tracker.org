@@ -50,7 +50,7 @@ featuredImage: /img/uploads/16.svg
             <p>Intentional homicides are estimates of unlawful homicides purposely inflicted as a result of domestic disputes, interpersonal violence, violent conflicts over land resources, intergang violence over turf or control, and predatory violence and killing by armed groups.</p>
             <p><strong>Goal:</strong> <q>Significantly reduce all forms of violence and related death rates</q> across all countries by 2030.</p>
             <p>There is no defined target level of reduction for this indicator.</p>
-            <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/homicides">entry on Homicides</a>.</p>
+            <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/homicides">Homicides</a>.</p>
             <p><strong>Additional charts:</strong> <br><a href="https://ourworldindata.org/grapher/homicide-rate-by-age">Homicide rates by age</a> <br><a href="https://ourworldindata.org/grapher/number-of-homicide-deaths">Number of homicide deaths</a> <br><a href="https://ourworldindata.org/grapher/homicide-deaths-by-age">Number of homicide deaths by age</a></p>
         </div>
         <div class="col-md">
@@ -127,7 +127,7 @@ by sex, age and cause</q>.</p>
             <p><strong>Definition:</strong> Indicator 16.2.1 is the <q>proportion of children aged 1–17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month</q>.</p>
             <p>Data for this indicator measures the percentage of children aged 14 years and younger who experienced violence from a caregiver in the previous month. Data on violence to adolescents older than 14 years, or violence outside of the home is not available.</p>
             <p><strong>Goal:</strong> <q>Protect children from abuse, exploitation, trafficking and violence</q> across all countries by 2030.</p>
-            <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/violence-against-rights-for-children">entry on Violence Against & Rights for Children</a>.</p>
+            <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/violence-against-rights-for-children">Violence Against & Rights for Children</a>.</p>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/percentage-of-children-214-who-experience-violent-discipline-at-home?tab=map" style="width: 100%; height: 600px; border: 0px none;"></iframe>
@@ -145,7 +145,7 @@ by sex, age and cause</q>.</p>
             <p><strong>Definition:</strong> Indicator 16.2.2 is the <q>number of victims of human trafficking per 100,000 population</q>.</p>
             <p>Data for this indicator measures the prevalence of human trafficking in females and males for those aged 18 years and younger, and those over 18 years.</p>
             <p><strong>Goal:</strong> <q>Protect children from abuse, exploitation, trafficking and violence</q> across all countries by 2030.</p>
-            <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/violence-against-rights-for-children">entry on Violence Against & Rights for Children</a>.</p>
+            <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/violence-against-rights-for-children">Violence Against & Rights for Children</a>.</p>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/victims-of-human-trafficking-under-18-male-vs-female" style="width: 100%; height: 600px; border: 0px none;"></iframe>
@@ -164,7 +164,7 @@ by sex, age and cause</q>.</p>
             <p><strong>Definition:</strong> Indicator 16.2.3 is the <q>proportion of young women and men aged 18–29 years who experienced sexual violence by age 18</q>.</p>
             <p>Data for this indicator is provided as the proportion of women and men aged 18-29 years old who experienced sexual violence before the age of 18; this data is however very limited.<p>The <a href="https://ourworldindata.org/violence-against-rights-for-children#what-are-the-main-forms-of-sexual-violence-against-children">definition of sexual violence</a> is broader than forced sex, however additional data coverage on forced sex (despite not being the official indicator) is also provided for additional context.</p>
             <p><strong>Goal:</strong> <q>Protect children from abuse, exploitation, trafficking and violence</q> across all countries by 2030.</p>
-            <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/violence-against-rights-for-children">entry on Violence Against & Rights for Children</a>.</p>
+            <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/violence-against-rights-for-children">Violence Against & Rights for Children</a>.</p>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/women-who-experienced-sexual-violence-by-age-18" style="width: 100%; height: 600px; border: 0px none;"></iframe>
@@ -253,7 +253,7 @@ by sex, age and cause</q>.</p>
             <p><strong>Definition:</strong> Indicator 16.5.1 is the <q>proportion of persons who had at least one contact with a public official and who paid a bribe to a public official, or were asked for a bribe by those public officials, during the previous 12 months</q>.</p>
             <p><strong>Goal:</strong> <q>Substantially reduce corruption and bribery in all their forms</q> across all countries by 2030.</p>
             <p>There is no defined target level for this indicator.</p>
-            <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/corruption">entry on Corruption</a>.</p>
+            <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/corruption">Corruption</a>.</p>
         </div>
         <NoData/>
     </div>
@@ -270,7 +270,7 @@ by sex, age and cause</q>.</p>
             <p>Bribery incidence is the percentage of firms experiencing at least one bribe payment request across 6 public transactions dealing with utilities access, permits, licenses, and taxes.</p>
             <p><strong>Goal:</strong> <q>Substantially reduce corruption and bribery in all their forms</q> across all countries by 2030.</p>
             <p>There is no defined target level for this indicator.</p>
-            <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/corruption">entry on Corruption</a>.</p>
+            <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/corruption">Corruption</a>.</p>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/bribery-incidence-of-firms-experiencing-at-least-one-bribe-payment-request" style="width: 100%; height: 600px; border: 0px none;"></iframe>

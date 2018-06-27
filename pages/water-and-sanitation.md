@@ -40,7 +40,7 @@ featuredImage: /img/uploads/6.svg
             <h3>Safe drinking water</h3>
             <p><strong>Definition:</strong> Indicator 6.1.1 is the <q>Proportion of population using safely managed drinking water services</q>.<p>A safely managed drinking water service is defined as one located on premises, available when needed and free from contamination.</p>
             <p><strong>Goal:</strong> By 2030 achieve universal and equitable access to safe and affordable drinking water for all</q>.</p>
-            <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/water-access-resources-sanitation">entry on Water Access, Resources & Sanitation</a>.</p>
+            <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/water-access-resources-sanitation">Water Access, Resources & Sanitation</a>.</p>
             <p><strong>Additional charts:</strong> 
 <br><a href="https://ourworldindata.org/grapher/number-using-safely-managed-drinking-water">Number of people using safely managed drinking water</a>
 <br><a href="https://ourworldindata.org/grapher/urban-vs-rural-safely-managed-drinking-water-source">Safely managed drinking water, rural vs. urban</a>
@@ -69,7 +69,7 @@ featuredImage: /img/uploads/6.svg
             <h3>Safe sanitation and hygiene</h3>
             <p><strong>Definition:</strong> Indicator 6.2.1 is the <q>Proportion of population using (a) safely managed sanitation services and (b) a hand-washing facility with soap and water</q>.<p>This is measured as the share of the population using safely managed sanitation facilities and at least basic handwashing facilities. <p>A safely managed sanitation facility is one where excreta is safely disposed of in situ or treated off-site. A basic handwashing facility is defined by a device to contain, transport or regulate the flow of water to facilitate handwashing with soap and water in the household.</p>
             <p><strong>Goal:</strong> By 2030 achieve access to adequate and equitable sanitation and hygiene for all and end open defecation</q>.</p>
-            <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/water-access-resources-sanitation">entry on Water Access, Resources & Sanitation</a>.</p>
+            <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/water-access-resources-sanitation">Water Access, Resources & Sanitation</a>.</p>
             <p><strong>Additional charts:</strong> 
 <br><a href="https://ourworldindata.org/grapher/number-using-safely-managed-sanitation">Number of people using safely managed sanitation facilities</a>
 <br><a href="https://ourworldindata.org/grapher/urban-vs-rural-population-safely-managed-sanitation">Safely managed sanitation facilities, urban vs. rural</a>
@@ -99,7 +99,7 @@ featuredImage: /img/uploads/6.svg
             <h3>Safe sanitation and hygiene</h3>
             <p><strong>Definition:</strong> Indicator 6.3.1 is the <q>proportion of wastewater safely treated</q>.<p>
             <p><strong>Goal:</strong> <q>Halving the proportion of untreated wastewater and substantially increasing recycling and safe reuse globally</q> by 2030.</p>
-            <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/water-access-resources-sanitation">entry on Water Access, Resources & Sanitation</a>.</p>
+            <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/water-access-resources-sanitation">Water Access, Resources & Sanitation</a>.</p>
         </div>
         <NoData/>
     </div>
@@ -114,7 +114,7 @@ featuredImage: /img/uploads/6.svg
             <h3>Ambient water quality</h3>
             <p><strong>Definition:</strong> Indicator 6.3.2 is the <q>proportion of bodies of water with good ambient water quality</q>.<p>
             <p><strong>Goal:</strong> By 2030 <q>improve water quality by reducing pollution, eliminating dumping and minimizing release of hazardous chemicals and materials</q>.</p>
-            <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/water-access-resources-sanitation">entry on Water Access, Resources & Sanitation</a>.</p>
+            <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/water-access-resources-sanitation">Water Access, Resources & Sanitation</a>.</p>
         </div>
         <NoData/>
     </div>
@@ -134,7 +134,7 @@ featuredImage: /img/uploads/6.svg
             <h3>Water use efficiency</h3>
             <p><strong>Definition:</strong> Indicator 6.4.1 is the <q>change in water-use efficiency over time</q>.<p>Water efficiency is measured here in the SDG Tracker as a productivity metric, given as a country's total gross domestic product (GDP) divided by total freshwater withdrawals. Water-efficient economies are those which achieve a high gross domestic product (GDP) per unit of freshwater withdrawal.</p>
             <p><strong>Goal:</strong> By 2030 <q>substantially increase water-use efficiency across all sectors</q>.</p>
-            <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/water-access-resources-sanitation">entry on Water Access, Resources & Sanitation</a>.</p>
+            <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/water-access-resources-sanitation">Water Access, Resources & Sanitation</a>.</p>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/water-productivity" style="width: 100%; height: 600px; border: 0px none;"></iframe>
@@ -151,7 +151,7 @@ featuredImage: /img/uploads/6.svg
             <h3>Levels of freshwater stress</h3>
             <p><strong>Definition:</strong> Indicator 6.4.2 is the <q>level of water stress: freshwater withdrawal as a proportion of available freshwater resources</q>.<p>Water scarcity or stress is defined as the total quantity of freshwater withdrawals as a share of internal resources. This includes water withdrawn from agricultural, industrial and domestic uses. Water stress is defined by the following categories: < 10% is low stress; 10-20% is low-to-medium; 20-40% medium-to-high; 40-80% high; >80% extremely high.<p>
             <p><strong>Goal:</strong> By 2030 <q>ensure sustainable withdrawals and supply of freshwater to address water scarcity and substantially reduce the number of people suffering from water scarcity</q>.</p>
-            <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/water-access-resources-sanitation">entry on Water Access, Resources & Sanitation</a>.</p>
+            <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/water-access-resources-sanitation">Water Access, Resources & Sanitation</a>.</p>
             <p><strong>Additional charts:</strong><br><a href="https://ourworldindata.org/grapher/water-withdrawals-per-capita?year=2015">Water withdrawals per capita</a>
 <br><a href="https://ourworldindata.org/grapher/renewable-water-resources-per-capita">Renewable water resources per capita</a></p>
         </div>
@@ -175,7 +175,7 @@ featuredImage: /img/uploads/6.svg
             <h3>Integrated water management</h3>
             <p><strong>Definition:</strong> Indicator 6.5.1 is the <q>degree of integrated water resources management implementation (0–100)</q>.<p>This metric assesses the status of national development and implementation of Integrated Water Resource Management (IWRM) plans across the world.</p>
             <p><strong>Goal:</strong> <q>By 2030, implement integrated water resources management at all levels, including through transboundary cooperation as appropriate</q>.</p>
-            <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/water-access-resources-sanitation">entry on Water Access, Resources & Sanitation</a>.</p>
+            <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/water-access-resources-sanitation">Water Access, Resources & Sanitation</a>.</p>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/status-of-the-development-and-implementation-of-integrated-national-water-resource-management-plans" style="width: 100%; height: 600px; border: 0px none;"></iframe>
@@ -231,7 +231,7 @@ operational arrangement for water cooperation</q>.
             <h3>Water and sanitation support</h3>
             <p><strong>Definition:</strong> Indicator 6.A.1 is the <q>amount of water- and sanitation-related official development assistance that is part of a government coordinated spending plan</q>.<p>This metric is assessed as the total official development assistance (ODA) allocated to water- and sanitation-related programmes. ODA is reported as the total per recipient country in constant 2015 US$ per year.</p>
             <p><strong>Goal:</strong> <q>By 2030, expand international cooperation and capacity-building support to developing countries in water- and sanitation-related activities and programmes</q>.</p>
-            <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/water-access-resources-sanitation">entry on Water Access, Resources & Sanitation</a>.</p>
+            <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/water-access-resources-sanitation">Water Access, Resources & Sanitation</a>.</p>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/total-oda-for-water-supply-and-sanitation-by-recipient" style="width: 100%; height: 600px; border: 0px none;"></iframe>

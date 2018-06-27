@@ -143,7 +143,7 @@ employment</q>.<p>This indicator measures the manufacturing sector's employment 
             <p><strong>Definition:</strong> Indicator 9.4.1 is <q>CO<sub>2</sub> emissions per unit of value added</q>.<p>This indicator is a measure of carbon intensity; it reports the quantity of carbon dioxide emissions generated per unit of economic value (kilograms of CO<sub>2</sub> emitted per dollar of GDP). 
 </p>
             <p><strong>Goal:</strong> <q>By 2030, upgrade infrastructure and retrofit industries to make them sustainable, with increased resource-use efficiency and greater adoption of clean and environmentally sound technologies and industrial processes</q>.</p>
-            <p><strong>More research:</strong> Further data and research on these topics are available at the <i>Our World in Data</i> <a href="https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions">entry on CO<sub>2</sub> and other Greenhouse Gas Emissions</a>.</p>
+            <p><strong>More research:</strong> Further data and research on these topics are available at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions">CO<sub>2</sub> and other Greenhouse Gas Emissions</a>.</p>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/carbon-emission-intensity-of-economies?tab=map" style="width: 100%; height: 600px; border: 0px none;"></iframe>

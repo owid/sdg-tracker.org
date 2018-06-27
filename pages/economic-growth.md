@@ -33,7 +33,7 @@ featuredImage: /img/uploads/8.svg
             <h3>GDP per capita growth rate</h3>
             <p><strong>Definition:</strong> Indicator 8.1.1 is <q>annual growth rate of real GDP per capita</q>.<p>This is measured as the annual percentage growth in gross domestic product (GDP) per capita based on constant local currency.</p>
             <p><strong>Goal:</strong> <q>Sustain per capita economic growth in accordance with national circumstances and, in particular, at least 7 per cent gross domestic product growth per annum in the least developed countries</q> through 2030.</p>
-            <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/economic-growth">entry on Economic Growth</a>.
+            <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/economic-growth">Economic Growth</a>.
 <p><strong>Additional charts:</strong> <br><a href="https://ourworldindata.org/grapher/gdp-per-capita-worldbank">Gross Domestic Product (GDP) per capita</a></p>
         </div>
         <div class="col-md">
@@ -55,7 +55,7 @@ featuredImage: /img/uploads/8.svg
             <h3>GDP per capita growth rate per employed person</h3>
             <p><strong>Definition:</strong> Indicator 8.2.1 is <q>annual growth rate of real GDP per employed person</q>.<p>This is measured as the annual change in real gross domestic product (GDP) per employed person. It provides an overall measure of the change in productivity of a country's labour force and use of resources.</p>
             <p><strong>Goal:</strong> <q>Achieve higher levels of economic productivity through diversification, technological upgrading and innovation, including through a focus on high-value added and labour-intensive sectors</q> by 2030.</p>
-            <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/economic-growth">entry on Economic Growth</a>.
+            <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/economic-growth">Economic Growth</a>.
 <p><strong>Additional charts:</strong> <br><a href="https://ourworldindata.org/grapher/gdp-per-capita-worldbank">Gross Domestic Product (GDP) per capita</a></p>
         </div>
         <div class="col-md">
@@ -77,7 +77,7 @@ featuredImage: /img/uploads/8.svg
             <h3>Informal employment</h3>
             <p><strong>Definition:</strong> Indicator 8.3.1 is the <q>proportion of informal employment in non-agriculture employment, by sex</q>.<p>This is measured as employment in the informal economy as a percentage of total non-agricultural employment. This includes all jobs in unregistered and/or small-scale private unincorporated enterprises that produce goods or services meant for sale or barter. </p>
             <p><strong>Goal:</strong> <q>Promote development-oriented policies that support productive activities, decent job creation, entrepreneurship, creativity and innovation</q> by 2030.</p>
-            <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/female-labor-supply">entry on Female Labor Supply</a>.
+            <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/female-labor-supply">female labor supply</a>.
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/informal-employment-of-total-non-agricultural-employment" style="width: 100%; height: 600px; border: 0px none;"></iframe>
@@ -176,7 +176,7 @@ featuredImage: /img/uploads/8.svg
             <h3>Youth employment, education and training</h3>
             <p><strong>Definition:</strong> Indicator 8.6.1 is the <q>proportion of youth (aged 15–24 years) not in education, employment or training</q>.<p>Current data for this indicator reports the share of young people (aged 15-29 years) not in education, employment or training (NEET) in a given year.</p>
             <p><strong>Goal:</strong> <q>Substantially reduce the proportion of youth not in employment, education or training</q>.<p>Unlike most SDG targets set for the year 2030, this is set to be achieved by 2020.</p>
-           <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/tertiary-education">entry on Tertiary Education</a>.
+           <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/tertiary-education">Tertiary Education</a>.
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/youth-not-in-education-employment-training" style="width: 100%; height: 600px; border: 0px none;"></iframe>
@@ -197,7 +197,7 @@ featuredImage: /img/uploads/8.svg
             <h3>Child labour</h3>
             <p><strong>Definition:</strong> Indicator 8.7.1 is the <q>proportion and number of children aged 5–17 years engaged in child labour, by sex and age</q>.<p>Current data for this indicator reports the share of children aged 5-17 years old in employment (working for at least one hour in week previous to the survey). This is also shown available by sex.</p>
             <p><strong>Goal:</strong> <q>End child labour in all its forms</q> by 2025.</p>
-           <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/child-labor">entry on Child Labor</a>.
+           <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/child-labor">Child Labor</a>.
            <p><strong>Additional charts:</strong> <br><a href="https://ourworldindata.org/grapher/average-working-hours-of-children">Average weekly working hours of children</a>
         </div>
         <div class="col-md">
@@ -255,7 +255,7 @@ featuredImage: /img/uploads/8.svg
             <h3>Tourism contribution to GDP</h3>
             <p><strong>Definition:</strong> Indicator 8.9.1 is <q>tourism direct GDP as a proportion of total GDP and in growth rate</q>.</p>
             <p><strong>Goal:</strong> <q>By 2030, devise and implement policies to promote sustainable tourism that creates jobs and promotes local culture and products</q>.</p>
-            <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/tourism">entry on Tourism</a>.</p>
+            <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/tourism">Tourism</a>.</p>
             <p><strong>Additional charts:</strong> <br><a href="https://ourworldindata.org/grapher/international-tourism-number-of-arrivals">Number of tourist arrivals</a></p>      
         </div>
         <NoData/>
@@ -271,7 +271,7 @@ featuredImage: /img/uploads/8.svg
             <h3>Sustainable tourism jobs</h3>
             <p><strong>Definition:</strong> Indicator 8.9.2 is the <q>proportion of jobs in sustainable tourism industries out of total tourism jobs</q>.</p>
             <p><strong>Goal:</strong> <q>By 2030, devise and implement policies to promote sustainable tourism that creates jobs and promotes local culture and products</q>.</p>
-            <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/tourism">entry on Tourism</a>.</p>    
+            <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/tourism">Tourism</a>.</p>    
         </div>
         <NoData/>
     </div>
@@ -328,7 +328,7 @@ featuredImage: /img/uploads/8.svg
             <h3>Aid for trade</h3>
             <p><strong>Definition:</strong> Indicator 8.A.1 is <q>aid for trade commitments and disbursements</q>.<p>Aid for Trade is reported here by recipient, as well as by donor country. This is measured as total Official Development Assistance (ODA) allocated to aid for trade in 2015 US$.</p>
             <p><strong>Goal:</strong> <q>Increase Aid for Trade support for developing countries</q> by 2030.</p>
-            <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/international-trade">entry on International Trade</a>.</p>    
+            <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/international-trade">International Trade</a>.</p>    
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/total-oda-for-aid-for-trade-by-recipient" style="width: 100%; height: 600px; border: 0px none;"></iframe>

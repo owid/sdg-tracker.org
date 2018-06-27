@@ -68,7 +68,7 @@ featuredImage: /img/uploads/3.svg
             <h3>Maternal mortality ratio</h3>
             <p><strong>Definition:</strong> Indicator 3.1.1 is the <q>maternal mortality ratio</q>.<p>The maternal mortality ratio refers to the number of women who die from pregnancy-related causes while pregnant or within 42 days of pregnancy termination per 100,000 live births.</p>
             <p><strong>Goal:</strong> By 2030 <q>Reduce global maternal mortality to less than 70 per 100,000 live births</q> per year. (No target has been set at the national level.)</p>
-            <p><strong>More research:</strong> The <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/maternal-mortality">maternal mortality</a> gives a long-run perspective over the last centuries and presents research on the causes and consequences of the deaths of mothers.</p>
+            <p><strong>More research:</strong> The <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/maternal-mortality">Maternal Mortality</a> gives a long-run perspective over the last centuries and presents research on the causes and consequences of the deaths of mothers.</p>
 <p><strong>Additional charts:</strong> 
 <br><a href="https://ourworldindata.org/https://ourworldindata.org/grapher/number-of-maternal-deaths-by-region">Number of maternal deaths by region</a>
 <br><a href="https://ourworldindata.org/grapher/number-of-maternal-deaths">Number of maternal deaths by country</a>
@@ -112,7 +112,7 @@ However, there is no goal specified by the UN for the share of births attended b
             <h3>Under-5 mortality rate</h3>
             <p><strong>Definition:</strong> Indicator 3.2.1 is the <q>under-5 mortality rate</q>. <p>The under-5 mortality rate measures the number of children per 1,000 live births who die before their 5th birthday.</p>
             <p><strong>Goal:</strong> By 2030 <q>Reduce child mortality to less than 25 deaths per 1,000 live births</q> per year across all countries.</p>
-            <p><strong>More research:</strong> Child mortality is covered more broadly, and with a longer-term perspective in the <i>Our World in Data</i> <a href="https://ourworldindata.org/child-mortality">entry on child mortality</a>.
+            <p><strong>More research:</strong> Child mortality is covered more broadly, and with a longer-term perspective in the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/child-mortality">Child Mortality</a>.
 <p><strong>Additional charts:</strong> 
 <br><a href="https://ourworldindata.org/grapher/number-of-under-five-deaths">Number of under-five deaths</a>
 <br><a href="https://ourworldindata.org/grapher/number-of-under-five-deaths-by-region">Number of under-five deaths by region</a>
@@ -133,7 +133,7 @@ However, there is no goal specified by the UN for the share of births attended b
             <h3>Neonatal mortality rate</h3>
             <p><strong>Definition:</strong> Indicator 3.2.2 is the <q>neonatal mortality rate</q>. <p>Neonatal mortality rate is defined as the share of newborns per 1,000 live births in a given year who die before reaching 28 days of age.</p>
             <p><strong>Goal:</strong> By 2030 <q>Reduce neonatal mortality to at least as low as 12 per 1,000 live births</q> per year across all countries.</p>
-            <p><strong>More research:</strong> The <i>Our World in Data</i> <a href="https://ourworldindata.org/child-mortality">entry on child mortality</a> includes a section on neonatal mortality.</p>
+            <p><strong>More research:</strong> The <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/child-mortality">Child Mortality</a> includes a section on neonatal mortality.</p>
 <p><strong>Additional charts:</strong> 
 <br><a href="https://ourworldindata.org/grapher/number-of-neonatal-deaths">Number of neonatal deaths</a>
 <br><a href="https://ourworldindata.org/grapher/number-of-neonatal-deaths-by-region">Number of neonate deaths by region</a>
@@ -159,7 +159,7 @@ However, there is no goal specified by the UN for the share of births attended b
             <p><strong>Goal:</strong> The target 2030 is to <q>end the epidemic of HIV</q> across all countries. The targeted level of reduction, however, is not defined. 
 
 <p><i>UNAIDS</i> has <a href="https://www.avert.org/global-hiv-targets">set a target</a> (not specifically related to the SDGs) of reducing to less than 200,000 new infections globally among adults by 2030. This would mean a target of reduction to 0.02 new cases per 1,000 people globally in 2030.</p>
-            <p><strong>More research:</strong> HIV is covered in detail in the <i>Our World in Data</i> <a href="https://ourworldindata.org/hiv-aids"> entry on HIV/AIDS</a>.</p>
+            <p><strong>More research:</strong> HIV is covered in detail in the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/hiv-aids">HIV/AIDS</a>.</p>
 <p><strong>Additional charts:</strong> 
 <br><a href="https://ourworldindata.org/grapher/share-of-the-population-infected-with-hiv">Share of population infected with HIV</a>
 <br><a href="https://ourworldindata.org/grapher/hiv-death-rates">HIV/AIDS death rates</a>
@@ -203,7 +203,7 @@ However, there is no goal specified by the UN for the share of births attended b
             <p><strong>Goal:</strong> By 2030 <q>end the epidemic of malaria</q> in all countries. The targeted level of reduction, however, is not defined. 
 
 <p>The  <i><a href="http://www.who.int/malaria/areas/global_targets/en/"> WHO Global Technical Strategy</a></i> has set a target of reducing incidence by 90 percent by 2030. This would infer a target of 9 or fewer cases of malaria per 1,000 people globally in 2030.</p>
-            <p><strong>More research:</strong> More information on global and national trends in malaria prevalence, deaths and interventions can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/malaria"> entry on Malaria</a>.</p>
+            <p><strong>More research:</strong> More information on global and national trends in malaria prevalence, deaths and interventions can be found at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/malaria">Malaria</a>.</p>
 <p><strong>Additional charts:</strong> 
 <br><a href="https://ourworldindata.org/grapher/malaria-death-rates">Malaria death rates</a>
 <br><a href="https://ourworldindata.org/grapher/malaria-deaths-by-age">Number of malaria deaths</a>
@@ -310,7 +310,7 @@ However, there is no goal specified by the UN for the share of births attended b
 aftercare services) for substance use disorders</h3>
             <p><strong>Definition:</strong> Indicator 3.5.1 is the <q>coverage of treatment interventions (pharmacological, psychosocial and rehabilitation and aftercare services) for substance use disorders</q>. <p>This is the share of people with substance use disorders who receive treatment in the form of pharmacological, psychosocial, rehabilitation or aftercare services.</p>
             <p><strong>Goal:</strong> By 2030 <q>Strengthen the prevention and treatment of substance abuse</q> across all countries. However, there is no defined target level for this indicator.</p>
-            <p><strong>More research:</strong> The <i>Our World in Data</i> <a href="https://ourworldindata.org/substance-use">entry on Substance Use</a> provides data on substance use disorder prevalence and limited data coverage of treatment interventions.</p>
+            <p><strong>More research:</strong> The <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/substance-use">Substance Use</a> provides data on substance use disorder prevalence and limited data coverage of treatment interventions.</p>
         </div>
         <NoData/>
     </div>
@@ -326,7 +326,7 @@ aftercare services) for substance use disorders</h3>
             <p><strong>Definition:</strong> Indicator 3.5.2 is the <q>Harmful use of alcohol, defined according to the national context as alcohol per capita consumption (aged 15 years and older) within a calendar year in litres of pure alcohol</q>.</p>
             <p><strong>Goal:</strong> By 2030 <q>Strengthen the prevention and treatment of substance abuse</q> across all countries. However, there is no defined target level for this indicator.</p>
 
-<p><strong>More research:</strong> Further data and research on alcohol consumption and alcohol use disorders can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/alcohol-consumption">entry on Alcohol Consumption</a>.</p>
+<p><strong>More research:</strong> Further data and research on alcohol consumption and alcohol use disorders can be found at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/alcohol-consumption">Alcohol Consumption</a>.</p>
 <p><strong>Additional charts:</strong> 
 <br><a href="https://ourworldindata.org/grapher/share-with-alcohol-use-disorders">Share of population with alcohol use disorders</a>
 <br><a href="https://ourworldindata.org/grapher/share-with-drug-use-disorders">Share of population with drug use disorders</a>
@@ -387,7 +387,7 @@ reproductive health into national strategies and programmes.</q></p>
             <h3>Proportion of women of reproductive age (aged 15–49 years) who have their need for family planning satisfied with modern methods</h3>
             <p><strong>Definition:</strong> Indicator 3.7.1 is the <q>percentage of married women ages 15-49 years whose need for family planning is satisfied with modern methods of contraception</q>.</p>
             <p><strong>Goal:</strong> By 2030 <q>ensure universal access to sexual and reproductive healthcare services, including for family planning.</q></p>
-<p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/fertility-rate">entry on the Fertility Rate</a>.</p>
+<p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/fertility-rate">Fertility Rate</a>.</p>
             <p><strong>Additional charts:</strong> 
 <br><a href="https://ourworldindata.org/grapher/unmet-need-for-contraception-share-of-married-women-of-reproductive-age?tab=map">Unmet need for contraception</a>
 <br><a href="https://ourworldindata.org/grapher/contraceptive-prevalence-any-methods-of-women-ages-15-49">Contraception prevalence, any methods</a>
@@ -408,7 +408,7 @@ reproductive health into national strategies and programmes.</q></p>
             <p><strong>Definition:</strong> Indicator 3.7.2 is the <q>adolescent birth rate (aged 10–14 years; aged 15–19 years) per 1,000 women in that age group</q>. <p>Adolescent birth rates per 1,000 women aged 15-19 years old are shown here. Data on birth rates for girls aged 10-14 years old are not available.</p>
             <p><strong>Goal:</strong> By 2030 <q>ensure universal access to sexual and reproductive healthcare services, including for family planning.</q>
 
-<p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/fertility-rate">entry on Fertility Rate</a>.</p>
+<p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/fertility-rate">Fertility Rate</a>.</p>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/adolescent-birth-rate?tab=chart" style="width: 100%; height: 600px; border: 0px none;"></iframe>
@@ -435,7 +435,7 @@ essential medicines and vaccines for all.</q></p>
             <h3>Coverage of essential health services</h3>
             <p><strong>Definition:</strong> Indicator 3.8.1 is <q>coverage of essential health services</q> <p>Coverage of essential health services is defined as the average coverage of essential services based on tracer interventions that include reproductive, maternal, newborn and child health, infectious diseases, non-communicable diseases and service capacity and access, among the general and the most disadvantaged population.<p>One available metric to track progress on this is the Healthcare Access and Quality (HAQ) Index,  based on death rates from 32 causes of death that could be avoided by timely and effective medical care.</p>
             <p><strong>Goal:</strong> By 2030 <q>achieve universal health coverage including financial risk protection, access to quality essential health-care services and access to safe, effective, quality and affordable essential medicines and vaccines for all</q>.</p>
-<p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/financing-healthcare">entry on Financing Healthcare</a>.</p>
+<p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/financing-healthcare">Financing Healthcare</a>.</p>
         </div>
         <div class="col-md">
          <iframe src="https://ourworldindata.org/grapher/healthcare-access-and-quality-index" style="width: 100%; height: 600px; border: 0px none;"></iframe>
@@ -453,7 +453,7 @@ essential medicines and vaccines for all.</q></p>
             <p><strong>Definition:</strong> Indicator 3.8.2 is the <q>proportion of population with large household expenditures on health as a share of total household expenditure or income</q>.</p>
             <p><strong>Goal:</strong> By 2030 <q>achieve universal health coverage including financial risk protection, access to quality essential health-care services and access to safe, effective, quality and affordable essential medicines and vaccines for all</q>.</p>
 
-<p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/financing-healthcare">entry on Financing Healthcare</a>.</p>
+<p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/financing-healthcare">Financing Healthcare</a>.</p>
 <p><strong>Additional charts:</strong> 
 <br><a href="https://ourworldindata.org/grapher/share-of-out-of-pocket-expenditure-on-healthcare">Out-of-pocket expenditure on healthcare</a>
 <br><a href="https://ourworldindata.org/grapher/risk-of-catastrophic-expenditure-for-surgical-care">Risk of catastrophic expenditure for surgical care</a>
@@ -504,7 +504,7 @@ pollution and contamination.</q></p>
             <p><strong>Definition:</strong> Indicator 3.9.2 is the <q>mortality rate attributed to unsafe water, sanitation, and lack of hygiene</q>. <p>Mortality rate from water, sanitation and hygiene (WASH) factors is measured as the number of attributed deaths per 100,000 people.</p>
             <p><strong>Goal:</strong> By 2030 <q>substantially reduce the number of deaths and illnesses from water pollution and contamination</q>. There is, however, not a defined quantified target level for this indicator.</p>
 
-<p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/water-access-resources-sanitation"> entry on Water Access, Resources and Sanitation</a>.</p>
+<p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/water-access-resources-sanitation">Water Access, Resources and Sanitation</a>.</p>
 <p><strong>Additional charts:</strong> 
 <br><a href="https://ourworldindata.org/grapher/death-rate-unsafe-water-source">Mortality rate attributable to unsafe water</a>
 <br><a href="https://ourworldindata.org/grapher/death-rate-from-unsafe-sanitation">Mortality rate attributable to unsafe sanitation</a>
@@ -548,7 +548,7 @@ all countries, as appropriate.</q></p>
             <p><strong>Definition:</strong> Indicator 3.A.1 is the <q>age-standardized prevalence of current tobacco use among persons aged 15 years and older</q>. <p>This measures the share of adults (aged 15+) who smoke tobacco daily.</p>
             <p><strong>Goal:</strong> By 2030 <q>Strengthen the implementation of the World Health Organization Framework Convention on Tobacco Control in all countries</q>. There is no specified target level of tobacco use for this indicator.
 
-<p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/smoking"> entry on Smoking</a>.</p>
+<p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/smoking">Smoking</a>.</p>
 <p><strong>Additional charts:</strong> 
 <br><a href="https://ourworldindata.org/grapher/prevalence-of-daily-smoking-sdgs">Daily smoking in people aged 10 or older</a>
 <br><a href="https://ourworldindata.org/grapher/share-of-men-who-are-smoking">Share of men who smoke</a>
@@ -610,7 +610,7 @@ health, and, in particular, provide access to medicines for all.</q></p>
             <p><strong>Definition:</strong> Indicator 3.B.2 is the <q>total net official development assistance (ODA) to medical research and basic health sectors</q>.</p>
             <p><strong>Goal:</strong> By 2030 <q>Support the research and development of vaccines and medicines for the communicable and non-communicable diseases that primarily affect developing countries, providing access to affordable essential medicines and vaccines for all</q>.</p>
 
-<p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/financing-healthcare"> entry on Financing Healthcare</a>.</p>
+<p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/financing-healthcare">Financing Healthcare</a>.</p>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/gross-oda-for-medical-research-and-basic-heath-sectors" style="width: 100%; height: 600px; border: 0px none;"></iframe>

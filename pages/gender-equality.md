@@ -98,7 +98,7 @@ featuredImage: /img/uploads/5.svg
             <h3>Women married before age 15 or 18</h3>
             <p><strong>Definition:</strong> Indicator 5.3.1 is the <q>proportion of women aged 20–24 years who were married or in a union before age 15 and before age 18</q>.<p>This is measured as the share of women aged 20-24 years old who were married before the age of 15; and the share who were married before the age of 18.</p>
             <p><strong>Goal:</strong> <q>Eliminate child, early or forced marriage</q> by 2030.</p>
-            <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/violence-against-rights-for-children">entry on Violence Against & Rights for Children</a>.</p>
+            <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/violence-against-rights-for-children">Violence Against & Rights for Children</a>.</p>
             <p><strong>Additional charts:</strong> 
 <br><a href="https://ourworldindata.org/grapher/does-law-prohibit-or-invalidate-child-or-early-marriage">Does the law prohibit or invalidate child marriage?</a></p>
         </div>
@@ -118,7 +118,7 @@ featuredImage: /img/uploads/5.svg
             <h3>Female genital mutilation/cutting</h3>
             <p><strong>Definition:</strong> Indicator 5.3.2 is the <q>proportion of girls and women aged 15–49 years who have undergone female genital mutilation/cutting</q>.<p>This is measured as the share of women aged 15-49 years old who have gone through partial or total removal of the  female external genitalia or other injury to the female genital organs for cultural or other non-therapeutic reasons.</p>
             <p><strong>Goal:</strong> <q>Eliminate harmful practices such as female genital mutilation/cutting</q> by 2030.</p>
-            <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/violence-against-rights-for-children">entry on Violence Against & Rights for Children</a>.</p>
+            <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/violence-against-rights-for-children">Violence Against & Rights for Children</a>.</p>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/female-genital-mutilation" style="width: 100%; height: 600px; border: 0px none;"></iframe>
@@ -180,7 +180,7 @@ featuredImage: /img/uploads/5.svg
             <h3>Women in managerial positions</h3>
             <p><strong>Definition:</strong> Indicator 5.5.2 is the <q>proportion of women in managerial positions</q>.<p>This is measured as the percentage of firms in any given country with a female as the top manager, and the share of middle or senior management positions filled by a female.</p>
             <p><strong>Goal:</strong> By 2030 <q>ensure women’s full and effective participation and equal opportunities for leadership at all levels of decision-making in political life</q>.</p>
-            <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/female-labor-supply">entry on Female Labor Supply</a>.</p>
+            <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/female-labor-supply">Female Labor Supply</a>.</p>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/share-firms-top-female-manager" style="width: 100%; height: 600px; border: 0px none;"></iframe>

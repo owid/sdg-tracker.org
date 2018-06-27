@@ -46,7 +46,7 @@ description: >-
   The UN has defined 8 _Targets_ and 13 _Indicators_ for SDG 2. Targets specify
   the goals and Indicators represent the metrics by which the world aims to
   track whether these Targets are achieved. Below we quote the original text of
-  all _Targets_ and show the data on the agreed _Indicators_.
+  all _Targets_ and show the data on the agreed Indicators.
 featuredImage: /img/uploads/2.svg
 ---
 <div class="target">
@@ -62,7 +62,7 @@ featuredImage: /img/uploads/2.svg
             <h3>Prevalence of undernourishment</h3>
             <p><strong>Definition:</strong> Indicator 2.1.1 is the <q>prevalence of undernourishment</q>. <p>The prevalence of undernourishment is the share of the population with a caloric intake which is insufficient to meet minimum requirements for a healthy life. Minimum requirements vary by individual based on age, gender, weight, activity levels and so vary by country depending on the demographics of its population. Distributions for individuals are taken into account for this measure.</p>
             <p><strong>Goal:</strong> <q>End hunger</q> by 2030. This means eliminating undernourishment for all.</p>
-            <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/hunger-and-undernourishment">entry on Hunger and Undernourishment</a>.</p>
+            <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/hunger-and-undernourishment">Hunger and Undernourishment</a>.</p>
             <p><strong>Additional charts:</strong>
 <br><a href="https://ourworldindata.org/grapher/prevalence-of-undernourishment?tab=chart">Prevalence of undernourishment by region</a>
 <br><a href="https://ourworldindata.org/grapher/global-population-defined-as-undernourished">Global number of people undernourished</a></p>
@@ -82,7 +82,7 @@ featuredImage: /img/uploads/2.svg
             <h3>Prevalence of food insecurity</h3>
             <p><strong>Definition:</strong> Indicator 2.1.2 is the <q>prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)</q>. <p>Food insecurity data of the FEIS (shown here) is based on survey data which relate to the occurrence of several typical experiences and conditions associated with food insecurity.</p>
             <p><strong>Goal:</strong> <q>Achieve food security</q> by 2030. This means ending moderate and severe food insecurity for all.</p>
-            <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/hunger-and-undernourishment">entry on Hunger and Undernourishment</a>.</p>
+            <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/hunger-and-undernourishment">Hunger and Undernourishment</a>.</p>
             <p><strong>Additional charts:</strong>
 <br><a href="https://ourworldindata.org/grapher/share-of-population-with-severe-food-insecurity">Prevalence of severe food insecurity</a>
 <br><a href="https://ourworldindata.org/grapher/number-of-severely-food-insecure-people-by-region">Number of people with severe food insecurity by region</a></p>
@@ -110,7 +110,7 @@ and lactating women and older persons.</q></p>
             <h3>Prevalence of childhood stunting</h3>
             <p><strong>Definition:</strong> Indicator 2.2.1 is the <q>prevalence of stunting among children under 5 years of age</q>. <p>Stunting represents severe malnutrition as is apparent when a child has too <a href="https://ourworldindata.org/hunger-and-undernourishment#too-little-height-for-age-stunting">low height-for-age</a>. A child is stunted when his or her height-for-age is 2 or more standard deviations below the median of the World Health Organization (WHO) <i>Child Growth Standards</i>.</p>
             <p><strong>Goal:</strong> By 2030 <q>end all forms of malnutrition, including achieving, by 2025, the internationally agreed targets on stunting and wasting in children under 5 years of age</q>. <p>The intermediate target is a reduction in the prevalence of stunting <a href="http://apps.who.int/iris/bitstream/handle/10665/149018/WHO_NMH_NHD_14.2_eng.pdf?sequence=1"> by 40% by 2025</a> (from 2012 levels).</p>
-            <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/hunger-and-undernourishment">entry on Hunger and Undernourishment</a>.</p>
+            <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/hunger-and-undernourishment">Hunger and Undernourishment</a>.</p>
             <p><strong>Additional charts:</strong>
 <br><a href="https://ourworldindata.org/grapher/prevalence-of-stunting-male-vs-female">Prevalence of childhood stunting by sex</a>
         </div>
@@ -162,7 +162,7 @@ services, markets and opportunities for value addition and non-farm employment.<
             <h3>Production per labour unit</h3>
             <p><strong>Definition:</strong> Indicator 2.3.1 is the <q>volume of production per labour unit by classes of farming/pastoral/forestry enterprise size</q>.<p>This is reported here in the SDG Tracker as the economic value added per agricultural worker.</p>
             <p><strong>Goal:</strong> By 2030 <q>double the average productivity of food producers</q>.<p>This would require a doubling in agricultural value added per worker by 2030.</p>
-            <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/yields-and-land-use-in-agriculture">entry on Yields and Land Use in Agriculture</a> and <a href="https://ourworldindata.org/employment-in-agriculture">Employment in Agriculture</a>.</p>
+            <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/yields-and-land-use-in-agriculture">Yields and Land Use in Agriculture</a> and <a href="https://ourworldindata.org/employment-in-agriculture">Employment in Agriculture</a>.</p>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/agriculture-value-added-per-worker-wdi?year=2016" style="width: 100%; height: 600px; border: 0px none;"></iframe>
@@ -198,7 +198,7 @@ services, markets and opportunities for value addition and non-farm employment.<
             <h3>Sustainable food production</h3>
             <p><strong>Definition:</strong> Indicator 2.4.1 is the <q>proportion of agricultural area under productive and sustainable agriculture.</q> <p>It is currently not clear or well-defined what constitutes productive and sustainable agricultural practice.</p>
             <p><strong>Goal:</strong> By 2030 <q>ensure sustainable food production systems and implement resilient agricultural practices that increase productivity and production, that help maintain ecosystems, that strengthen capacity for adaptation to climate change, extreme weather, drought, flooding and other disasters and that progressively improve land and soil quality</q>.</p>
-            <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/yields-and-land-use-in-agriculture">entry on Yields and Land Use in Agriculture</a>, and comparison of the environmental impact of<a href="https://ourworldindata.org/is-organic-agriculture-better-for-the-environment"> organic vs. conventional agriculture</a>.</p>
+            <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/yields-and-land-use-in-agriculture">Yields and Land Use in Agriculture</a>, and comparison of the environmental impact of<a href="https://ourworldindata.org/is-organic-agriculture-better-for-the-environment"> organic vs. conventional agriculture</a>.</p>
             <p>
         </div>
         <NoData/>
@@ -316,7 +316,7 @@ An AOI smaller than 1 reflects a lower orientation to agriculture.</p>
             <p><strong>Definition:</strong> Indicator 2.C.1 is the <q>indicator of food price anomalies</q>. <p>Food price anomalies can be measured using the domestic food price volatility index.
 <p>Domestic food price volatility index measures the variation (volatility) in domestic food prices over time - this is measured as the weighted-average of a basket of commodities based on consumer or market prices. High values indicate a higher volatility (more variation) in food prices.</p>
             <p><strong>Goal:</strong> By 2030 <q>adopt measures to ensure the proper functioning of food commodity markets and their derivatives and facilitate timely access to market information, including on food reserves, in order to help limit extreme food price volatility</q>.</p>
-            <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/food-prices">entry on Food Prices</a>.
+            <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/food-prices">Food Prices</a>.
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/domestic-food-price-volatility-index" style="width: 100%; height: 600px; border: 0px none;"></iframe>

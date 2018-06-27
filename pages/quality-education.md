@@ -75,7 +75,7 @@ featuredImage: /img/uploads/4.svg
             <h3>Ensuring children are developmentally on track</h3>
             <p><strong>Definition:</strong> Indicator 4.2.1 is the <q>proportion of children under 5 years of age who are developmentally on track in health, learning and psychosocial well-being, by sex</q>.<p>This is measured as the percentage of under-5s who are developmentally on-track in at least three of the following four domains: literacy-numeracy, physical, socio-emotional and learning.</p>
             <p><strong>Goal:</strong> By 2030 <q>ensure that all girls and boys are ready for primary education</q>.</p>
-            <p><strong>More research:</strong> Further data and research can be found at <i>Our World in Data</i><a href="https://ourworldindata.org/pre-primary-education"> entry on  Pre-Primary Education</a>.</p>
+            <p><strong>More research:</strong> Further data and research can be found at <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/pre-primary-education">Pre-Primary Education</a>.</p>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/proportion-of-children-developmentally-on-track" style="width: 100%; height: 600px; border: 0px none;"></iframe>
@@ -92,7 +92,7 @@ featuredImage: /img/uploads/4.svg
             <h3>Participation in pre-primary education</h3>
             <p><strong>Definition:</strong> Indicator 4.2.2 is the <q>participation rate in organized learning (one year before the official primary entry age), by sex</q>.<p>This is measured here as the net enrolment rate in pre-primary education, which is the number of children of the relevant age group enrolled in pre-primary as a percentage of the total population of that age group.</p>
             <p><strong>Goal:</strong> By 2030 <q>ensure that all girls and boys have access to quality early childhood development, care and pre-primary education</q>.</p>
-            <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i><a href="https://ourworldindata.org/pre-primary-education"> entry on Pre-Primary Education</a>.</p>
+            <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/pre-primary-education">Pre-Primary Education</a>.</p>
             <p><strong>Additional charts:</strong> 
 <br><a href="https://ourworldindata.org/grapher/number-of-enrolled-children-in-pre-primary-education">Number of children enrolled in pre-primary education</a>
 <br><a href="https://ourworldindata.org/grapher/gender-gap-in-pre-primary-education">Gender gap at pre-primary education</a>
@@ -119,7 +119,7 @@ featuredImage: /img/uploads/4.svg
             <h3>Equal access to further education</h3>
             <p><strong>Definition:</strong> Indicator 4.3.1 is the <q>participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, by sex</q>.<p>It is not clear how this is supposed to be tracked. Here we show the total enrollment in tertiary education, regardless of age, expressed as a percentage of the total population of the  five-year age group following on from secondary school leaving. Data on non-formal further education and training is not available.</p>
             <p><strong>Goal:</strong> By 2030 ensure equal access for all women and men to affordable and quality technical, vocational and tertiary education</q>.<p>There is no defined target level of further education participation rates per year for this indicator.</p>
-            <p><strong>More research:</strong> Further data and research can be found at <i>Our World in Data</i> <a href="https://ourworldindata.org/tertiary-education">entry on Tertiary Education</a>.</p>
+            <p><strong>More research:</strong> Further data and research can be found at <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/tertiary-education">Tertiary Education</a>.</p>
             <p><strong>Additional charts:</strong>
 <br><a href="https://ourworldindata.org/grapher/population-breakdown-by-highest-level-of-education-achieved-for-those-aged-15-in">Projections of population by education level</a></p>
         </div>
@@ -142,7 +142,7 @@ featuredImage: /img/uploads/4.svg
             <h3>Information and communications technology (ICT) skills</h3>
             <p><strong>Definition:</strong> Indicator 4.4.1 is the <q>Proportion of youth and adults with information and communications technology (ICT) skills, by type of skill</q>.<p>There are a number of relevant ICT skills which could be measured for this indicator. Measured here is the share of  youth and adults (aged 15-24 years old) with skills in creating electronic presentations with presentation software.</p>
             <p><strong>Goal:</strong> By 2030 <q>substantially increase the number of youth and adults who have relevant skills, including technical and vocational skills, for employment, decent jobs and entrepreneurship</q>.</p>
-            <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i><a href="https://ourworldindata.org/tertiary-education"> entry on Tertiary Education</a>.</p>
+            <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i><a href="https://ourworldindata.org/tertiary-education">Tertiary Education</a>.</p>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/proportion-with-ict-skills-in-presentations" style="width: 100%; height: 600px; border: 0px none;"></iframe>
@@ -164,7 +164,7 @@ featuredImage: /img/uploads/4.svg
             <h3>Disparities in educational access</h3>
             <p><strong>Definition:</strong> Indicator 4.5.1 is <q>Parity indices (female/male, rural/urban, bottom/top wealth quintile and others such as disability status, indigenous peoples and conflict-affected, as data become available) for all education indicators</q>.<p>This is measured as gender parity in school enrolment, school life expectancy, and completion rate. Data on parity for other indices is not available.</p>
             <p><strong>Goal:</strong> By 2030 <q>eliminate gender disparities in education and ensure equal access to all levels of education and vocational training</q> for all.</p>
-            <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i><a href="https://ourworldindata.org/educational-mobility-inequality"> entry on Educational Mobility & Inequality</a>.</p>
+            <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/educational-mobility-inequality">Educational Mobility & Inequality</a>.</p>
            <p><strong>Additional charts:</strong> 
 <br><a href="https://ourworldindata.org/grapher/out-of-school-children-of-primary-school-age-by-world-region">Out-of-school children by world region</a></p>
         </div>
@@ -190,7 +190,7 @@ featuredImage: /img/uploads/4.svg
             <h3>Universal literacy and numeracy</h3>
             <p><strong>Definition:</strong> Indicator 4.6.1 is the <q>proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy and (b) numeracy skills, by sex</q>.<p>This is measured as the literacy rate (the share of the population with at least functional literacy) for youth and adults, differentiated by sex. Such measures of 'literacy' typically also encompass basic arithmetic skills.</p>
             <p><strong>Goal:</strong> By 2030 <q>ensure that all youth and a substantial proportion of adults, both men and women, achieve literacy and numeracy.</q></p>
-            <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i><a href="https://ourworldindata.org/literacy"> entry on Literacy</a>.</p>
+            <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/literacy">Literacy</a>.</p>
            <p><strong>Additional charts:</strong> 
 <br><a href="https://ourworldindata.org/grapher/literate-and-illiterate-world-population">Long-term change in global literacy</a>
 <br><a href="https://ourworldindata.org/grapher/literacy-rates-of-the-the-younger-population-15-24-years-versus-literacy-rates-of-the-older-population-65">Literacy rates of younger vs. older generations</a></p>
@@ -253,7 +253,7 @@ featuredImage: /img/uploads/4.svg
             <h3>Scholarships for developing countries</h3>
             <p><strong>Definition:</strong> Indicator 4.B.1 is the <q>volume of official development assistance flows for scholarships</q>.<p>This indicator measures the levels of financial support and development assistance provided for education and training scholarships.</p>
             <p><strong>Goal:</strong> By 2020 <q>substantially expand globally the number of scholarships available to developing countries</q>.<p>Unlike most SDG targets which are set to be achieved by 2030, this indicator has a target year of 2020.</p>
-            <p><strong>More research:</strong> Further data and research can be found at <i>Our World in Data</i> <a href="https://ourworldindata.org/financing-education">entry on Financing Education</a>.</p>
+            <p><strong>More research:</strong> Further data and research can be found at <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/financing-education">Financing Education</a>.</p>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/oda-for-scholarships" style="width: 100%; height: 600px; border: 0px none;"></iframe>
@@ -277,7 +277,7 @@ developed countries and small island developing States.</q></p>
             <h3>Supply of qualified teachers</h3>
             <p><strong>Definition:</strong> Indicator 4.C.1 is the <q>proportion of teachers in (a) pre-primary; (b) primary; (c) lower secondary; and (d) upper secondary education who have received at least the minimum organized teacher training (e.g. pedagogical training) pre-service or in-service required for teaching at the relevant level in a given country</q>.<p>This is measured as the share of pre-primary, primary, lower secondary and upper secondary teachers who are qualified (meaning they have achieved at least the minimum qualifications to teach at a given level).</p>
             <p><strong>Goal:</strong> By 2030 <q>substantially increase the supply of qualified teachers</q>.</p>
-            <p><strong>More research:</strong> Further data and research can be found at <i>Our World in Data</i> <a href="https://ourworldindata.org/teachers-and-professors">entry on Teachers and Professors</a>.</p>
+            <p><strong>More research:</strong> Further data and research can be found at <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/teachers-and-professors">Teachers and Professors</a>.</p>
             <p><strong>Additional charts:</strong>
 <br><a href="https://ourworldindata.org/grapher/pupil-teacher-ratio-for-primary-education-by-country?year=2015">Pupil-teacher ratio in primary education</a>
 <br><a href="https://ourworldindata.org/grapher/number-of-teachers-across-education-levels">Number of teachers across education levels</a></p> 
