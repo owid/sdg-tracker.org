@@ -6,29 +6,35 @@ title: >-
 goalNum: 2
 name: Zero Hunger
 description: >-
-  The [UN explains](https://www.un.org/sustainabledevelopment/hunger/): <i><q>It
-  is time to rethink how we grow, share and consume our food.
+  The [UN explains](https://www.un.org/sustainabledevelopment/hunger/):
 
 
-  If done right, agriculture, forestry and fisheries can provide nutritious food
-  for all and generate decent incomes, while supporting people-centred rural
-  development and protecting the environment.
+  > "It is time to rethink how we grow, share and consume our food.
 
+  >
 
-  Right now, our soils, freshwater, oceans, forests and biodiversity are being
+  > If done right, agriculture, forestry and fisheries can provide nutritious
+  food for all and generate decent incomes, while supporting people-centred
+  rural development and protecting the environment.
+
+  >
+
+  > Right now, our soils, freshwater, oceans, forests and biodiversity are being
   rapidly degraded. Climate change is putting even more pressure on the
   resources we depend on, increasing risks associated with disasters such as
   droughts and floods. Many rural women and men can no longer make ends meet on
   their land, forcing them to migrate to cities in search of opportunities.
 
+  >
 
-  A profound change of the global food and agriculture system is needed if we
+  > A profound change of the global food and agriculture system is needed if we
   are to nourish today’s 815 million hungry and the additional 2 billion people
   expected by 2050.
 
+  >
 
-  The food and agriculture sector offers key solutions for development, and is
-  central for hunger and poverty eradication.</q></i>
+  > The food and agriculture sector offers key solutions for development, and is
+  central for hunger and poverty eradication."
 
 
   You can find many more visuals and statistics on [hunger and
