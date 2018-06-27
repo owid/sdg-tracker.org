@@ -80,7 +80,7 @@ featuredImage: /img/uploads/2.svg
         <div class="col-md">
             <span>SDG Indicator 2.1.2</span>
             <h3>Prevalence of food insecurity</h3>
-            <p><strong>Definition:</strong> Indicator 2.1.2 is the <q>prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)</q>. <p>Food insecurity data of the FEIS (shown here) is based on survey data which relate to the occurrence of several typical experiences and conditions associated with food insecurity.</p>
+            <p><strong>Definition:</strong> Indicator 2.1.2 is the <q>prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)</q>. <p>Food insecurity data of the FEIS (shown here) is based on survey data which relates to the occurrence of several typical experiences and conditions associated with food insecurity.</p>
             <p><strong>Goal:</strong> <q>Achieve food security</q> by 2030. This means ending moderate and severe food insecurity for all.</p>
             <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/hunger-and-undernourishment">Hunger and Undernourishment</a>.</p>
             <p><strong>Additional charts:</strong>
@@ -108,7 +108,7 @@ and lactating women and older persons.</q></p>
         <div class="col-md">
             <span>SDG Indicator 2.2.1</span>
             <h3>Prevalence of childhood stunting</h3>
-            <p><strong>Definition:</strong> Indicator 2.2.1 is the <q>prevalence of stunting among children under 5 years of age</q>. <p>Stunting represents severe malnutrition as is apparent when a child has too <a href="https://ourworldindata.org/hunger-and-undernourishment#too-little-height-for-age-stunting">low height-for-age</a>. A child is stunted when his or her height-for-age is 2 or more standard deviations below the median of the World Health Organization (WHO) <i>Child Growth Standards</i>.</p>
+            <p><strong>Definition:</strong> Indicator 2.2.1 is the <q>prevalence of stunting among children under 5 years of age</q>. <p>Stunting represents severe malnutrition as is apparent when a child has <a href="https://ourworldindata.org/hunger-and-undernourishment#too-little-height-for-age-stunting">too low height-for-age</a>. A child is stunted when their height-for-age is 2 or more standard deviations below the median of the World Health Organization (WHO) <i>Child Growth Standards</i>.</p>
             <p><strong>Goal:</strong> By 2030 <q>end all forms of malnutrition, including achieving, by 2025, the internationally agreed targets on stunting and wasting in children under 5 years of age</q>. <p>The intermediate target is a reduction in the prevalence of stunting <a href="http://apps.who.int/iris/bitstream/handle/10665/149018/WHO_NMH_NHD_14.2_eng.pdf?sequence=1"> by 40% by 2025</a> (from 2012 levels).</p>
             <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/hunger-and-undernourishment">Hunger and Undernourishment</a>.</p>
             <p><strong>Additional charts:</strong>
@@ -129,9 +129,9 @@ and lactating women and older persons.</q></p>
             <h3>Prevalence of childhood malnutrition (wasting or overweight)</h3>
             <p><strong>Definition:</strong> Indicator 2.2.2 is the <q>prevalence of malnutrition among children under 5 years of age, by type (wasting and overweight)</q>. <p>Being <a href="https://ourworldindata.org/hunger-and-undernourishment#too-little-weight-for-height-wasting">underweight (wasting)</a> or overweight are both defined as malnourished: 
 
-A child is defined as "wasted" if his or her weight-for-height is more than 2 standard deviations below the median of the WHO <i>Child Growth Standards</i>.
+A child is defined as "wasted" if their weight-for-height is more than 2 standard deviations below the median of the WHO <i>Child Growth Standards</i>.
 
-A child is defined as "overweight" if his or her weight-for-height is more than 2 standard deviations above the median of the WHO <i>Child Growth Standards</i>.</p>
+A child is defined as "overweight" if their weight-for-height is more than 2 standard deviations above the median of the WHO <i>Child Growth Standards</i>.</p>
             <p><strong>Goal:</strong> By 2030 <q>end all forms of malnutrition, including achieving, by 2025, the internationally agreed targets on stunting and wasting in children under 5 years of age, and address the nutritional needs of adolescent girls, pregnant and lactating women and older persons</q>.<p>This targets an elimination of wasting, and the prevalence of children being overweight by 2030.</p>
             <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> entries on <a href="https://ourworldindata.org/hunger-and-undernourishment">Hunger and Undernourishment</a>, <a href="https://ourworldindata.org/obesity">Obesity</a> and <a href="https://ourworldindata.org/micronutrient-deficiency">Micronutrient Deficiency</a>.</p>
             <p><strong>Additional charts:</strong>

@@ -18,7 +18,7 @@ description: >-
   The UN has defined 8 _Targets_ and 12 _Indicators_ for SDG 9. Targets specify
   the goals and Indicators represent the metrics by which the world aims to
   track whether these Targets are achieved. Below we quote the original text of
-  all <i>Targets</i> and show the data on the agreed <i>Indicators</i>.
+  all Targets and show the data on the agreed Indicators.
 featuredImage: /img/uploads/9.svg
 ---
 

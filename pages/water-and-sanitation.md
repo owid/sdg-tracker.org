@@ -23,7 +23,7 @@ description: >-
   The UN has defined 8 _Targets_ and 11 _Indicators_ for SDG 6. Targets specify
   the goals and Indicators represent the metrics by which the world aims to
   track whether these Targets are achieved. Below we quote the original text of
-  all <i>Targets</i> and show the data on the agreed <i>Indicators</i>.
+  all Targets and show the data on the agreed Indicators.
 featuredImage: /img/uploads/6.svg
 ---
 
@@ -149,7 +149,7 @@ featuredImage: /img/uploads/6.svg
         <div class="col-md">
             <span>SDG Indicator 6.4.2</span>
             <h3>Levels of freshwater stress</h3>
-            <p><strong>Definition:</strong> Indicator 6.4.2 is the <q>level of water stress: freshwater withdrawal as a proportion of available freshwater resources</q>.<p>Water scarcity or stress is defined as the total quantity of freshwater withdrawals as a share of internal resources. This includes water withdrawn from agricultural, industrial and domestic uses. Water stress is defined by the following categories: < 10% is low stress; 10-20% is low-to-medium; 20-40% medium-to-high; 40-80% high; >80% extremely high.<p>
+            <p><strong>Definition:</strong> Indicator 6.4.2 is the <q>level of water stress: freshwater withdrawal as a proportion of available freshwater resources</q>.<p>Water scarcity or stress is defined as the total quantity of freshwater withdrawals as a share of internal resources. This includes water withdrawn from agricultural, industrial and domestic uses. Water stress is defined by the following categories: &lt;10% is low stress; 10-20% is low-to-medium; 20-40% medium-to-high; 40-80% high; &gt;80% extremely high.<p>
             <p><strong>Goal:</strong> By 2030 <q>ensure sustainable withdrawals and supply of freshwater to address water scarcity and substantially reduce the number of people suffering from water scarcity</q>.</p>
             <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/water-access-resources-sanitation">Water Access, Resources & Sanitation</a>.</p>
             <p><strong>Additional charts:</strong><br><a href="https://ourworldindata.org/grapher/water-withdrawals-per-capita?year=2015">Water withdrawals per capita</a>
@@ -251,7 +251,7 @@ operational arrangement for water cooperation</q>.
         <div class="col-md">
             <span>SDG Indicator 6.B.1</span>
             <h3>Local participation in sanitation management</h3>
-            <p><strong>Definition:</strong> Indicator 6.6.1 is the <q>proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management</q>.
+            <p><strong>Definition:</strong> Indicator 6.B.1 is the <q>proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management</q>.
             <p><strong>Goal:</strong> By 2030 <q>support and strengthen the participation of local communities in improving water and sanitation management</q>.</p>
         </div>
         <NoData/>

@@ -158,8 +158,8 @@ However, there is no goal specified by the UN for the share of births attended b
             <p><strong>Definition:</strong> Indicator 3.3.1 is the <q>number of new HIV infections per 1,000 uninfected population</q>. <p>This is shown as the number of new cases of HIV per year amongst uninfected adults per 1,000 people aged 15-49.</p>
             <p><strong>Goal:</strong> The target 2030 is to <q>end the epidemic of HIV</q> across all countries. The targeted level of reduction, however, is not defined. 
 
-<p><i>UNAIDS</i> has <a href="https://www.avert.org/global-hiv-targets">set a target</a> (not specifically related to the SDGs) of reducing to less than 200,000 new infections globally among adults by 2030. This would mean a target of reduction to 0.02 new cases per 1,000 people globally in 2030.</p>
-            <p><strong>More research:</strong> HIV is covered in detail in the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/hiv-aids">HIV/AIDS</a>.</p>
+<p><i>UNAIDS</i> has <a href="https://www.avert.org/global-hiv-targets">set a target</a> (not specifically related to the SDGs) of reducing to less than 200,000 new infections globally among adults by 2030. This would mean a reduction to 0.02 new cases per 1,000 people globally in 2030.</p>
+            <p><strong>More research:</strong> HIV is covered in detail by the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/hiv-aids">HIV/AIDS</a>.</p>
 <p><strong>Additional charts:</strong> 
 <br><a href="https://ourworldindata.org/grapher/share-of-the-population-infected-with-hiv">Share of population infected with HIV</a>
 <br><a href="https://ourworldindata.org/grapher/hiv-death-rates">HIV/AIDS death rates</a>
@@ -262,7 +262,7 @@ However, there is no goal specified by the UN for the share of births attended b
         <div class="col-md">
             <span>SDG Indicator 3.4.1</span>
             <h3>Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease</h3>
-            <p><strong>Definition:</strong> Indicator 3.4.1 is the <q>mortality  rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease.</q> <p>This is defined as the percent of 30-year-old-people who would die before their 70th birthday from any of cardiovascular disease, cancer, diabetes, or chronic respiratory disease, assuming that s/he would experience current mortality rates at every age and s/he would not die from any other cause of death (e.g. injuries or HIV/AIDS).</p>
+            <p><strong>Definition:</strong> Indicator 3.4.1 is the <q>mortality  rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease.</q> <p>This is defined as the percent of 30-year-old-people who would die before their 70th birthday from any of cardiovascular disease, cancer, diabetes, or chronic respiratory disease, assuming that they would experience current mortality rates at every age and would not die from any other cause of death (e.g. injuries or HIV/AIDS).</p>
             <p><strong>Goal:</strong> By 2030 <q>reduce premature mortality from non-communicable diseases (NCDs) by one-third</q> in all countries.</p>
             <p><strong>More research:</strong> Further data and research on non-communicable diseases can be found at <i>Our World in Data</i> entries on <a href="https://ourworldindata.org/causes-of-death"> Causes of Death</a>, <a href="https://ourworldindata.org/burden-of-disease"> Burden of Disease</a>, and <a href="https://ourworldindata.org/cancer"> Cancer</a>.</p>
 <p><strong>Additional charts:</strong> 
@@ -626,7 +626,7 @@ health, and, in particular, provide access to medicines for all.</q></p>
             <span>SDG Indicator 3.B.3</span>
             <h3>Availability of essential medicines</h3>
             <p><strong>Definition:</strong> Indicator 3.B.3 is the <q>proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis</q>.<p>The <i>WHO Taskforce on Innovative International Financing for Health Systems</i> provide a list of medicines considered essential in its <a href="http://www.who.int/pmnch/media/membernews/2009/htltf_wg1_report_EN.pdf"> Working Group Report</a>.</p>
-            <p><strong>Goal:</strong> By 2030 provide affordable access to essential medicines for all</q>.
+            <p><strong>Goal:</strong> By 2030 <q>provide affordable access to essential medicines for all</q>.</p>
         </div>
         <NoData/>
     </div>
@@ -650,14 +650,14 @@ developed countries and small island developing states.</q></p>
             <span>SDG Indicator 3.C.1</span>
             <h3>Health worker density</h3>
             <p><strong>Definition:</strong> Indicator 3.C.1 is <q>Health worker density and distribution</q>. <p>Health worker density is the size of the health workforce per 1,000 people. It is measured here based on the density of physicians, surgeons, nurses and midwives, dentistry and pharmaceutical personnel.</p>
-            <p><strong>Goal:</strong> By 2030 Substantially increase health financing and the recruitment, development, training and retention of the
-health workforce in developing countries</q>.
-
+            <p><strong>Goal:</strong> By 2030 <q>Substantially increase health financing and the recruitment, development, training and retention of the
+health workforce in developing countries</q>.</p>
 <p><strong>Additional charts:</strong> 
 <br><a href="https://ourworldindata.org/grapher/nurses-and-midwives-per-1000-people">Nurses and midwives (per 1,000 people)</a>
 <br><a href="https://ourworldindata.org/grapher/surgeons-per-100000">Surgical workforce (per 100,000 people)</a>
 <br><a href="https://ourworldindata.org/grapher/dentistry-personnel-per-1000">Dentistry personnel (per 1,000 people)</a>
 <br><a href="https://ourworldindata.org/grapher/pharmaceutical-personnel-per-1000">Pharmaceutical personnel (per 1,000 people)</a>
+</p>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/physicians-per-1000-people" style="width: 100%; height: 600px; border: 0px none;"></iframe>
@@ -668,7 +668,6 @@ health workforce in developing countries</q>.
 <div class="target">
     <h2>Target 3.D: Improve early warning systems for global health risks</h2>
     <p>UN definition: <q>Strengthen the capacity of all countries, in particular developing countries, for early warning, risk reduction and management of national and global health risks.</q></p>
-    
 </div>
 
 <div class="indicator" id="3.D.1">
@@ -677,7 +676,7 @@ health workforce in developing countries</q>.
             <span>SDG Indicator 3.D.1</span>
             <h3>Health emergency preparedness</h3>
             <p><strong>Definition:</strong> Indicator 3.D.1 is the <q>International Health Regulations (IHR) capacity and health emergency preparedness</q>. <p>The IHR Core capacity index is measured as the percentage of attributes of 13 core capacities that have been attained at a specific point in time. The 13 core capacities are: (1) National legislation, policy and financing; (2) Coordination and National Focal Point communications; (3) Surveillance; (4) Response; (5) Preparedness; (6) Risk communication; (7) Human resources; (8) Laboratory; (9) Points of entry; (10) Zoonotic events; (11) Food safety; (12) Chemical events; (13) Radionuclear emergencies. </p>
-            <p><strong>Goal:</strong> By 2030 Strengthen the capacity of all countries, in particular developing countries, for early warning, risk reduction and management of national and global health risks</q>.
+            <p><strong>Goal:</strong> By 2030 <q>Strengthen the capacity of all countries, in particular developing countries, for early warning, risk reduction and management of national and global health risks</q>.
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/ihr-core-capacity-index-sdgs" style="width: 100%; height: 600px; border: 0px none;"></iframe>

@@ -179,7 +179,7 @@ achieve substantial coverage of the poor and the vulnerable</q>.</p>
             <h3>Deaths and affected persons from natural disasters</h3>
             <p><strong>Definition:</strong> Indicator 1.5.1 is the <q>number of deaths, missing persons and directly affected persons attributed to disasters</q>.  <p>This is given here as the mortality rate from natural disasters, measured as the number of deaths per 100,000 population per year; and the number of people internally displaced as a result of natural disasters.</p>
             <p><strong>Goal:</strong> By 2030 <q>build the resilience of the poor and those in vulnerable situations and reduce their exposure and vulnerability to climate-related extreme events and other environmental disasters</q>. <p>There is, however, no defined target level of reduction for this indicator.</p>
-           <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/natural-catastrophes">natural catastrophes</a>.</p>
+           <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/natural-catastrophes">Natural Catastrophes</a>.</p>
             <p><strong>Additional charts:</strong>
 <br><a href="https://ourworldindata.org/grapher/number-injured-from-disasters">Number injured from natural disasters</a>
 <br><a href="https://ourworldindata.org/grapher/number-homeless-from-natural-disasters">Number left homeless from natural disasters</a>

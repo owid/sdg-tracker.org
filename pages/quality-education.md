@@ -23,17 +23,17 @@ description: >-
 
   Further information on education and learning can be found across a range of
   _Our World in Data_ entries on the [Global Rise of
-  Education](https://ourworldindata.org/global-rise-of-education);
-  [Pre-Primary](https://ourworldindata.org/pre-primary-education); [Primary and
-  Secondary](https://ourworldindata.org/primary-and-secondary-education);
-  [Tertiary](https://ourworldindata.org/tertiary-education); and
+  Education](https://ourworldindata.org/global-rise-of-education),
+  [Pre-Primary](https://ourworldindata.org/pre-primary-education), [Primary and
+  Secondary](https://ourworldindata.org/primary-and-secondary-education),
+  [Tertiary](https://ourworldindata.org/tertiary-education), and
   [Literacy](https://ourworldindata.org/literacy).
 
 
   The UN has defined 10 _Targets_ and 11 _Indicators_ for SDG 4. Targets specify
   the goals and Indicators represent the metrics by which the world aims to
   track whether these Targets are achieved. Below we quote the original text of
-  all <i>Targets</i> and show the data on the agreed <i>Indicators</i>.
+  all Targets and show the data on the agreed Indicators.
 featuredImage: /img/uploads/4.svg
 ---
 <div class="target">
@@ -142,7 +142,7 @@ featuredImage: /img/uploads/4.svg
             <h3>Information and communications technology (ICT) skills</h3>
             <p><strong>Definition:</strong> Indicator 4.4.1 is the <q>Proportion of youth and adults with information and communications technology (ICT) skills, by type of skill</q>.<p>There are a number of relevant ICT skills which could be measured for this indicator. Measured here is the share of  youth and adults (aged 15-24 years old) with skills in creating electronic presentations with presentation software.</p>
             <p><strong>Goal:</strong> By 2030 <q>substantially increase the number of youth and adults who have relevant skills, including technical and vocational skills, for employment, decent jobs and entrepreneurship</q>.</p>
-            <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i><a href="https://ourworldindata.org/tertiary-education">Tertiary Education</a>.</p>
+            <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/tertiary-education">Tertiary Education</a>.</p>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/proportion-with-ict-skills-in-presentations" style="width: 100%; height: 600px; border: 0px none;"></iframe>

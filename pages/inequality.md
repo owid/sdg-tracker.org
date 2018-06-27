@@ -24,7 +24,7 @@ description: >-
   The UN has defined 10 _Targets_ and 11 _Indicators_ for SDG 10. Targets
   specify the goals and Indicators represent the metrics by which the world aims
   to track whether these Targets are achieved. Below we quote the original text
-  of all <i>Targets</i> and show the data on the agreed <i>Indicators</i>.
+  of all Targets and show the data on the agreed Indicators.
 featuredImage: /img/uploads/10.svg
 ---
 

@@ -23,7 +23,7 @@ description: >-
   Fuels](https://ourworldindata.org/fossil-fuels).
 
 
-  The UN has defined 5 Targets and 6 Indicators for SDG 7. Targets specify
+  The UN has defined 5 _Targets_ and 6 _Indicators_ for SDG 7. Targets specify
   the goals and Indicators represent the metrics by which the world aims to
   track whether these Targets are achieved. Below we quote the original text of
   all Targets and show the data on the agreed Indicators.

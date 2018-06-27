@@ -17,7 +17,7 @@ description: >-
   The UN has defined 12 _Targets_ and 17 _Indicators_ for SDG 8. Targets specify
   the goals and Indicators represent the metrics by which the world aims to
   track whether these Targets are achieved. Below we quote the original text of
-  all <i>Targets</i> and show the data on the agreed <i>Indicators</i>.
+  all Targets and show the data on the agreed Indicators.
 featuredImage: /img/uploads/8.svg
 ---
 <div class="target">
@@ -77,7 +77,7 @@ featuredImage: /img/uploads/8.svg
             <h3>Informal employment</h3>
             <p><strong>Definition:</strong> Indicator 8.3.1 is the <q>proportion of informal employment in non-agriculture employment, by sex</q>.<p>This is measured as employment in the informal economy as a percentage of total non-agricultural employment. This includes all jobs in unregistered and/or small-scale private unincorporated enterprises that produce goods or services meant for sale or barter. </p>
             <p><strong>Goal:</strong> <q>Promote development-oriented policies that support productive activities, decent job creation, entrepreneurship, creativity and innovation</q> by 2030.</p>
-            <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/female-labor-supply">female labor supply</a>.
+            <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/female-labor-supply">Female Labor Supply</a>.
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/informal-employment-of-total-non-agricultural-employment" style="width: 100%; height: 600px; border: 0px none;"></iframe>
@@ -89,7 +89,6 @@ featuredImage: /img/uploads/8.svg
 <div class="target">
     <h2>Target 8.4: Improve resource efficiency in consumption and production</h2>
     <p>UN definition: <q>Improve progressively, through 2030, global resource efficiency in consumption and production and endeavour to decouple economic growth from environmental degradation, in accordance with the 10‑Year Framework of Programmes on Sustainable Consumption and Production, with developed countries taking the lead.</q></p>
-    
 </div>
 
 <div class="indicator" id="8.4.1">
@@ -137,7 +136,7 @@ featuredImage: /img/uploads/8.svg
             <h3>Hourly earnings</h3>
             <p><strong>Definition:</strong> Indicator 8.5.1 is the <q>average hourly earnings of female and male employees, by occupation, age and persons with disabilities</q>.<p>Average earnings are reported for male and female employees, but not available across countries for further breakdowns.</p>
             <p><strong>Goal:</strong> <q>By 2030, achieve full and productive employment and decent work for all women and men, including for young people and persons with disabilities, and equal pay for work of equal value</q>.</p>
-           <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> entries on <a href="https://ourworldindata.org/female-labor-supply">Female Labor Supply</a>, <a href="https://ourworldindata.org/working-hours">Working Hours</a> and our post on <a href="https://ourworldindata.org/six-facts-pay-gap">Six key facts about the gender pay gap</a>.
+           <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> entries on <a href="https://ourworldindata.org/female-labor-supply">Female Labor Supply</a>, <a href="https://ourworldindata.org/working-hours">Working Hours</a> and our post <a href="https://ourworldindata.org/six-facts-pay-gap">Six key facts about the gender pay gap</a>.
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/average-hourly-earnings" style="width: 100%; height: 600px; border: 0px none;"></iframe>
