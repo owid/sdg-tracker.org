@@ -238,9 +238,7 @@ featuredImage: /img/uploads/8.svg
             <p><strong>Definition:</strong> Indicator 8.8.2 is the <i><q>Level of national compliance with labour right (freedom of association and collective bargaining) based on International Labour Organization (ILO) textual sources and national legislation</q></i>.</p>
             <p><strong>Goal:</strong> <i><q>Protect labour rights and promote safe and secure working environments for all workers</q></i> by 2030.</p>
         </div>
-        <div class="col-md">
-            <br><br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
-        </div>
+        <NoData/>
     </div>
 </div>
 
@@ -260,9 +258,7 @@ featuredImage: /img/uploads/8.svg
             <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/tourism">entry on Tourism</a>.</p>
             <p><strong>Additional charts:</strong> <br><a href="https://ourworldindata.org/grapher/international-tourism-number-of-arrivals">Number of tourist arrivals</a></p>      
         </div>
-        <div class="col-md">
-            <br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
-        </div>
+        <NoData/>
     </div>
 </div>
 
@@ -277,9 +273,7 @@ featuredImage: /img/uploads/8.svg
             <p><strong>Goal:</strong> <i><q>By 2030, devise and implement policies to promote sustainable tourism that creates jobs and promotes local culture and products</q></i>.</p>
             <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/tourism">entry on Tourism</a>.</p>    
         </div>
-        <div class="col-md">
-            <br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
-        </div>
+        <NoData/>
     </div>
 </div>
 
@@ -357,8 +351,6 @@ featuredImage: /img/uploads/8.svg
             <p><strong>Definition:</strong> Indicator 8.B.1 is the <i><q>Existence of a developed and operationalized national strategy for youth employment</q></i>.</p>
             <p><strong>Goal:</strong> <i><q>Develop and operationalize a global strategy for youth employment</q></i>.<p>Unlike most SDG targets with a target for 2030, the goal date for this indicator is 2020.</p>    
         </div>
-        <div class="col-md">
-            <br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
-        </div>
+        <NoData/>
     </div>
 </div>

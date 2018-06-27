@@ -151,9 +151,7 @@ featuredImage: /img/uploads/17.svg
             <p><strong>Definition:</strong> Indicator 17.5.1 is the <i><q>number of countries that adopt and implement investment promotion regimes for least developed countries</q></i>.</p>
             <p><strong>Goal:</strong> <i><q>Adopt and implement investment promotion regimes for least developed countries</q></i> by 2030.</p>
         </div>
-        <div class="col-md">
-            <br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
-        </div>
+        <NoData/>
     </div>
 </div>
 
@@ -172,9 +170,7 @@ featuredImage: /img/uploads/17.svg
             <p><strong>Definition:</strong> Indicator 17.6.1 is the <i><q>number of science and/or technology cooperation agreements and programmes between countries</q></i>.</p>
             <p><strong>Goal:</strong> <i><q>Enhance North-South, South-South and triangular regional and international cooperation on and access to science, technology and innovation</q></i> by 2030.</p>
         </div>
-        <div class="col-md">
-            <br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
-        </div>
+        <NoData/>
     </div>
 </div>
 
@@ -210,9 +206,7 @@ featuredImage: /img/uploads/17.svg
             <p><strong>Definition:</strong> Indicator 17.7.1 is the <i><q>total amount of approved funding for developing countries to promote the development, transfer, dissemination and diffusion of environmentally sound technologies</q></i>.</p>
             <p><strong>Goal:</strong> <i><q>Promote the development, transfer, dissemination and diffusion of environmentally sound technologies to developing countries</q></i> by 2030.</p>
         </div>
-        <div class="col-md">
-            <br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
-        </div>
+        <NoData/>
     </div>
 </div>
 
@@ -338,9 +332,7 @@ featuredImage: /img/uploads/17.svg
             <p><strong>Definition:</strong> Indicator 17.13.1 is the <i><q>Macroeconomic Dashboard</q></i>.</p>
             <p><strong>Goal:</strong> <i><q>Enhance global macroeconomic stability, including through policy coordination and policy coherence</q></i>.</p>
         </div>
-        <div class="col-md">
-            <br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
-        </div>
+        <NoData/>
     </div>
 </div>
 
@@ -358,9 +350,7 @@ featuredImage: /img/uploads/17.svg
             <p><strong>Definition:</strong> Indicator 17.14.1 is the <i><q>number of countries with mechanisms in place to enhance policy coherence of sustainable development</q></i>.</p>
             <p><strong>Goal:</strong> <i><q>Enhance policy coherence for sustainable development</q></i> through 2030.</p>
         </div>
-        <div class="col-md">
-            <br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
-        </div>
+        <NoData/>
     </div>
 </div>
 
@@ -420,9 +410,7 @@ partnerships</q></i>.</p>
             <p><strong>Goal:</strong> <i><q>Encourage and promote effective public, public-private and civil society partnerships</q></i> by 2030.</p>
             <p><strong>More research:</strong> Related data on this indicator, specifically related to partnerships in infrastructure projects is available at the <i>Our World in Data</i> <a href="https://ourworldindata.org/public-spending#procurement-of-infrastructure-projects-has-grown-substantially-in-low-and-middle-income-countries">entry on Public Spending</a>.</p>
         </div>
-        <div class="col-md">
-            <br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
-        </div>
+        <NoData/>
     </div>
 </div>
 
@@ -456,9 +444,7 @@ partnerships</q></i>.</p>
             <p><strong>Definition:</strong> Indicator 17.18.2 is the <i><q>number of countries that have national statistical legislation that complies with the Fundamental Principles of Official Statistics</q></i>.</p>
             <p><strong>Goal:</strong> <i><q>Enhance capacity-building support to developing countries, including for least developed countries and small island developing States, to increase significantly the availability of high-quality, timely and reliable data</q></i> in all countries by 2020.<p>Unlike most SDGs which have a target year of 2030, this indicator is to be achieved by 2020.</p>
         </div>
-        <div class="col-md">
-            <br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
-        </div>
+        <NoData/>
     </div>
 </div>
 
@@ -492,9 +478,7 @@ partnerships</q></i>.</p>
             <p><strong>Definition:</strong> Indicator 17.19.1 is the <i><q>dollar value of all resources made available to strengthen statistical capacity in developing countries</q></i>.</p>
             <p><strong>Goal:</strong> <i><q>Build on existing initiatives to develop measurements of progress on sustainable development</q></i> in all countries by 2030.</p>
         </div>
-        <div class="col-md">
-            <br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
-        </div>
+        <NoData/>
     </div>
 </div>
 

@@ -81,9 +81,7 @@ featuredImage: /img/uploads/5.svg
             <p><strong>Definition:</strong> Indicator 5.2.2 is the <i><q>proportion of women and girls aged 15 years and older subjected to sexual violence by persons other than an intimate partner in the previous 12 months, by age and place of occurrence</q></i>.</p>
             <p><strong>Goal:</strong> By 2030 <i><q>eliminate all forms of violence against all women and girls</q></i>.</p>
         </div>
-        <div class="col-md">
-            <br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
-        </div>
+        <NoData/>
     </div>
 </div>
 
@@ -229,9 +227,7 @@ featuredImage: /img/uploads/5.svg
 <br><a href="https://ourworldindata.org/grapher/contraceptive-prevalence-any-methods-of-women-ages-15-49">Share of women using any contraceptive methods</a>
 <br><a href="https://ourworldindata.org/grapher/unmet-need-for-contraception-share-of-married-women-of-reproductive-age">Unmet need for contraception</a></p>
         </div>
-        <div class="col-md">
-            <br><br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
-        </div>
+        <NoData/>
     </div>
 </div>
 
@@ -305,8 +301,6 @@ featuredImage: /img/uploads/5.svg
             <p><strong>Definition:</strong> Indicator 5.C.1 is the <i><q>Proportion of countries with systems to track and make public allocations for gender equality and women’s empowerment</q></i>.</p>
             <p><strong>Goal:</strong> By 2030 <i><q>adopt and strengthen sound policies and enforceable legislation for the promotion of gender equality</q></i>.</p>
         </div>
-        <div class="col-md">
-            <br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
-        </div>
+        <NoData/>
     </div>
 </div>

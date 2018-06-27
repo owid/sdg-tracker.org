@@ -39,9 +39,7 @@ featuredImage: /img/uploads/12.svg
             <p><strong>Definition:</strong> Indicator 12.1.1 is the <i><q>number of countries with sustainable consumption and production (SCP) national action plans or SCP mainstreamed as a priority or a target into national policies</q></i>.</p>
             <p><strong>Goal:</strong> <i><q>Implement the 10‑Year Framework of Programmes on Sustainable Consumption and Production Patterns</q></i> with all countries taking action by 2030.</p>
         </div>
-        <div class="col-md">
-            <br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
-        </div>
+        <NoData/>
     </div>
 </div>
 
@@ -97,9 +95,7 @@ featuredImage: /img/uploads/12.svg
             <p><strong>Definition:</strong> Indicator 12.3.1 is the <i><q>global food loss index</q></i>.</p>
             <p><strong>Goal:</strong> <i><q>By 2030, halve per capita global food waste at the retail and consumer levels and reduce food losses along production and supply chains, including post-harvest losses</q></i>.</p>
         </div>
-        <div class="col-md">
-            <br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
-        </div>
+        <NoData/>
     </div>
 </div>
 
@@ -133,9 +129,7 @@ featuredImage: /img/uploads/12.svg
             <p><strong>Definition:</strong> Indicator 12.4.2 is <i><q>hazardous waste generated per capita and proportion of hazardous waste treated, by type of treatment</q></i>.</p>
             <p><strong>Goal:</strong> <i><q>Achieve the environmentally sound management of chemicals and all wastes throughout their life cycle, in accordance with agreed international frameworks</q></i> by 2020.<p>Unlike most SDG targets which are set for the year 2030, this indicator is set for 2020.</p>
         </div>
-        <div class="col-md">
-              <br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
-        </div>
+        <NoData/>
     </div>
 </div>
 
@@ -174,9 +168,7 @@ featuredImage: /img/uploads/12.svg
             <p><strong>Definition:</strong> Indicator 12.6.1 is the <i><q>number of companies publishing sustainability reports</q></i>.</p>
             <p><strong>Goal:</strong> <i><q>Encourage companies to adopt sustainable practices and sustainability reporting</q></i> by 2030.</p>
         </div>
-        <div class="col-md">
-            <br><br><br><br><b>We are currently not aware of data for this indicator. You can submit or notify us of official data for this indicator here.</b>
-        </div>
+        <NoData/>
     </div>
 </div>
 
@@ -194,9 +186,7 @@ featuredImage: /img/uploads/12.svg
             <p><strong>Definition:</strong> Indicator 12.7.1 is the <i><q>number of countries implementing sustainable public procurement policies and action plans</q></i>.</p>
             <p><strong>Goal:</strong> <i><q>Promote public procurement practices that are sustainable, in accordance with national policies and priorities</q></i> by 2030.</p>
         </div>
-        <div class="col-md">
-            <br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
-        </div>
+        <NoData/>
     </div>
 </div>
 
@@ -207,18 +197,16 @@ featuredImage: /img/uploads/12.svg
 </div>
 
 <div class="indicator" id="12.8.1">
-<div class="row">
-<div class="col-md">
-<span>SDG Indicator 12.8.1</span>
-<h3>Understanding of sustainable lifestyles</h3>
-<p><strong>Definition:</strong> Indicator 12.8.1 is the <i><q>Extent to which (i) global citizenship education and (ii) education for sustainable development (including
-climate change education) are mainstreamed</q></i>.</p>
-<p><strong>Goal:</strong> <i><q>Ensure that people everywhere have the relevant information and awareness for sustainable development and lifestyles in harmony with nature</q></i> by 2030.</p>
-</div>
-<div class="col-md">
-<br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
-</div>
-</div>
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 12.8.1</span>
+            <h3>Understanding of sustainable lifestyles</h3>
+            <p><strong>Definition:</strong> Indicator 12.8.1 is the <i><q>Extent to which (i) global citizenship education and (ii) education for sustainable development (including
+            climate change education) are mainstreamed</q></i>.</p>
+            <p><strong>Goal:</strong> <i><q>Ensure that people everywhere have the relevant information and awareness for sustainable development and lifestyles in harmony with nature</q></i> by 2030.</p>
+        </div>
+        <NoData/>
+    </div>
 </div>
 
 <div class="target">
@@ -228,17 +216,17 @@ climate change education) are mainstreamed</q></i>.</p>
 </div>
 
 <div class="indicator" id="12.A.1">
-<div class="row">
-<div class="col-md">
-<span>SDG Indicator 12.A.1</span>
-<h3>Support for developing countries' capacity for sustainable production</h3>
-<p><strong>Definition:</strong> Indicator 12.A.1 is the <i><q>amount of support to developing countries on research and development for sustainable consumption and production and environmentally sound technologies</q></i>.</p>
-<p><strong>Goal:</strong> <i><q>Support developing countries' scientific and technological capacity for sustainable consumption and production</q></i> through 2030.</p>
-</div>
-<div class="col-md">
-<br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
-</div>
-</div>
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 12.A.1</span>
+            <h3>Support for developing countries' capacity for sustainable production</h3>
+            <p><strong>Definition:</strong> Indicator 12.A.1 is the <i><q>amount of support to developing countries on research and development for sustainable consumption and production and environmentally sound technologies</q></i>.</p>
+            <p><strong>Goal:</strong> <i><q>Support developing countries' scientific and technological capacity for sustainable consumption and production</q></i> through 2030.</p>
+        </div>
+        <div class="col-md">
+           <NoData/>
+        </div>
+    </div>
 </div>
 
 <div class="target">
@@ -248,17 +236,15 @@ climate change education) are mainstreamed</q></i>.</p>
 </div>
 
 <div class="indicator" id="12.B.1">
-<div class="row">
-<div class="col-md">
-<span>SDG Indicator 12.B.1</span>
-<h3>Monitoring sustainable tourism</h3>
-<p><strong>Definition:</strong> Indicator 12.B.1 is the <i><q>number of sustainable tourism strategies or policies and implemented action plans with agreed monitoring and evaluation tools</q></i>.</p>
-<p><strong>Goal:</strong> <i><q>Develop and implement tools to monitor sustainable development impacts for sustainable tourism</q></i> by 2030.</p>
-</div>
-<div class="col-md">
-<br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
-</div>
-</div>
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 12.B.1</span>
+            <h3>Monitoring sustainable tourism</h3>
+            <p><strong>Definition:</strong> Indicator 12.B.1 is the <i><q>number of sustainable tourism strategies or policies and implemented action plans with agreed monitoring and evaluation tools</q></i>.</p>
+            <p><strong>Goal:</strong> <i><q>Develop and implement tools to monitor sustainable development impacts for sustainable tourism</q></i> by 2030.</p>
+        </div>
+        <NoData/>
+    </div>
 </div>
 
 <div class="target">
@@ -268,15 +254,13 @@ climate change education) are mainstreamed</q></i>.</p>
 </div>
 
 <div class="indicator" id="12.C.1">
-<div class="row">
-<div class="col-md">
-<span>SDG Indicator 12.C.1</span>
-<h3>Removing fossil fuel subsidies</h3>
-<p><strong>Definition:</strong> Indicator 12.C.1 is the <i><q>amount of fossil-fuel subsidies per unit of GDP (production and consumption) and as a proportion of total national expenditure on fossil fuels</q></i>.</p>
-<p><strong>Goal:</strong> By 2030 <i><q>rationalize inefficient fossil-fuel subsidies that encourage wasteful consumption by removing market distortions, in accordance with national circumstances</q></i>.</p>
-</div>
-<div class="col-md">
-<br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
-</div>
-</div>
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 12.C.1</span>
+            <h3>Removing fossil fuel subsidies</h3>
+            <p><strong>Definition:</strong> Indicator 12.C.1 is the <i><q>amount of fossil-fuel subsidies per unit of GDP (production and consumption) and as a proportion of total national expenditure on fossil fuels</q></i>.</p>
+            <p><strong>Goal:</strong> By 2030 <i><q>rationalize inefficient fossil-fuel subsidies that encourage wasteful consumption by removing market distortions, in accordance with national circumstances</q></i>.</p>
+        </div>
+        <NoData/>
+    </div>
 </div>

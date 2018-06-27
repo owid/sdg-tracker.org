@@ -37,9 +37,7 @@ featuredImage: /img/uploads/14.svg
             <p><strong>Definition:</strong> Indicator 14.1.1 is the <i><q>index of coastal eutrophication and floating plastic debris density</q></i>.</p>
             <p><strong>Goal:</strong> <i><q>Prevent and significantly reduce marine pollution of all kinds</q></i> by 2025.<p>Unlike most SDGs, which are set for the year 2030, this indicator is targeted for 2025.</p>
         </div>
-        <div class="col-md">
-            <br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
-        </div>
+        <NoData/>
     </div>
 </div>
 
@@ -57,9 +55,7 @@ featuredImage: /img/uploads/14.svg
             <p><strong>Definition:</strong> Indicator 14.2.1 is the <i><q>proportion of national exclusive economic zones managed using ecosystem-based approaches</q></i>.</p>
             <p><strong>Goal:</strong> <i><q>Sustainably manage and protect marine and coastal ecosystems to avoid significant adverse impacts</q></i> by 2020.<p>Unlike most SDGs, which are set for the year 2030, this indicator is targeted for 2020.</p>
         </div>
-        <div class="col-md">
-            <br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
-        </div>
+        <NoData/>
     </div>
 </div>
 
@@ -77,9 +73,7 @@ featuredImage: /img/uploads/14.svg
             <p><strong>Definition:</strong> Indicator 14.3.1 is the <i><q>average marine acidity (pH) measured at agreed suite of representative sampling stations</q></i>.</p>
             <p><strong>Goal:</strong> <i><q>Minimize and address the impacts of ocean acidification</q></i> by 2030.</p>
         </div>
-        <div class="col-md">
-            <br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
-        </div>
+        <NoData/>
     </div>
 </div>
 
@@ -139,9 +133,7 @@ featuredImage: /img/uploads/14.svg
             <p><strong>Definition:</strong> Indicator 14.6.1 is <i><q>progress by countries in the degree of implementation of international instruments aiming to combat illegal, unreported and unregulated fishing</q></i>.</p>
             <p><strong>Goal:</strong> <i><q>Prohibit certain forms of fisheries subsidies which contribute to overcapacity and overfishing, eliminate subsidies that contribute to illegal, unreported and unregulated fishing and refrain from introducing new such subsidies</q></i> by 2020.<p>Unlike most SDGs, which are set for the year 2030, this indicator is targeted for 2020.</p>
         </div>
-        <div class="col-md">
-            <br><br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
-        </div>
+        <NoData/>
     </div>
 </div>
 
@@ -159,9 +151,7 @@ featuredImage: /img/uploads/14.svg
             <p><strong>Definition:</strong> Indicator 14.7.1 is <i><q>sustainable fisheries as a proportion of GDP</q></i>.</p>
             <p><strong>Goal:</strong> <i><q>By 2030, increase the economic benefits to small island developing States and least developed countries from the sustainable use of marine resources, including through sustainable management of fisheries, aquaculture and tourism</q></i>.</p>
         </div>
-        <div class="col-md">
-            <br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
-        </div>
+        <NoData/>
     </div>
 </div>
 
@@ -172,17 +162,15 @@ featuredImage: /img/uploads/14.svg
 </div>
 
 <div class="indicator" id="14.A.1">
-<div class="row">
-<div class="col-md">
-<span>SDG Indicator 14.A.1</span>
-<h3>Research resources for marine technology</h3>
-<p><strong>Definition:</strong> Indicator 14.A.1 is the <i><q>proportion of total research budget allocated to research in the field of marine technology</q></i>.</p>
-<p><strong>Goal:</strong> <i><q>Increase scientific knowledge, develop research capacity and transfer marine technology</q></i> by 2030.</p>
-</div>
-<div class="col-md">
-<br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
-</div>
-</div>
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 14.A.1</span>
+            <h3>Research resources for marine technology</h3>
+            <p><strong>Definition:</strong> Indicator 14.A.1 is the <i><q>proportion of total research budget allocated to research in the field of marine technology</q></i>.</p>
+            <p><strong>Goal:</strong> <i><q>Increase scientific knowledge, develop research capacity and transfer marine technology</q></i> by 2030.</p>
+        </div>
+        <NoData/>
+    </div>
 </div>
 
 <div class="target">
@@ -192,19 +180,17 @@ featuredImage: /img/uploads/14.svg
 </div>
 
 <div class="indicator" id="14.B.1">
-<div class="row">
-<div class="col-md">
-<span>SDG Indicator 14.B.1</span>
-<h3>Support small scale fishers</h3>
-<p><strong>Definition:</strong> Indicator 14.B.1 is <i><q>progress by countries in the degree of application of a legal/regulatory/policy/institutional framework which recognizes and protects access rights for small-scale fisheries</q></i>.</p>
-<p><strong>Goal:</strong> <i><q>Provide access for small-scale artisanal fishers to marine resources and markets</q></i> by 2030.</p>
-<p><strong>More research:</strong> Further data and research on global fishery catch and production are available at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/meat-and-seafood-production-consumption">Meat and Seafood Production & Consumption</a>.</p>
-<p><strong>Additional charts:</strong> <br><a href="https://ourworldindata.org/grapher/global-wild-fishery-catch-by-sector">Global wild fishery catch by sector</a></p>
-</div>
-<div class="col-md">
-<br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
-</div>
-</div>
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 14.B.1</span>
+            <h3>Support small scale fishers</h3>
+            <p><strong>Definition:</strong> Indicator 14.B.1 is <i><q>progress by countries in the degree of application of a legal/regulatory/policy/institutional framework which recognizes and protects access rights for small-scale fisheries</q></i>.</p>
+            <p><strong>Goal:</strong> <i><q>Provide access for small-scale artisanal fishers to marine resources and markets</q></i> by 2030.</p>
+            <p><strong>More research:</strong> Further data and research on global fishery catch and production are available at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/meat-and-seafood-production-consumption">Meat and Seafood Production & Consumption</a>.</p>
+            <p><strong>Additional charts:</strong> <br><a href="https://ourworldindata.org/grapher/global-wild-fishery-catch-by-sector">Global wild fishery catch by sector</a></p>
+        </div>
+        <NoData/>
+    </div>
 </div>
 
 <div class="target">

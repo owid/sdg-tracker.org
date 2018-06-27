@@ -65,9 +65,7 @@ featuredImage: /img/uploads/10.svg
             <p><strong>Goal:</strong> <i><q>By 2030, empower and promote the social, economic and political inclusion of all, irrespective of age, sex, disability, race, ethnicity, origin, religion or economic or other status</q></i>.</p>
             <p><strong>More research:</strong> Further data and research on this topic can be found at <i>Our World in Data</i> entries on <a href="https://ourworldindata.org/income-inequality">Income Inequality</a>, <a href="https://ourworldindata.org/global-economic-inequality">Global Economic inequality</a> and <a href="https://ourworldindata.org/economic-inequality-by-gender">Economic Inequality by Gender</a>.</p>
         </div>
-        <div class="col-md">
-            <br><br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
-        </div>
+        <NoData/>
     </div>
 </div>
 
@@ -85,9 +83,7 @@ featuredImage: /img/uploads/10.svg
             <p><strong>Definition:</strong> Indicator 10.3.1 is the <i><q>proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights law</q></i>.</p>
             <p><strong>Goal:</strong> <i><q>Ensure equal opportunity and reduce inequalities of outcome, including by eliminating discriminatory laws, policies and practices</q></i> by 2030.</p>
         </div>
-        <div class="col-md">
-            <br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
-        </div>
+        <NoData/>
     </div>
 </div>
 
@@ -127,9 +123,7 @@ featuredImage: /img/uploads/10.svg
             <p><strong>Definition:</strong> Indicator 10.5.1 is the <i><q>financial soundness indicator</q></i>.</p>
             <p><strong>Goal:</strong> <i><q>Improve the regulation and monitoring of global financial markets and institutions and strengthen the implementation of such regulations</q></i> by 2030.</p>
         </div>
-        <div class="col-md">
-            <br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
-        </div>
+        <NoData/>
     </div>
 </div>
 
@@ -168,9 +162,7 @@ featuredImage: /img/uploads/10.svg
             <p><strong>Definition:</strong> Indicator 10.7.1 is the <i><q>recruitment cost borne by employee as a proportion of yearly income earned in country of destination</q></i>.
             <p><strong>Goal:</strong> By 2030 <i><q>facilitate orderly, safe, regular and responsible migration and mobility of people</q></i>.</p>
         </div>
-        <div class="col-md">
-            <br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
-        </div>
+        <NoData/>
     </div>
 </div>
 
@@ -184,9 +176,7 @@ featuredImage: /img/uploads/10.svg
             <p><strong>Definition:</strong> Indicator 10.7.2 is the <i><q>number of countries that have implemented well-managed migration policies</q></i>.
             <p><strong>Goal:</strong> By 2030 <i><q>facilitate orderly, safe, regular and responsible migration and mobility of people, including through the implementation of planned and well-managed migration policies</q></i>.</p>
         </div>
-        <div class="col-md">
-            <br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
-        </div>
+        <NoData/>
     </div>
 </div>
 

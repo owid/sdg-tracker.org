@@ -181,9 +181,7 @@ services, markets and opportunities for value addition and non-farm employment.<
             <p><strong>Goal:</strong> By 2030 <i><q>double the average income of small-scale food producers</q></i>.</p>
             <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> entries on <a href="https://ourworldindata.org/food-prices">Food Prices</a> and <a href="https://ourworldindata.org/employment-in-agriculture">Employment in Agriculture</a>.</p>
         </div>
-        <div class="col-md">
-            <br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
-        </div>
+        <NoData/>
     </div>
 </div>
 
@@ -203,9 +201,7 @@ services, markets and opportunities for value addition and non-farm employment.<
             <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/yields-and-land-use-in-agriculture">entry on Yields and Land Use in Agriculture</a>, and comparison of the environmental impact of<a href="https://ourworldindata.org/is-organic-agriculture-better-for-the-environment"> organic vs. conventional agriculture</a>.</p>
             <p>
         </div>
-        <div class="col-md">
-            <br><br><br><br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
-        </div>
+        <NoData/>
     </div>
 </div>
 
@@ -302,9 +298,7 @@ An AOI smaller than 1 reflects a lower orientation to agriculture.</p>
             <p><strong>Definition:</strong> Indicator 2.B.1 is the <i><q>value of agricultural export subsidies</q></i>.</p>
             <p><strong>Goal:</strong> By 2030 <i><q>correct and prevent trade restrictions and distortions in world agricultural markets, including through the parallel elimination of all forms of agricultural export subsidies</q></i> <p>This target requires an elimination of agricultural export subsidies by 2030.</p>
         </div>
-        <div class="col-md">
-            <br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
-        </div>
+        <NoData/>
     </div>
 </div>
 

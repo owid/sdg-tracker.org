@@ -63,6 +63,12 @@ export function formatSDG(content: string, isPreview?: boolean): JSX.Element[] {
         }
     }
 
+    $("NoData").replaceWith(`<div class="col-md align-self-center">
+    <b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
+</div>`)
+
+
+
     return [<div id="targets" className="content" dangerouslySetInnerHTML={{__html: $("body").html() as string}}/>]
 
     // Wrap content demarcated by headings into section blocks

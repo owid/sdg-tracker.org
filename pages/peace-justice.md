@@ -103,9 +103,7 @@ by sex, age and cause</q></i>.<p>Conflict-related deaths is the number of deaths
             <p><strong>Definition:</strong> Indicator 16.1.4 is the <i><q>proportion of population that feel safe walking alone around the area they live</q></i>.</p>
             <p><strong>Goal:</strong> <i><q>Significantly reduce all forms of violence and related death rates</q></i> across all countries by 2030.</p>
         </div>
-        <div class="col-md">
-            <br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
-        </div>
+        <NoData/>
     </div>
 </div>
 
@@ -182,9 +180,7 @@ by sex, age and cause</q></i>.<p>Conflict-related deaths is the number of deaths
             <p><strong>Definition:</strong> Indicator 16.3.1 is the <i><q>proportion of victims of violence in the previous 12 months who reported their victimization to competent authorities</q></i>.</p>
             <p><strong>Goal:</strong> <i><q>Ensure equal access to justice for all</q></i> across all countries by 2030.</p>
         </div>
-        <div class="col-md">
-            <br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
-        </div>
+        <NoData/>
     </div>
 </div>
 
@@ -218,9 +214,7 @@ by sex, age and cause</q></i>.<p>Conflict-related deaths is the number of deaths
             <p><strong>Definition:</strong> Indicator 16.4.1 is the <i><q>total value of inward and outward illicit financial flows</q></i>.</p>
             <p><strong>Goal:</strong> <i><q>Significantly reduce illicit financial and arms flows</q></i> across all countries by 2030.</p>
         </div>
-        <div class="col-md">
-            <br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
-        </div>
+        <NoData/>
     </div>
 </div>
 
@@ -234,9 +228,7 @@ by sex, age and cause</q></i>.<p>Conflict-related deaths is the number of deaths
             <p><strong>Definition:</strong> Indicator 16.4.2 is the <i><q>proportion of seized, found or surrendered arms whose illicit origin or context has been traced or established by a competent authority</q></i>.</p>
             <p><strong>Goal:</strong> <i><q>Strengthen the recovery and return of stolen assets and combat all forms of organized crime</q></i> across all countries by 2030.</p>
         </div>
-        <div class="col-md">
-            <br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
-        </div>
+        <NoData/>
     </div>
 </div>
 
@@ -255,9 +247,7 @@ by sex, age and cause</q></i>.<p>Conflict-related deaths is the number of deaths
             <p><strong>Goal:</strong> <i><q>Substantially reduce corruption and bribery in all their forms</q></i> across all countries by 2030.<p>There is no defined target level for this indicator.</p>
             <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/corruption">entry on Corruption</a>.</p>
         </div>
-        <div class="col-md">
-            <br><br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
-        </div>
+        <NoData/>
     </div>
 </div>
 
@@ -292,9 +282,7 @@ by sex, age and cause</q></i>.<p>Conflict-related deaths is the number of deaths
             <p><strong>Definition:</strong> Indicator 16.6.1 is <i><q>primary government expenditures as a proportion of original approved budget, by sector (or by budget codes or similar)</q></i>.</p>
             <p><strong>Goal:</strong> <i><q>Develop effective, accountable and transparent institutions at all levels</q></i> by 2030.</p>
         </div>
-        <div class="col-md">
-            <br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
-        </div>
+        <NoData/>
     </div>
 </div>
 
@@ -308,9 +296,7 @@ by sex, age and cause</q></i>.<p>Conflict-related deaths is the number of deaths
             <p><strong>Definition:</strong> Indicator 16.6.2 is the <i><q>proportion of population satisfied with their last experience of public services</q></i>.</p>
             <p><strong>Goal:</strong> <i><q>Develop effective, accountable and transparent institutions at all levels</q></i> by 2030.</p>
         </div>
-        <div class="col-md">
-            <br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
-        </div>
+        <NoData/>
     </div>
 </div>
 
@@ -328,9 +314,7 @@ by sex, age and cause</q></i>.<p>Conflict-related deaths is the number of deaths
             <p><strong>Definition:</strong> Indicator 16.7.1 is the <i><q>proportions of positions (by sex, age, persons with disabilities and population groups) in public institutions (national and local legislatures, public service, and judiciary) compared to national distributions</q></i>.</p>
             <p><strong>Goal:</strong> <i><q>Ensure responsive, inclusive, participatory and representative decision-making at all levels</q></i> by 2030.</p>
         </div>
-        <div class="col-md">
-            <br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
-        </div>
+        <NoData/>
     </div>
 </div>
 
@@ -344,9 +328,7 @@ by sex, age and cause</q></i>.<p>Conflict-related deaths is the number of deaths
             <p><strong>Definition:</strong> Indicator 16.7.2 is the <i><q>proportion of population who believe decision-making is inclusive and responsive, by sex, age, disability and population group</q></i>.</p>
             <p><strong>Goal:</strong> <i><q>Ensure responsive, inclusive, participatory and representative decision-making at all levels</q></i> by 2030.</p>
         </div>
-        <div class="col-md">
-            <br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
-        </div>
+        <NoData/>
     </div>
 </div>
 
@@ -462,8 +444,6 @@ by sex, age and cause</q></i>.<p>Conflict-related deaths is the number of deaths
             <p><strong>Definition:</strong> Indicator 16.B.1 is the <i><q>proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights law</q></i>.</p>
             <p><strong>Goal:</strong> <i><q>Promote and enforce non-discriminatory laws and policies for sustainable development</q></i> across all countries by 2030.</p>
         </div>
-        <div class="col-md">
-            <br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
-        </div>
+        <NoData/>
     </div>
 </div>

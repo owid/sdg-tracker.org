@@ -103,9 +103,7 @@ featuredImage: /img/uploads/6.svg
             <p><strong>Goal:</strong> <i><q>Halving the proportion of untreated wastewater and substantially increasing recycling and safe reuse globally</q></i> by 2030.</p>
             <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/water-access-resources-sanitation">entry on Water Access, Resources & Sanitation</a>.</p>
         </div>
-        <div class="col-md">
-            <br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
-        </div>
+        <NoData/>
     </div>
 </div>
 
@@ -120,9 +118,7 @@ featuredImage: /img/uploads/6.svg
             <p><strong>Goal:</strong> By 2030 <i><q>improve water quality by reducing pollution, eliminating dumping and minimizing release of hazardous chemicals and materials</q></i>.</p>
             <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/water-access-resources-sanitation">entry on Water Access, Resources & Sanitation</a>.</p>
         </div>
-        <div class="col-md">
-            <br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
-        </div>
+        <NoData/>
     </div>
 </div>
 
@@ -200,9 +196,7 @@ featuredImage: /img/uploads/6.svg
 operational arrangement for water cooperation</q></i>.
             <p><strong>Goal:</strong> <i><q>By 2030, implement integrated water resources management at all levels, including through transboundary cooperation as appropriate</q></i>.</p>
         </div>
-        <div class="col-md">
-            <br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
-        </div>
+        <NoData/>
     </div>
 </div>
 
@@ -221,9 +215,7 @@ operational arrangement for water cooperation</q></i>.
             <p><strong>Definition:</strong> Indicator 6.6.1 is the <i><q>change in the extent of water-related ecosystems over time</q></i>.
             <p><strong>Goal:</strong> <i><q>By 2020, protect and restore water-related ecosystems, including mountains, forests, wetlands, rivers, aquifers and lakes</q></i>.<p>The target is set to be achieved by 2020, unlike most SDG targets which have a timeline of 2030.</p>
         </div>
-        <div class="col-md">
-            <br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
-        </div>
+        <NoData/>
     </div>
 </div>
 
@@ -264,8 +256,6 @@ operational arrangement for water cooperation</q></i>.
             <p><strong>Definition:</strong> Indicator 6.6.1 is the <i><q>proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management</q></i>.
             <p><strong>Goal:</strong> By 2030 <i><q>support and strengthen the participation of local communities in improving water and sanitation management</q></i>.</p>
         </div>
-        <div class="col-md">
-            <br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
-        </div>
+        <NoData/>
     </div>
 </div>

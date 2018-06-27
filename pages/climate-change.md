@@ -86,9 +86,7 @@ featuredImage: /img/uploads/13.svg
 <br><a href="https://ourworldindata.org/grapher/number-homeless-from-natural-disasters">Number left homeless from natural disasters</a>
 <br><a href="https://ourworldindata.org/grapher/total-affected-by-natural-disasters">Number affected by natural disasters</a></p>
         </div>
-        <div class="col-md">
-            <br><br><br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
-        </div>
+        <NoData/>
     </div>
 </div>
 
@@ -130,9 +128,7 @@ featuredImage: /img/uploads/13.svg
             <p><strong>Definition:</strong> Indicator 13.3.1 is the <i><q>number of countries that have integrated mitigation, adaptation, impact reduction and early warning into primary, secondary and tertiary curricula</q></i>.
             <p><strong>Goal:</strong> By 2030 <i><q>improve education, awareness-raising and human and institutional capacity on climate change mitigation, adaptation, impact reduction and early warning</q></i>.</p>
         </div>
-        <div class="col-md">
-            <br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
-        </div>
+        <NoData/>
     </div>
 </div>
 
@@ -146,9 +142,7 @@ featuredImage: /img/uploads/13.svg
             <p><strong>Definition:</strong> Indicator 13.3.2 is the <i><q>number of countries that have communicated the strengthening of institutional, systemic and individual capacity-building to implement adaptation, mitigation and technology transfer, and development actions</q></i>.
             <p><strong>Goal:</strong> By 2030 <i><q>improve education, awareness-raising and human and institutional capacity on climate change mitigation, adaptation, impact reduction and early warning</q></i>.</p>
         </div>
-        <div class="col-md">
-            <br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
-        </div>
+        <NoData/>
     </div>
 </div>
 
@@ -187,8 +181,6 @@ featuredImage: /img/uploads/13.svg
             <p><strong>Definition:</strong> Indicator 13.B.1 is the <i><q>number of least developed countries and small island developing States that are receiving specialized support, and amount of support, including finance, technology and capacity-building, for mechanisms for raising capacities for effective climate change-related planning and management</q></i>.
             <p><strong>Goal:</strong> By 2030 <i><q>promote mechanisms for raising capacity for effective climate change-related planning and management in least developed countries</q></i>.</p>
         </div>
-        <div class="col-md">
-            <br><br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
-        </div>
+        <NoData/>
     </div>
 </div>

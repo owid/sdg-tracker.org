@@ -54,9 +54,7 @@ featuredImage: /img/uploads/11.svg
 disabilities</q></i>.</p>
             <p><strong>Goal:</strong> <i><q>Provide access to safe, affordable, accessible and sustainable transport systems for all</q></i> by 2030.</p>
         </div>
-        <div class="col-md">
-            <br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
-        </div>
+        <NoData/>
     </div>
 </div>
 
@@ -74,9 +72,7 @@ disabilities</q></i>.</p>
             <p><strong>Definition:</strong> Indicator 11.3.1 is the <i><q>ratio of land consumption rate to population growth rate</q></i>.</p>
             <p><strong>Goal:</strong> <i><q>Enhance inclusive and sustainable urbanization and capacity for participatory, integrated and sustainable human settlement</q></i> by 2030.</p>
         </div>
-        <div class="col-md">
-            <br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
-        </div>
+        <NoData/>
     </div>
 </div>
 
@@ -90,9 +86,7 @@ disabilities</q></i>.</p>
             <p><strong>Definition:</strong> Indicator 11.3.2 is the <i><q>proportion of cities with a direct participation structure of civil society in urban planning and management that operate regularly and democratically</q></i>.</p>
             <p><strong>Goal:</strong> <i><q>Enhance inclusive and sustainable urbanization and capacity for participatory, integrated and sustainable human settlement planning and management in all countries</q></i> by 2030.</p>
         </div>
-        <div class="col-md">
-            <br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
-        </div>
+        <NoData/>
     </div>
 </div>
 
@@ -110,9 +104,7 @@ disabilities</q></i>.</p>
             <p><strong>Definition:</strong> Indicator 11.4.1 is the <i><q>total expenditure (public and private) per capita spent on the preservation, protection and conservation of all cultural and natural heritage</q></i>.</p>
             <p><strong>Goal:</strong> <i><q>Strengthen efforts to protect and safeguard the world’s cultural and natural heritage</q></i> by 2030.</p>
         </div>
-        <div class="col-md">
-            <br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
-        </div>
+        <NoData/>
     </div>
 </div>
 
@@ -213,9 +205,7 @@ disabilities</q></i>.</p>
             <p><strong>Definition:</strong> Indicator 11.7.1 is the <i><q>average share of the built-up area of cities that is open space for public use for all, by sex, age and persons with disabilities</q></i>.</p>
             <p><strong>Goal:</strong> <i><q>Provide universal access to safe, inclusive and accessible, green and public spaces</q></i> by 2030.</p>
         </div>
-        <div class="col-md">
-            <br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
-        </div>
+        <NoData/>
     </div>
 </div>
 
@@ -229,9 +219,7 @@ disabilities</q></i>.</p>
             <p><strong>Definition:</strong> Indicator 11.7.2 is the <i><q>proportion of persons victim of physical or sexual harassment, by sex, age, disability status and place of occurrence, in the previous 12 months</q></i>.</p>
             <p><strong>Goal:</strong> <i><q>Provide universal access to safe, inclusive and accessible, green and public spaces in particular for women and children, older persons and persons with disabilities</q></i> by 2030.</p>
         </div>
-        <div class="col-md">
-            <br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
-        </div>
+        <NoData/>
     </div>
 </div>
 
@@ -249,9 +237,7 @@ disabilities</q></i>.</p>
             <p><strong>Definition:</strong> Indicator 11.A.1 is the <i><q>proportion of population living in cities that implement urban and regional development plans integrating population projections and resource needs, by size of city</q></i>.</p>
             <p><strong>Goal:</strong> <i><q>Support positive economic, social and environmental links between urban, peri-urban and rural areas by strengthening national and regional development planning</q></i> by 2030.</p>
         </div>
-        <div class="col-md">
-            <br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
-        </div>
+        <NoData/>
     </div>
 </div>
 
@@ -295,9 +281,7 @@ disabilities</q></i>.</p>
 <br><a href="https://ourworldindata.org/grapher/number-homeless-from-natural-disasters">Number left homeless from natural disasters</a>
 <br><a href="https://ourworldindata.org/grapher/total-affected-by-natural-disasters">Number affected by natural disasters</a></p>
         </div>
-        <div class="col-md">
-            <br><br><br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
-        </div>
+        <NoData/>
     </div>
 </div>
 
@@ -315,8 +299,6 @@ disabilities</q></i>.</p>
             <p><strong>Definition:</strong> Indicator 11.C.1 is the <i><q>proportion of financial support to the least developed countries that is allocated to the construction and retrofitting of sustainable, resilient and resource-efficient buildings utilizing local materials</q></i>.</p>
             <p><strong>Goal:</strong> <i><q>Support least developed countries, including through financial and technical assistance, in building sustainable and resilient buildings utilizing local materials</q></i> by 2030.</p>
         </div>
-        <div class="col-md">
-            <br><br><br><br><br><br><b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
-        </div>
+        <NoData/>
     </div>
 </div>
