@@ -10,7 +10,7 @@ description: >-
   Goals.
 featuredImage: /img/uploads/18.png
 ---
-![]()
+![](/img/uploads/sdg-data-matrix-01.png)
 
 Our World in Data’s SDG Tracker is the first resource where users can track and explore global and country-level progress towards each of the 17 Sustainable Development Goals through interactive data visualizations. This resource is kept up-to-date with all of the latest data across all of the 17 Goals.
 
