@@ -19,14 +19,6 @@ export interface GoalPageProps {
 
 export default class GoalPage extends React.Component<GoalPageProps> {
     body?: HTMLBodyElement
-    // HACK (Mispy): Make chart embeds work in Netlify CMS preview
-    /*componentDidMount() {
-        const script = document.createElement("script")
-        script.src = "https://ourworldindata.org/grapher/embedCharts.js"
-        script.async = true
-        this.body.appendChild(script)
-    }*/
-
     render() {
         const {isPreview, slug, goalNum, name, title, description, featuredImage, body} = this.props
 

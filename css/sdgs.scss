@@ -91,7 +91,7 @@ html {
 	}
 }
 
-.IndexPage {
+.FrontPage {
 	> .siteIntro {
 		padding-top: 4rem;
 		padding-bottom: 1.5rem;
@@ -371,10 +371,10 @@ $mobileWidth: 767px;
         margin: 0;
     }
 
-	.IndexPage .goals {
+	.FrontPage .goals {
 		justify-content: space-between;
 	}
-	.IndexPage .goals a {
+	.FrontPage .goals a {
 		width: 32%;
 		margin: 1vw 0;
 		img {
@@ -402,7 +402,7 @@ $mobileWidth: 767px;
     .pageHeading {
         font-size: 36px;
     }
-    .IndexPage > .siteIntro h1 {
+    .FrontPage > .siteIntro h1 {
         font-size: 50px;
     }
 }

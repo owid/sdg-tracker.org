@@ -5,16 +5,23 @@ import * as React from 'react'
 import * as ReactDOMServer from 'react-dom/server'
 import * as path from 'path'
 
-import IndexPage from '../src/IndexPage'
+import FrontPage from '../src/FrontPage'
 import GoalPage from '../src/GoalPage'
 import AboutPage from '../src/AboutPage'
 import pages from '../pages'
 
 export default (locals: any, callback: (val: null, resp: any) => void) => {
     const output: {[key: string]: string} = {}
-    output['/index.html'] = ReactDOMServer.renderToStaticMarkup(<IndexPage goals={pages as any[]}/>)
     for (const page of pages as any[]) {
-        const el = page.layout === "goal" ? <GoalPage {...page}/> : <AboutPage {...page}/>
+        let el
+        if (page.layout === "goal")
+            el = <GoalPage {...page}/>
+        else if (page.layout === "frontpage")
+            el = <FrontPage {...page}/>
+        else// if (page.layout === "about")
+            el = <AboutPage {...page}/>
+
+        
         output[`/${page.slug}.html`] = ReactDOMServer.renderToStaticMarkup(el)
     }
     callback(null, output)
