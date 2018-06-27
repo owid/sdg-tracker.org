@@ -4,7 +4,7 @@ title: Ensure inclusive and quality education for all and promote lifelong learn
 goalNum: 4
 name: Quality Education
 description: >-
-  The UN explains: <i><q>Obtaining a quality education underpins a range of
+  The UN explains: <q>Obtaining a quality education underpins a range of
   fundamental development drivers. Major progress has been made towards
   increasing access to education at all levels, particularly for women and
   girls. 
@@ -14,7 +14,7 @@ description: >-
   efforts are needed to achieve universal education goals for all. For example,
   the world has achieved equality in primary education between girls and boys,
   but few countries have achieved that target at all levels of
-  education.</q></i>
+  education.</q>
 
 
   The charts and visuals below provide data on the major developments in global
@@ -47,8 +47,8 @@ featuredImage: /img/uploads/4.svg
         <div class="col-md">
             <span>SDG Indicator 4.1.1</span>
             <h3>Achieving proficiency in reading and mathematics</h3>
-            <p><strong>Definition:</strong> Indicator 4.1.1 is the <i><q>proportion of children and young people (a) in grades 2/3; (b) at the end of primary; and (c) at the end of lower secondary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics, by sex</q></i>.<p>In the SDG Tracker this is shown as the share of students at each stage of education who reach at least the minimum reading and mathematics proficiency level.</p>
-            <p><strong>Goal:</strong> By 2030 <i><q>ensure that all girls and boys complete free, equitable and quality primary and secondary education leading to relevant and effective learning outcomes</q></i>.
+            <p><strong>Definition:</strong> Indicator 4.1.1 is the <q>proportion of children and young people (a) in grades 2/3; (b) at the end of primary; and (c) at the end of lower secondary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics, by sex</q>.<p>In the SDG Tracker this is shown as the share of students at each stage of education who reach at least the minimum reading and mathematics proficiency level.</p>
+            <p><strong>Goal:</strong> By 2030 <q>ensure that all girls and boys complete free, equitable and quality primary and secondary education leading to relevant and effective learning outcomes</q>.
             <p><strong>More research:</strong> Further data and research on primary and secondary education can be found at <i>Our World in Data</i> entries on <a href="https://ourworldindata.org/quality-of-education">Quality of Education</a>,  <a href="https://ourworldindata.org/global-rise-of-education">Global Rise of Education</a>, <a href="https://ourworldindata.org/primary-education">Primary Education</a>, <a href="https://ourworldindata.org/secondary-education">Secondary Education</a>, and <a href="https://ourworldindata.org/literacy">Literacy</a>.</p>
         </div>
         <div class="col-md">
@@ -73,8 +73,8 @@ featuredImage: /img/uploads/4.svg
         <div class="col-md">
             <span>SDG Indicator 4.2.1</span>
             <h3>Ensuring children are developmentally on track</h3>
-            <p><strong>Definition:</strong> Indicator 4.2.1 is the <i><q>proportion of children under 5 years of age who are developmentally on track in health, learning and psychosocial well-being, by sex</q></i>.<p>This is measured as the percentage of under-5s who are developmentally on-track in at least three of the following four domains: literacy-numeracy, physical, socio-emotional and learning.</p>
-            <p><strong>Goal:</strong> By 2030 <i><q>ensure that all girls and boys are ready for primary education</q></i>.</p>
+            <p><strong>Definition:</strong> Indicator 4.2.1 is the <q>proportion of children under 5 years of age who are developmentally on track in health, learning and psychosocial well-being, by sex</q>.<p>This is measured as the percentage of under-5s who are developmentally on-track in at least three of the following four domains: literacy-numeracy, physical, socio-emotional and learning.</p>
+            <p><strong>Goal:</strong> By 2030 <q>ensure that all girls and boys are ready for primary education</q>.</p>
             <p><strong>More research:</strong> Further data and research can be found at <i>Our World in Data</i><a href="https://ourworldindata.org/pre-primary-education"> entry on  Pre-Primary Education</a>.</p>
         </div>
         <div class="col-md">
@@ -90,8 +90,8 @@ featuredImage: /img/uploads/4.svg
         <div class="col-md">
             <span>SDG Indicator 4.2.2</span>
             <h3>Participation in pre-primary education</h3>
-            <p><strong>Definition:</strong> Indicator 4.2.2 is the <i><q>participation rate in organized learning (one year before the official primary entry age), by sex</q></i>.<p>This is measured here as the net enrolment rate in pre-primary education, which is the number of children of the relevant age group enrolled in pre-primary as a percentage of the total population of that age group.</p>
-            <p><strong>Goal:</strong> By 2030 <i><q>ensure that all girls and boys have access to quality early childhood development, care and pre-primary education</q></i>.</p>
+            <p><strong>Definition:</strong> Indicator 4.2.2 is the <q>participation rate in organized learning (one year before the official primary entry age), by sex</q>.<p>This is measured here as the net enrolment rate in pre-primary education, which is the number of children of the relevant age group enrolled in pre-primary as a percentage of the total population of that age group.</p>
+            <p><strong>Goal:</strong> By 2030 <q>ensure that all girls and boys have access to quality early childhood development, care and pre-primary education</q>.</p>
             <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i><a href="https://ourworldindata.org/pre-primary-education"> entry on Pre-Primary Education</a>.</p>
             <p><strong>Additional charts:</strong> 
 <br><a href="https://ourworldindata.org/grapher/number-of-enrolled-children-in-pre-primary-education">Number of children enrolled in pre-primary education</a>
@@ -117,8 +117,8 @@ featuredImage: /img/uploads/4.svg
         <div class="col-md">
             <span>SDG Indicator 4.3.1</span>
             <h3>Equal access to further education</h3>
-            <p><strong>Definition:</strong> Indicator 4.3.1 is the <i><q>participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, by sex</q></i>.<p>It is not clear how this is supposed to be tracked. Here we show the total enrollment in tertiary education, regardless of age, expressed as a percentage of the total population of the  five-year age group following on from secondary school leaving. Data on non-formal further education and training is not available.</p>
-            <p><strong>Goal:</strong> By 2030 <q><i>ensure equal access for all women and men to affordable and quality technical, vocational and tertiary education</q></i>.<p>There is no defined target level of further education participation rates per year for this indicator.</p>
+            <p><strong>Definition:</strong> Indicator 4.3.1 is the <q>participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, by sex</q>.<p>It is not clear how this is supposed to be tracked. Here we show the total enrollment in tertiary education, regardless of age, expressed as a percentage of the total population of the  five-year age group following on from secondary school leaving. Data on non-formal further education and training is not available.</p>
+            <p><strong>Goal:</strong> By 2030 <q><i>ensure equal access for all women and men to affordable and quality technical, vocational and tertiary education</q>.<p>There is no defined target level of further education participation rates per year for this indicator.</p>
             <p><strong>More research:</strong> Further data and research can be found at <i>Our World in Data</i> <a href="https://ourworldindata.org/tertiary-education">entry on Tertiary Education</a>.</p>
             <p><strong>Additional charts:</strong>
 <br><a href="https://ourworldindata.org/grapher/population-breakdown-by-highest-level-of-education-achieved-for-those-aged-15-in">Projections of population by education level</a></p>
@@ -140,8 +140,8 @@ featuredImage: /img/uploads/4.svg
         <div class="col-md">
             <span>SDG Indicator 4.4.1</span>
             <h3>Information and communications technology (ICT) skills</h3>
-            <p><strong>Definition:</strong> Indicator 4.4.1 is the <i><q>Proportion of youth and adults with information and communications technology (ICT) skills, by type of skill</q></i>.<p>There are a number of relevant ICT skills which could be measured for this indicator. Measured here is the share of  youth and adults (aged 15-24 years old) with skills in creating electronic presentations with presentation software.</p>
-            <p><strong>Goal:</strong> By 2030 <i><q>substantially increase the number of youth and adults who have relevant skills, including technical and vocational skills, for employment, decent jobs and entrepreneurship</q></i>.</p>
+            <p><strong>Definition:</strong> Indicator 4.4.1 is the <q>Proportion of youth and adults with information and communications technology (ICT) skills, by type of skill</q>.<p>There are a number of relevant ICT skills which could be measured for this indicator. Measured here is the share of  youth and adults (aged 15-24 years old) with skills in creating electronic presentations with presentation software.</p>
+            <p><strong>Goal:</strong> By 2030 <q>substantially increase the number of youth and adults who have relevant skills, including technical and vocational skills, for employment, decent jobs and entrepreneurship</q>.</p>
             <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i><a href="https://ourworldindata.org/tertiary-education"> entry on Tertiary Education</a>.</p>
         </div>
         <div class="col-md">
@@ -162,8 +162,8 @@ featuredImage: /img/uploads/4.svg
         <div class="col-md">
             <span>SDG Indicator 4.5.1</span>
             <h3>Disparities in educational access</h3>
-            <p><strong>Definition:</strong> Indicator 4.5.1 is <i><q>Parity indices (female/male, rural/urban, bottom/top wealth quintile and others such as disability status, indigenous peoples and conflict-affected, as data become available) for all education indicators</q></i>.<p>This is measured as gender parity in school enrolment, school life expectancy, and completion rate. Data on parity for other indices is not available.</p>
-            <p><strong>Goal:</strong> By 2030 <i><q>eliminate gender disparities in education and ensure equal access to all levels of education and vocational training</q></i> for all.</p>
+            <p><strong>Definition:</strong> Indicator 4.5.1 is <q>Parity indices (female/male, rural/urban, bottom/top wealth quintile and others such as disability status, indigenous peoples and conflict-affected, as data become available) for all education indicators</q>.<p>This is measured as gender parity in school enrolment, school life expectancy, and completion rate. Data on parity for other indices is not available.</p>
+            <p><strong>Goal:</strong> By 2030 <q>eliminate gender disparities in education and ensure equal access to all levels of education and vocational training</q> for all.</p>
             <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i><a href="https://ourworldindata.org/educational-mobility-inequality"> entry on Educational Mobility & Inequality</a>.</p>
            <p><strong>Additional charts:</strong> 
 <br><a href="https://ourworldindata.org/grapher/out-of-school-children-of-primary-school-age-by-world-region">Out-of-school children by world region</a></p>
@@ -188,8 +188,8 @@ featuredImage: /img/uploads/4.svg
         <div class="col-md">
             <span>SDG Indicator 4.6.1</span>
             <h3>Universal literacy and numeracy</h3>
-            <p><strong>Definition:</strong> Indicator 4.6.1 is the <i><q>proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy and (b) numeracy skills, by sex</q></i>.<p>This is measured as the literacy rate (the share of the population with at least functional literacy) for youth and adults, differentiated by sex. Such measures of 'literacy' typically also encompass basic arithmetic skills.</p>
-            <p><strong>Goal:</strong> By 2030 <i><q>ensure that all youth and a substantial proportion of adults, both men and women, achieve literacy and numeracy.</q></i></p>
+            <p><strong>Definition:</strong> Indicator 4.6.1 is the <q>proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy and (b) numeracy skills, by sex</q>.<p>This is measured as the literacy rate (the share of the population with at least functional literacy) for youth and adults, differentiated by sex. Such measures of 'literacy' typically also encompass basic arithmetic skills.</p>
+            <p><strong>Goal:</strong> By 2030 <q>ensure that all youth and a substantial proportion of adults, both men and women, achieve literacy and numeracy.</q></p>
             <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i><a href="https://ourworldindata.org/literacy"> entry on Literacy</a>.</p>
            <p><strong>Additional charts:</strong> 
 <br><a href="https://ourworldindata.org/grapher/literate-and-illiterate-world-population">Long-term change in global literacy</a>
@@ -215,8 +215,8 @@ featuredImage: /img/uploads/4.svg
         <div class="col-md">
             <span>SDG Indicator 4.7.1</span>
             <h3>Education on sustainable development and global citizenship</h3>
-            <p><strong>Definition:</strong> Indicator 4.7.1 is the <i><q>extent to which (i) global citizenship education and (ii) education for sustainable development, including gender equality and human rights, are mainstreamed at all levels in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment</q></i>.</p>
-            <p><strong>Goal:</strong> By 2030 <i><q>ensure that all learners acquire the knowledge and skills needed to promote sustainable development</q></i>.</p> 
+            <p><strong>Definition:</strong> Indicator 4.7.1 is the <q>extent to which (i) global citizenship education and (ii) education for sustainable development, including gender equality and human rights, are mainstreamed at all levels in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment</q>.</p>
+            <p><strong>Goal:</strong> By 2030 <q>ensure that all learners acquire the knowledge and skills needed to promote sustainable development</q>.</p> 
         </div>
         <NoData/>
     </div>
@@ -233,7 +233,7 @@ featuredImage: /img/uploads/4.svg
         <div class="col-md">
             <span>SDG Indicator 4.A.1</span>
             <h3>Inclusive and safe schools</h3>
-            <p><strong>Definition:</strong> Indicator 4.A.1 is the <i><q>proportion of schools with access to (a) electricity; (b) the Internet for pedagogical purposes; (c) computers for pedagogical purposes; (d) adapted infrastructure and materials for students with disabilities; (e) basic drinking water; (f) single-sex basic sanitation facilities; and (g) basic handwashing facilities (as per the WASH indicator definitions)</q></i>.</p>
+            <p><strong>Definition:</strong> Indicator 4.A.1 is the <q>proportion of schools with access to (a) electricity; (b) the Internet for pedagogical purposes; (c) computers for pedagogical purposes; (d) adapted infrastructure and materials for students with disabilities; (e) basic drinking water; (f) single-sex basic sanitation facilities; and (g) basic handwashing facilities (as per the WASH indicator definitions)</q>.</p>
             <p><strong>Goal:</strong> The target is to ensure all children have access to a safe, inclusive and effective learning environment by 2030.</p> 
         </div>
         <NoData/>
@@ -251,8 +251,8 @@ featuredImage: /img/uploads/4.svg
         <div class="col-md">
             <span>SDG Indicator 4.B.1</span>
             <h3>Scholarships for developing countries</h3>
-            <p><strong>Definition:</strong> Indicator 4.B.1 is the <i><q>volume of official development assistance flows for scholarships</q></i>.<p>This indicator measures the levels of financial support and development assistance provided for education and training scholarships.</p>
-            <p><strong>Goal:</strong> By 2020 <i><q>substantially expand globally the number of scholarships available to developing countries</q></i>.<p>Unlike most SDG targets which are set to be achieved by 2030, this indicator has a target year of 2020.</p>
+            <p><strong>Definition:</strong> Indicator 4.B.1 is the <q>volume of official development assistance flows for scholarships</q>.<p>This indicator measures the levels of financial support and development assistance provided for education and training scholarships.</p>
+            <p><strong>Goal:</strong> By 2020 <q>substantially expand globally the number of scholarships available to developing countries</q>.<p>Unlike most SDG targets which are set to be achieved by 2030, this indicator has a target year of 2020.</p>
             <p><strong>More research:</strong> Further data and research can be found at <i>Our World in Data</i> <a href="https://ourworldindata.org/financing-education">entry on Financing Education</a>.</p>
         </div>
         <div class="col-md">
@@ -275,8 +275,8 @@ developed countries and small island developing States.</q></p>
         <div class="col-md">
             <span>SDG Indicator 4.C.1</span>
             <h3>Supply of qualified teachers</h3>
-            <p><strong>Definition:</strong> Indicator 4.C.1 is the <i><q>proportion of teachers in (a) pre-primary; (b) primary; (c) lower secondary; and (d) upper secondary education who have received at least the minimum organized teacher training (e.g. pedagogical training) pre-service or in-service required for teaching at the relevant level in a given country</q></i>.<p>This is measured as the share of pre-primary, primary, lower secondary and upper secondary teachers who are qualified (meaning they have achieved at least the minimum qualifications to teach at a given level).</p>
-            <p><strong>Goal:</strong> By 2030 <i><q>substantially increase the supply of qualified teachers</q></i>.</p>
+            <p><strong>Definition:</strong> Indicator 4.C.1 is the <q>proportion of teachers in (a) pre-primary; (b) primary; (c) lower secondary; and (d) upper secondary education who have received at least the minimum organized teacher training (e.g. pedagogical training) pre-service or in-service required for teaching at the relevant level in a given country</q>.<p>This is measured as the share of pre-primary, primary, lower secondary and upper secondary teachers who are qualified (meaning they have achieved at least the minimum qualifications to teach at a given level).</p>
+            <p><strong>Goal:</strong> By 2030 <q>substantially increase the supply of qualified teachers</q>.</p>
             <p><strong>More research:</strong> Further data and research can be found at <i>Our World in Data</i> <a href="https://ourworldindata.org/teachers-and-professors">entry on Teachers and Professors</a>.</p>
             <p><strong>Additional charts:</strong>
 <br><a href="https://ourworldindata.org/grapher/pupil-teacher-ratio-for-primary-education-by-country?year=2015">Pupil-teacher ratio in primary education</a>

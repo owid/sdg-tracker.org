@@ -6,14 +6,14 @@ name: Clean Water and Sanitation
 description: >-
   The [UN
   explains](https://www.un.org/sustainabledevelopment/water-and-sanitation/):
-  <i><q>Clean water is a basic human need, and one that should be easily
+  <q>Clean water is a basic human need, and one that should be easily
   accessible to all. There is sufficient fresh water on the planet to achieve
   this. However, due to poor infrastructure, investment and planning, every year
   millions of people — [most of them
   children](https://ourworldindata.org/grapher/deaths-by-risk-under5s) — die
   from [diseases associated
   with](https://ourworldindata.org/grapher/deaths-from-diarrheal-diseases-by-age)
-  inadequate water supply, sanitation and hygiene.</q></i>
+  inadequate water supply, sanitation and hygiene.</q>
 
 
   The charts below summarise progress towards improved water and sanitation
@@ -40,8 +40,8 @@ featuredImage: /img/uploads/6.svg
         <div class="col-md">
             <span>SDG Indicator 6.1.1</span>
             <h3>Safe drinking water</h3>
-            <p><strong>Definition:</strong> Indicator 6.1.1 is the <i><q>Proportion of population using safely managed drinking water services</q></i>.<p>A safely managed drinking water service is defined as one located on premises, available when needed and free from contamination.</p>
-            <p><strong>Goal:</strong> By 2030 <q><i>achieve universal and equitable access to safe and affordable drinking water for all</q></i>.</p>
+            <p><strong>Definition:</strong> Indicator 6.1.1 is the <q>Proportion of population using safely managed drinking water services</q>.<p>A safely managed drinking water service is defined as one located on premises, available when needed and free from contamination.</p>
+            <p><strong>Goal:</strong> By 2030 <q><i>achieve universal and equitable access to safe and affordable drinking water for all</q>.</p>
             <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/water-access-resources-sanitation">entry on Water Access, Resources & Sanitation</a>.</p>
             <p><strong>Additional charts:</strong> 
 <br><a href="https://ourworldindata.org/grapher/number-using-safely-managed-drinking-water">Number of people using safely managed drinking water</a>
@@ -69,8 +69,8 @@ featuredImage: /img/uploads/6.svg
         <div class="col-md">
             <span>SDG Indicator 6.2.1</span>
             <h3>Safe sanitation and hygiene</h3>
-            <p><strong>Definition:</strong> Indicator 6.2.1 is the <i><q>Proportion of population using (a) safely managed sanitation services and (b) a hand-washing facility with soap and water</q></i>.<p>This is measured as the share of the population using safely managed sanitation facilities and at least basic handwashing facilities. <p>A safely managed sanitation facility is one where excreta is safely disposed of in situ or treated off-site. A basic handwashing facility is defined by a device to contain, transport or regulate the flow of water to facilitate handwashing with soap and water in the household.</p>
-            <p><strong>Goal:</strong> By 2030 <q><i>achieve access to adequate and equitable sanitation and hygiene for all and end open defecation</q></i>.</p>
+            <p><strong>Definition:</strong> Indicator 6.2.1 is the <q>Proportion of population using (a) safely managed sanitation services and (b) a hand-washing facility with soap and water</q>.<p>This is measured as the share of the population using safely managed sanitation facilities and at least basic handwashing facilities. <p>A safely managed sanitation facility is one where excreta is safely disposed of in situ or treated off-site. A basic handwashing facility is defined by a device to contain, transport or regulate the flow of water to facilitate handwashing with soap and water in the household.</p>
+            <p><strong>Goal:</strong> By 2030 <q><i>achieve access to adequate and equitable sanitation and hygiene for all and end open defecation</q>.</p>
             <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/water-access-resources-sanitation">entry on Water Access, Resources & Sanitation</a>.</p>
             <p><strong>Additional charts:</strong> 
 <br><a href="https://ourworldindata.org/grapher/number-using-safely-managed-sanitation">Number of people using safely managed sanitation facilities</a>
@@ -99,8 +99,8 @@ featuredImage: /img/uploads/6.svg
         <div class="col-md">
             <span>SDG Indicator 6.3.1</span>
             <h3>Safe sanitation and hygiene</h3>
-            <p><strong>Definition:</strong> Indicator 6.3.1 is the <i><q>proportion of wastewater safely treated</q></i>.<p>
-            <p><strong>Goal:</strong> <i><q>Halving the proportion of untreated wastewater and substantially increasing recycling and safe reuse globally</q></i> by 2030.</p>
+            <p><strong>Definition:</strong> Indicator 6.3.1 is the <q>proportion of wastewater safely treated</q>.<p>
+            <p><strong>Goal:</strong> <q>Halving the proportion of untreated wastewater and substantially increasing recycling and safe reuse globally</q> by 2030.</p>
             <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/water-access-resources-sanitation">entry on Water Access, Resources & Sanitation</a>.</p>
         </div>
         <NoData/>
@@ -114,8 +114,8 @@ featuredImage: /img/uploads/6.svg
         <div class="col-md">
             <span>SDG Indicator 6.3.2</span>
             <h3>Ambient water quality</h3>
-            <p><strong>Definition:</strong> Indicator 6.3.2 is the <i><q>proportion of bodies of water with good ambient water quality</q></i>.<p>
-            <p><strong>Goal:</strong> By 2030 <i><q>improve water quality by reducing pollution, eliminating dumping and minimizing release of hazardous chemicals and materials</q></i>.</p>
+            <p><strong>Definition:</strong> Indicator 6.3.2 is the <q>proportion of bodies of water with good ambient water quality</q>.<p>
+            <p><strong>Goal:</strong> By 2030 <q>improve water quality by reducing pollution, eliminating dumping and minimizing release of hazardous chemicals and materials</q>.</p>
             <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/water-access-resources-sanitation">entry on Water Access, Resources & Sanitation</a>.</p>
         </div>
         <NoData/>
@@ -134,8 +134,8 @@ featuredImage: /img/uploads/6.svg
         <div class="col-md">
             <span>SDG Indicator 6.4.1</span>
             <h3>Water use efficiency</h3>
-            <p><strong>Definition:</strong> Indicator 6.4.1 is the <i><q>change in water-use efficiency over time</q></i>.<p>Water efficiency is measured here in the SDG Tracker as a productivity metric, given as a country's total gross domestic product (GDP) divided by total freshwater withdrawals. Water-efficient economies are those which achieve a high gross domestic product (GDP) per unit of freshwater withdrawal.</p>
-            <p><strong>Goal:</strong> By 2030 <i><q>substantially increase water-use efficiency across all sectors</q></i>.</p>
+            <p><strong>Definition:</strong> Indicator 6.4.1 is the <q>change in water-use efficiency over time</q>.<p>Water efficiency is measured here in the SDG Tracker as a productivity metric, given as a country's total gross domestic product (GDP) divided by total freshwater withdrawals. Water-efficient economies are those which achieve a high gross domestic product (GDP) per unit of freshwater withdrawal.</p>
+            <p><strong>Goal:</strong> By 2030 <q>substantially increase water-use efficiency across all sectors</q>.</p>
             <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/water-access-resources-sanitation">entry on Water Access, Resources & Sanitation</a>.</p>
         </div>
         <div class="col-md">
@@ -151,8 +151,8 @@ featuredImage: /img/uploads/6.svg
         <div class="col-md">
             <span>SDG Indicator 6.4.2</span>
             <h3>Levels of freshwater stress</h3>
-            <p><strong>Definition:</strong> Indicator 6.4.2 is the <i><q>level of water stress: freshwater withdrawal as a proportion of available freshwater resources</q></i>.<p>Water scarcity or stress is defined as the total quantity of freshwater withdrawals as a share of internal resources. This includes water withdrawn from agricultural, industrial and domestic uses. Water stress is defined by the following categories: < 10% is low stress; 10-20% is low-to-medium; 20-40% medium-to-high; 40-80% high; >80% extremely high.<p>
-            <p><strong>Goal:</strong> By 2030 <i><q>ensure sustainable withdrawals and supply of freshwater to address water scarcity and substantially reduce the number of people suffering from water scarcity</q></i>.</p>
+            <p><strong>Definition:</strong> Indicator 6.4.2 is the <q>level of water stress: freshwater withdrawal as a proportion of available freshwater resources</q>.<p>Water scarcity or stress is defined as the total quantity of freshwater withdrawals as a share of internal resources. This includes water withdrawn from agricultural, industrial and domestic uses. Water stress is defined by the following categories: < 10% is low stress; 10-20% is low-to-medium; 20-40% medium-to-high; 40-80% high; >80% extremely high.<p>
+            <p><strong>Goal:</strong> By 2030 <q>ensure sustainable withdrawals and supply of freshwater to address water scarcity and substantially reduce the number of people suffering from water scarcity</q>.</p>
             <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/water-access-resources-sanitation">entry on Water Access, Resources & Sanitation</a>.</p>
             <p><strong>Additional charts:</strong><br><a href="https://ourworldindata.org/grapher/water-withdrawals-per-capita?year=2015">Water withdrawals per capita</a>
 <br><a href="https://ourworldindata.org/grapher/renewable-water-resources-per-capita">Renewable water resources per capita</a></p>
@@ -175,8 +175,8 @@ featuredImage: /img/uploads/6.svg
         <div class="col-md">
             <span>SDG Indicator 6.5.1</span>
             <h3>Integrated water management</h3>
-            <p><strong>Definition:</strong> Indicator 6.5.1 is the <i><q>degree of integrated water resources management implementation (0–100)</q></i>.<p>This metric assesses the status of national development and implementation of Integrated Water Resource Management (IWRM) plans across the world.</p>
-            <p><strong>Goal:</strong> <i><q>By 2030, implement integrated water resources management at all levels, including through transboundary cooperation as appropriate</q></i>.</p>
+            <p><strong>Definition:</strong> Indicator 6.5.1 is the <q>degree of integrated water resources management implementation (0–100)</q>.<p>This metric assesses the status of national development and implementation of Integrated Water Resource Management (IWRM) plans across the world.</p>
+            <p><strong>Goal:</strong> <q>By 2030, implement integrated water resources management at all levels, including through transboundary cooperation as appropriate</q>.</p>
             <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/water-access-resources-sanitation">entry on Water Access, Resources & Sanitation</a>.</p>
         </div>
         <div class="col-md">
@@ -192,9 +192,9 @@ featuredImage: /img/uploads/6.svg
         <div class="col-md">
             <span>SDG Indicator 6.5.2</span>
             <h3>Transboundary water cooperation</h3>
-            <p><strong>Definition:</strong> Indicator 6.5.2 is the <i><q>proportion of transboundary basin area with an
-operational arrangement for water cooperation</q></i>.
-            <p><strong>Goal:</strong> <i><q>By 2030, implement integrated water resources management at all levels, including through transboundary cooperation as appropriate</q></i>.</p>
+            <p><strong>Definition:</strong> Indicator 6.5.2 is the <q>proportion of transboundary basin area with an
+operational arrangement for water cooperation</q>.
+            <p><strong>Goal:</strong> <q>By 2030, implement integrated water resources management at all levels, including through transboundary cooperation as appropriate</q>.</p>
         </div>
         <NoData/>
     </div>
@@ -212,8 +212,8 @@ operational arrangement for water cooperation</q></i>.
         <div class="col-md">
             <span>SDG Indicator 6.6.1</span>
             <h3>Protect and restore water-related ecosystems</h3>
-            <p><strong>Definition:</strong> Indicator 6.6.1 is the <i><q>change in the extent of water-related ecosystems over time</q></i>.
-            <p><strong>Goal:</strong> <i><q>By 2020, protect and restore water-related ecosystems, including mountains, forests, wetlands, rivers, aquifers and lakes</q></i>.<p>The target is set to be achieved by 2020, unlike most SDG targets which have a timeline of 2030.</p>
+            <p><strong>Definition:</strong> Indicator 6.6.1 is the <q>change in the extent of water-related ecosystems over time</q>.
+            <p><strong>Goal:</strong> <q>By 2020, protect and restore water-related ecosystems, including mountains, forests, wetlands, rivers, aquifers and lakes</q>.<p>The target is set to be achieved by 2020, unlike most SDG targets which have a timeline of 2030.</p>
         </div>
         <NoData/>
     </div>
@@ -231,8 +231,8 @@ operational arrangement for water cooperation</q></i>.
         <div class="col-md">
             <span>SDG Indicator 6.A.1</span>
             <h3>Water and sanitation support</h3>
-            <p><strong>Definition:</strong> Indicator 6.A.1 is the <i><q>amount of water- and sanitation-related official development assistance that is part of a government coordinated spending plan</q></i>.<p>This metric is assessed as the total official development assistance (ODA) allocated to water- and sanitation-related programmes. ODA is reported as the total per recipient country in constant 2015 US$ per year.</p>
-            <p><strong>Goal:</strong> <i><q>By 2030, expand international cooperation and capacity-building support to developing countries in water- and sanitation-related activities and programmes</q></i>.</p>
+            <p><strong>Definition:</strong> Indicator 6.A.1 is the <q>amount of water- and sanitation-related official development assistance that is part of a government coordinated spending plan</q>.<p>This metric is assessed as the total official development assistance (ODA) allocated to water- and sanitation-related programmes. ODA is reported as the total per recipient country in constant 2015 US$ per year.</p>
+            <p><strong>Goal:</strong> <q>By 2030, expand international cooperation and capacity-building support to developing countries in water- and sanitation-related activities and programmes</q>.</p>
             <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/water-access-resources-sanitation">entry on Water Access, Resources & Sanitation</a>.</p>
         </div>
         <div class="col-md">
@@ -253,8 +253,8 @@ operational arrangement for water cooperation</q></i>.
         <div class="col-md">
             <span>SDG Indicator 6.B.1</span>
             <h3>Local participation in sanitation management</h3>
-            <p><strong>Definition:</strong> Indicator 6.6.1 is the <i><q>proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management</q></i>.
-            <p><strong>Goal:</strong> By 2030 <i><q>support and strengthen the participation of local communities in improving water and sanitation management</q></i>.</p>
+            <p><strong>Definition:</strong> Indicator 6.6.1 is the <q>proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management</q>.
+            <p><strong>Goal:</strong> By 2030 <q>support and strengthen the participation of local communities in improving water and sanitation management</q>.</p>
         </div>
         <NoData/>
     </div>

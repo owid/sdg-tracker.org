@@ -5,14 +5,14 @@ goalNum: 5
 name: Gender Equality
 description: >-
   The [UN explains](https://www.un.org/sustainabledevelopment/gender-equality/):
-  <i><q>Gender equality is not only a fundamental human right, but a necessary
+  <q>Gender equality is not only a fundamental human right, but a necessary
   foundation for a peaceful, prosperous and sustainable world. 
 
 
   Providing women and girls with equal access to education, health care, decent
   work, and representation in political and economic decision-making processes
   will fuel sustainable economies and benefit societies and humanity at
-  large.</q></i>
+  large.</q>
 
 
   The UN has defined 9 _Targets_ and 14 _Indicators_ for SDG 5. Targets specify
@@ -33,8 +33,8 @@ featuredImage: /img/uploads/5.svg
         <div class="col-md">
             <span>SDG Indicator 5.1.1</span>
             <h3>Legal frameworks for gender equality and non-discrimination</h3>
-            <p><strong>Definition:</strong> Indicator 5.1.1 is <i><q>whether or not legal frameworks are in place to promote, enforce and monitor equality and non-discrimination on the basis of sex.</q></i> <p>There are various legal frameworks which can be applied to promote and enforce non-discrimination on the basis of sex. This is assessed here in the SDG Tracker – see also the 'additional charts' – across various measures, including hiring, equal pay, marital rape and property rights, among others.</p>
-            <p><strong>Goal:</strong> By 2030 <i><q>end all forms of discrimination against all women and girls everywhere</q></i>.<p>This requires legal frameworks in place to enforce gender equality for all countries.</p>
+            <p><strong>Definition:</strong> Indicator 5.1.1 is <q>whether or not legal frameworks are in place to promote, enforce and monitor equality and non-discrimination on the basis of sex.</q> <p>There are various legal frameworks which can be applied to promote and enforce non-discrimination on the basis of sex. This is assessed here in the SDG Tracker – see also the 'additional charts' – across various measures, including hiring, equal pay, marital rape and property rights, among others.</p>
+            <p><strong>Goal:</strong> By 2030 <q>end all forms of discrimination against all women and girls everywhere</q>.<p>This requires legal frameworks in place to enforce gender equality for all countries.</p>
             <p><strong>Additional charts:</strong>
 <br><a href="https://ourworldindata.org/grapher/law-mandate-equal-pay">Does law mandate equal pay for males and females?</a>
 <br><a href="https://ourworldindata.org/grapher/does-legislation-explicitly-criminalise-marital-rape">Does legislation explicitly criminalise marital rape?</a>
@@ -62,8 +62,8 @@ featuredImage: /img/uploads/5.svg
         <div class="col-md">
             <span>SDG Indicator 5.2.1</span>
             <h3>Violence against women from an intimate partner</h3>
-            <p><strong>Definition:</strong> Indicator 5.2.1 is the <i><q>proportion of ever-partnered women and girls aged 15 years and older subjected to physical, sexual or psychological violence by a current or former intimate partner in the previous 12 months, by form of violence and by age</q></i>. <p>This is measured here as the share of women aged 15 years or older who experienced physical or sexual violence from an intimate partner in the last year.</p>
-            <p><strong>Goal:</strong> By 2030 <i><q>eliminate all forms of violence against all women and girls</q></i>.</p>
+            <p><strong>Definition:</strong> Indicator 5.2.1 is the <q>proportion of ever-partnered women and girls aged 15 years and older subjected to physical, sexual or psychological violence by a current or former intimate partner in the previous 12 months, by form of violence and by age</q>. <p>This is measured here as the share of women aged 15 years or older who experienced physical or sexual violence from an intimate partner in the last year.</p>
+            <p><strong>Goal:</strong> By 2030 <q>eliminate all forms of violence against all women and girls</q>.</p>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/women-violence-by-an-intimate-partner" style="width: 100%; height: 600px; border: 0px none;"></iframe>
@@ -78,8 +78,8 @@ featuredImage: /img/uploads/5.svg
         <div class="col-md">
             <span>SDG Indicator 5.2.2</span>
             <h3>Violence against women from persons other than an intimate partner</h3>
-            <p><strong>Definition:</strong> Indicator 5.2.2 is the <i><q>proportion of women and girls aged 15 years and older subjected to sexual violence by persons other than an intimate partner in the previous 12 months, by age and place of occurrence</q></i>.</p>
-            <p><strong>Goal:</strong> By 2030 <i><q>eliminate all forms of violence against all women and girls</q></i>.</p>
+            <p><strong>Definition:</strong> Indicator 5.2.2 is the <q>proportion of women and girls aged 15 years and older subjected to sexual violence by persons other than an intimate partner in the previous 12 months, by age and place of occurrence</q>.</p>
+            <p><strong>Goal:</strong> By 2030 <q>eliminate all forms of violence against all women and girls</q>.</p>
         </div>
         <NoData/>
     </div>
@@ -96,8 +96,8 @@ featuredImage: /img/uploads/5.svg
         <div class="col-md">
             <span>SDG Indicator 5.3.1</span>
             <h3>Women married before age 15 or 18</h3>
-            <p><strong>Definition:</strong> Indicator 5.3.1 is the <i><q>proportion of women aged 20–24 years who were married or in a union before age 15 and before age 18</q></i>.<p>This is measured as the share of women aged 20-24 years old who were married before the age of 15; and the share who were married before the age of 18.</p>
-            <p><strong>Goal:</strong> <i><q>Eliminate child, early or forced marriage</q></i> by 2030.</p>
+            <p><strong>Definition:</strong> Indicator 5.3.1 is the <q>proportion of women aged 20–24 years who were married or in a union before age 15 and before age 18</q>.<p>This is measured as the share of women aged 20-24 years old who were married before the age of 15; and the share who were married before the age of 18.</p>
+            <p><strong>Goal:</strong> <q>Eliminate child, early or forced marriage</q> by 2030.</p>
             <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/violence-against-rights-for-children">entry on Violence Against & Rights for Children</a>.</p>
             <p><strong>Additional charts:</strong> 
 <br><a href="https://ourworldindata.org/grapher/does-law-prohibit-or-invalidate-child-or-early-marriage">Does the law prohibit or invalidate child marriage?</a></p>
@@ -116,8 +116,8 @@ featuredImage: /img/uploads/5.svg
         <div class="col-md">
             <span>SDG Indicator 5.3.2</span>
             <h3>Female genital mutilation/cutting</h3>
-            <p><strong>Definition:</strong> Indicator 5.3.2 is the <i><q>proportion of girls and women aged 15–49 years who have undergone female genital mutilation/cutting</q></i>.<p>This is measured as the share of women aged 15-49 years old who have gone through partial or total removal of the  female external genitalia or other injury to the female genital organs for cultural or other non-therapeutic reasons.</p>
-            <p><strong>Goal:</strong> <i><q>Eliminate harmful practices such as female genital mutilation/cutting</q></i> by 2030.</p>
+            <p><strong>Definition:</strong> Indicator 5.3.2 is the <q>proportion of girls and women aged 15–49 years who have undergone female genital mutilation/cutting</q>.<p>This is measured as the share of women aged 15-49 years old who have gone through partial or total removal of the  female external genitalia or other injury to the female genital organs for cultural or other non-therapeutic reasons.</p>
+            <p><strong>Goal:</strong> <q>Eliminate harmful practices such as female genital mutilation/cutting</q> by 2030.</p>
             <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/violence-against-rights-for-children">entry on Violence Against & Rights for Children</a>.</p>
         </div>
         <div class="col-md">
@@ -137,8 +137,8 @@ featuredImage: /img/uploads/5.svg
         <div class="col-md">
             <span>SDG Indicator 5.4.1</span>
             <h3>Time spent on unpaid domestic and care work</h3>
-            <p><strong>Definition:</strong> Indicator 5.4.1 is the <i><q>proportion of time spent on unpaid domestic and care work, by sex, age and location</q></i>.<p>This is shown here as the average time men and women spend on unpaid domestic and care work per day.</p>
-            <p><strong>Goal:</strong> By 2030 <i><q>recognize and value unpaid care and domestic work, and promote shared responsibility within the household and family</q></i>.<p>Specific targets related to the distribution and recognition of unpaid work are not clearly defined.</p>
+            <p><strong>Definition:</strong> Indicator 5.4.1 is the <q>proportion of time spent on unpaid domestic and care work, by sex, age and location</q>.<p>This is shown here as the average time men and women spend on unpaid domestic and care work per day.</p>
+            <p><strong>Goal:</strong> By 2030 <q>recognize and value unpaid care and domestic work, and promote shared responsibility within the household and family</q>.<p>Specific targets related to the distribution and recognition of unpaid work are not clearly defined.</p>
             <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> entries on <a href="https://ourworldindata.org/female-labor-supply">Female Labor Supply</a> and <a href="https://ourworldindata.org/working-hours">Working Hours</a>.</p>
         </div>
         <div class="col-md">
@@ -159,8 +159,8 @@ featuredImage: /img/uploads/5.svg
         <div class="col-md">
             <span>SDG Indicator 5.5.1</span>
             <h3>Women in political positions</h3>
-            <p><strong>Definition:</strong> Indicator 5.5.1 is the <i><q>proportion of seats held by women in (a) national parliaments and (b) local governments</q></i>. <p>This is measured as the share of national parliamentary seats, and ministerial positions held by women for each country in a given year.</p>
-            <p><strong>Goal:</strong> By 2030 <i><q>ensure women’s full and effective participation and equal opportunities for leadership at all levels of decision-making in political life</q></i>.</p>
+            <p><strong>Definition:</strong> Indicator 5.5.1 is the <q>proportion of seats held by women in (a) national parliaments and (b) local governments</q>. <p>This is measured as the share of national parliamentary seats, and ministerial positions held by women for each country in a given year.</p>
+            <p><strong>Goal:</strong> By 2030 <q>ensure women’s full and effective participation and equal opportunities for leadership at all levels of decision-making in political life</q>.</p>
             <p><strong>Additional charts:</strong> 
 <br><a href="https://ourworldindata.org/grapher/countries-that-have-ever-elected-a-woman-to-parliament">Countries that have ever elected a woman to parliament</a></p>
         </div>
@@ -178,8 +178,8 @@ featuredImage: /img/uploads/5.svg
         <div class="col-md">
             <span>SDG Indicator 5.5.2</span>
             <h3>Women in managerial positions</h3>
-            <p><strong>Definition:</strong> Indicator 5.5.2 is the <i><q>proportion of women in managerial positions</q></i>.<p>This is measured as the percentage of firms in any given country with a female as the top manager, and the share of middle or senior management positions filled by a female.</p>
-            <p><strong>Goal:</strong> By 2030 <i><q>ensure women’s full and effective participation and equal opportunities for leadership at all levels of decision-making in political life</q></i>.</p>
+            <p><strong>Definition:</strong> Indicator 5.5.2 is the <q>proportion of women in managerial positions</q>.<p>This is measured as the percentage of firms in any given country with a female as the top manager, and the share of middle or senior management positions filled by a female.</p>
+            <p><strong>Goal:</strong> By 2030 <q>ensure women’s full and effective participation and equal opportunities for leadership at all levels of decision-making in political life</q>.</p>
             <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/female-labor-supply">entry on Female Labor Supply</a>.</p>
         </div>
         <div class="col-md">
@@ -200,8 +200,8 @@ featuredImage: /img/uploads/5.svg
         <div class="col-md">
             <span>SDG Indicator 5.6.1</span>
             <h3>Women decision-making on contraceptive use and healthcare</h3>
-            <p><strong>Definition:</strong> Indicator 5.6.1 is the <i><q>proportion of women aged 15–49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care</q></i>.<p>This is measured as the percentage of married women aged 15-49 years old who makes their own informed decisions regarding sexual relations, and reproductive healthcare.<p>Only women who answer "yes" to the following three conditions are considered to make their own informed decisions: can say no to sexual intercourse with their husband or partner if they do not want; decide on use of contraception; and decide on their own healthcare.</p>
-            <p><strong>Goal:</strong> By 2030 <q><i>ensure universal access to sexual and reproductive health and reproductive rights</q></i>.</p>
+            <p><strong>Definition:</strong> Indicator 5.6.1 is the <q>proportion of women aged 15–49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care</q>.<p>This is measured as the percentage of married women aged 15-49 years old who makes their own informed decisions regarding sexual relations, and reproductive healthcare.<p>Only women who answer "yes" to the following three conditions are considered to make their own informed decisions: can say no to sexual intercourse with their husband or partner if they do not want; decide on use of contraception; and decide on their own healthcare.</p>
+            <p><strong>Goal:</strong> By 2030 <q><i>ensure universal access to sexual and reproductive health and reproductive rights</q>.</p>
             <p><strong>Additional charts:</strong> 
 <br><a href="https://ourworldindata.org/grapher/share-of-women-using-modern-contraceptive-methods">Share of women using modern contraceptive methods</a>
 <br><a href="https://ourworldindata.org/grapher/contraceptive-prevalence-any-methods-of-women-ages-15-49">Share of women using any contraceptive methods</a>
@@ -220,8 +220,8 @@ featuredImage: /img/uploads/5.svg
         <div class="col-md">
             <span>SDG Indicator 5.6.2</span>
             <h3>Guarantee of equal access to sexual and reproductive health care</h3>
-            <p><strong>Definition:</strong> Indicator 5.6.2 is the <i><q>Number of countries with laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education</q></i>.</p>
-            <p><strong>Goal:</strong> By 2030 <q><i>ensure universal access to sexual and reproductive health and reproductive rights</q></i>.</p>
+            <p><strong>Definition:</strong> Indicator 5.6.2 is the <q>Number of countries with laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education</q>.</p>
+            <p><strong>Goal:</strong> By 2030 <q><i>ensure universal access to sexual and reproductive health and reproductive rights</q>.</p>
             <p><strong>Additional charts:</strong> 
 <br><a href="https://ourworldindata.org/grapher/share-of-women-using-modern-contraceptive-methods">Share of women using modern contraceptive methods</a>
 <br><a href="https://ourworldindata.org/grapher/contraceptive-prevalence-any-methods-of-women-ages-15-49">Share of women using any contraceptive methods</a>
@@ -242,8 +242,8 @@ featuredImage: /img/uploads/5.svg
         <div class="col-md">
             <span>SDG Indicator 5.A.1</span>
             <h3>Female land rights or ownership</h3>
-            <p><strong>Definition:</strong> Indicator 5.A.1 is the <i><q>proportion of total agricultural population with ownership or secure rights over agricultural land, by sex; and (b) share of women among owners or rights-bearers of agricultural land, by type of tenure</q></i>. <p>This is measured here in the SDG Tracker as the percentage of men and women (aged 15-49) who solely own land which is legally registered to their name.</p>
-            <p><strong>Goal:</strong> By 2030 <i><q>give women equal rights to economic resources, as well as access to ownership and control over land and other forms of property</q></i>.</p>
+            <p><strong>Definition:</strong> Indicator 5.A.1 is the <q>proportion of total agricultural population with ownership or secure rights over agricultural land, by sex; and (b) share of women among owners or rights-bearers of agricultural land, by type of tenure</q>. <p>This is measured here in the SDG Tracker as the percentage of men and women (aged 15-49) who solely own land which is legally registered to their name.</p>
+            <p><strong>Goal:</strong> By 2030 <q>give women equal rights to economic resources, as well as access to ownership and control over land and other forms of property</q>.</p>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/land-ownership-men-vs-women" style="width: 100%; height: 600px; border: 0px none;"></iframe>
@@ -258,8 +258,8 @@ featuredImage: /img/uploads/5.svg
         <div class="col-md">
             <span>SDG Indicator 5.A.2</span>
             <h3>Equal rights to land ownership</h3>
-            <p><strong>Definition:</strong> Indicator 5.A.2 is the <i><q>proportion of countries where the legal framework (including customary law) guarantees women’s equal rights to land ownership and/or control</q></i>.<p>This is measured on the basis of whether a given country's legal framework guarantees women's rqual rights to land ownership.</p>
-            <p><strong>Goal:</strong> By 2030 <q><i>undertake reforms to give women equal rights to economic resources, as well as access to ownership and control over land and other forms of property</q></i>.</p>
+            <p><strong>Definition:</strong> Indicator 5.A.2 is the <q>proportion of countries where the legal framework (including customary law) guarantees women’s equal rights to land ownership and/or control</q>.<p>This is measured on the basis of whether a given country's legal framework guarantees women's rqual rights to land ownership.</p>
+            <p><strong>Goal:</strong> By 2030 <q><i>undertake reforms to give women equal rights to economic resources, as well as access to ownership and control over land and other forms of property</q>.</p>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/gender-rights-to-property" style="width: 100%; height: 600px; border: 0px none;"></iframe>
@@ -278,8 +278,8 @@ featuredImage: /img/uploads/5.svg
         <div class="col-md">
             <span>SDG Indicator 5.B.1</span>
             <h3>Mobile telephone ownership</h3>
-            <p><strong>Definition:</strong> Indicator 5.B.1 is the <i><q>proportion of individuals who own a mobile telephone, by sex</q></i>.</p>
-            <p><strong>Goal:</strong> By 2030 <q><i>enhance the use of enabling technology, in particular information and communications technology, to promote the empowerment of women</q></i>.<p>There is no defined target level for this indicator.</p>
+            <p><strong>Definition:</strong> Indicator 5.B.1 is the <q>proportion of individuals who own a mobile telephone, by sex</q>.</p>
+            <p><strong>Goal:</strong> By 2030 <q><i>enhance the use of enabling technology, in particular information and communications technology, to promote the empowerment of women</q>.<p>There is no defined target level for this indicator.</p>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/proportion-of-individuals-who-own-a-mobile-by-sex" style="width: 100%; height: 600px; border: 0px none;"></iframe>
@@ -298,8 +298,8 @@ featuredImage: /img/uploads/5.svg
         <div class="col-md">
             <span>SDG Indicator 5.C.1</span>
             <h3>Systems to track gender equality</h3>
-            <p><strong>Definition:</strong> Indicator 5.C.1 is the <i><q>Proportion of countries with systems to track and make public allocations for gender equality and women’s empowerment</q></i>.</p>
-            <p><strong>Goal:</strong> By 2030 <i><q>adopt and strengthen sound policies and enforceable legislation for the promotion of gender equality</q></i>.</p>
+            <p><strong>Definition:</strong> Indicator 5.C.1 is the <q>Proportion of countries with systems to track and make public allocations for gender equality and women’s empowerment</q>.</p>
+            <p><strong>Goal:</strong> By 2030 <q>adopt and strengthen sound policies and enforceable legislation for the promotion of gender equality</q>.</p>
         </div>
         <NoData/>
     </div>
