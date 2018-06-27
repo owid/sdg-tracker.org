@@ -25,7 +25,7 @@ featuredImage: /img/uploads/5.svg
 <div class="target">
     <h2>Target 5.1: End discrimination against women and girls</h2>
     <p>UN definition: <q>End all forms of discrimination against all women and girls everywhere.</q></p>
-<p></p>
+
 </div>
 
 <div class="indicator" id="5.1.1">
@@ -54,7 +54,7 @@ featuredImage: /img/uploads/5.svg
 <div class="target">
     <h2>Target 5.2: End all violence against and exploitation of women and girls</h2>
     <p>UN definition: <q>Eliminate all forms of violence against all women and girls in the public and private spheres, including trafficking and sexual and other types of exploitation.</q></p>
- <p></p>
+ 
 </div>
 
 <div class="indicator" id="5.2.1">
@@ -88,7 +88,7 @@ featuredImage: /img/uploads/5.svg
 <div class="target">
     <h2>Target 5.3: Eliminate forced marriages and genital mutilation</h2>
     <p>UN definition: <q>Eliminate all harmful practices, such as child, early and forced marriage and female genital mutilation.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="5.3.1">
@@ -129,7 +129,7 @@ featuredImage: /img/uploads/5.svg
 <div class="target">
     <h2>Target 5.4: Value unpaid care and promote shared domestic responsibilities</h2>
     <p>UN definition: <q>Recognize and value unpaid care and domestic work through the provision of public services, infrastructure and social protection policies and the promotion of shared responsibility within the household and the family as nationally appropriate.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="5.4.1">
@@ -151,7 +151,7 @@ featuredImage: /img/uploads/5.svg
 <div class="target">
     <h2>Target 5.5: Ensure full participation in leadership and decision-making</h2>
     <p>UN definition: <q>Ensure women’s full and effective participation and equal opportunities for leadership at all levels of decision-making in political, economic and public life.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="5.5.1">
@@ -192,7 +192,7 @@ featuredImage: /img/uploads/5.svg
 <div class="target">
     <h2>Target 5.6: Universal access to reproductive rights and health</h2>
     <p>UN definition: <q>Ensure universal access to sexual and reproductive health and reproductive rights as agreed in accordance with the Programme of Action of the International Conference on Population and Development and the Beijing Platform for Action and the outcome documents of their review conferences.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="5.6.1">
@@ -201,7 +201,7 @@ featuredImage: /img/uploads/5.svg
             <span>SDG Indicator 5.6.1</span>
             <h3>Women decision-making on contraceptive use and healthcare</h3>
             <p><strong>Definition:</strong> Indicator 5.6.1 is the <q>proportion of women aged 15–49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care</q>.<p>This is measured as the percentage of married women aged 15-49 years old who makes their own informed decisions regarding sexual relations, and reproductive healthcare.<p>Only women who answer "yes" to the following three conditions are considered to make their own informed decisions: can say no to sexual intercourse with their husband or partner if they do not want; decide on use of contraception; and decide on their own healthcare.</p>
-            <p><strong>Goal:</strong> By 2030 <q><i>ensure universal access to sexual and reproductive health and reproductive rights</q>.</p>
+            <p><strong>Goal:</strong> By 2030 ensure universal access to sexual and reproductive health and reproductive rights</q>.</p>
             <p><strong>Additional charts:</strong> 
 <br><a href="https://ourworldindata.org/grapher/share-of-women-using-modern-contraceptive-methods">Share of women using modern contraceptive methods</a>
 <br><a href="https://ourworldindata.org/grapher/contraceptive-prevalence-any-methods-of-women-ages-15-49">Share of women using any contraceptive methods</a>
@@ -221,7 +221,7 @@ featuredImage: /img/uploads/5.svg
             <span>SDG Indicator 5.6.2</span>
             <h3>Guarantee of equal access to sexual and reproductive health care</h3>
             <p><strong>Definition:</strong> Indicator 5.6.2 is the <q>Number of countries with laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education</q>.</p>
-            <p><strong>Goal:</strong> By 2030 <q><i>ensure universal access to sexual and reproductive health and reproductive rights</q>.</p>
+            <p><strong>Goal:</strong> By 2030 ensure universal access to sexual and reproductive health and reproductive rights</q>.</p>
             <p><strong>Additional charts:</strong> 
 <br><a href="https://ourworldindata.org/grapher/share-of-women-using-modern-contraceptive-methods">Share of women using modern contraceptive methods</a>
 <br><a href="https://ourworldindata.org/grapher/contraceptive-prevalence-any-methods-of-women-ages-15-49">Share of women using any contraceptive methods</a>
@@ -234,7 +234,7 @@ featuredImage: /img/uploads/5.svg
 <div class="target">
     <h2>Target 5.A: Equal rights to economic resources, property ownership and financial services</h2>
     <p>UN definition: <q>Undertake reforms to give women equal rights to economic resources, as well as access to ownership and control over land and other forms of property, financial services, inheritance and natural resources, in accordance with national laws.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="5.A.1">
@@ -259,7 +259,7 @@ featuredImage: /img/uploads/5.svg
             <span>SDG Indicator 5.A.2</span>
             <h3>Equal rights to land ownership</h3>
             <p><strong>Definition:</strong> Indicator 5.A.2 is the <q>proportion of countries where the legal framework (including customary law) guarantees women’s equal rights to land ownership and/or control</q>.<p>This is measured on the basis of whether a given country's legal framework guarantees women's rqual rights to land ownership.</p>
-            <p><strong>Goal:</strong> By 2030 <q><i>undertake reforms to give women equal rights to economic resources, as well as access to ownership and control over land and other forms of property</q>.</p>
+            <p><strong>Goal:</strong> By 2030 undertake reforms to give women equal rights to economic resources, as well as access to ownership and control over land and other forms of property</q>.</p>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/gender-rights-to-property" style="width: 100%; height: 600px; border: 0px none;"></iframe>
@@ -270,7 +270,7 @@ featuredImage: /img/uploads/5.svg
 <div class="target">
     <h2>Target 5.B: Promote empowerment of women through technology</h2>
     <p>UN definition: <q>Enhance the use of enabling technology, in particular information and communications technology, to promote the empowerment of women.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="5.B.1">
@@ -279,7 +279,7 @@ featuredImage: /img/uploads/5.svg
             <span>SDG Indicator 5.B.1</span>
             <h3>Mobile telephone ownership</h3>
             <p><strong>Definition:</strong> Indicator 5.B.1 is the <q>proportion of individuals who own a mobile telephone, by sex</q>.</p>
-            <p><strong>Goal:</strong> By 2030 <q><i>enhance the use of enabling technology, in particular information and communications technology, to promote the empowerment of women</q>.<p>There is no defined target level for this indicator.</p>
+            <p><strong>Goal:</strong> By 2030 enhance the use of enabling technology, in particular information and communications technology, to promote the empowerment of women</q>.<p>There is no defined target level for this indicator.</p>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/proportion-of-individuals-who-own-a-mobile-by-sex" style="width: 100%; height: 600px; border: 0px none;"></iframe>
@@ -290,7 +290,7 @@ featuredImage: /img/uploads/5.svg
 <div class="target">
     <h2>Target 5.C: Adopt and strengthen policies and enforceable legislation for gender equality</h2>
     <p>UN definition: <q>Adopt and strengthen sound policies and enforceable legislation for the promotion of gender equality and the empowerment of all women and girls at all levels.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="5.C.1">

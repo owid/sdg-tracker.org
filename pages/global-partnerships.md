@@ -23,7 +23,7 @@ featuredImage: /img/uploads/17.svg
 <div class="target">
     <h2>Target 17.1: Mobilize resources to improve domestic revenue collection</h2>
     <p>UN definition: <q>Strengthen domestic resource mobilization, including through international support to developing countries, to improve domestic capacity for tax and other revenue collection.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="17.1.1">
@@ -61,7 +61,7 @@ featuredImage: /img/uploads/17.svg
 <div class="target">
     <h2>Target 17.2: Implement all development assistance commitments</h2>
     <p>UN definition: <q>Developed countries to implement fully their official development assistance commitments, including the commitment by many developed countries to achieve the target of 0.7 per cent of gross national income for official development assistance (ODA/GNI) to developing countries and 0.15 to 0.20 per cent of ODA/GNI to least developed countries; ODA providers are encouraged to consider setting a target to provide at least 0.20 per cent of ODA/GNI to least developed countries.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="17.2.1">
@@ -84,7 +84,7 @@ featuredImage: /img/uploads/17.svg
 <div class="target">
     <h2>Target 17.3: Mobilize financial resources for developing countries</h2>
     <p>UN definition: <q>Mobilize additional financial resources for developing countries from multiple sources.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="17.3.1">
@@ -120,7 +120,7 @@ featuredImage: /img/uploads/17.svg
 <div class="target">
     <h2>Target 17.4: Assist developing countries in attaining debt sustainability</h2>
     <p>UN definition: <q>Assist developing countries in attaining long-term debt sustainability through coordinated policies aimed at fostering debt financing, debt relief and debt restructuring, as appropriate, and address the external debt of highly indebted poor countries to reduce debt distress.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="17.4.1">
@@ -140,7 +140,7 @@ featuredImage: /img/uploads/17.svg
 <div class="target">
     <h2>Target 17.5: Invest in least-developed countries</h2>
     <p>UN definition: <q>Adopt and implement investment promotion regimes for least developed countries.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="17.5.1">
@@ -159,7 +159,7 @@ featuredImage: /img/uploads/17.svg
     <h2>Target 17.6: Knowledge sharing and cooperation for access to science, technology and innovation</h2>
     <p>UN definition: <q>Enhance North-South, South-South and triangular regional and international cooperation on and access to science, technology and innovation and enhance knowledge sharing on mutually agreed terms, including through improved coordination among existing mechanisms, in particular at the United Nations level, and through a global technology facilitation mechanism.
 </q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="17.6.1">
@@ -195,7 +195,7 @@ featuredImage: /img/uploads/17.svg
 <div class="target">
     <h2>Target 17.7: Promote sustainable technologies to developing countries</h2>
     <p>UN definition: <q>Promote the development, transfer, dissemination and diffusion of environmentally sound technologies to developing countries on favourable terms, including on concessional and preferential terms, as mutually agreed.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="17.7.1">
@@ -213,7 +213,7 @@ featuredImage: /img/uploads/17.svg
 <div class="target">
     <h2>Target 17.8: Strengthen the science, technology and innovation capacity for least-developed countries</h2>
     <p>UN definition: <q>Fully operationalize the technology bank and science, technology and innovation capacity-building mechanism for least developed countries by 2017 and enhance the use of enabling technology, in particular information and communications technology.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="17.8.1">
@@ -236,7 +236,7 @@ featuredImage: /img/uploads/17.svg
 <div class="target">
     <h2>Target 17.9: Enhanced SDG capacity in developing countries</h2>
     <p>UN definition: <q>Enhance international support for implementing effective and targeted capacity-building in developing countries to support national plans to implement all the Sustainable Development Goals, including through North-South, South-South and triangular cooperation.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="17.9.1">
@@ -257,7 +257,7 @@ featuredImage: /img/uploads/17.svg
 <div class="target">
     <h2>Target 17.10: Promote a universal trading system under the WTO</h2>
     <p>UN definition: <q>Promote a universal, rules-based, open, non-discriminatory and equitable multilateral trading system under the World Trade Organization, including through the conclusion of negotiations under its Doha Development Agenda.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="17.10.1">
@@ -278,7 +278,7 @@ featuredImage: /img/uploads/17.svg
 <div class="target">
     <h2>Target 17.11: Increase the exports of developing countries</h2>
     <p>UN definition: <q>Significantly increase the exports of developing countries, in particular with a view to doubling the least developed countries’ share of global exports by 2020.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="17.11.1">
@@ -300,7 +300,7 @@ featuredImage: /img/uploads/17.svg
 <div class="target">
     <h2>Target 17.12: Remove trade barriers for least-developed countries</h2>
     <p>UN definition: <q>Realize timely implementation of duty-free and quota-free market access on a lasting basis for all least developed countries, consistent with World Trade Organization decisions, including by ensuring that preferential rules of origin applicable to imports from least developed countries are transparent and simple, and contribute to facilitating market access.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="17.12.1">
@@ -321,7 +321,7 @@ featuredImage: /img/uploads/17.svg
 <div class="target">
     <h2>Target 17.13: Enhance global macroeconomic stability</h2>
     <p>UN definition: <q>Enhance global macroeconomic stability, including through policy coordination and policy coherence.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="17.13.1">
@@ -339,7 +339,7 @@ featuredImage: /img/uploads/17.svg
 <div class="target">
     <h2>Target 17.14: Enhance policy coherence for sustainable development</h2>
     <p>UN definition: <q>Enhance policy coherence for sustainable development.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="17.14.1">
@@ -357,7 +357,7 @@ featuredImage: /img/uploads/17.svg
 <div class="target">
     <h2>Target 17.15: Respect national leadership to implement policies for the sustainable development goals</h2>
     <p>UN definition: <q>Respect each country’s policy space and leadership to establish and implement policies for poverty eradication and sustainable development.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="17.15.1">
@@ -377,7 +377,7 @@ featuredImage: /img/uploads/17.svg
 <div class="target">
     <h2>Target 17.16: Enhance the global partnership for sustainable development</h2>
     <p>UN definition: <q>Enhance the Global Partnership for Sustainable Development, complemented by multi-stakeholder partnerships that mobilize and share knowledge, expertise, technology and financial resources, to support the achievement of the Sustainable Development Goals in all countries, in particular developing countries.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="17.16.1">
@@ -397,7 +397,7 @@ featuredImage: /img/uploads/17.svg
 <div class="target">
     <h2>Target 17.17: Encourage effective partnerships</h2>
     <p>UN definition: <q>Encourage and promote effective public, public-private and civil society partnerships, building on the experience and resourcing strategies of partnerships.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="17.17.1">
@@ -417,7 +417,7 @@ partnerships</q>.</p>
 <div class="target">
     <h2>Target 17.18: Enhance availability of reliable data</h2>
     <p>UN definition: <q>By 2020, enhance capacity-building support to developing countries, including for least developed countries and small island developing States, to increase significantly the availability of high-quality, timely and reliable data disaggregated by income, gender, age, race, ethnicity, migratory status, disability, geographic location and other characteristics relevant in national contexts.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="17.18.1">
@@ -467,7 +467,7 @@ partnerships</q>.</p>
 <div class="target">
     <h2>Target 17.19: Further develop measurements of progress</h2>
     <p>UN definition: <q>By 2030, build on existing initiatives to develop measurements of progress on sustainable development that complement gross domestic product, and support statistical capacity-building in developing countries.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="17.19.1">

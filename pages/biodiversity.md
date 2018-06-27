@@ -25,7 +25,7 @@ featuredImage: /img/uploads/15.svg
 <div class="target">
     <h2>Target 15.1: Conserve and restore terrestrial and freshwater ecosystems</h2>
     <p>UN definition: <q>By 2020, ensure the conservation, restoration and sustainable use of terrestrial and inland freshwater ecosystems and their services, in particular forests, wetlands, mountains and drylands, in line with obligations under international agreements.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="15.1.1">
@@ -64,7 +64,7 @@ featuredImage: /img/uploads/15.svg
 <div class="target">
     <h2>Target 15.2: End deforestation and restore degraded forests</h2>
     <p>UN definition: <q>By 2020, promote the implementation of sustainable management of all types of forests, halt deforestation, restore degraded forests and substantially increase afforestation and reforestation globally.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="15.2.1">
@@ -90,7 +90,7 @@ Three sub-indicators focus on the extension of forest area, biomass within the f
 <div class="target">
     <h2>Target 15.3: End desertification and restore degraded land</h2>
     <p>UN definition: <q>By 2030, combat desertification, restore degraded land and soil, including land affected by desertification, drought and floods, and strive to achieve a land degradation-neutral world.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="15.3.1">
@@ -108,7 +108,7 @@ Three sub-indicators focus on the extension of forest area, biomass within the f
 <div class="target">
     <h2>Target 15.4: Ensure conservation of mountain ecosystems</h2>
     <p>UN definition: <q>By 2030, ensure the conservation of mountain ecosystems, including their biodiversity, in order to enhance their capacity to provide benefits that are essential for sustainable development.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="15.4.1">
@@ -145,7 +145,7 @@ Maps and Landsat 7 and 8 datasets from Google Earth Engine. </p>
 <div class="target">
     <h2>Target 15.5: Protect biodiversity and natural habitats</h2>
     <p>UN definition: <q>Take urgent and significant action to reduce the degradation of natural habitats, halt the loss of biodiversity and, by 2020, protect and prevent the extinction of threatened species.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="15.5.1">
@@ -187,7 +187,7 @@ Maps and Landsat 7 and 8 datasets from Google Earth Engine. </p>
 <div class="target">
     <h2>Target 15.7: Eliminate poaching and trafficking of protected species</h2>
     <p>UN definition: <q>Take urgent action to end poaching and trafficking of protected species of flora and fauna and address both demand and supply of illegal wildlife products.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="15.7.1">
@@ -205,7 +205,7 @@ Maps and Landsat 7 and 8 datasets from Google Earth Engine. </p>
 <div class="target">
     <h2>Target 15.8: Prevent invasive alien species on land and in water ecosystems</h2>
     <p>UN definition: <q>By 2020, introduce measures to prevent the introduction and significantly reduce the impact of invasive alien species on land and water ecosystems and control or eradicate the priority species.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="15.8.1">
@@ -223,7 +223,7 @@ Maps and Landsat 7 and 8 datasets from Google Earth Engine. </p>
 <div class="target">
     <h2>Target 15.9: Integrate ecosystem and biodiversity in governmental planning</h2>
     <p>UN definition: <q>By 2020, integrate ecosystem and biodiversity values into national and local planning, development processes, poverty reduction strategies and accounts.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="15.9.1">
@@ -241,7 +241,7 @@ Maps and Landsat 7 and 8 datasets from Google Earth Engine. </p>
 <div class="target">
     <h2>Target 15.A: Increase financial resources to conserve and sustainably use ecosystem and biodiversity</h2>
     <p>UN definition: <q>Mobilize and significantly increase financial resources from all sources to conserve and sustainably use biodiversity and ecosystems.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="15.A.1">
@@ -262,7 +262,7 @@ Maps and Landsat 7 and 8 datasets from Google Earth Engine. </p>
 <div class="target">
     <h2>Target 15.B: Finance and incentivize sustainable forest management</h2>
     <p>UN definition: <q>Mobilize significant resources from all sources and at all levels to finance sustainable forest management and provide adequate incentives to developing countries to advance such management, including for conservation and reforestation.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="15.B.1">
@@ -283,7 +283,7 @@ Maps and Landsat 7 and 8 datasets from Google Earth Engine. </p>
 <div class="target">
     <h2>Target 15.C: Combat global poaching and trafficking</h2>
     <p>UN definition: <q>Enhance global support for efforts to combat poaching and trafficking of protected species, including by increasing the capacity of local communities to pursue sustainable livelihood opportunities.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="15.C.1">

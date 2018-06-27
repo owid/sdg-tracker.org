@@ -31,7 +31,7 @@ featuredImage: /img/uploads/1.svg
 <div class="target">
     <h2>Target 1.1: Eradicate extreme poverty</h2>
     <p>UN definition: <q>By 2030, eradicate extreme poverty for all people everywhere, currently measured as people living on less than $1.90 a day.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="1.1.1">
@@ -60,7 +60,7 @@ This poverty line is measured in "international dollars" which are a hypothetica
     <p>UN definition: <q>By 2030, reduce at least by half the proportion of men,
 women and children of all ages living in poverty in all its
 dimensions according to national definitions.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="1.2.1">
@@ -103,7 +103,7 @@ dimensions according to national definitions.</q></p>
     <p>UN definition: <q>Implement nationally appropriate social protection
 systems and measures for all, including floors, and by 2030
 achieve substantial coverage of the poor and the vulnerable.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="1.3.1">
@@ -128,7 +128,7 @@ achieve substantial coverage of the poor and the vulnerable</q>.</p>
 <div class="target">
     <h2>Target 1.4: Equal rights to ownership, basic services, technology and economic resources</h2>
     <p>UN definition: <q>By 2030, ensure that all men and women, in particular the poor and the vulnerable, have equal rights to economic resources, as well as access to basic services, ownership and control over land and other forms of property, inheritance, natural resources, appropriate new technology and financial services, including microfinance.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="1.4.1">
@@ -170,7 +170,7 @@ achieve substantial coverage of the poor and the vulnerable</q>.</p>
 <div class="target">
     <h2>Target 1.5: Build resilience to environmental, economic and social disasters</h2>
     <p>UN definition: <q>By 2030, build the resilience of the poor and those in vulnerable situations and reduce their exposure and vulnerability to climate-related extreme events and other economic, social and environmental shocks and disasters.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="1.5.1">
@@ -252,7 +252,7 @@ achieve substantial coverage of the poor and the vulnerable</q>.</p>
     <h2>Target 1.a: Mobilisation of resources to end poverty</h2>
     <p>UN definition: <q>Ensure significant mobilization of resources from a
 variety of sources, including through enhanced development cooperation, in order to provide adequate and predictable means for developing countries, in particular least developed countries, to implement programmes and policies to end poverty in all its dimensions</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="1.a.1">

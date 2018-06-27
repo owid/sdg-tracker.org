@@ -28,7 +28,7 @@ featuredImage: /img/uploads/12.svg
 <div class="target">
     <h2>Target 12.1: Implement the 10-year sustainable consumption and production framework</h2>
     <p>UN definition: <q>Implement the 10‑Year Framework of Programmes on Sustainable Consumption and Production Patterns, all countries taking action, with developed countries taking the lead, taking into account the development and capabilities of developing countries.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="12.1.1">
@@ -46,7 +46,7 @@ featuredImage: /img/uploads/12.svg
 <div class="target">
     <h2>Target 12.2: Sustainable management and use of natural resources</h2>
     <p>UN definition: <q>By 2030, achieve the sustainable management and efficient use of natural resources.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="12.2.1">
@@ -84,7 +84,7 @@ featuredImage: /img/uploads/12.svg
 <div class="target">
     <h2>Target 12.3: Halve global per capita food waste</h2>
     <p>UN definition: <q>By 2030, halve per capita global food waste at the retail and consumer levels and reduce food losses along production and supply chains, including post-harvest losses.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="12.3.1">
@@ -102,7 +102,7 @@ featuredImage: /img/uploads/12.svg
 <div class="target">
     <h2>Target 12.4: Responsible management of chemicals and waste</h2>
     <p>UN definition: <q>By 2020, achieve the environmentally sound management of chemicals and all wastes throughout their life cycle, in accordance with agreed international frameworks, and significantly reduce their release to air, water and soil in order to minimize their adverse impacts on human health and the environment.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="12.4.1">
@@ -136,7 +136,7 @@ featuredImage: /img/uploads/12.svg
 <div class="target">
     <h2>Target 12.5: Substantially reduce waste generation</h2>
     <p>UN definition: <q>By 2030, substantially reduce waste generation through prevention, reduction, recycling and reuse.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="12.5.1">
@@ -157,7 +157,7 @@ featuredImage: /img/uploads/12.svg
 <div class="target">
     <h2>Target 12.6: Encourage companies to adopt sustainable practices and sustainability reporting</h2>
     <p>UN definition: <q>Encourage companies, especially large and transnational companies, to adopt sustainable practices and to integrate sustainability information into their reporting cycle.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="12.6.1">
@@ -175,7 +175,7 @@ featuredImage: /img/uploads/12.svg
 <div class="target">
     <h2>Target 12.7: Promote sustainable public procurement practices</h2>
     <p>UN definition: <q>Promote public procurement practices that are sustainable, in accordance with national policies and priorities.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="12.7.1">
@@ -193,7 +193,7 @@ featuredImage: /img/uploads/12.svg
 <div class="target">
     <h2>Target 12.8: Promote universal understanding of sustainable lifestyles</h2>
     <p>UN definition: <q>By 2030, ensure that people everywhere have the relevant information and awareness for sustainable development and lifestyles in harmony with nature.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="12.8.1">
@@ -212,7 +212,7 @@ featuredImage: /img/uploads/12.svg
 <div class="target">
     <h2>Target 12.A: Support developing countries' scientific and technological capacity for sustainable consumption and production</h2>
     <p>UN definition: <q>Support developing countries to strengthen their scientific and technological capacity to move towards more sustainable patterns of consumption and production.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="12.A.1">
@@ -232,7 +232,7 @@ featuredImage: /img/uploads/12.svg
 <div class="target">
     <h2>Target 12.B: Develop and implement tools to monitor sustainable tourism</h2>
     <p>UN definition: <q>Develop and implement tools to monitor sustainable development impacts for sustainable tourism that creates jobs and promotes local culture and products.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="12.B.1">
@@ -250,7 +250,7 @@ featuredImage: /img/uploads/12.svg
 <div class="target">
     <h2>Target 12.C: Remove market distortions that encourage wasteful consumption</h2>
     <p>UN definition: <q>Rationalize inefficient fossil-fuel subsidies that encourage wasteful consumption by removing market distortions, in accordance with national circumstances, including by restructuring taxation and phasing out those harmful subsidies, where they exist, to reflect their environmental impacts, taking fully into account the specific needs and conditions of developing countries and minimizing the possible adverse impacts on their development in a manner that protects the poor and the affected communities.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="12.C.1">

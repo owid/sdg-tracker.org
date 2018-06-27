@@ -27,7 +27,7 @@ featuredImage: /img/uploads/13.svg
 <div class="target">
     <h2>Target 13.1: Strengthen resilience and adaptive capacity to climate-related disasters</h2>
     <p>UN definition: <q>Strengthen resilience and adaptive capacity to climate-related hazards and natural disasters in all countries.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="13.1.1">
@@ -58,7 +58,7 @@ featuredImage: /img/uploads/13.svg
             <span>SDG Indicator 13.1.2</span>
             <h3>National disaster risk management</h3>
             <p><strong>Definition:</strong> Indicator 13.1.2 is the <q>number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015–2030</q>.<p>This indicator identifies countries who have and have not adopted and implemented disaster risk management strategies in line with the Sendai Framework for Disaster Risk Reduction.</p>
-            <p><strong>Goal:</strong> By 2030 <q>strengthen resilience and adaptive capacity to climate-related hazards and natural disasters in all countries</q>.<p></p>
+            <p><strong>Goal:</strong> By 2030 <q>strengthen resilience and adaptive capacity to climate-related hazards and natural disasters in all countries</q>.
            <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> on <a href="https://ourworldindata.org/natural-catastrophes">Natural Catastrophes</a>.</p>
            <p><strong>Additional charts:</strong> <br><a href="https://ourworldindata.org/grapher/natural-disaster-deaths-ihme">Total deaths from natural disasters</a>
 <br><a href="https://ourworldindata.org/grapher/number-injured-from-disasters">Number injured from natural disasters</a>
@@ -73,7 +73,7 @@ featuredImage: /img/uploads/13.svg
 
 <hr>
 
-<div class="indicator" id="13.1.2">
+<div class="indicator" id="13.1.3">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 13.1.3</span>
@@ -93,7 +93,7 @@ featuredImage: /img/uploads/13.svg
 <div class="target">
     <h2>Target 13.2: Integrate climate change measures into policy and planning</h2>
     <p>UN definition: <q>Integrate climate change measures into national policies, strategies and planning.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="13.2.1">
@@ -117,7 +117,7 @@ featuredImage: /img/uploads/13.svg
 <div class="target">
     <h2>Target 13.3: Build knowledge and capacity to meet climate change</h2>
     <p>UN definition: <q>Improve education, awareness-raising and human and institutional capacity on climate change mitigation, adaptation, impact reduction and early warning.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="13.3.1">
@@ -149,7 +149,7 @@ featuredImage: /img/uploads/13.svg
 <div class="target">
     <h2>Target 13.A: Implement then UN Framework Convention on Climate Change</h2>
     <p>UN definition: <q>Implement the commitment undertaken by developed-country parties to the United Nations Framework Convention on Climate Change to a goal of mobilizing jointly $100 billion annually by 2020 from all sources to address the needs of developing countries in the context of meaningful mitigation actions and transparency on implementation and fully operationalize the Green Climate Fund through its capitalization as soon as possible.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="13.A.1">
@@ -170,7 +170,7 @@ featuredImage: /img/uploads/13.svg
 <div class="target">
     <h2>Target 13.B: Promote mechanisms to raise capacity for planning and management</h2>
     <p>UN definition: <q>Promote mechanisms for raising capacity for effective climate change-related planning and management in least developed countries and small island developing States, including focusing on women, youth and local and marginalized communities.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="13.B.1">

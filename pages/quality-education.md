@@ -39,7 +39,7 @@ featuredImage: /img/uploads/4.svg
 <div class="target">
     <h2>Target 4.1: Free primary and secondary education</h2>
     <p>UN definition: <q>By 2030, ensure that all girls and boys complete free, equitable and quality primary and secondary education leading to relevant and effective learning outcomes.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="4.1.1">
@@ -65,7 +65,7 @@ featuredImage: /img/uploads/4.svg
 <div class="target">
     <h2>Target 4.2: Equal access to quality pre-primary education</h2>
     <p>UN definition: <q>By 2030, ensure that all girls and boys have access to quality early childhood development, care and pre-primary education so that they are ready for primary education.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="4.2.1">
@@ -109,7 +109,7 @@ featuredImage: /img/uploads/4.svg
 <div class="target">
     <h2>Target 4.3: Equal access to affordable technical, vocational and higher education</h2>
     <p>UN definition: <q>By 2030, ensure equal access for all women and men to affordable and quality technical, vocational and tertiary education, including university.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="4.3.1">
@@ -118,7 +118,7 @@ featuredImage: /img/uploads/4.svg
             <span>SDG Indicator 4.3.1</span>
             <h3>Equal access to further education</h3>
             <p><strong>Definition:</strong> Indicator 4.3.1 is the <q>participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, by sex</q>.<p>It is not clear how this is supposed to be tracked. Here we show the total enrollment in tertiary education, regardless of age, expressed as a percentage of the total population of the  five-year age group following on from secondary school leaving. Data on non-formal further education and training is not available.</p>
-            <p><strong>Goal:</strong> By 2030 <q><i>ensure equal access for all women and men to affordable and quality technical, vocational and tertiary education</q>.<p>There is no defined target level of further education participation rates per year for this indicator.</p>
+            <p><strong>Goal:</strong> By 2030 ensure equal access for all women and men to affordable and quality technical, vocational and tertiary education</q>.<p>There is no defined target level of further education participation rates per year for this indicator.</p>
             <p><strong>More research:</strong> Further data and research can be found at <i>Our World in Data</i> <a href="https://ourworldindata.org/tertiary-education">entry on Tertiary Education</a>.</p>
             <p><strong>Additional charts:</strong>
 <br><a href="https://ourworldindata.org/grapher/population-breakdown-by-highest-level-of-education-achieved-for-those-aged-15-in">Projections of population by education level</a></p>
@@ -132,7 +132,7 @@ featuredImage: /img/uploads/4.svg
 <div class="target">
     <h2>Target 4.4: Increase the number of people with relevant skills for financial success</h2>
     <p>UN definition: <q>By 2030, substantially increase the number of youth and adults who have relevant skills, including technical and vocational skills, for employment, decent jobs and entrepreneurship.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="4.4.1">
@@ -154,7 +154,7 @@ featuredImage: /img/uploads/4.svg
 <div class="target">
     <h2>Target 4.5: Eliminate all discrimination in education</h2>
     <p>UN definition: <q>By 2030, eliminate gender disparities in education and ensure equal access to all levels of education and vocational training for the vulnerable, including persons with disabilities, indigenous peoples and children in vulnerable situations.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="4.5.1">
@@ -180,7 +180,7 @@ featuredImage: /img/uploads/4.svg
 <div class="target">
     <h2>Target 4.6: Universal literacy and numeracy</h2>
     <p>UN definition: <q>By 2030, ensure that all youth and a substantial proportion of adults, both men and women, achieve literacy and numeracy.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="4.6.1">
@@ -207,7 +207,7 @@ featuredImage: /img/uploads/4.svg
 <div class="target">
     <h2>Target 4.7: Education for sustainable development and global citizenship</h2>
     <p>UN definition: <q>By 2030, ensure that all learners acquire the knowledge and skills needed to promote sustainable development, including, among others, through education for sustainable development and sustainable lifestyles, human rights, gender equality, promotion of a culture of peace and non-violence, global citizenship and appreciation of cultural diversity and of culture’s contribution to sustainable development.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="4.7.1">
@@ -225,7 +225,7 @@ featuredImage: /img/uploads/4.svg
 <div class="target">
     <h2>Target 4.A: Build and upgrade inclusive and safe schools</h2>
     <p>UN definition: <q>Build and upgrade education facilities that are child, disability and gender sensitive and provide safe, non-violent, inclusive and effective learning environments for all.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="4.A.1">
@@ -243,7 +243,7 @@ featuredImage: /img/uploads/4.svg
 <div class="target">
     <h2>Target 4.B: Expand higher education scholarships for developing countries</h2>
     <p>UN definition: <q>By 2020, substantially expand globally the number of scholarships available to developing countries, in particular least developed countries, small island developing States and African countries, for enrolment in higher education, including vocational training and information and communications technology, technical, engineering and scientific programmes, in developed countries and other developing countries.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="4.B.1">
@@ -267,7 +267,7 @@ featuredImage: /img/uploads/4.svg
 teachers, including through international cooperation for
 teacher training in developing countries, especially least
 developed countries and small island developing States.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="4.C.1">

@@ -22,7 +22,7 @@ featuredImage: /img/uploads/11.svg
 <div class="target">
     <h2>Target 11.1: Safe and affordable housing</h2>
     <p>UN definition: <q>By 2030, ensure access for all to adequate, safe and affordable housing and basic services and upgrade slums.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="11.1.1">
@@ -42,7 +42,7 @@ featuredImage: /img/uploads/11.svg
 <div class="target">
     <h2>Target 11.2: Affordable and sustainable transport systems</h2>
     <p>UN definition: <q>By 2030, provide access to safe, affordable, accessible and sustainable transport systems for all, improving road safety, notably by expanding public transport, with special attention to the  needs of those in vulnerable situations, women, children, persons with disabilities and older persons.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="11.2.1">
@@ -61,7 +61,7 @@ disabilities</q>.</p>
 <div class="target">
     <h2>Target 11.3: Inclusive and sustainable urbanization</h2>
     <p>UN definition: <q>By 2030, enhance inclusive and sustainable urbanization and capacity for participatory, integrated and sustainable human settlement planning and management in all countries.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="11.3.1">
@@ -93,7 +93,7 @@ disabilities</q>.</p>
 <div class="target">
     <h2>Target 11.4: Protect the world's cultural and natural heritage</h2>
     <p>UN definition: <q>Strengthen efforts to protect and safeguard the world’s cultural and natural heritage.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="11.4.1">
@@ -111,7 +111,7 @@ disabilities</q>.</p>
 <div class="target">
     <h2>Target 11.5: Reduce the adverse effects of natural disasters</h2>
     <p>UN definition: <q>By 2030, significantly reduce the number of deaths and the number of people affected and substantially decrease the direct economic losses relative to global gross domestic product caused by disasters, including water-related disasters, with a focus on protecting the poor and people in vulnerable situations.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="11.5.1">
@@ -155,7 +155,7 @@ disabilities</q>.</p>
 <div class="target">
     <h2>Target 11.6: Reduce the environmental impacts of cities</h2>
     <p>UN definition: <q>By 2030, reduce the adverse per capita environmental impact of cities, including by paying special attention to air quality and municipal and other waste management.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="11.6.1">
@@ -194,7 +194,7 @@ disabilities</q>.</p>
 <div class="target">
     <h2>Target 11.7: Provide access to safe and inclusive green and public spaces</h2>
     <p>UN definition: <q>By 2030, provide universal access to safe, inclusive and accessible, green and public spaces, in particular for women and children, older persons and persons with disabilities.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="11.7.1">
@@ -226,7 +226,7 @@ disabilities</q>.</p>
 <div class="target">
     <h2>Target 11.A: Strong national and regional development planning</h2>
     <p>UN definition: <q>Support positive economic, social and environmental links between urban, peri-urban and rural areas by strengthening national and regional development planning.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="11.A.1">
@@ -244,7 +244,7 @@ disabilities</q>.</p>
 <div class="target">
     <h2>Target 11.B: Implement policies for inclusion, resource efficiency and disaster risk reduction</h2>
     <p>UN definition: <q>By 2020, substantially increase the number of cities and human settlements adopting and implementing integrated policies and plans towards inclusion, resource efficiency, mitigation and adaptation to climate change, resilience to disasters, and develop and implement, in line with the Sendai Framework for Disaster Risk Reduction 2015–2030, holistic disaster risk management at all levels.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="11.B.1">
@@ -288,7 +288,7 @@ disabilities</q>.</p>
 <div class="target">
     <h2>Target 11.C: Support least developed countries in sustainable and resilient building</h2>
     <p>UN definition: <q>Support least developed countries, including through financial and technical assistance, in building sustainable and resilient buildings utilizing local materials.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="11.C.1">

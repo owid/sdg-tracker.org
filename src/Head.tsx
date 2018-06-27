@@ -9,6 +9,7 @@ export const Head = (props: { canonicalUrl: string, pageTitle?: string, pageDesc
     let imageUrl = props.imageUrl || `https://ourworldindata.org/wp-content/uploads/2016/06/OurWorldInData.png`
 
     return <head>
+        {React.createElement("meta", { charset: "utf-8" })}
         <meta name="viewport" content="width=device-width, initial-scale=1"/>
         <title>{pageTitle}</title>
         <meta name="description" content={pageDesc}/>

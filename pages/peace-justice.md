@@ -8,11 +8,11 @@ description: >-
   <q>Goal 16 of the Sustainable Development Goals is dedicated to the
   promotion of peaceful and inclusive societies for sustainable development, the
   provision of access to justice for all, and building effective, accountable
-  institutions at all levels.
+  institutions at all levels.</q>
 
 
   This aims to promote peaceful societies at national levels, as well as the
-  role of cooperation at the international level.</q>
+  role of cooperation at the international level.
 
 
   You can find further details on the topics aligned to peace, cooperation and
@@ -28,10 +28,10 @@ description: >-
   Children](https://ourworldindata.org/violence-against-rights-for-children).
 
 
-  The UN has defined 12 _Targets_ and 23 _Indicators_ for SDG 16. Targets
+  The UN has defined 12 Targets and 23 Indicators for SDG 16. Targets
   specify the goals and Indicators represent the metrics by which the world aims
   to track whether these Targets are achieved. Below we quote the original text
-  of all <i>Targets</i> and show the data on the agreed <i>Indicators</i>.
+  of all Targets and show the data on the agreed Indicators.
 featuredImage: /img/uploads/16.svg
 ---
 
@@ -39,7 +39,6 @@ featuredImage: /img/uploads/16.svg
 <div class="target">
     <h2>Target 16.1: Reduce violence everywhere</h2>
     <p>UN definition: <q>Significantly reduce all forms of violence and related death rates everywhere.</q></p>
-    <p></p>
 </div>
 
 <div class="indicator" id="16.1.1">
@@ -47,8 +46,10 @@ featuredImage: /img/uploads/16.svg
         <div class="col-md">
             <span>SDG Indicator 16.1.1</span>
             <h3>Intentional homicides</h3>
-            <p><strong>Definition:</strong> Indicator 16.1.1 is the <q>number of victims of intentional homicide per 100,000 population, by sex and age</q>.<p>Intentional homicides are estimates of unlawful homicides purposely inflicted as a result of domestic disputes, interpersonal violence, violent conflicts over land resources, intergang violence over turf or control, and predatory violence and killing by armed groups.</p>
-            <p><strong>Goal:</strong> <q>Significantly reduce all forms of violence and related death rates</q> across all countries by 2030.<p>There is no defined target level of reduction for this indicator.</p>
+            <p><strong>Definition:</strong> Indicator 16.1.1 is the <q>number of victims of intentional homicide per 100,000 population, by sex and age</q>.</p>
+            <p>Intentional homicides are estimates of unlawful homicides purposely inflicted as a result of domestic disputes, interpersonal violence, violent conflicts over land resources, intergang violence over turf or control, and predatory violence and killing by armed groups.</p>
+            <p><strong>Goal:</strong> <q>Significantly reduce all forms of violence and related death rates</q> across all countries by 2030.</p>
+            <p>There is no defined target level of reduction for this indicator.</p>
             <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/homicides">entry on Homicides</a>.</p>
             <p><strong>Additional charts:</strong> <br><a href="https://ourworldindata.org/grapher/homicide-rate-by-age">Homicide rates by age</a> <br><a href="https://ourworldindata.org/grapher/number-of-homicide-deaths">Number of homicide deaths</a> <br><a href="https://ourworldindata.org/grapher/homicide-deaths-by-age">Number of homicide deaths by age</a></p>
         </div>
@@ -66,8 +67,10 @@ featuredImage: /img/uploads/16.svg
             <span>SDG Indicator 16.1.2</span>
             <h3>Conflict-related deaths</h3>
             <p><strong>Definition:</strong> Indicator 16.1.2 is <q>conflict-related deaths per 100,000 population,
-by sex, age and cause</q>.<p>Conflict-related deaths is the number of deaths per 100,000 people from war, conflict and terrorism-related deaths.</p>
-            <p><strong>Goal:</strong> <q>Significantly reduce all forms of violence and related death rates</q> across all countries by 2030.<p>There is no defined target level of reduction for this indicator.</p>
+by sex, age and cause</q>.</p>
+            <p>Conflict-related deaths is the number of deaths per 100,000 people from war, conflict and terrorism-related deaths.</p>
+            <p><strong>Goal:</strong> <q>Significantly reduce all forms of violence and related death rates</q> across all countries by 2030.</p>
+            <p>There is no defined target level of reduction for this indicator.</p>
             <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> entries on <a href="https://ourworldindata.org/terrorism">Terrorism</a> and <a href="https://ourworldindata.org/war-and-peace">War and Peace</a>.</p>
             <p><strong>Additional charts:</strong> <br><a href="https://ourworldindata.org/grapher/fatalities-from-terrorism">Deaths from terrorism</a> <br><a href="https://ourworldindata.org/grapher/state-based-battle-related-deaths-per-100000-since-1946">State-based battle-related deaths</a> <br><a href="https://ourworldindata.org/grapher/violent-deaths-in-conflicts-and-one-sided-violence-since-1989">Violent deaths from conflict</a></p>
         </div>
@@ -84,8 +87,11 @@ by sex, age and cause</q>.<p>Conflict-related deaths is the number of deaths per
         <div class="col-md">
             <span>SDG Indicator 16.1.3</span>
             <h3>Prevalence of all forms of violence</h3>
-            <p><strong>Definition:</strong> Indicator 16.1.3 is the <q>proportion of population subjected to (a) physical violence, (b) psychological violence and (c) sexual violence in the previous 12 months</q>.<p>Complete data for this indicator is not available. Data shown here is only one aspect of the complete indicator: the share of women (aged 15 years or older) who have experienced sexual or physical violence from an intimate partner over the previous 12 months. <p>Data on violence for non-partnered women, men and psychological violence is not available.</p>
-            <p><strong>Goal:</strong> <q>Significantly reduce all forms of violence and related death rates</q> across all countries by 2030.<p>There is no defined target level of reduction for this indicator.</p>
+            <p><strong>Definition:</strong> Indicator 16.1.3 is the <q>proportion of population subjected to (a) physical violence, (b) psychological violence and (c) sexual violence in the previous 12 months</q>.</p>
+            <p>Complete data for this indicator is not available. Data shown here is only one aspect of the complete indicator: the share of women (aged 15 years or older) who have experienced sexual or physical violence from an intimate partner over the previous 12 months.</p>
+            <p>Data on violence for non-partnered women, men and psychological violence is not available.</p>
+            <p><strong>Goal:</strong> <q>Significantly reduce all forms of violence and related death rates</q> across all countries by 2030.</p>
+            <p>There is no defined target level of reduction for this indicator.</p>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/women-violence-by-an-intimate-partner" style="width: 100%; height: 600px; border: 0px none;"></iframe>
@@ -110,7 +116,7 @@ by sex, age and cause</q>.<p>Conflict-related deaths is the number of deaths per
 <div class="target">
     <h2>Target 16.2: Protect children from abuse, exploitation, trafficking and violence</h2>
     <p>UN definition: <q>End abuse, exploitation, trafficking and all forms of violence against and torture of children.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="16.2.1">
@@ -118,7 +124,8 @@ by sex, age and cause</q>.<p>Conflict-related deaths is the number of deaths per
         <div class="col-md">
             <span>SDG Indicator 16.2.1</span>
             <h3>Violence against children</h3>
-            <p><strong>Definition:</strong> Indicator 16.2.1 is the <q>proportion of children aged 1–17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month</q>.<p>Data for this indicator measures the percentage of children aged 14 years and younger who experienced violence from a caregiver in the previous month. Data on violence to adolescents older than 14 years, or violence outside of the home is not available.</p>
+            <p><strong>Definition:</strong> Indicator 16.2.1 is the <q>proportion of children aged 1–17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month</q>.</p>
+            <p>Data for this indicator measures the percentage of children aged 14 years and younger who experienced violence from a caregiver in the previous month. Data on violence to adolescents older than 14 years, or violence outside of the home is not available.</p>
             <p><strong>Goal:</strong> <q>Protect children from abuse, exploitation, trafficking and violence</q> across all countries by 2030.</p>
             <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/violence-against-rights-for-children">entry on Violence Against & Rights for Children</a>.</p>
         </div>
@@ -135,7 +142,8 @@ by sex, age and cause</q>.<p>Conflict-related deaths is the number of deaths per
         <div class="col-md">
             <span>SDG Indicator 16.2.2</span>
             <h3>Human trafficking</h3>
-            <p><strong>Definition:</strong> Indicator 16.2.2 is the <q>number of victims of human trafficking per 100,000 population</q>.<p>Data for this indicator measures the prevalence of human trafficking in females and males for those aged 18 years and younger, and those over 18 years.</p>
+            <p><strong>Definition:</strong> Indicator 16.2.2 is the <q>number of victims of human trafficking per 100,000 population</q>.</p>
+            <p>Data for this indicator measures the prevalence of human trafficking in females and males for those aged 18 years and younger, and those over 18 years.</p>
             <p><strong>Goal:</strong> <q>Protect children from abuse, exploitation, trafficking and violence</q> across all countries by 2030.</p>
             <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/violence-against-rights-for-children">entry on Violence Against & Rights for Children</a>.</p>
         </div>
@@ -153,7 +161,8 @@ by sex, age and cause</q>.<p>Conflict-related deaths is the number of deaths per
         <div class="col-md">
             <span>SDG Indicator 16.2.3</span>
             <h3>Sexual violence against young men and women</h3>
-            <p><strong>Definition:</strong> Indicator 16.2.3 is the <q>proportion of young women and men aged 18–29 years who experienced sexual violence by age 18</q>.<p>Data for this indicator is provided as the proportion of women and men aged 18-29 years old who experienced sexual violence before the age of 18; this data is however very limited.<p>The <a href="https://ourworldindata.org/violence-against-rights-for-children#what-are-the-main-forms-of-sexual-violence-against-children">definition of sexual violence</a> is broader than forced sex, however additional data coverage on forced sex (despite not being the official indicator) is also provided for additional context.</p>
+            <p><strong>Definition:</strong> Indicator 16.2.3 is the <q>proportion of young women and men aged 18–29 years who experienced sexual violence by age 18</q>.</p>
+            <p>Data for this indicator is provided as the proportion of women and men aged 18-29 years old who experienced sexual violence before the age of 18; this data is however very limited.<p>The <a href="https://ourworldindata.org/violence-against-rights-for-children#what-are-the-main-forms-of-sexual-violence-against-children">definition of sexual violence</a> is broader than forced sex, however additional data coverage on forced sex (despite not being the official indicator) is also provided for additional context.</p>
             <p><strong>Goal:</strong> <q>Protect children from abuse, exploitation, trafficking and violence</q> across all countries by 2030.</p>
             <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/violence-against-rights-for-children">entry on Violence Against & Rights for Children</a>.</p>
         </div>
@@ -169,7 +178,6 @@ by sex, age and cause</q>.<p>Conflict-related deaths is the number of deaths per
 <div class="target">
     <h2>Target 16.3: Promote the rule of law and ensure equal access to justice</h2>
     <p>UN definition: <q>Promote the rule of law at the national and international levels and ensure equal access to justice for all.</q></p>
-    <p></p>
 </div>
 
 <div class="indicator" id="16.3.1">
@@ -191,7 +199,8 @@ by sex, age and cause</q>.<p>Conflict-related deaths is the number of deaths per
         <div class="col-md">
             <span>SDG Indicator 16.3.2</span>
             <h3>Unsentenced detainees</h3>
-            <p><strong>Definition:</strong> Indicator 16.3.2 is <q>unsentenced detainees as a proportion of overall prison population</q>.<p>This indicator measures the total number of persons held in detention who have not yet been sentenced, as a percentage of the total number of persons held in detention, on a specified date.</p>
+            <p><strong>Definition:</strong> Indicator 16.3.2 is <q>unsentenced detainees as a proportion of overall prison population</q>.</p>
+            <p>This indicator measures the total number of persons held in detention who have not yet been sentenced, as a percentage of the total number of persons held in detention, on a specified date.</p>
             <p><strong>Goal:</strong> <q>Ensure equal access to justice for all</q> across all countries by 2030.</p>
         </div>
         <div class="col-md">
@@ -203,7 +212,6 @@ by sex, age and cause</q>.<p>Conflict-related deaths is the number of deaths per
 <div class="target">
     <h2>Target 16.4: Combat organized crime and illicit financial and arms flows</h2>
     <p>UN definition: <q>By 2030, significantly reduce illicit financial and arms flows, strengthen the recovery and return of stolen assets and combat all forms of organized crime.</q></p>
-    <p></p>
 </div>
 
 <div class="indicator" id="16.4.1">
@@ -235,7 +243,6 @@ by sex, age and cause</q>.<p>Conflict-related deaths is the number of deaths per
 <div class="target">
     <h2>Target 16.5: Substantially reduce corruption and bribery</h2>
     <p>UN definition: <q>Substantially reduce corruption and bribery in all their forms.</q></p>
-    <p></p>
 </div>
 
 <div class="indicator" id="16.5.1">
@@ -244,7 +251,8 @@ by sex, age and cause</q>.<p>Conflict-related deaths is the number of deaths per
             <span>SDG Indicator 16.5.1</span>
             <h3>Bribery prevalence</h3>
             <p><strong>Definition:</strong> Indicator 16.5.1 is the <q>proportion of persons who had at least one contact with a public official and who paid a bribe to a public official, or were asked for a bribe by those public officials, during the previous 12 months</q>.</p>
-            <p><strong>Goal:</strong> <q>Substantially reduce corruption and bribery in all their forms</q> across all countries by 2030.<p>There is no defined target level for this indicator.</p>
+            <p><strong>Goal:</strong> <q>Substantially reduce corruption and bribery in all their forms</q> across all countries by 2030.</p>
+            <p>There is no defined target level for this indicator.</p>
             <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/corruption">entry on Corruption</a>.</p>
         </div>
         <NoData/>
@@ -258,8 +266,10 @@ by sex, age and cause</q>.<p>Conflict-related deaths is the number of deaths per
         <div class="col-md">
             <span>SDG Indicator 16.5.2</span>
             <h3>Bribery in business</h3>
-            <p><strong>Definition:</strong> Indicator 16.5.2 is the <q>proportion of businesses that had at least one contact with a public official and that paid a bribe to a public official, or were asked for a bribe by those public officials during the previous 12 months</q>.<p>Bribery incidence is the percentage of firms experiencing at least one bribe payment request across 6 public transactions dealing with utilities access, permits, licenses, and taxes.</p>
-            <p><strong>Goal:</strong> <q>Substantially reduce corruption and bribery in all their forms</q> across all countries by 2030.<p>There is no defined target level for this indicator.</p>
+            <p><strong>Definition:</strong> Indicator 16.5.2 is the <q>proportion of businesses that had at least one contact with a public official and that paid a bribe to a public official, or were asked for a bribe by those public officials during the previous 12 months</q>.</p>
+            <p>Bribery incidence is the percentage of firms experiencing at least one bribe payment request across 6 public transactions dealing with utilities access, permits, licenses, and taxes.</p>
+            <p><strong>Goal:</strong> <q>Substantially reduce corruption and bribery in all their forms</q> across all countries by 2030.</p>
+            <p>There is no defined target level for this indicator.</p>
             <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/corruption">entry on Corruption</a>.</p>
         </div>
         <div class="col-md">
@@ -271,7 +281,6 @@ by sex, age and cause</q>.<p>Conflict-related deaths is the number of deaths per
 <div class="target">
     <h2>Target 16.6: Develop effective, accountable and transparent institutions</h2>
     <p>UN definition: <q>Develop effective, accountable and transparent institutions at all levels.</q></p>
-    <p></p>
 </div>
 
 <div class="indicator" id="16.6.1">
@@ -303,7 +312,7 @@ by sex, age and cause</q>.<p>Conflict-related deaths is the number of deaths per
 <div class="target">
     <h2>Target 16.7: Ensure responsive, inclusive and representative decision-making</h2>
     <p>UN definition: <q>Ensure responsive, inclusive, participatory and representative decision-making at all levels.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="16.7.1">
@@ -335,7 +344,7 @@ by sex, age and cause</q>.<p>Conflict-related deaths is the number of deaths per
 <div class="target">
     <h2>Target 16.8: Strengthen the participation in global governance</h2>
     <p>UN definition: <q>Broaden and strengthen the participation of developing countries in the institutions of global governance.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="16.8.1">
@@ -343,7 +352,8 @@ by sex, age and cause</q>.<p>Conflict-related deaths is the number of deaths per
         <div class="col-md">
             <span>SDG Indicator 16.8.1</span>
             <h3>Developing country participation in international organizations</h3>
-            <p><strong>Definition:</strong> Indicator 16.8.1 is the <q>proportion of members and voting rights of developing countries in international organizations</q>.<p>This indicator is measured by the proportion of membership from developing countries across a range of international organizations, and the proportion of voting rights each country is allocated across such organizations.</p>
+            <p><strong>Definition:</strong> Indicator 16.8.1 is the <q>proportion of members and voting rights of developing countries in international organizations</q>.</p>
+            <p>This indicator is measured by the proportion of membership from developing countries across a range of international organizations, and the proportion of voting rights each country is allocated across such organizations.</p>
             <p><strong>Goal:</strong> <q>Broaden and strengthen the participation of developing countries in the institutions of global governance</q> by 2030.</p>
         </div>
         <div class="col-md">
@@ -356,7 +366,7 @@ by sex, age and cause</q>.<p>Conflict-related deaths is the number of deaths per
 <div class="target">
     <h2>Target 16.9: Provide universal legal identity</h2>
     <p>UN definition: <q>By 2030, provide legal identity for all, including birth registration.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="16.9.1">
@@ -364,8 +374,11 @@ by sex, age and cause</q>.<p>Conflict-related deaths is the number of deaths per
         <div class="col-md">
             <span>SDG Indicator 16.9.1</span>
             <h3>Birth registration</h3>
-            <p><strong>Definition:</strong> Indicator 16.9.1 is the <q>proportion of children under 5 years of age whose births have been registered with a civil authority</q>.<p>Completeness of birth registration is the percentage of children under age 5 whose births were registered at the time of the survey. <p>The numerator of completeness of birth registration includes children whose birth certificate was seen by the interviewer or whose mother or caretaker says the birth has been registered.</p>
-            <p><strong>Goal:</strong> <q>Provide legal identity for all</q> by 2030.<p>This requires universal birth registration in all countries by 2030.</p>
+            <p><strong>Definition:</strong> Indicator 16.9.1 is the <q>proportion of children under 5 years of age whose births have been registered with a civil authority</q>.</p>
+            <p>Completeness of birth registration is the percentage of children under age 5 whose births were registered at the time of the survey.</p>
+            <p>The numerator of completeness of birth registration includes children whose birth certificate was seen by the interviewer or whose mother or caretaker says the birth has been registered.</p>
+            <p><strong>Goal:</strong> <q>Provide legal identity for all</q> by 2030.</p>
+            <p>This requires universal birth registration in all countries by 2030.</p>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/completeness-of-birth-registration" style="width: 100%; height: 600px; border: 0px none;"></iframe>
@@ -376,7 +389,6 @@ by sex, age and cause</q>.<p>Conflict-related deaths is the number of deaths per
 <div class="target">
     <h2>Target 16.10: Ensure public access to information and protect fundamental freedoms</h2>
     <p>UN definition: <q>Ensure public access to information and protect fundamental freedoms, in accordance with national legislation and international agreements.</q></p>
-    <p></p>
 </div>
 
 <div class="indicator" id="16.10.1">
@@ -384,7 +396,8 @@ by sex, age and cause</q>.<p>Conflict-related deaths is the number of deaths per
         <div class="col-md">
             <span>SDG Indicator 16.10.1</span>
             <h3>Journalist and media killings</h3>
-            <p><strong>Definition:</strong> Indicator 16.10.1 is the <q>number of verified cases of killing, kidnapping, enforced disappearance, arbitrary detention and torture of journalists, associated media personnel, trade unionists and human rights advocates in the previous 12 months</q>.<p>Data is available for the number of homicides on journalists or other media personnel, given as the total number in a given country and breakdown by gender.</p>
+            <p><strong>Definition:</strong> Indicator 16.10.1 is the <q>number of verified cases of killing, kidnapping, enforced disappearance, arbitrary detention and torture of journalists, associated media personnel, trade unionists and human rights advocates in the previous 12 months</q>.</p>
+            <p>Data is available for the number of homicides on journalists or other media personnel, given as the total number in a given country and breakdown by gender.</p>
             <p><strong>Goal:</strong> <q>Protect fundamental freedoms</q> across all countries by 2030.</p>
         </div>
         <div class="col-md">
@@ -412,7 +425,6 @@ by sex, age and cause</q>.<p>Conflict-related deaths is the number of deaths per
 <div class="target">
     <h2>Target 16.A: Strengthen national institutions to prevent violence and combat crime and terrorism</h2>
     <p>UN definition: <q>Strengthen relevant national institutions, including through international cooperation, for building capacity at all levels, in particular in developing countries, to prevent violence and combat terrorism and crime.</q></p>
-    <p></a> </p>
 </div>
 
 <div class="indicator" id="16.A.1">
@@ -420,7 +432,8 @@ by sex, age and cause</q>.<p>Conflict-related deaths is the number of deaths per
         <div class="col-md">
             <span>SDG Indicator 16.A.1</span>
             <h3>National human rights institutions</h3>
-            <p><strong>Definition:</strong> Indicator 16.A.1 is the <q>existence of independent national human rights institutions in compliance with the Paris Principles</q>.<p>Data reflects compliance of existing national human rights institutions  with the Principles relating to the Status of National Institutions (The Paris Principles) based on the rules of procedure of the Global Alliance of National Human Rights Institutions (GANHRI).</p>
+            <p><strong>Definition:</strong> Indicator 16.A.1 is the <q>existence of independent national human rights institutions in compliance with the Paris Principles</q>.</p>
+            <p>Data reflects compliance of existing national human rights institutions  with the Principles relating to the Status of National Institutions (The Paris Principles) based on the rules of procedure of the Global Alliance of National Human Rights Institutions (GANHRI).</p>
             <p><strong>Goal:</strong> <q>Strengthen relevant national institutions for building capacity at all levels, to prevent violence and combat terrorism and crime</q> across all countries by 2030.</p>
         </div>
         <div class="col-md">
@@ -433,7 +446,6 @@ by sex, age and cause</q>.<p>Conflict-related deaths is the number of deaths per
 <div class="target">
     <h2>Target 16.B: Promote and enforce non-discriminatory laws and policies</h2>
     <p>UN definition: <q>Promote and enforce non-discriminatory laws and policies for sustainable development.</q></p>
-    <p></p>
 </div>
 
 <div class="indicator" id="16.B.1">

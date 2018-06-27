@@ -25,7 +25,7 @@ featuredImage: /img/uploads/9.svg
 <div class="target">
     <h2>Target 9.1: Develop sustainable, resilient and inclusive infrastructures</h2>
     <p>UN definition: <q>Develop quality, reliable, sustainable and resilient infrastructure, including regional and transborder infrastructure, to support economic development and human well-being, with a focus on affordable and equitable access for all.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="9.1.1">
@@ -62,7 +62,7 @@ featuredImage: /img/uploads/9.svg
 <div class="target">
     <h2>Target 9.2: Promote inclusive and sustainable industrialization</h2>
     <p>UN definition: <q>Promote inclusive and sustainable industrialization and, by 2030, significantly raise industry’s share of employment and gross domestic product, in line with national circumstances, and double its share in least developed countries.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="9.2.1">
@@ -100,7 +100,7 @@ employment</q>.<p>This indicator measures the manufacturing sector's employment 
 <div class="target">
     <h2>Target 9.3: Increase access to financial services and markets</h2>
     <p>UN definition: <q>Increase the access of small-scale industrial and other enterprises, in particular in developing countries, to financial services, including affordable credit, and their integration into value chains and markets.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="9.3.1">
@@ -132,7 +132,7 @@ employment</q>.<p>This indicator measures the manufacturing sector's employment 
 <div class="target">
     <h2>Target 9.4: Upgrade all industries and infrastructures for sustainability</h2>
     <p>UN definition: <q>By 2030, upgrade infrastructure and retrofit industries to make them sustainable, with increased resource-use efficiency and greater adoption of clean and environmentally sound technologies and industrial processes, with all countries taking action in accordance with their respective capabilities.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="9.4.1">
@@ -154,7 +154,7 @@ employment</q>.<p>This indicator measures the manufacturing sector's employment 
 <div class="target">
     <h2>Target 9.5: Enhance research and upgrade industrial technologies</h2>
     <p>UN definition: <q>Enhance scientific research, upgrade the technological capabilities of industrial sectors in all countries, in particular developing countries, including, by 2030, encouraging innovation and substantially increasing the number of research and development workers per 1 million people and public and private research and development spending.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="9.5.1">
@@ -192,7 +192,7 @@ employment</q>.<p>This indicator measures the manufacturing sector's employment 
 <div class="target">
     <h2>Target 9.A: Facilitate sustainable infrastructure development for developing countries</h2>
     <p>UN definition: <q>Facilitate sustainable and resilient infrastructure development in developing countries through enhanced financial, technological and technical support to African countries, least developed countries, landlocked developing countries and small island developing States.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="9.A.1">
@@ -213,7 +213,7 @@ employment</q>.<p>This indicator measures the manufacturing sector's employment 
 <div class="target">
     <h2>Target 9.B: Support domestic technology development and industrial diversification</h2>
     <p>UN definition: <q>Support domestic technology development, research and innovation in developing countries, including by ensuring a conducive policy environment for, inter alia, industrial diversification and value addition to commodities.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="9.B.1">
@@ -234,7 +234,7 @@ employment</q>.<p>This indicator measures the manufacturing sector's employment 
 <div class="target">
     <h2>Target 9.C: Universal access to information and communications technology</h2>
     <p>UN definition: <q>Significantly increase access to information and communications technology and strive to provide universal and affordable access to the Internet in least developed countries by 2020.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="9.C.1">

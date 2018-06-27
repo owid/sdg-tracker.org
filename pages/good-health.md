@@ -50,16 +50,15 @@ description: >-
   * and [Smoking](https://ourworldindata.org/smoking).
 
 
-  The UN has defined 13 _Targets_ and 28 _Indicators_ for SDG 3. Targets specify
+  The UN has defined 13 Targets and 28 Indicators for SDG 3. Targets specify
   the goals and Indicators represent the metrics by which the world aims to
   track whether these Targets are achieved. Below we quote the original text of
-  all <i>Targets</i> and show the data on the agreed <i>Indicators</i>.
+  all Targets and show the data on the agreed Indicators.
 featuredImage: /img/uploads/3.svg
 ---
 <div class="target">
     <h2>Target 3.1: Reduce maternal mortality</h2>
     <p>UN definition: <q>By 2030, reduce the global maternal mortality ratio to less than 70 per 100,000 live births</q></p>
-    <p></p>
 </div>
 
 <div class="indicator" id="3.1.1">
@@ -69,7 +68,7 @@ featuredImage: /img/uploads/3.svg
             <h3>Maternal mortality ratio</h3>
             <p><strong>Definition:</strong> Indicator 3.1.1 is the <q>maternal mortality ratio</q>.<p>The maternal mortality ratio refers to the number of women who die from pregnancy-related causes while pregnant or within 42 days of pregnancy termination per 100,000 live births.</p>
             <p><strong>Goal:</strong> By 2030 <q>Reduce global maternal mortality to less than 70 per 100,000 live births</q> per year. (No target has been set at the national level.)</p>
-            <p><strong>More research:</strong> <i>The Our World in Data</i><a href="https://ourworldindata.org/maternal-mortality">  entry on maternal mortality</a> gives a long-run perspective over the last centuries and presents research on the causes and consequences of the deaths of mothers.</p>
+            <p><strong>More research:</strong> The <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/maternal-mortality">maternal mortality</a> gives a long-run perspective over the last centuries and presents research on the causes and consequences of the deaths of mothers.</p>
 <p><strong>Additional charts:</strong> 
 <br><a href="https://ourworldindata.org/https://ourworldindata.org/grapher/number-of-maternal-deaths-by-region">Number of maternal deaths by region</a>
 <br><a href="https://ourworldindata.org/grapher/number-of-maternal-deaths">Number of maternal deaths by country</a>
@@ -103,7 +102,7 @@ However, there is no goal specified by the UN for the share of births attended b
 <div class="target">
     <h2>Target 3.2: End all preventable deaths under 5 years of age</h2>
     <p>UN definition: <q>By 2030, end preventable deaths of newborns and children under 5 years of age, with all countries aiming to reduce neonatal mortality to at least as low as 12 per 1,000 live births and under‑5 mortality to at least as low as 25 per 1,000 live births</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="3.2.1">
@@ -148,7 +147,7 @@ However, there is no goal specified by the UN for the share of births attended b
 <div class="target">
     <h2>Target 3.3: Fight communicable diseases</h2>
     <p>UN definition: <q>By 2030, end the epidemics of AIDS, tuberculosis, malaria and neglected tropical diseases and combat hepatitis, water-borne diseases and other communicable diseases.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="3.3.1">
@@ -300,7 +299,7 @@ However, there is no goal specified by the UN for the share of births attended b
 <div class="target">
 <h2>Target 3.5: Prevent and treat substance abuse</h2>
 <p>UN definition: <q>Strengthen the prevention and treatment of substance abuse, including narcotic drug abuse and harmful use of alcohol.</q></p>
-<p></p>
+
 </div>
 
 <div class="indicator" id="3.5.1">
@@ -345,7 +344,7 @@ aftercare services) for substance use disorders</h3>
 <p>UN definition: <q>By 2020, halve the number of global deaths and
 injuries from road traffic accidents.</q></p>
 
-<p></p>
+
 
 </div>
 
@@ -377,7 +376,7 @@ reproductive health-care services, including for family
 planning, information and education, and the integration of
 reproductive health into national strategies and programmes.</q></p>
 
-<p></p>
+
 
 </div>
 
@@ -425,7 +424,7 @@ risk protection, access to quality essential health-care
 services and access to safe, effective, quality and affordable
 essential medicines and vaccines for all.</q></p>
 
-<p></p>
+
 
 </div>
 
@@ -471,7 +470,7 @@ essential medicines and vaccines for all.</q></p>
 illnesses from hazardous chemicals and air, water and soil
 pollution and contamination.</q></p>
 
-<p></p>
+
 
 </div>
 
@@ -537,7 +536,7 @@ pollution and contamination.</q></p>
 <p>UN definition: <q>Strengthen the implementation of the World Health
 Organization Framework Convention on Tobacco Control in
 all countries, as appropriate.</q></p>
-<p></p>
+
 
 </div>
 
@@ -577,7 +576,7 @@ Agreement on Trade-Related Aspects of Intellectual
 Property Rights regarding flexibilities to protect public
 health, and, in particular, provide access to medicines for all.</q></p>
 
-<p></p>
+
 
 </div>
 
@@ -588,8 +587,8 @@ health, and, in particular, provide access to medicines for all.</q></p>
             <h3>Vaccine coverage</h3>
             <p><strong>Definition:</strong> Indicator 3.B.1 is the <q>proportion of the target population covered by all vaccines included in their national programme</q>.
 <p>The UN does not currently define which vaccinations are measured by this indicator. The <i>Institute of Health Metrics and Evaluation (IHME)</i> defines this indicator based on the mean coverage of the following eight vaccines: 
-<br><q><i>three-dose diphtheria, pertussis, and tetanus (DPT3); three-dose polio; first-dose measles vaccine; and for countries where the vaccine(s) are included in the national schedule: BCG vaccine, three-dose pneumococcal conjugate vaccine (PCV3), three-dose Haemophilus influenzae type b vaccine (Hib3), three-dose hepatitis B vaccine (delivered as part of pentavalent vaccines), and two-dose or three-dose rotavirus vaccine</q></p>
-            <p><strong>Goal:</strong> By 2030 <q><i>provide access to affordable essential medicines and vaccines for all</q>. <p>For this indicator, this means universal coverage of the vaccines noted above (if included in national vaccination programmes) must be achieved by 2030.
+<br><q>three-dose diphtheria, pertussis, and tetanus (DPT3); three-dose polio; first-dose measles vaccine; and for countries where the vaccine(s) are included in the national schedule: BCG vaccine, three-dose pneumococcal conjugate vaccine (PCV3), three-dose Haemophilus influenzae type b vaccine (Hib3), three-dose hepatitis B vaccine (delivered as part of pentavalent vaccines), and two-dose or three-dose rotavirus vaccine</q></p>
+            <p><strong>Goal:</strong> By 2030 <q>provide access to affordable essential medicines and vaccines for all</q>. <p>For this indicator, this means universal coverage of the vaccines noted above (if included in national vaccination programmes) must be achieved by 2030.
 
 <p><strong>Additional charts:</strong> 
 <br><a href="https://ourworldindata.org/grapher/share-of-children-immunized-dtp3">Share of children who receive the DTP3 vaccine</a>
@@ -627,7 +626,7 @@ health, and, in particular, provide access to medicines for all.</q></p>
             <span>SDG Indicator 3.B.3</span>
             <h3>Availability of essential medicines</h3>
             <p><strong>Definition:</strong> Indicator 3.B.3 is the <q>proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis</q>.<p>The <i>WHO Taskforce on Innovative International Financing for Health Systems</i> provide a list of medicines considered essential in its <a href="http://www.who.int/pmnch/media/membernews/2009/htltf_wg1_report_EN.pdf"> Working Group Report</a>.</p>
-            <p><strong>Goal:</strong> By 2030 <q><i>provide affordable access to essential medicines for all</q>.
+            <p><strong>Goal:</strong> By 2030 provide affordable access to essential medicines for all</q>.
         </div>
         <NoData/>
     </div>
@@ -641,7 +640,7 @@ recruitment, development, training and retention of the
 health workforce in developing countries, especially in least
 developed countries and small island developing states.</q></p>
 
-<p></p>
+
 
 </div>
 
@@ -651,7 +650,7 @@ developed countries and small island developing states.</q></p>
             <span>SDG Indicator 3.C.1</span>
             <h3>Health worker density</h3>
             <p><strong>Definition:</strong> Indicator 3.C.1 is <q>Health worker density and distribution</q>. <p>Health worker density is the size of the health workforce per 1,000 people. It is measured here based on the density of physicians, surgeons, nurses and midwives, dentistry and pharmaceutical personnel.</p>
-            <p><strong>Goal:</strong> By 2030 <q><i>Substantially increase health financing and the recruitment, development, training and retention of the
+            <p><strong>Goal:</strong> By 2030 Substantially increase health financing and the recruitment, development, training and retention of the
 health workforce in developing countries</q>.
 
 <p><strong>Additional charts:</strong> 
@@ -669,7 +668,7 @@ health workforce in developing countries</q>.
 <div class="target">
     <h2>Target 3.D: Improve early warning systems for global health risks</h2>
     <p>UN definition: <q>Strengthen the capacity of all countries, in particular developing countries, for early warning, risk reduction and management of national and global health risks.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="3.D.1">
@@ -678,7 +677,7 @@ health workforce in developing countries</q>.
             <span>SDG Indicator 3.D.1</span>
             <h3>Health emergency preparedness</h3>
             <p><strong>Definition:</strong> Indicator 3.D.1 is the <q>International Health Regulations (IHR) capacity and health emergency preparedness</q>. <p>The IHR Core capacity index is measured as the percentage of attributes of 13 core capacities that have been attained at a specific point in time. The 13 core capacities are: (1) National legislation, policy and financing; (2) Coordination and National Focal Point communications; (3) Surveillance; (4) Response; (5) Preparedness; (6) Risk communication; (7) Human resources; (8) Laboratory; (9) Points of entry; (10) Zoonotic events; (11) Food safety; (12) Chemical events; (13) Radionuclear emergencies. </p>
-            <p><strong>Goal:</strong> By 2030 <q><i>Strengthen the capacity of all countries, in particular developing countries, for early warning, risk reduction and management of national and global health risks</q>.
+            <p><strong>Goal:</strong> By 2030 Strengthen the capacity of all countries, in particular developing countries, for early warning, risk reduction and management of national and global health risks</q>.
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/ihr-core-capacity-index-sdgs" style="width: 100%; height: 600px; border: 0px none;"></iframe>

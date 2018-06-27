@@ -30,7 +30,7 @@ featuredImage: /img/uploads/6.svg
 <div class="target">
     <h2>Target 6.1: Safe and affordable drinking water</h2>
     <p>UN definition: <q>By 2030, achieve universal and equitable access to safe and affordable drinking water for all.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="6.1.1">
@@ -39,7 +39,7 @@ featuredImage: /img/uploads/6.svg
             <span>SDG Indicator 6.1.1</span>
             <h3>Safe drinking water</h3>
             <p><strong>Definition:</strong> Indicator 6.1.1 is the <q>Proportion of population using safely managed drinking water services</q>.<p>A safely managed drinking water service is defined as one located on premises, available when needed and free from contamination.</p>
-            <p><strong>Goal:</strong> By 2030 <q><i>achieve universal and equitable access to safe and affordable drinking water for all</q>.</p>
+            <p><strong>Goal:</strong> By 2030 achieve universal and equitable access to safe and affordable drinking water for all</q>.</p>
             <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/water-access-resources-sanitation">entry on Water Access, Resources & Sanitation</a>.</p>
             <p><strong>Additional charts:</strong> 
 <br><a href="https://ourworldindata.org/grapher/number-using-safely-managed-drinking-water">Number of people using safely managed drinking water</a>
@@ -59,7 +59,7 @@ featuredImage: /img/uploads/6.svg
 <h2>Target 6.2: End open defecation and provide access to sanitation and hygiene</h2>
 <p>UN definition: <q>By 2030, achieve access to adequate and equitable sanitation and hygiene for all and end open defecation, paying special attention to the needs of women and girls and those in vulnerable situations.</q>
 </q></p>
-<p></p>
+
 </div>
 
 <div class="indicator" id="6.2.1">
@@ -68,7 +68,7 @@ featuredImage: /img/uploads/6.svg
             <span>SDG Indicator 6.2.1</span>
             <h3>Safe sanitation and hygiene</h3>
             <p><strong>Definition:</strong> Indicator 6.2.1 is the <q>Proportion of population using (a) safely managed sanitation services and (b) a hand-washing facility with soap and water</q>.<p>This is measured as the share of the population using safely managed sanitation facilities and at least basic handwashing facilities. <p>A safely managed sanitation facility is one where excreta is safely disposed of in situ or treated off-site. A basic handwashing facility is defined by a device to contain, transport or regulate the flow of water to facilitate handwashing with soap and water in the household.</p>
-            <p><strong>Goal:</strong> By 2030 <q><i>achieve access to adequate and equitable sanitation and hygiene for all and end open defecation</q>.</p>
+            <p><strong>Goal:</strong> By 2030 achieve access to adequate and equitable sanitation and hygiene for all and end open defecation</q>.</p>
             <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> <a href="https://ourworldindata.org/water-access-resources-sanitation">entry on Water Access, Resources & Sanitation</a>.</p>
             <p><strong>Additional charts:</strong> 
 <br><a href="https://ourworldindata.org/grapher/number-using-safely-managed-sanitation">Number of people using safely managed sanitation facilities</a>
@@ -89,7 +89,7 @@ featuredImage: /img/uploads/6.svg
 <h2>Target 6.3: Improve water quality, wastewater treatment and safe reuse</h2>
 <p>UN definition: <q>By 2030, improve water quality by reducing pollution, eliminating dumping and minimizing release of hazardous chemicals and materials, halving the proportion of untreated wastewater and substantially increasing recycling and safe reuse globally.</q>
 </q></p>
-<p></p>
+
 </div>
 
 <div class="indicator" id="6.3.1">
@@ -124,7 +124,7 @@ featuredImage: /img/uploads/6.svg
 <h2>Target 6.4: Increase water use efficiency and ensure freshwater supplies</h2>
 <p>UN definition: <q>By 2030, substantially increase water-use efficiency across all sectors and ensure sustainable withdrawals and supply of freshwater to address water scarcity and substantially reduce the number of people suffering from water scarcity.</q>
 </q></p>
-<p></p>
+
 </div>
 
 <div class="indicator" id="6.4.1">
@@ -165,7 +165,7 @@ featuredImage: /img/uploads/6.svg
 <h2>Target 6.5: Implement integrated water resources management</h2>
 <p>UN definition: <q>By 2030, implement integrated water resources management at all levels, including through transboundary cooperation as appropriate.</q>
 </q></p>
-<p></p>
+
 </div>
 
 <div class="indicator" id="6.5.1">
@@ -202,7 +202,7 @@ operational arrangement for water cooperation</q>.
 <h2>Target 6.6: Protect and restore water-related ecosystems</h2>
 <p>UN definition: <q>By 2020, protect and restore water-related ecosystems, including mountains, forests, wetlands, rivers, aquifers and lakes.</q>
 </q></p>
-<p></p>
+
 </div>
 
 <div class="indicator" id="6.6.1">
@@ -221,7 +221,7 @@ operational arrangement for water cooperation</q>.
 <h2>Target 6.A: Expand water and sanitation support to developing countries</h2>
 <p>UN definition: <q>By 2030, expand international cooperation and capacity-building support to developing countries in water- and sanitation-related activities and programmes, including water harvesting, desalination, water efficiency, wastewater treatment, recycling and reuse technologies.</q>
 </q></p>
-<p></p>
+
 </div>
 
 <div class="indicator" id="6.A.1">
@@ -243,7 +243,7 @@ operational arrangement for water cooperation</q>.
 <h2>Target 6.B: Support local engagement in water and sanitation management</h2>
 <p>UN definition: <q>Support and strengthen the participation of local communities in improving water and sanitation management.</q>
 </q></p>
-<p></p>
+
 </div>
 
 <div class="indicator" id="6.B.1">

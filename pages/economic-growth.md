@@ -23,7 +23,7 @@ featuredImage: /img/uploads/8.svg
 <div class="target">
     <h2>Target 8.1: Sustainable Economic Growth</h2>
     <p>UN definition: <q>Sustain per capita economic growth in accordance with national circumstances and, in particular, at least 7 per cent gross domestic product growth per annum in the least developed countries.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="8.1.1">
@@ -45,7 +45,7 @@ featuredImage: /img/uploads/8.svg
 <div class="target">
     <h2>Target 8.2: Diversify, innovate and upgrade for economic productivity</h2>
     <p>UN definition: <q>Achieve higher levels of economic productivity through diversification, technological upgrading and innovation, including through a focus on high-value added and labour-intensive sectors.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="8.2.1">
@@ -67,7 +67,7 @@ featuredImage: /img/uploads/8.svg
 <div class="target">
     <h2>Target 8.3: Promote policies to support job creation and growing enterprises</h2>
     <p>UN definition: <q>Promote development-oriented policies that support productive activities, decent job creation, entrepreneurship, creativity and innovation, and encourage the formalization and growth of micro-, small- and medium-sized enterprises, including through access to financial services.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="8.3.1">
@@ -89,7 +89,7 @@ featuredImage: /img/uploads/8.svg
 <div class="target">
     <h2>Target 8.4: Improve resource efficiency in consumption and production</h2>
     <p>UN definition: <q>Improve progressively, through 2030, global resource efficiency in consumption and production and endeavour to decouple economic growth from environmental degradation, in accordance with the 10‑Year Framework of Programmes on Sustainable Consumption and Production, with developed countries taking the lead.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="8.4.1">
@@ -127,7 +127,7 @@ featuredImage: /img/uploads/8.svg
 <div class="target">
     <h2>Target 8.5: Full employment and decent work with equal pay</h2>
     <p>UN definition: <q>By 2030, achieve full and productive employment and decent work for all women and men, including for young people and persons with disabilities, and equal pay for work of equal value.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="8.5.1">
@@ -166,7 +166,7 @@ featuredImage: /img/uploads/8.svg
 <div class="target">
     <h2>Target 8.6: Promote youth employment, education and training</h2>
     <p>UN definition: <q>By 2020, substantially reduce the proportion of youth not in employment, education or training.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="8.6.1">
@@ -187,7 +187,7 @@ featuredImage: /img/uploads/8.svg
 <div class="target">
     <h2>Target 8.7: End modern slavery, trafficking, and child labour</h2>
     <p>UN definition: <q>Take immediate and effective measures to eradicate forced labour, end modern slavery and human trafficking and secure the prohibition and elimination of the worst forms of child labour, including recruitment and use of child soldiers, and by 2025 end child labour in all its forms.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="8.7.1">
@@ -210,7 +210,7 @@ featuredImage: /img/uploads/8.svg
 <div class="target">
     <h2>Target 8.8: Protect labour rights and promote safe working environments</h2>
     <p>UN definition: <q>Protect labour rights and promote safe and secure working environments for all workers, including migrant workers, in particular women migrants, and those in precarious employment.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="8.8.1">
@@ -245,7 +245,7 @@ featuredImage: /img/uploads/8.svg
 <div class="target">
     <h2>Target 8.9: Promote beneficial and sustainable tourism</h2>
     <p>UN definition: <q>By 2030, devise and implement policies to promote sustainable tourism that creates jobs and promotes local culture and products.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="8.9.1">
@@ -280,7 +280,7 @@ featuredImage: /img/uploads/8.svg
 <div class="target">
     <h2>Target 8.10: Universal access to banking, insurance and financial services</h2>
     <p>UN definition: <q>Strengthen the capacity of domestic financial institutions to encourage and expand access to banking, insurance and financial services for all.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="8.10.1">
@@ -318,7 +318,7 @@ featuredImage: /img/uploads/8.svg
 <div class="target">
     <h2>Target 8.A: Increase aid for trade support</h2>
     <p>UN definition: <q>Increase Aid for Trade support for developing countries, in particular least developed countries, including through the Enhanced Integrated Framework for Trade-related Technical Assistance to Least Developed Countries.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="8.A.1">
@@ -340,7 +340,7 @@ featuredImage: /img/uploads/8.svg
 <div class="target">
     <h2>Target 8.B: Develop a global youth employment strategy</h2>
     <p>UN definition: <q>By 2020, develop and operationalize a global strategy for youth employment and implement the Global Jobs Pact of the International Labour Organization.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="8.B.1">

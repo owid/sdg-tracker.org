@@ -23,17 +23,16 @@ description: >-
   Fuels](https://ourworldindata.org/fossil-fuels).
 
 
-  The UN has defined 5 _Targets_ and 6 _Indicators_ for SDG 7. Targets specify
+  The UN has defined 5 Targets and 6 Indicators for SDG 7. Targets specify
   the goals and Indicators represent the metrics by which the world aims to
   track whether these Targets are achieved. Below we quote the original text of
-  all <i>Targets</i> and show the data on the agreed <i>Indicators</i>.
+  all Targets and show the data on the agreed Indicators.
 featuredImage: /img/uploads/7.svg
 ---
 
 <div class="target">
     <h2>Target 7.1: Universal access to modern energy</h2>
     <p>UN definition: <q>By 2030, ensure universal access to affordable, reliable and modern energy services.</q></p>
-    <p></p>
 </div>
 
 <div class="indicator" id="7.1.1">
@@ -77,7 +76,7 @@ featuredImage: /img/uploads/7.svg
 <div class="target">
     <h2>Target 7.2: Increase global percentage of renewable energy</h2>
     <p>UN definition: <q>By 2030, increase substantially the share of renewable energy in the global energy mix.</q></p>
-    <p></p>
+    
 </div>
 
 <div class="indicator" id="7.2.1">
@@ -100,7 +99,7 @@ featuredImage: /img/uploads/7.svg
 <div class="target">
 <h2>Target 7.3: Double the improvement in energy efficiency</h2>
 <p>UN definition: <q>By 2030, double the global rate of improvement in energy efficiency.</q></p>
-<p></p>
+
 </div>
 
 <div class="indicator" id="7.3.1">
@@ -120,9 +119,8 @@ featuredImage: /img/uploads/7.svg
 </div>
 
 <div class="target">
-<h2>Target 7.A: Promote access, technology and investments in clean energy</h2>
-<p>UN definition: <q>By 2030, enhance international cooperation to facilitate access to clean energy research and technology, including renewable energy, energy efficiency and advanced and cleaner fossil-fuel technology, and promote investment in energy infrastructure and clean energy technology.</q></p>
-<p></p>
+    <h2>Target 7.A: Promote access, technology and investments in clean energy</h2>
+    <p>UN definition: <q>By 2030, enhance international cooperation to facilitate access to clean energy research and technology, including renewable energy, energy efficiency and advanced and cleaner fossil-fuel technology, and promote investment in energy infrastructure and clean energy technology.</q></p>
 </div>
 
 <div class="indicator" id="7.A.1">
@@ -138,9 +136,8 @@ featuredImage: /img/uploads/7.svg
 </div>
 
 <div class="target">
-<h2>Target 7.B: Expand and upgrade energy services for developing countries</h2>
-<p>UN definition: <q>By 2030, expand infrastructure and upgrade technology for supplying modern and sustainable energy services for all in developing countries, in particular least developed countries, small island developing States and landlocked developing countries, in accordance with their respective programmes of support.</q></p>
-<p></p>
+    <h2>Target 7.B: Expand and upgrade energy services for developing countries</h2>
+    <p>UN definition: <q>By 2030, expand infrastructure and upgrade technology for supplying modern and sustainable energy services for all in developing countries, in particular least developed countries, small island developing States and landlocked developing countries, in accordance with their respective programmes of support.</q></p>
 </div>
 
 <div class="indicator" id="7.B.1">
