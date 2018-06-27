@@ -22,10 +22,8 @@ export default class GoalPage extends React.Component<GoalPageProps> {
     render() {
         const {isPreview, slug, goalNum, name, title, description, featuredImage, body} = this.props
 
-        const pageTitle = `Goal ${goalNum}: ${title}`
-    
         return <html lang="en">
-            <Head canonicalUrl={absoluteSdgsUrl(slug)} pageTitle={pageTitle} pageDesc={firstParagraph(stripMarkdown(description))} imageUrl={absoluteSdgsUrl(featuredImage)}/>
+            <Head canonicalUrl={absoluteSdgsUrl(slug)} pageTitle={`Goal ${goalNum}: ${name}`} pageDesc={firstParagraph(stripMarkdown(description))} imageUrl={absoluteSdgsUrl(featuredImage)}/>
             <body ref={e => this.body = e as HTMLBodyElement}>
                 <SiteHeader/>
                 <article className={`GoalPage ${slug}`}>
