@@ -6,18 +6,6 @@ $grid-gutter-width: 60px;
 
 @import "~bootstrap/scss/bootstrap";
 
-html, body {
-	height: 100%;
-	margin: 0;
-}
-
-html {
-	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif;
-	font-size: 14px;
-	line-height: 1.6em;
-	color: rgba(0, 0, 0, 0.8);
-}
-
 .pageHeading {
 	font-size: 30px;
 	font-weight: 700;
@@ -93,20 +81,20 @@ html {
 
 .FrontPage {
 	> .siteIntro {
-		padding-top: 4rem;
-		padding-bottom: 1.5rem;
-		max-width: 768px;
+		padding-top: 3rem;
+        padding-bottom: 1.5rem;
+        max-width: 950px;
 
 		h1 {
 			font-size: 40px;
 			font-weight: 700;
-			line-height: 1.1em;
-			margin: 0 0 .5rem;
+            line-height: 1.1em;
+            margin-bottom: 1rem;
 		}
 	
 		p {
 			font-weight: 300;
-			font-size: 1.2rem;
+			font-size: 1.1rem;
 			line-height: 1.55em;	
 		}
 	
