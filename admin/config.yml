@@ -12,7 +12,7 @@ collections:
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "goal"}
       - {label: "Page Title", name: "title", widget: "string"}
-      - {label: "Goal Number", name: "goalNum", widget: "number", valueType: 'int', min: 1}
+      - {label: "Goal Number", name: "goalNum", widget: "number", valueType: 'int'}
       - {label: "Short Name", name: "name", widget: "string"}
       - {label: "Description", name: "description", widget: "markdown" }
       - {label: "Featured Image", name: "featuredImage", widget: "image"}
