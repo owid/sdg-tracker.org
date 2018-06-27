@@ -400,3 +400,7 @@ $mobileWidth: 767px;
 		display: none;
 	}
 }
+
+figure:not(:first-child) {
+    margin-top: 1rem !important;
+}

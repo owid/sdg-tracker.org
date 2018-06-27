@@ -24,7 +24,7 @@ export default class GoalPage extends React.Component<GoalPageProps> {
 
         const pageTitle = `Goal ${goalNum}: ${title}`
     
-        return <html>
+        return <html lang="en">
             <Head canonicalUrl={absoluteSdgsUrl(slug)} pageTitle={pageTitle} pageDesc={firstParagraph(stripMarkdown(description))} imageUrl={absoluteSdgsUrl(featuredImage)}/>
             <body ref={e => this.body = e as HTMLBodyElement}>
                 <SiteHeader/>

@@ -22,7 +22,7 @@ export default (locals: any, callback: (val: null, resp: any) => void) => {
             el = <AboutPage {...page}/>
 
         
-        output[`/${page.slug}.html`] = ReactDOMServer.renderToStaticMarkup(el)
+        output[`/${page.slug}.html`] = "<!DOCTYPE html>\n"+ReactDOMServer.renderToStaticMarkup(el)
     }
     callback(null, output)
 };

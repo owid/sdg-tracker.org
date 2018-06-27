@@ -20,7 +20,7 @@ export default class FrontPage extends React.Component<FrontPageProps> {
     render() {
         const {slug, title, description, featuredImage, body, goals} = this.props
 
-        return <html>
+        return <html lang="en">
             <Head canonicalUrl={absoluteSdgsUrl("/")} pageTitle={title} pageDesc={firstParagraph(stripMarkdown(description))} imageUrl={absoluteSdgsUrl(featuredImage)}/>
             <body className="FrontPage">
                 <SiteHeader/>
