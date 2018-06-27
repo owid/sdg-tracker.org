@@ -4,17 +4,17 @@ title: Ensure inclusive and quality education for all and promote lifelong learn
 goalNum: 4
 name: Quality Education
 description: >-
-  The UN explains: <q>Obtaining a quality education underpins a range of
+  The UN explains: _"Obtaining a quality education underpins a range of
   fundamental development drivers. Major progress has been made towards
   increasing access to education at all levels, particularly for women and
-  girls. 
+  girls._
 
 
-  Basic literacy skills across the world have improved tremendously, yet bolder
+  _Basic literacy skills across the world have improved tremendously, yet bolder
   efforts are needed to achieve universal education goals for all. For example,
   the world has achieved equality in primary education between girls and boys,
   but few countries have achieved that target at all levels of
-  education.</q>
+  education."_
 
 
   The charts and visuals below provide data on the major developments in global

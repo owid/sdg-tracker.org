@@ -5,14 +5,14 @@ goalNum: 5
 name: Gender Equality
 description: >-
   The [UN explains](https://www.un.org/sustainabledevelopment/gender-equality/):
-  <q>Gender equality is not only a fundamental human right, but a necessary
-  foundation for a peaceful, prosperous and sustainable world. 
+  _"Gender equality is not only a fundamental human right, but a necessary
+  foundation for a peaceful, prosperous and sustainable world._
 
 
-  Providing women and girls with equal access to education, health care, decent
+  _Providing women and girls with equal access to education, health care, decent
   work, and representation in political and economic decision-making processes
   will fuel sustainable economies and benefit societies and humanity at
-  large.</q>
+  large."_
 
 
   The UN has defined 9 _Targets_ and 14 _Indicators_ for SDG 5. Targets specify

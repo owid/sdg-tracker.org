@@ -5,17 +5,17 @@ goalNum: 3
 name: Good Health and Well-Being
 description: >-
   The [UN explains](https://www.un.org/sustainabledevelopment/health/):
-  <q>Significant strides have been made in increasing life expectancy and
+  _"Significant strides have been made in increasing life expectancy and
   reducing some of the common killers responsible for child and maternal
-  mortality.</q>
+  mortality._
 
 
-  <q>Major progress has also been made on increasing access to clean water and
-  sanitation, reducing malaria, tuberculosis, polio and the spread of HIV/AIDS.</q>
+  _Major progress has also been made on increasing access to clean water and
+  sanitation, reducing malaria, tuberculosis, polio and the spread of HIV/AIDS._
 
 
-  <q>However, many more efforts are needed to control a wide range of diseases and
-  address many different persistent and emerging health issues.</q>
+  _However, many more efforts are needed to control a wide range of diseases and
+  address many different persistent and emerging health issues."_
 
 
   In-depth analysis across a range of health-related topics can be found at the

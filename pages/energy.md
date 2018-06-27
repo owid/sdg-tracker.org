@@ -5,15 +5,15 @@ goalNum: 7
 name: Affordable and Clean Energy
 description: >-
   The [UN explains](https://www.un.org/sustainabledevelopment/energy/):
-  <q>Energy is central to nearly every major challenge and opportunity the
+  _"Energy is central to nearly every major challenge and opportunity the
   world faces today. Be it for jobs, security, climate change, food production
-  or increasing incomes, access to energy for all is essential.</q>
+  or increasing incomes, access to energy for all is essential._
 
 
-  <q>Transitioning the global economy towards clean and sustainable sources of
+  _Transitioning the global economy towards clean and sustainable sources of
   energy is one of our greatest challenges in the coming decades. Sustainable
   energy is an opportunity – it transforms lives, economies and the
-  planet.</q>
+  planet."_
 
 
   More information on energy access and sources can be found at the _Our World

@@ -6,20 +6,18 @@ name: Clean Water and Sanitation
 description: >-
   The [UN
   explains](https://www.un.org/sustainabledevelopment/water-and-sanitation/):
-  <q>Clean water is a basic human need, and one that should be easily
+  _"Clean water is a basic human need, and one that should be easily
   accessible to all. There is sufficient fresh water on the planet to achieve
   this. However, due to poor infrastructure, investment and planning, every year
   millions of people — [most of them
   children](https://ourworldindata.org/grapher/deaths-by-risk-under5s) — die
   from [diseases associated
   with](https://ourworldindata.org/grapher/deaths-from-diarrheal-diseases-by-age)
-  inadequate water supply, sanitation and hygiene.</q>
+  inadequate water supply, sanitation and hygiene."_
 
 
   The charts below summarise progress towards improved water and sanitation
-  access. More details on Water Access, Resources and Sanitation can be found at
-  the _Our World in Data_ entry
-  [here](https://ourworldindata.org/water-access-resources-sanitation).
+  access. More details can be found in the _Our World in Data_ entry on [Water Access, Resources and Sanitation](https://ourworldindata.org/water-access-resources-sanitation).
 
 
   The UN has defined 8 _Targets_ and 11 _Indicators_ for SDG 6. Targets specify

@@ -5,15 +5,15 @@ goalNum: 14
 name: Life below Water
 description: >-
   The [UN explains](https://www.un.org/sustainabledevelopment/oceans/):
-  <q>Our oceans — their temperature, circulation, chemistry, and ecosystems 
-  — play a fundamental role in making Earth habitable. 
+  _"Our oceans — their temperature, circulation, chemistry, and ecosystems 
+  — play a fundamental role in making Earth habitable._
 
 
-  Our rainwater, drinking water, weather, climate, coastlines, much of our food,
+  _Our rainwater, drinking water, weather, climate, coastlines, much of our food,
   and even the oxygen in the air we breathe, are all ultimately provided and
   regulated by the sea. Throughout history, oceans and seas have been vital
   conduits for trade and transportation. Careful management of this essential
-  global resource is a key feature of a sustainable future.</q>
+  global resource is a key feature of a sustainable future."_
 
 
   The UN has defined 10 _Targets_ and 10 _Indicators_ for SDG 14. Targets
