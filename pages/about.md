@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About the SDG Tracker test
+title: About the SDG Tracker
 name: About
 description: >-
   Our World in Data’s SDG Tracker is the first resource where users can track
