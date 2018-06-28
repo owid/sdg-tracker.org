@@ -408,3 +408,28 @@ $mobileWidth: 767px;
 figure:not(:first-child) {
     margin-top: 1rem !important;
 }
+
+.deep-link {
+    position: relative;
+    left: -2px;
+    display: inline-block;
+    width: 12px;
+    height: 12px;
+    margin-top: -5px;
+    margin-left: -11px;
+    font-size: 14px;
+    text-indent: -9999px;
+    background: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAAATCAYAAAByUDbMAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyhpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNi1jMDE0IDc5LjE1Njc5NywgMjAxNC8wOC8yMC0wOTo1MzowMiAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTQgKE1hY2ludG9zaCkiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6MUM1OUVDNUY1M0E2MTFFNUEwNUQ5OEUxOTFCMkRGRjIiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6MUM1OUVDNjA1M0E2MTFFNUEwNUQ5OEUxOTFCMkRGRjIiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDoxQzU5RUM1RDUzQTYxMUU1QTA1RDk4RTE5MUIyREZGMiIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDoxQzU5RUM1RTUzQTYxMUU1QTA1RDk4RTE5MUIyREZGMiIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PgU65CgAAAHVSURBVHjalNRPSJRBGMfx9Q+ElH8w/6560vBSeFgR8RB6USsIEQ8elPSgRhFeREQpuoommmIJ6qGUIKVEsUA8RuFJhAgP4kEFwZCKWE2h7PvA74Vp2W3XgQ8zs+/L8848z+zEBQIB3zlaCtrQgCLs4zVG8SPxHIEy8AI3Qn67hjI0Jvj9/lgCZWEJlZq/wRNbDUpQjONYVlaFCVzRvB89Gk/hD+6gKT5KIPtYBS7gCENOIK+9V58ZbWVJWMSsAm+F+VijxpuRgiXjPuqQhx0sYBqHesd2NaB3rM2EC5ZmD3DL+S1f223HVZxgGA+cgrwMzVm6zo0X6Clq8cyqpbxZwnudQB+0i6C7smxtpVzzRxhDDu5hHHt4KNY+oR5fvQRay8W8E6gLI/isLU5iGXe1CmsrSv43txqW7OfKiU+H0VzCRekUr9kBbtah/ae0rbit+SC6NQ7C/rgdymEBdvFW2w+GO5RNGs8p0Jnm1h/glVUKqdjGz0iH0qpZ6J0TJ5DPqeY6VlGjavr+F+y7xjdDng2p/Ja731hTH7HZrWE3wnWUqnKX8RgteucjqvEl2o0Qx+WYrHzVhHm+rBvhMJZ7ylZ2Sv8Ov3RwE7ChbfY5aYja/gowANjwYjNXvUNzAAAAAElFTkSuQmCC') no-repeat center;
+    background-size: contain;
+    opacity: 0;
+    vertical-align: middle;
+}
+
+.target h2:hover > .deep-link {
+    opacity: 1;
+    filter: invert(1);
+}
+
+.indicator span:hover > .deep-link {
+	opacity: 0.3;
+}

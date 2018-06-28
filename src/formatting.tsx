@@ -7,6 +7,7 @@ const customBlock = require('markdown-it-custom-block')
 md.use(require('markdown-it-header-sections'))*/
 import * as React from 'react'
 import * as cheerio from 'cheerio'
+const urlSlug = require('url-slug')
 
 /*md.use(customBlock, {
     grapher(argStr: string) {
@@ -62,6 +63,22 @@ export function formatSDG(content: string, isPreview?: boolean): JSX.Element[] {
             $(el).replaceWith(output)
         }
     }
+
+    // Deep link targets and indicators
+    $("div.indicator").each((i, el) => {
+        const $span = $(el).find("span").eq(0)
+        const id = _.last($span.text().split(" "))
+        $span.prepend(`<a class="deep-link" href="#${id}"></a>`)
+    })
+    $("div.target").each((i, el) => {
+        const $h2 = $(el).find("h2").eq(0)
+        const m = $h2.text().match(/Target ([^:]+)/)
+        if (m) {
+            const id = m[1]
+            $(el).attr('id', id)
+            $h2.prepend(`<a class="deep-link" href="#${id}"></a>`)
+        }
+    })
 
     $("NoData").replaceWith(`<div class="col-md align-self-center">
     <b>We are currently not aware of data for this indicator. You can notify us of available data for this indicator via our <a href="https://docs.google.com/forms/d/e/1FAIpQLScnmK3tFfsJyI9dAlaoTyOtOSTJOW4Eul_d4XSM7YpMVFwxkQ/viewform">feedback form</a>.</b>
