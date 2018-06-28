@@ -15,4 +15,6 @@ featuredImage: /img/uploads/sdg-poster.png
 
 <p>The 17 Sustainable Development Goals are defined in a list of 169 SDG Targets. Progress towards these Targets is agreed to be tracked by 232 unique Indicators. Here is the <a href="https://unstats.un.org/sdgs/indicators/Global%20Indicator%20Framework%20after%20refinement_Eng.pdf">full list of definitions</a>.</p>
 
+This new version of our SDG-Tracker was launched on 28th June 2018. We will keep this up-to-date with the most recent data and SDG developments through to the end of the 2030 Agenda.
+
 <p class="text-secondary">For many Indicators data is available, but major data gaps remain. If you are aware of high-quality data we have yet to include please <a href="https://goo.gl/forms/fwJmzRk68IVoPssh2">notify us</a>. We hope that this collaborative approach allows us to support the United Nations in developing the most complete and up-to-date sources for tracking global progress to 2030.</p>
