@@ -70,7 +70,7 @@ featuredImage: /img/uploads/3.svg
             <p><strong>Goal:</strong> By 2030 <q>Reduce global maternal mortality to less than 70 per 100,000 live births</q> per year. (No target has been set at the national level.)</p>
             <p><strong>More research:</strong> The <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/maternal-mortality">Maternal Mortality</a> gives a long-run perspective over the last centuries and presents research on the causes and consequences of the deaths of mothers.</p>
 <p><strong>Additional charts:</strong> 
-<br><a href="https://ourworldindata.org/https://ourworldindata.org/grapher/number-of-maternal-deaths-by-region">Number of maternal deaths by region</a>
+<br><a href="https://ourworldindata.org/grapher/number-of-maternal-deaths-by-region">Number of maternal deaths by region</a>
 <br><a href="https://ourworldindata.org/grapher/number-of-maternal-deaths">Number of maternal deaths by country</a>
         </div>
         <div class="col-md">

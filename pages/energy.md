@@ -45,7 +45,7 @@ featuredImage: /img/uploads/7.svg
             <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/energy-production-and-changing-energy-sources">Energy Production & Changing Energy Sources</a>.</p>
             <p><strong>Additional charts:</strong> <br><a href="https://ourworldindata.org/grapher/share-of-rural-population-with-electricity-access-vs-share-of-total-population-with-electricity-access">Electricity access, urban vs. rural</a> 
 <br><a href="https://ourworldindata.org/grapher/number-of-people-in-the-world-with-and-without-electricity-access">Number of people with and without electricity access</a>
-<br><a href="https://ourworldindata.org/grapher/power-outages-in-firms-per-months">Power outages</a></p>
+<br><a href="https://ourworldindata.org/grapher/power-outages-in-firms-per-month">Power outages</a></p>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/share-of-the-population-with-access-to-electricity" style="width: 100%; height: 600px; border: 0px none;"></iframe>
