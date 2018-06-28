@@ -1,7 +1,7 @@
 backend:
   name: github
   repo: "owid/sdg-tracker.org"
-  branch: test
+  branch: master
 media_folder: "img/uploads"
 collections:
   - name: "pages"
