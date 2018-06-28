@@ -33,7 +33,7 @@ featuredImage: /img/uploads/1.svg
     
 </div>
 
-<div class="indicator" id="1.1.1">
+<div class="indicator">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 1.1.1</span>
@@ -62,7 +62,7 @@ dimensions according to national definitions.</q></p>
     
 </div>
 
-<div class="indicator" id="1.2.1">
+<div class="indicator">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 1.2.1</span>
@@ -82,7 +82,7 @@ dimensions according to national definitions.</q></p>
 
 <hr>
 
-<div class="indicator" id="1.2.2">
+<div class="indicator">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 1.2.2</span>
@@ -105,7 +105,7 @@ achieve substantial coverage of the poor and the vulnerable.</q></p>
     
 </div>
 
-<div class="indicator" id="1.3.1">
+<div class="indicator">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 1.3.1</span>
@@ -130,7 +130,7 @@ achieve substantial coverage of the poor and the vulnerable</q>.</p>
     
 </div>
 
-<div class="indicator" id="1.4.1">
+<div class="indicator">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 1.4.1</span>
@@ -154,7 +154,7 @@ achieve substantial coverage of the poor and the vulnerable</q>.</p>
 
 <hr>
 
-<div class="indicator" id="1.4.2">
+<div class="indicator">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 1.4.2</span>
@@ -172,7 +172,7 @@ achieve substantial coverage of the poor and the vulnerable</q>.</p>
     
 </div>
 
-<div class="indicator" id="1.5.1">
+<div class="indicator">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 1.5.1</span>
@@ -194,7 +194,7 @@ achieve substantial coverage of the poor and the vulnerable</q>.</p>
 
 <hr>
 
-<div class="indicator" id="1.5.2">
+<div class="indicator">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 1.5.2</span>
@@ -214,7 +214,7 @@ achieve substantial coverage of the poor and the vulnerable</q>.</p>
 
 <hr>
 
-<div class="indicator" id="1.5.3">
+<div class="indicator">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 1.5.3</span>
@@ -234,7 +234,7 @@ achieve substantial coverage of the poor and the vulnerable</q>.</p>
 
 <hr>
 
-<div class="indicator" id="1.5.4">
+<div class="indicator">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 1.5.4</span>

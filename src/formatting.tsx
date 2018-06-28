@@ -68,6 +68,7 @@ export function formatSDG(content: string, isPreview?: boolean): JSX.Element[] {
     $("div.indicator").each((i, el) => {
         const $span = $(el).find("span").eq(0)
         const id = _.last($span.text().split(" "))
+        $(el).attr('id', id)
         $span.prepend(`<a class="deep-link" href="#${id}"></a>`)
     })
     $("div.target").each((i, el) => {

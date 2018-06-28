@@ -35,7 +35,7 @@ featuredImage: /img/uploads/7.svg
     <p>UN definition: <q>By 2030, ensure universal access to affordable, reliable and modern energy services.</q></p>
 </div>
 
-<div class="indicator" id="7.1.1">
+<div class="indicator">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 7.1.1</span>
@@ -55,7 +55,7 @@ featuredImage: /img/uploads/7.svg
 
 <hr>
 
-<div class="indicator" id="7.1.2">
+<div class="indicator">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 7.1.2</span>
@@ -79,7 +79,7 @@ featuredImage: /img/uploads/7.svg
     
 </div>
 
-<div class="indicator" id="7.2.1">
+<div class="indicator">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 7.2.1</span>
@@ -102,7 +102,7 @@ featuredImage: /img/uploads/7.svg
 
 </div>
 
-<div class="indicator" id="7.3.1">
+<div class="indicator">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 7.3.1</span>

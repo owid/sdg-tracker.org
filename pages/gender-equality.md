@@ -28,7 +28,7 @@ featuredImage: /img/uploads/5.svg
 
 </div>
 
-<div class="indicator" id="5.1.1">
+<div class="indicator">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 5.1.1</span>
@@ -57,7 +57,7 @@ featuredImage: /img/uploads/5.svg
  
 </div>
 
-<div class="indicator" id="5.2.1">
+<div class="indicator">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 5.2.1</span>
@@ -73,7 +73,7 @@ featuredImage: /img/uploads/5.svg
 
 <hr>
 
-<div class="indicator" id="5.2.2">
+<div class="indicator">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 5.2.2</span>
@@ -91,7 +91,7 @@ featuredImage: /img/uploads/5.svg
     
 </div>
 
-<div class="indicator" id="5.3.1">
+<div class="indicator">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 5.3.1</span>
@@ -111,7 +111,7 @@ featuredImage: /img/uploads/5.svg
 
 <hr>
 
-<div class="indicator" id="5.3.2">
+<div class="indicator">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 5.3.2</span>
@@ -132,7 +132,7 @@ featuredImage: /img/uploads/5.svg
     
 </div>
 
-<div class="indicator" id="5.4.1">
+<div class="indicator">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 5.4.1</span>
@@ -154,7 +154,7 @@ featuredImage: /img/uploads/5.svg
     
 </div>
 
-<div class="indicator" id="5.5.1">
+<div class="indicator">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 5.5.1</span>
@@ -173,7 +173,7 @@ featuredImage: /img/uploads/5.svg
 
 <hr>
 
-<div class="indicator" id="5.5.2">
+<div class="indicator">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 5.5.2</span>
@@ -195,7 +195,7 @@ featuredImage: /img/uploads/5.svg
     
 </div>
 
-<div class="indicator" id="5.6.1">
+<div class="indicator">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 5.6.1</span>
@@ -215,7 +215,7 @@ featuredImage: /img/uploads/5.svg
 
 <hr>
 
-<div class="indicator" id="5.6.2">
+<div class="indicator">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 5.6.2</span>

@@ -42,7 +42,7 @@ featuredImage: /img/uploads/4.svg
     
 </div>
 
-<div class="indicator" id="4.1.1">
+<div class="indicator">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 4.1.1</span>
@@ -68,7 +68,7 @@ featuredImage: /img/uploads/4.svg
     
 </div>
 
-<div class="indicator" id="4.2.1">
+<div class="indicator">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 4.2.1</span>
@@ -85,7 +85,7 @@ featuredImage: /img/uploads/4.svg
 
 <hr>
 
-<div class="indicator" id="4.2.2">
+<div class="indicator">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 4.2.2</span>
@@ -112,7 +112,7 @@ featuredImage: /img/uploads/4.svg
     
 </div>
 
-<div class="indicator" id="4.3.1">
+<div class="indicator">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 4.3.1</span>
@@ -135,7 +135,7 @@ featuredImage: /img/uploads/4.svg
     
 </div>
 
-<div class="indicator" id="4.4.1">
+<div class="indicator">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 4.4.1</span>
@@ -157,7 +157,7 @@ featuredImage: /img/uploads/4.svg
     
 </div>
 
-<div class="indicator" id="4.5.1">
+<div class="indicator">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 4.5.1</span>
@@ -183,7 +183,7 @@ featuredImage: /img/uploads/4.svg
     
 </div>
 
-<div class="indicator" id="4.6.1">
+<div class="indicator">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 4.6.1</span>
@@ -210,7 +210,7 @@ featuredImage: /img/uploads/4.svg
     
 </div>
 
-<div class="indicator" id="4.7.1">
+<div class="indicator">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 4.7.1</span>

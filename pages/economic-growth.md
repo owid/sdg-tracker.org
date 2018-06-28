@@ -26,7 +26,7 @@ featuredImage: /img/uploads/8.svg
     
 </div>
 
-<div class="indicator" id="8.1.1">
+<div class="indicator">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 8.1.1</span>
@@ -48,7 +48,7 @@ featuredImage: /img/uploads/8.svg
     
 </div>
 
-<div class="indicator" id="8.2.1">
+<div class="indicator">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 8.2.1</span>
@@ -70,7 +70,7 @@ featuredImage: /img/uploads/8.svg
     
 </div>
 
-<div class="indicator" id="8.3.1">
+<div class="indicator">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 8.3.1</span>
@@ -91,7 +91,7 @@ featuredImage: /img/uploads/8.svg
     <p>UN definition: <q>Improve progressively, through 2030, global resource efficiency in consumption and production and endeavour to decouple economic growth from environmental degradation, in accordance with the 10‑Year Framework of Programmes on Sustainable Consumption and Production, with developed countries taking the lead.</q></p>
 </div>
 
-<div class="indicator" id="8.4.1">
+<div class="indicator">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 8.4.1</span>
@@ -108,7 +108,7 @@ featuredImage: /img/uploads/8.svg
 
 <hr>
 
-<div class="indicator" id="8.4.2">
+<div class="indicator">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 8.4.2</span>
@@ -129,7 +129,7 @@ featuredImage: /img/uploads/8.svg
     
 </div>
 
-<div class="indicator" id="8.5.1">
+<div class="indicator">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 8.5.1</span>
@@ -147,7 +147,7 @@ featuredImage: /img/uploads/8.svg
 
 <hr>
 
-<div class="indicator" id="8.5.2">
+<div class="indicator">
 <div class="row">
 <div class="col-md">
 <span>SDG Indicator 8.5.2</span>
@@ -168,7 +168,7 @@ featuredImage: /img/uploads/8.svg
     
 </div>
 
-<div class="indicator" id="8.6.1">
+<div class="indicator">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 8.6.1</span>
@@ -189,7 +189,7 @@ featuredImage: /img/uploads/8.svg
     
 </div>
 
-<div class="indicator" id="8.7.1">
+<div class="indicator">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 8.7.1</span>
@@ -212,7 +212,7 @@ featuredImage: /img/uploads/8.svg
     
 </div>
 
-<div class="indicator" id="8.8.1">
+<div class="indicator">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 8.8.1</span>
@@ -229,7 +229,7 @@ featuredImage: /img/uploads/8.svg
 
 <hr>
 
-<div class="indicator" id="8.8.2">
+<div class="indicator">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 8.8.2</span>
@@ -247,7 +247,7 @@ featuredImage: /img/uploads/8.svg
     
 </div>
 
-<div class="indicator" id="8.9.1">
+<div class="indicator">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 8.9.1</span>
@@ -263,7 +263,7 @@ featuredImage: /img/uploads/8.svg
 
 <hr>
 
-<div class="indicator" id="8.9.2">
+<div class="indicator">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 8.9.2</span>

@@ -28,7 +28,7 @@ featuredImage: /img/uploads/9.svg
     
 </div>
 
-<div class="indicator" id="9.1.1">
+<div class="indicator">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 9.1.1</span>
@@ -42,7 +42,7 @@ featuredImage: /img/uploads/9.svg
 
 <hr>
 
-<div class="indicator" id="9.1.2">
+<div class="indicator">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 9.1.2</span>
@@ -65,7 +65,7 @@ featuredImage: /img/uploads/9.svg
     
 </div>
 
-<div class="indicator" id="9.2.1">
+<div class="indicator">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 9.2.1</span>
@@ -81,7 +81,7 @@ featuredImage: /img/uploads/9.svg
 
 <hr>
 
-<div class="indicator" id="9.2.2">
+<div class="indicator">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 9.2.2</span>
@@ -103,7 +103,7 @@ employment</q>.<p>This indicator measures the manufacturing sector's employment 
     
 </div>
 
-<div class="indicator" id="9.3.1">
+<div class="indicator">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 9.3.1</span>
@@ -117,7 +117,7 @@ employment</q>.<p>This indicator measures the manufacturing sector's employment 
 
 <hr>
 
-<div class="indicator" id="9.3.2">
+<div class="indicator">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 9.3.2</span>
@@ -135,7 +135,7 @@ employment</q>.<p>This indicator measures the manufacturing sector's employment 
     
 </div>
 
-<div class="indicator" id="9.4.1">
+<div class="indicator">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 9.4.1</span>
@@ -157,7 +157,7 @@ employment</q>.<p>This indicator measures the manufacturing sector's employment 
     
 </div>
 
-<div class="indicator" id="9.5.1">
+<div class="indicator">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 9.5.1</span>
@@ -174,7 +174,7 @@ employment</q>.<p>This indicator measures the manufacturing sector's employment 
 
 <hr>
 
-<div class="indicator" id="9.5.2">
+<div class="indicator">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 9.5.2</span>

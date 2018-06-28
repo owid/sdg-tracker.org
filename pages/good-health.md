@@ -61,7 +61,7 @@ featuredImage: /img/uploads/3.svg
     <p>UN definition: <q>By 2030, reduce the global maternal mortality ratio to less than 70 per 100,000 live births</q></p>
 </div>
 
-<div class="indicator" id="3.1.1">
+<div class="indicator">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 3.1.1</span>
@@ -81,7 +81,7 @@ featuredImage: /img/uploads/3.svg
 
 <hr>
 
-<div class="indicator" id="3.1.2">
+<div class="indicator">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 3.1.2</span>
@@ -105,7 +105,7 @@ However, there is no goal specified by the UN for the share of births attended b
     
 </div>
 
-<div class="indicator" id="3.2.1">
+<div class="indicator">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 3.2.1</span>
@@ -126,7 +126,7 @@ However, there is no goal specified by the UN for the share of births attended b
 
 <hr>
 
-<div class="indicator" id="3.2.2">
+<div class="indicator">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 3.2.2</span>
@@ -150,7 +150,7 @@ However, there is no goal specified by the UN for the share of births attended b
     
 </div>
 
-<div class="indicator" id="3.3.1">
+<div class="indicator">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 3.3.1</span>
@@ -173,7 +173,7 @@ However, there is no goal specified by the UN for the share of births attended b
 
 <hr>
 
-<div class="indicator" id="3.3.2">
+<div class="indicator">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 3.3.2</span>
@@ -194,7 +194,7 @@ However, there is no goal specified by the UN for the share of births attended b
 
 <hr>
 
-<div class="indicator" id="3.3.3">
+<div class="indicator">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 3.3.3</span>
@@ -216,7 +216,7 @@ However, there is no goal specified by the UN for the share of births attended b
 
 <hr>
 
-<div class="indicator" id="3.3.4">
+<div class="indicator">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 3.3.4</span>
@@ -235,7 +235,7 @@ However, there is no goal specified by the UN for the share of births attended b
 
 <hr>
 
-<div class="indicator" id="3.3.5">
+<div class="indicator">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 3.3.5</span>
@@ -257,7 +257,7 @@ However, there is no goal specified by the UN for the share of births attended b
     <h2>Target 3.4: Reduce mortality from non-communicable diseases and promote mental health</h2>    
     <p>UN definition: <q>By 2030, reduce by one third premature mortality from non-communicable diseases through prevention and treatment and promote mental health and well-being.</q></p>
 </div>
-<div class="indicator" id="3.4.1">
+<div class="indicator">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 3.4.1</span>
@@ -278,7 +278,7 @@ However, there is no goal specified by the UN for the share of births attended b
 
 <hr>
 
-<div class="indicator" id="3.4.2">
+<div class="indicator">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 3.4.2</span>
@@ -302,7 +302,7 @@ However, there is no goal specified by the UN for the share of births attended b
 
 </div>
 
-<div class="indicator" id="3.5.1">
+<div class="indicator">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 3.5.1</span>
@@ -318,7 +318,7 @@ aftercare services) for substance use disorders</h3>
 
 <hr>
 
-<div class="indicator" id="3.5.2">
+<div class="indicator">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 3.5.2</span>
@@ -348,7 +348,7 @@ injuries from road traffic accidents.</q></p>
 
 </div>
 
-<div class="indicator" id="3.6.1">
+<div class="indicator">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 3.6.1</span>
@@ -380,7 +380,7 @@ reproductive health into national strategies and programmes.</q></p>
 
 </div>
 
-<div class="indicator" id="3.7.1">
+<div class="indicator">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 3.7.1</span>
@@ -400,7 +400,7 @@ reproductive health into national strategies and programmes.</q></p>
 
 <hr>
 
-<div class="indicator" id="3.7.2">
+<div class="indicator">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 3.7.2</span>
@@ -428,7 +428,7 @@ essential medicines and vaccines for all.</q></p>
 
 </div>
 
-<div class="indicator" id="3.8.1">
+<div class="indicator">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 3.8.1</span>
@@ -445,7 +445,7 @@ essential medicines and vaccines for all.</q></p>
 
 <hr>
 
-<div class="indicator" id="3.8.2">
+<div class="indicator">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 3.8.2</span>
@@ -474,7 +474,7 @@ pollution and contamination.</q></p>
 
 </div>
 
-<div class="indicator" id="3.9.1">
+<div class="indicator">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 3.9.1</span>
@@ -496,7 +496,7 @@ pollution and contamination.</q></p>
 
 <hr>
 
-<div class="indicator" id="3.9.2">
+<div class="indicator">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 3.9.2</span>
@@ -517,7 +517,7 @@ pollution and contamination.</q></p>
 
 <hr>
 
-<div class="indicator" id="3.9.3">
+<div class="indicator">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 3.9.3</span>

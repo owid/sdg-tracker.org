@@ -33,7 +33,7 @@ featuredImage: /img/uploads/6.svg
     
 </div>
 
-<div class="indicator" id="6.1.1">
+<div class="indicator">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 6.1.1</span>
@@ -62,7 +62,7 @@ featuredImage: /img/uploads/6.svg
 
 </div>
 
-<div class="indicator" id="6.2.1">
+<div class="indicator">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 6.2.1</span>
@@ -92,7 +92,7 @@ featuredImage: /img/uploads/6.svg
 
 </div>
 
-<div class="indicator" id="6.3.1">
+<div class="indicator">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 6.3.1</span>
@@ -107,7 +107,7 @@ featuredImage: /img/uploads/6.svg
 
 <hr>
 
-<div class="indicator" id="6.3.2">
+<div class="indicator">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 6.3.2</span>
@@ -127,7 +127,7 @@ featuredImage: /img/uploads/6.svg
 
 </div>
 
-<div class="indicator" id="6.4.1">
+<div class="indicator">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 6.4.1</span>
@@ -144,7 +144,7 @@ featuredImage: /img/uploads/6.svg
 
 <hr>
 
-<div class="indicator" id="6.4.2">
+<div class="indicator">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 6.4.2</span>
@@ -168,7 +168,7 @@ featuredImage: /img/uploads/6.svg
 
 </div>
 
-<div class="indicator" id="6.5.1">
+<div class="indicator">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 6.5.1</span>
@@ -185,7 +185,7 @@ featuredImage: /img/uploads/6.svg
 
 <hr>
 
-<div class="indicator" id="6.5.2">
+<div class="indicator">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 6.5.2</span>
@@ -205,7 +205,7 @@ operational arrangement for water cooperation</q>.
 
 </div>
 
-<div class="indicator" id="6.6.1">
+<div class="indicator">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 6.6.1</span>

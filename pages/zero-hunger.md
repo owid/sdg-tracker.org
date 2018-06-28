@@ -55,7 +55,7 @@ featuredImage: /img/uploads/2.svg
     
 </div>
 
-<div class="indicator" id="2.1.1">
+<div class="indicator">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 2.1.1</span>
@@ -75,7 +75,7 @@ featuredImage: /img/uploads/2.svg
 
 <hr>
 
-<div class="indicator" id="2.1.2">
+<div class="indicator">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 2.1.2</span>
@@ -103,7 +103,7 @@ and lactating women and older persons.</q></p>
     
 </div>
 
-<div class="indicator" id="2.2.1">
+<div class="indicator">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 2.2.1</span>
@@ -122,7 +122,7 @@ and lactating women and older persons.</q></p>
 
 <hr>
 
-<div class="indicator" id="2.2.2">
+<div class="indicator">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 2.2.2</span>
@@ -155,7 +155,7 @@ services, markets and opportunities for value addition and non-farm employment.<
     
 </div>
 
-<div class="indicator" id="2.3.1">
+<div class="indicator">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 2.3.1</span>
@@ -172,7 +172,7 @@ services, markets and opportunities for value addition and non-farm employment.<
 
 <hr>
 
-<div class="indicator" id="2.3.2">
+<div class="indicator">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 2.3.2</span>
@@ -191,7 +191,7 @@ services, markets and opportunities for value addition and non-farm employment.<
     
 </div>
 
-<div class="indicator" id="2.4.1">
+<div class="indicator">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 2.4.1</span>
@@ -211,7 +211,7 @@ services, markets and opportunities for value addition and non-farm employment.<
     
 </div>
 
-<div class="indicator" id="2.5.1">
+<div class="indicator">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 2.5.1</span>
@@ -229,7 +229,7 @@ services, markets and opportunities for value addition and non-farm employment.<
 
 <hr>
 
-<div class="indicator" id="2.5.2">
+<div class="indicator">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 2.5.2</span>
