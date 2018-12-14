@@ -18,7 +18,8 @@ description: >-
 
 
   Longer-term trends, correlates and additional data on extreme poverty can be
-  found at the _Our World in Data_ entry on [Global Extreme Poverty](https://ourworldindata.org/extreme-poverty).
+  found at the _Our World in Data_ entry on [Global Extreme
+  Poverty](https://ourworldindata.org/extreme-poverty).
 
 
   The UN has defined 7 _Targets_ and 14 _Indicators_ for SDG 1. Targets specify
@@ -203,11 +204,14 @@ achieve substantial coverage of the poor and the vulnerable</q>.</p>
 <p>Direct losses as a percentage of GDP are presented here at national and the global level.</p>
             <p><strong>Goal:</strong> By 2030 <q>build the resilience of the poor and those in vulnerable situations and reduce their exposure and vulnerability to climate-related extreme events and other environmental disasters</q>. <p>There is, however, no defined target level of reduction for this indicator.</p>
             <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/natural-catastrophes">Natural Catastrophes</a>.</p>
-            <p><strong>Additional charts:</strong> 
-<br><a href="https://ourworldindata.org/grapher/direct-disaster-economic-loss">Direct economic loss from disasters (US$)</a>
+ <p><strong>Additional charts:</strong> <br><a href="https://ourworldindata.org/grapher/direct-disaster-economic-loss?tab=chart">Absolute economic losses from disasters by country</a>
+<br><a href="https://ourworldindata.org/grapher/weather-losses-share-gdp">Global weather-related disaster losses as a share of GDP</a>
         </div>
         <div class="col-md">
-            <iframe src="https://ourworldindata.org/grapher/direct-disaster-loss-as-a-share-of-gdp?tab=chart&country=MAR+KHM+USA+GBR+CAN+BGD+BRA+CHN+IND+OWID_WRL" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/direct-disaster-loss-as-a-share-of-gdp" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/global-disaster-losses-gdp-share" style="width: 100%; height: 600px; border: 0px none;">
+</iframe>
+           <iframe src="https://ourworldindata.org/grapher/economic-losses-from-disasters-share-gdp" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
 </div>
