@@ -120,7 +120,7 @@ disabilities</q>.</p>
             <h3>Deaths and injuries from natural disasters</h3>
             <p><strong>Definition:</strong> Indicator 11.5.1 is the <q>number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population</q>.<p>Indicators measured here report mortality rates internally displaced persons, missing persons and total numbers affected by natural disasters.</p>
             <p><strong>Goal:</strong> <q>By 2030, significantly reduce the number of deaths and the number of people affected by disasters</q>.</p>
-           <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> on <a href="https://ourworldindata.org/natural-catastrophes">Natural Catastrophes</a>.</p>
+           <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> on <a href="https://ourworldindata.org/natural-disaters">Natural Disasters</a>.</p>
            <p><strong>Additional charts:</strong> <br><a href="https://ourworldindata.org/grapher/natural-disaster-deaths-ihme">Total deaths from natural disasters</a>
 <br><a href="https://ourworldindata.org/grapher/number-injured-from-disasters">Number injured from natural disasters</a>
 <br><a href="https://ourworldindata.org/grapher/number-homeless-from-natural-disasters">Number left homeless from natural disasters</a>
@@ -143,7 +143,7 @@ disabilities</q>.</p>
             <p><strong>Definition:</strong> Indicator 11.5.2 is the <q>direct economic loss in relation to global GDP, damage to critical infrastructure and number of disruptions to basic services, attributed to disasters</q>.<p>Direct economic losses from disasters are given at global and national levels in relative terms as a percentage of gross domestic product (GDP). Absolute losses in US$ are available in 'additional charts' below. 
 <p>Direct economic losses measures the monetary value of total or partial destruction of physical assets existing in the affected area from natural disasters.</p>
             <p><strong>Goal:</strong> <q>By 2030, substantially decrease the direct economic losses relative to global gross domestic product caused by disasters, including water-related disasters, with a focus on protecting the poor and people in vulnerable situations</q>.</p>
-           <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> on <a href="https://ourworldindata.org/natural-catastrophes">Natural Catastrophes</a>.</p>
+           <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> on <a href="https://ourworldindata.org/natural-disasters">Natural Disasters</a>.</p>
           <p><strong>Additional charts:</strong> <br><a href="https://ourworldindata.org/grapher/direct-disaster-economic-loss?tab=chart">Absolute economic losses from disasters by country</a>
 <br><a href="https://ourworldindata.org/grapher/weather-losses-share-gdp">Global weather-related disaster losses as a share of GDP</a>
         </div>
@@ -258,7 +258,7 @@ disabilities</q>.</p>
             <h3>Integrated disaster risk management</h3>
             <p><strong>Definition:</strong> Indicator 11.B.1 is the <q>number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015–2030</q>.<p>This indicator identifies countries who have and have not adopted and implemented disaster risk management strategies in line with the Sendai Framework for Disaster Risk Reduction.</p>
             <p><strong>Goal:</strong> <q>Substantially increase the number of cities and human settlements adopting and implementing holistic disaster risk management at all levels</q>.<p>Unlike most SDGs which have a target year of 2030, this indicator is set to be achieved by 2020.</p>
-           <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> on <a href="https://ourworldindata.org/natural-catastrophes">Natural Catastrophes</a>.</p>
+           <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> on <a href="https://ourworldindata.org/natural-disasters">Natural Disasters</a>.</p>
            <p><strong>Additional charts:</strong> <br><a href="https://ourworldindata.org/grapher/natural-disaster-deaths-ihme">Total deaths from natural disasters</a>
 <br><a href="https://ourworldindata.org/grapher/number-injured-from-disasters">Number injured from natural disasters</a>
 <br><a href="https://ourworldindata.org/grapher/number-homeless-from-natural-disasters">Number left homeless from natural disasters</a>
@@ -279,7 +279,7 @@ disabilities</q>.</p>
             <h3>Local disaster risk management</h3>
             <p><strong>Definition:</strong> Indicator 11.B.2 is the <q>proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies</q>.
             <p><strong>Goal:</strong> <q>Substantially increase the number of cities and human settlements adopting and implementing holistic disaster risk management at all levels</q>.<p>Unlike most SDGs which have a target year of 2030, this indicator is set to be achieved by 2020.</p>
-           <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> on <a href="https://ourworldindata.org/natural-catastrophes">Natural Catastrophes</a>.</p>
+           <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> on <a href="https://ourworldindata.org/natural-disasters">Natural Disasters</a>.</p>
            <p><strong>Additional charts:</strong> <br><a href="https://ourworldindata.org/grapher/natural-disaster-deaths-ihme">Total deaths from natural disasters</a>
 <br><a href="https://ourworldindata.org/grapher/number-injured-from-disasters">Number injured from natural disasters</a>
 <br><a href="https://ourworldindata.org/grapher/number-homeless-from-natural-disasters">Number left homeless from natural disasters</a>
