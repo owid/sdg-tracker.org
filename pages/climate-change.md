@@ -37,7 +37,7 @@ featuredImage: /img/uploads/13.svg
             <h3>Deaths and injuries from natural disasters</h3>
             <p><strong>Definition:</strong> Indicator 13.1.1 is the <q>number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population</q>.<p>Indicators measured here report mortality rates, internally displaced persons, missing persons and total numbers affected by natural disasters.</p>
             <p><strong>Goal:</strong> By 2030 <q>strengthen resilience and adaptive capacity to climate-related hazards and natural disasters in all countries</q>.</p>
-           <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> on <a href="https://ourworldindata.org/natural-catastrophes">Natural Catastrophes</a>.</p>
+           <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> on <a href="https://ourworldindata.org/natural-disasters">Natural Disasters</a>.</p>
            <p><strong>Additional charts:</strong> <br><a href="https://ourworldindata.org/grapher/natural-disaster-deaths-ihme">Total deaths from natural disasters</a>
 <br><a href="https://ourworldindata.org/grapher/number-injured-from-disasters">Number injured from natural disasters</a>
 <br><a href="https://ourworldindata.org/grapher/number-homeless-from-natural-disasters">Number left homeless from natural disasters</a>
@@ -59,7 +59,7 @@ featuredImage: /img/uploads/13.svg
             <h3>National disaster risk management</h3>
             <p><strong>Definition:</strong> Indicator 13.1.2 is the <q>number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015–2030</q>.<p>This indicator identifies countries who have and have not adopted and implemented disaster risk management strategies in line with the Sendai Framework for Disaster Risk Reduction.</p>
             <p><strong>Goal:</strong> By 2030 <q>strengthen resilience and adaptive capacity to climate-related hazards and natural disasters in all countries</q>.
-           <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> on <a href="https://ourworldindata.org/natural-catastrophes">Natural Catastrophes</a>.</p>
+           <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> on <a href="https://ourworldindata.org/natural-disasters">Natural Disasters</a>.</p>
            <p><strong>Additional charts:</strong> <br><a href="https://ourworldindata.org/grapher/natural-disaster-deaths-ihme">Total deaths from natural disasters</a>
 <br><a href="https://ourworldindata.org/grapher/number-injured-from-disasters">Number injured from natural disasters</a>
 <br><a href="https://ourworldindata.org/grapher/number-homeless-from-natural-disasters">Number left homeless from natural disasters</a>
@@ -80,7 +80,7 @@ featuredImage: /img/uploads/13.svg
             <h3>Local disaster risk management</h3>
             <p><strong>Definition:</strong> Indicator 13.1.3 is the <q>proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies</q>.
             <p><strong>Goal:</strong> By 2030 <q>strengthen resilience and adaptive capacity to climate-related hazards and natural disasters in all countries</q>.</p>
-           <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> on <a href="https://ourworldindata.org/natural-catastrophes">Natural Catastrophes</a>.</p>
+           <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> on <a href="https://ourworldindata.org/natural-disasters">Natural Disasters</a>.</p>
            <p><strong>Additional charts:</strong> <br><a href="https://ourworldindata.org/grapher/natural-disaster-deaths-ihme">Total deaths from natural disasters</a>
 <br><a href="https://ourworldindata.org/grapher/number-injured-from-disasters">Number injured from natural disasters</a>
 <br><a href="https://ourworldindata.org/grapher/number-homeless-from-natural-disasters">Number left homeless from natural disasters</a>
