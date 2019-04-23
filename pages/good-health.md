@@ -58,7 +58,7 @@ featuredImage: /img/uploads/3.svg
 ---
 <div class="target">
     <h2>Target 3.1: Reduce maternal mortality</h2>
-    <p>UN definition: <q>By 2030, reduce the global maternal mortality ratio to less than 70 per 100,000 live births</q></p>
+    <p>UN definition: <q>By 2030, reduce the global maternal mortality ratio to less than 70 per 100,000 live births. In addition, all countries should reduce the maternal mortality ratio to less than 140 per 100,000 live births.</q></p>
 </div>
 
 <div class="indicator">
