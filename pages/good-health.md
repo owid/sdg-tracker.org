@@ -67,7 +67,7 @@ featuredImage: /img/uploads/3.svg
             <span>SDG Indicator 3.1.1</span>
             <h3>Maternal mortality ratio</h3>
             <p><strong>Definition:</strong> Indicator 3.1.1 is the <q>maternal mortality ratio</q>.<p>The maternal mortality ratio refers to the number of women who die from pregnancy-related causes while pregnant or within 42 days of pregnancy termination per 100,000 live births.</p>
-            <p><strong>Goal:</strong> By 2030 <q>Reduce global maternal mortality to less than 70 per 100,000 live births</q> per year. Additionally, no country should have a maternal mortality ratio higher than 140 per 100,000 live births.</p>
+            <p><strong>Goal:</strong> By 2030 <q>Reduce global maternal mortality to less than 70 per 100,000 live births</q> per year. In addition, all countries should reduce the maternal mortality ratio to less than 140 per 100,000 live births.</p>
             <p><strong>More research:</strong> The <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/maternal-mortality">Maternal Mortality</a> gives a long-run perspective over the last centuries and presents research on the causes and consequences of the deaths of mothers.</p>
 <p><strong>Additional charts:</strong> 
 <br><a href="https://ourworldindata.org/grapher/number-of-maternal-deaths-by-region">Number of maternal deaths by region</a>
