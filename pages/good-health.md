@@ -87,7 +87,7 @@ featuredImage: /img/uploads/3.svg
             <span>SDG Indicator 3.1.2</span>
             <h3>Skilled birth attendance</h3>
             <p><strong>Definition:</strong> Indicator 3.1.2 is the <q>percentage of births attended by personnel trained to give the necessary supervision, care, and advice to women during pregnancy, labor, and the postpartum period; to conduct deliveries on their own; and to care for newborns</q>.</p>
-            <p><strong>Goal:</strong> The UN Target 3.1 is to <q>Reduce global maternal mortality to less than 70 per 100,000 live births.</q>
+            <p><strong>Goal:</strong> The UN Target 3.1 is to <q>Reduce global maternal mortality to less than 70 per 100,000 live births. In addition, all countries should reduce the maternal mortality ratio to less than 140 per 100,000 live births.</q>
 
 However, there is no goal specified by the UN for the share of births attended by skilled staff.
 
