@@ -3,8 +3,8 @@ layout: about
 title: About the SDG Tracker
 name: About
 description: >-
-  Our World in Data’s SDG Tracker is the first resource where users can track
-  and explore global and country-level progress towards each of the 17
+  Our World in Data’s SDG Tracker is a free, open-access resource where users
+  can track and explore global and country-level progress towards each of the 17
   Sustainable Development Goals through interactive data visualizations. This
   resource is kept up-to-date with all of the latest data across all of the 17
   Goals.
@@ -18,7 +18,7 @@ The breadth of the 17 goals, their 169 targets and 232 indicators mean all count
 
 Engagement with the SDGs and their potential requires us to tell stories: the narratives of lives across the world as they are now, and what we aspire for them to be. Beyond that, we need to understand how everyone’s stories weave together to provide a landscape of living conditions across the world. To explore where we are now, and how far we have to go by 2030, we need interactive and engaging data. Metrics must be specific to the SDG indicators, but presented in such a way that everyone can engage.
 
-As an integrated project of [Our World in Data](https://ourworldindata.org), we therefore built this [SDG Tracker](https://sdg-tracker.org/)—the first project of its kind to track the latest data across all of the 17 SDGs. This serves an interactive hub where users can explore and track progress across all of the SDG indicators for which there is data available.
+As an integrated project of [Our World in Data](https://ourworldindata.org), we therefore built this [SDG Tracker](https://sdg-tracker.org/) — an open-access project to track the latest data across all of the 17 SDGs. This serves an interactive hub where users can explore and track progress across all of the SDG indicators for which there is data available.
 
 This seemed like a crucial project to launch. Yet no other organisation to date has launched a similar platform. There are many resources where users can either [download data](https://unstats.un.org/sdgs/indicators/database/) for specific indicators or explore data for specific goals or targets (for example, [FAO](http://www.fao.org/sustainable-development-goals/indicators/en/), [UNESCO](https://en.unesco.org/sdgs), [IHME](https://vizhub.healthdata.org/sdg/), [WHO JMP](https://washdata.org/data), and [IEA](http://www.iea.org/sdg/)), but none which brings together data across all of the 17 Goals in a user-friendly interactive format. This is largely the result of organisational and disciplinary silos where particular institutions can cover data for particular aspects of the goals. As an independent resource we are free from such silos or barriers: our role is to provide a central hub for all 17 Goals using data from a range of primary sources.
 
