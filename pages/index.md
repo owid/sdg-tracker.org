@@ -11,7 +11,7 @@ featuredImage: /img/uploads/sdg-poster.png
 ---
 <p>The United Nations <a href="http://www.un.org/sustainabledevelopment/">Sustainable Development Goals</a> (SDGs) are targets for global development adopted in September 2015, set to be achieved by 2030. All countries of the world have agreed to work towards achieving these goals.</p>
  
-<p>Our SDG Tracker presents data across all available indicators from the <a href="https://ourworldindata.org">Our World in Data</a> database, using official statistics from the UN and other international organizations. It is the first publication that tracks global progress towards the SDGs and allows people around the world to hold their governments accountable to achieving the agreed goals.</p>
+<p>Our SDG Tracker presents data across all available indicators from the <a href="https://ourworldindata.org">Our World in Data</a> database, using official statistics from the UN and other international organizations. It is a free, open-access publication that tracks global progress towards the SDGs and allows people around the world to hold their governments accountable to achieving the agreed goals.</p>
 
 <p>The 17 Sustainable Development Goals are defined in a list of 169 SDG Targets. Progress towards these Targets is agreed to be tracked by 232 unique Indicators. Here is the <a href="https://unstats.un.org/sdgs/indicators/Global%20Indicator%20Framework%20after%20refinement_Eng.pdf">full list of definitions</a>.</p>
 
