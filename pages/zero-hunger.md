@@ -300,7 +300,9 @@ An AOI smaller than 1 reflects a lower orientation to agriculture.</p>
             <p><strong>Definition:</strong> Indicator 2.B.1 is the <q>value of agricultural export subsidies</q>.</p>
             <p><strong>Goal:</strong> By 2030 <q>correct and prevent trade restrictions and distortions in world agricultural markets, including through the parallel elimination of all forms of agricultural export subsidies</q> <p>This target requires an elimination of agricultural export subsidies by 2030.</p>
         </div>
-        <NoData/>
+
+<div class="col-md">
+        <iframe src="https://ourworldindata.org/grapher/agricultural-export-subsidies" style="width: 100%; height: 600px; border: 0px none;"></iframe>
     </div>
 </div>
 
