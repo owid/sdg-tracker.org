@@ -44,6 +44,7 @@ featuredImage: /img/uploads/1.svg
 This poverty line is measured in "international dollars" which are a hypothetical currency that adjusts for price differences between countries (purchasing power parity) and it is measured in prices of 2011 to adjust for price changes over time (inflation).</p>
             <p><strong>Goal:</strong> By 2030 <q>eradicate extreme poverty for all people everywhere, currently measured as people living on less than $1.90 a day</q>.</p>
             <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/extreme-poverty">Global Extreme Poverty</a>.</p>
+
 <p><strong>Additional charts:</strong>
 <br><a href="https://ourworldindata.org/grapher/world-population-in-extreme-poverty-absolute">World population living in extreme poverty</a>
 <br><a href="https://ourworldindata.org/grapher/total-population-living-in-extreme-poverty-by-world-region">Population living in extreme poverty by region</a>
@@ -247,7 +248,9 @@ achieve substantial coverage of the poor and the vulnerable</q>.</p>
             <p><strong>Goal:</strong> By 2030 <q>build the resilience of the poor and those in vulnerable situations and reduce their exposure and vulnerability to climate-related extreme events and other environmental disasters</q>.<p>The target is to have universal adoption of disaster risk reduction strategies by 2030.</p>
             <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/natural-catastrophes">natural catastrophes</a>.</p>
         </div>
-        <NoData/>
+
+<div class="col-md">
+        <iframe src="https://ourworldindata.org/grapher/local-gov-disaster-strategies" style="width: 100%; height: 600px; border: 0px none;"></iframe>
     </div>
 </div>
 
