@@ -13,8 +13,7 @@ description: >-
   _Basic literacy skills across the world have improved tremendously, yet bolder
   efforts are needed to achieve universal education goals for all. For example,
   the world has achieved equality in primary education between girls and boys,
-  but few countries have achieved that target at all levels of
-  education."_
+  but few countries have achieved that target at all levels of education."_
 
 
   The charts and visuals below provide data on the major developments in global
@@ -236,7 +235,21 @@ featuredImage: /img/uploads/4.svg
             <p><strong>Definition:</strong> Indicator 4.A.1 is the <q>proportion of schools with access to (a) electricity; (b) the Internet for pedagogical purposes; (c) computers for pedagogical purposes; (d) adapted infrastructure and materials for students with disabilities; (e) basic drinking water; (f) single-sex basic sanitation facilities; and (g) basic handwashing facilities (as per the WASH indicator definitions)</q>.</p>
             <p><strong>Goal:</strong> The target is to ensure all children have access to a safe, inclusive and effective learning environment by 2030.</p> 
         </div>
-        <NoData/>
+
+<div class="col-md">
+       <iframe src="https://ourworldindata.org/grapher/schools-access-to-electricity" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/schools-access-to-wash" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/schools-access-drinking-water" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/schools-access-computers" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/schools-with-access-to-internet" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/share-of-schools-with-access-tosingle-sex-basic-sanitation" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/schools-materials-students-with-disabilities" style="width: 100%; height: 600px; border: 0px none;"></iframe>
     </div>
 </div>
 
@@ -290,4 +303,3 @@ developed countries and small island developing States.</q></p>
         </div>
     </div>
 </div>
-
