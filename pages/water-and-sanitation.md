@@ -6,9 +6,9 @@ name: Clean Water and Sanitation
 description: >-
   The [UN
   explains](https://www.un.org/sustainabledevelopment/water-and-sanitation/):
-  _"Clean water is a basic human need, and one that should be easily
-  accessible to all. There is sufficient fresh water on the planet to achieve
-  this. However, due to poor infrastructure, investment and planning, every year
+  _"Clean water is a basic human need, and one that should be easily accessible
+  to all. There is sufficient fresh water on the planet to achieve this.
+  However, due to poor infrastructure, investment and planning, every year
   millions of people — [most of them
   children](https://ourworldindata.org/grapher/deaths-by-risk-under5s) — die
   from [diseases associated
@@ -17,7 +17,9 @@ description: >-
 
 
   The charts below summarise progress towards improved water and sanitation
-  access. More details can be found in the _Our World in Data_ entry on [Water Access, Resources and Sanitation](https://ourworldindata.org/water-access-resources-sanitation).
+  access. More details can be found in the _Our World in Data_ entry on [Water
+  Access, Resources and
+  Sanitation](https://ourworldindata.org/water-access-resources-sanitation).
 
 
   The UN has defined 8 _Targets_ and 11 _Indicators_ for SDG 6. Targets specify
@@ -26,7 +28,6 @@ description: >-
   all Targets and show the data on the agreed Indicators.
 featuredImage: /img/uploads/6.svg
 ---
-
 <div class="target">
     <h2>Target 6.1: Safe and affordable drinking water</h2>
     <p>UN definition: <q>By 2030, achieve universal and equitable access to safe and affordable drinking water for all.</q></p>
@@ -101,7 +102,9 @@ featuredImage: /img/uploads/6.svg
             <p><strong>Goal:</strong> <q>Halving the proportion of untreated wastewater and substantially increasing recycling and safe reuse globally</q> by 2030.</p>
             <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/water-access-resources-sanitation">Water Access, Resources & Sanitation</a>.</p>
         </div>
-        <NoData/>
+
+<div class="col-md">
+        <iframe src="https://ourworldindata.org/grapher/wastewater-safely-treated" style="width: 100%; height: 600px; border: 0px none;"></iframe>
     </div>
 </div>
 
@@ -116,7 +119,9 @@ featuredImage: /img/uploads/6.svg
             <p><strong>Goal:</strong> By 2030 <q>improve water quality by reducing pollution, eliminating dumping and minimizing release of hazardous chemicals and materials</q>.</p>
             <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/water-access-resources-sanitation">Water Access, Resources & Sanitation</a>.</p>
         </div>
-        <NoData/>
+
+<div class="col-md">
+        <iframe src="https://ourworldindata.org/grapher/water-bodies-good-water-quality" style="width: 100%; height: 600px; border: 0px none;"></iframe>
     </div>
 </div>
 
@@ -193,8 +198,9 @@ featuredImage: /img/uploads/6.svg
             <p><strong>Definition:</strong> Indicator 6.5.2 is the <q>proportion of transboundary basin area with an
 operational arrangement for water cooperation</q>.
             <p><strong>Goal:</strong> <q>By 2030, implement integrated water resources management at all levels, including through transboundary cooperation as appropriate</q>.</p>
-        </div>
-        <NoData/>
+        </div>\
+<div class="col-md">
+        <iframe src="https://ourworldindata.org/grapher/water-basins-cooperation-plan" style="width: 100%; height: 600px; border: 0px none;"></iframe>
     </div>
 </div>
 
