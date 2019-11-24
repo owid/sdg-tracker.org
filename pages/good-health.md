@@ -344,8 +344,6 @@ aftercare services) for substance use disorders</h3>
 <p>UN definition: <q>By 2020, halve the number of global deaths and
 injuries from road traffic accidents.</q></p>
 
-
-
 </div>
 
 <div class="indicator">
@@ -375,8 +373,6 @@ This is measured relative to 2010 levels as it was defined as part of the <a hre
 reproductive health-care services, including for family
 planning, information and education, and the integration of
 reproductive health into national strategies and programmes.</q></p>
-
-
 
 </div>
 
@@ -424,8 +420,6 @@ risk protection, access to quality essential health-care
 services and access to safe, effective, quality and affordable
 essential medicines and vaccines for all.</q></p>
 
-
-
 </div>
 
 <div class="indicator">
@@ -459,7 +453,9 @@ essential medicines and vaccines for all.</q></p>
 <br><a href="https://ourworldindata.org/grapher/risk-of-catastrophic-expenditure-for-surgical-care">Risk of catastrophic expenditure for surgical care</a>
 <br><a href="https://ourworldindata.org/grapher/risk-of-impoverishing-expenditure-for-surgical-care">Risk of impoverishing expenditure for surgical care</a>
         </div>
-        <NoData/>
+
+<div class="col-md">
+        <iframe src="https://ourworldindata.org/grapher/large-household-expenditures-health" style="width: 100%; height: 600px; border: 0px none;"></iframe>
     </div>
 </div>
 
@@ -469,8 +465,6 @@ essential medicines and vaccines for all.</q></p>
 <p>UN definition: <q>By 2030, substantially reduce the number of deaths and
 illnesses from hazardous chemicals and air, water and soil
 pollution and contamination.</q></p>
-
-
 
 </div>
 
@@ -537,7 +531,6 @@ pollution and contamination.</q></p>
 Organization Framework Convention on Tobacco Control in
 all countries, as appropriate.</q></p>
 
-
 </div>
 
 <div class="indicator" id="3.A.1">
@@ -575,8 +568,6 @@ developing countries to use to the full the provisions in the
 Agreement on Trade-Related Aspects of Intellectual
 Property Rights regarding flexibilities to protect public
 health, and, in particular, provide access to medicines for all.</q></p>
-
-
 
 </div>
 
@@ -639,8 +630,6 @@ health, and, in particular, provide access to medicines for all.</q></p>
 recruitment, development, training and retention of the
 health workforce in developing countries, especially in least
 developed countries and small island developing states.</q></p>
-
-
 
 </div>
 
