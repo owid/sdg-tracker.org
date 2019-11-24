@@ -11,8 +11,7 @@ description: >-
 
   _Providing women and girls with equal access to education, health care, decent
   work, and representation in political and economic decision-making processes
-  will fuel sustainable economies and benefit societies and humanity at
-  large."_
+  will fuel sustainable economies and benefit societies and humanity at large."_
 
 
   The UN has defined 9 _Targets_ and 14 _Indicators_ for SDG 5. Targets specify
@@ -21,7 +20,6 @@ description: >-
   all Targets and show the data on the agreed Indicators.
 featuredImage: /img/uploads/5.svg
 ---
-
 <div class="target">
     <h2>Target 5.1: End discrimination against women and girls</h2>
     <p>UN definition: <q>End all forms of discrimination against all women and girls everywhere.</q></p>
@@ -301,6 +299,8 @@ featuredImage: /img/uploads/5.svg
             <p><strong>Definition:</strong> Indicator 5.C.1 is the <q>Proportion of countries with systems to track and make public allocations for gender equality and women’s empowerment</q>.</p>
             <p><strong>Goal:</strong> By 2030 <q>adopt and strengthen sound policies and enforceable legislation for the promotion of gender equality</q>.</p>
         </div>
-        <NoData/>
+
+<div class="col-md">
+        <iframe src="https://ourworldindata.org/grapher/systems-track-gender-equality" style="width: 100%; height: 600px; border: 0px none;"></iframe>
     </div>
 </div>
