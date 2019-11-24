@@ -6,13 +6,13 @@ title: >-
 goalNum: 2
 name: Zero Hunger
 description: >-
-  The [UN explains](https://www.un.org/sustainabledevelopment/hunger/): _"It
-  is time to rethink how we grow, share and consume our food._
+  The [UN explains](https://www.un.org/sustainabledevelopment/hunger/): _"It is
+  time to rethink how we grow, share and consume our food._
 
 
-  _If done right, agriculture, forestry and fisheries can provide nutritious food
-  for all and generate decent incomes, while supporting people-centred rural
-  development and protecting the environment._
+  _If done right, agriculture, forestry and fisheries can provide nutritious
+  food for all and generate decent incomes, while supporting people-centred
+  rural development and protecting the environment._
 
 
   _Right now, our soils, freshwater, oceans, forests and biodiversity are being
@@ -181,7 +181,9 @@ services, markets and opportunities for value addition and non-farm employment.<
             <p><strong>Goal:</strong> By 2030 <q>double the average income of small-scale food producers</q>.</p>
             <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> entries on <a href="https://ourworldindata.org/food-prices">Food Prices</a> and <a href="https://ourworldindata.org/employment-in-agriculture">Employment in Agriculture</a>.</p>
         </div>
-        <NoData/>
+
+<div class="col-md">
+        <iframe src="https://ourworldindata.org/grapher/income-small-scale-food-producers" style="width: 100%; height: 600px; border: 0px none;"></iframe>
     </div>
 </div>
 
