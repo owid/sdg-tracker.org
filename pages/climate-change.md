@@ -23,7 +23,6 @@ description: >-
   all Targets and show the data on the agreed Indicators.
 featuredImage: /img/uploads/13.svg
 ---
-
 <div class="target">
     <h2>Target 13.1: Strengthen resilience and adaptive capacity to climate-related disasters</h2>
     <p>UN definition: <q>Strengthen resilience and adaptive capacity to climate-related hazards and natural disasters in all countries.</q></p>
@@ -86,7 +85,9 @@ featuredImage: /img/uploads/13.svg
 <br><a href="https://ourworldindata.org/grapher/number-homeless-from-natural-disasters">Number left homeless from natural disasters</a>
 <br><a href="https://ourworldindata.org/grapher/total-affected-by-natural-disasters">Number affected by natural disasters</a></p>
         </div>
-        <NoData/>
+
+ <div class="col-md">
+        <iframe src="https://ourworldindata.org/grapher/local-govts-risk-reduction" style="width: 100%; height: 600px; border: 0px none;"></iframe>
     </div>
 </div>
 
