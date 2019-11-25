@@ -4,16 +4,15 @@ title: 'Ensure access to affordable, reliable, sustainable and modern energy for
 goalNum: 7
 name: Affordable and Clean Energy
 description: >-
-  The [UN explains](https://www.un.org/sustainabledevelopment/energy/):
-  _"Energy is central to nearly every major challenge and opportunity the
-  world faces today. Be it for jobs, security, climate change, food production
-  or increasing incomes, access to energy for all is essential._
+  The [UN explains](https://www.un.org/sustainabledevelopment/energy/): _"Energy
+  is central to nearly every major challenge and opportunity the world faces
+  today. Be it for jobs, security, climate change, food production or increasing
+  incomes, access to energy for all is essential._
 
 
   _Transitioning the global economy towards clean and sustainable sources of
   energy is one of our greatest challenges in the coming decades. Sustainable
-  energy is an opportunity – it transforms lives, economies and the
-  planet."_
+  energy is an opportunity – it transforms lives, economies and the planet."_
 
 
   More information on energy access and sources can be found at the _Our World
@@ -29,7 +28,6 @@ description: >-
   all Targets and show the data on the agreed Indicators.
 featuredImage: /img/uploads/7.svg
 ---
-
 <div class="target">
     <h2>Target 7.1: Universal access to modern energy</h2>
     <p>UN definition: <q>By 2030, ensure universal access to affordable, reliable and modern energy services.</q></p>
@@ -131,7 +129,9 @@ featuredImage: /img/uploads/7.svg
             <p><strong>Definition:</strong> Indicator 7.A.1 is <q>international financial flows to developing countries in support of clean energy research and development and renewable energy production, including in hybrid systems</q>.</p>
             <p><strong>Goal:</strong> <q>Enhance international cooperation to facilitate access to clean energy research and technology, including renewable energy, energy efficiency and advanced and cleaner fossil-fuel technology, and promote investment in energy infrastructure and clean energy technology</q> by 2030.</p>
         </div>
-        <NoData/>
+
+<div class="col-md">
+        <iframe src="https://ourworldindata.org/grapher/international-finance-clean-energy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
     </div>
 </div>
 
