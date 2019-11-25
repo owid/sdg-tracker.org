@@ -17,7 +17,6 @@ description: >-
   of all Targets and show the data on the agreed Indicators.
 featuredImage: /img/uploads/11.svg
 ---
-
 <div class="target">
     <h2>Target 11.1: Safe and affordable housing</h2>
     <p>UN definition: <q>By 2030, ensure access for all to adequate, safe and affordable housing and basic services and upgrade slums.</q></p>
@@ -285,7 +284,9 @@ disabilities</q>.</p>
 <br><a href="https://ourworldindata.org/grapher/number-homeless-from-natural-disasters">Number left homeless from natural disasters</a>
 <br><a href="https://ourworldindata.org/grapher/total-affected-by-natural-disasters">Number affected by natural disasters</a></p>
         </div>
-        <NoData/>
+
+<div class="col-md">
+        <iframe src="https://ourworldindata.org/grapher/local-govts-risk-reduction" style="width: 100%; height: 600px; border: 0px none;"></iframe>
     </div>
 </div>
 
