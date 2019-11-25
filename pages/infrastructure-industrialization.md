@@ -21,7 +21,6 @@ description: >-
   all Targets and show the data on the agreed Indicators.
 featuredImage: /img/uploads/9.svg
 ---
-
 <div class="target">
     <h2>Target 9.1: Develop sustainable, resilient and inclusive infrastructures</h2>
     <p>UN definition: <q>Develop quality, reliable, sustainable and resilient infrastructure, including regional and transborder infrastructure, to support economic development and human well-being, with a focus on affordable and equitable access for all.</q></p>
@@ -111,7 +110,9 @@ employment</q>.<p>This indicator measures the manufacturing sector's employment 
             <p><strong>Definition:</strong> Indicator 9.3.1 is the <q>proportion of small-scale industries in total industry value added</q>.</p>
             <p><strong>Goal:</strong> <q>Increase the access of small-scale industrial and other enterprises, in particular in developing countries, to value chains and markets</q> by 2030.</p>
         </div>
-        <NoData/>
+
+<div class="col-md">
+        <iframe src="https://ourworldindata.org/grapher/small-scale-industries-share" style="width: 100%; height: 600px; border: 0px none;"></iframe>
     </div>
 </div>
 
@@ -125,7 +126,9 @@ employment</q>.<p>This indicator measures the manufacturing sector's employment 
             <p><strong>Definition:</strong> Indicator 9.3.2 is the <q>proportion of small-scale industries with a loan or line of credit</q>.</p>
             <p><strong>Goal:</strong> <q>Increase the access of small-scale industrial and other enterprises, in particular in developing countries, to financial services, including affordable credit</q> by 2030.</p>
         </div>
-        <NoData/>
+
+<div class="col-md">
+       <iframe src="https://ourworldindata.org/grapher/smalsmall-scale-industries-loan" style="width: 100%; height: 600px; border: 0px none;"></iframe>
     </div>
 </div>
 
