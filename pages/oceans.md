@@ -4,14 +4,14 @@ title: 'Conserve and sustainably use the oceans, seas and marine resources'
 goalNum: 14
 name: Life below Water
 description: >-
-  The [UN explains](https://www.un.org/sustainabledevelopment/oceans/):
-  _"Our oceans — their temperature, circulation, chemistry, and ecosystems 
-  — play a fundamental role in making Earth habitable._
+  The [UN explains](https://www.un.org/sustainabledevelopment/oceans/): _"Our
+  oceans — their temperature, circulation, chemistry, and ecosystems  — play a
+  fundamental role in making Earth habitable._
 
 
-  _Our rainwater, drinking water, weather, climate, coastlines, much of our food,
-  and even the oxygen in the air we breathe, are all ultimately provided and
-  regulated by the sea. Throughout history, oceans and seas have been vital
+  _Our rainwater, drinking water, weather, climate, coastlines, much of our
+  food, and even the oxygen in the air we breathe, are all ultimately provided
+  and regulated by the sea. Throughout history, oceans and seas have been vital
   conduits for trade and transportation. Careful management of this essential
   global resource is a key feature of a sustainable future."_
 
@@ -22,7 +22,6 @@ description: >-
   of all Targets and show the data on the agreed Indicators.
 featuredImage: /img/uploads/14.svg
 ---
-
 <div class="target">
     <h2>Target 14.1: Reduce marine pollution</h2>
     <p>UN definition: <q>By 2025, prevent and significantly reduce marine pollution of all kinds, in particular from land-based activities, including marine debris and nutrient pollution.</q></p>
@@ -133,7 +132,9 @@ featuredImage: /img/uploads/14.svg
             <p><strong>Definition:</strong> Indicator 14.6.1 is <q>progress by countries in the degree of implementation of international instruments aiming to combat illegal, unreported and unregulated fishing</q>.</p>
             <p><strong>Goal:</strong> <q>Prohibit certain forms of fisheries subsidies which contribute to overcapacity and overfishing, eliminate subsidies that contribute to illegal, unreported and unregulated fishing and refrain from introducing new such subsidies</q> by 2020.<p>Unlike most SDGs, which are set for the year 2030, this indicator is targeted for 2020.</p>
         </div>
-        <NoData/>
+
+<div class="col-md">
+        <iframe src="https://ourworldindata.org/grapher/regulation-illegal-fishing" style="width: 100%; height: 600px; border: 0px none;"></iframe>
     </div>
 </div>
 
@@ -169,7 +170,9 @@ featuredImage: /img/uploads/14.svg
             <p><strong>Definition:</strong> Indicator 14.A.1 is the <q>proportion of total research budget allocated to research in the field of marine technology</q>.</p>
             <p><strong>Goal:</strong> <q>Increase scientific knowledge, develop research capacity and transfer marine technology</q> by 2030.</p>
         </div>
-        <NoData/>
+
+<div class="col-md">
+        <iframe src="https://ourworldindata.org/grapher/ocean-research-funding" style="width: 100%; height: 600px; border: 0px none;"></iframe>
     </div>
 </div>
 
