@@ -27,7 +27,6 @@ description: >-
   of all Targets and show the data on the agreed Indicators.
 featuredImage: /img/uploads/10.svg
 ---
-
 <div class="target">
     <h2>Target 10.1: Reduce income inequalities</h2>
     <p>UN definition: <q>By 2030, progressively achieve and sustain income growth of the bottom 40 per cent of the population at a rate higher than the national average.</q></p>
@@ -123,7 +122,9 @@ featuredImage: /img/uploads/10.svg
             <p><strong>Definition:</strong> Indicator 10.5.1 is the <q>financial soundness indicator</q>.</p>
             <p><strong>Goal:</strong> <q>Improve the regulation and monitoring of global financial markets and institutions and strengthen the implementation of such regulations</q> by 2030.</p>
         </div>
-        <NoData/>
+
+<div class="col-md">
+        <iframe src="https://ourworldindata.org/grapher/regulation-financial-markets" style="width: 100%; height: 600px; border: 0px none;"></iframe>
     </div>
 </div>
 
