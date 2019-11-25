@@ -21,7 +21,6 @@ description: >-
   of all Targets and show the data on the agreed Indicators.
 featuredImage: /img/uploads/15.svg
 ---
-
 <div class="target">
     <h2>Target 15.1: Conserve and restore terrestrial and freshwater ecosystems</h2>
     <p>UN definition: <q>By 2020, ensure the conservation, restoration and sustainable use of terrestrial and inland freshwater ecosystems and their services, in particular forests, wetlands, mountains and drylands, in line with obligations under international agreements.</q></p>
@@ -85,6 +84,7 @@ Three sub-indicators focus on the extension of forest area, biomass within the f
             <iframe src="https://ourworldindata.org/grapher/proportion-of-forest-area-certified-under-an-independently-verified-certification-scheme" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
+
 </div>
 
 <div class="target">
@@ -101,7 +101,9 @@ Three sub-indicators focus on the extension of forest area, biomass within the f
             <p><strong>Definition:</strong> Indicator 15.3.1 is the <q>proportion of land that is degraded over total land area</q>.</p>
             <p><strong>Goal:</strong> <q>By 2030, combat desertification, restore degraded land and soil, including land affected by desertification, drought and floods, and strive to achieve a land degradation-neutral world</q>.</p>
         </div>
-        <NoData/>
+
+<div class="col-md">
+        <iframe src="https://ourworldindata.org/grapher/share-degraded-land" style="width: 100%; height: 600px; border: 0px none;"></iframe>
     </div>
 </div>
 
