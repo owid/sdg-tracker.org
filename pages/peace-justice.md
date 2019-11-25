@@ -5,10 +5,10 @@ goalNum: 16
 name: 'Peace, Justice and Strong Institutions'
 description: >-
   The [UN explains](https://www.un.org/sustainabledevelopment/peace-justice/):
-  <q>Goal 16 of the Sustainable Development Goals is dedicated to the
-  promotion of peaceful and inclusive societies for sustainable development, the
-  provision of access to justice for all, and building effective, accountable
-  institutions at all levels.</q>
+  <q>Goal 16 of the Sustainable Development Goals is dedicated to the promotion
+  of peaceful and inclusive societies for sustainable development, the provision
+  of access to justice for all, and building effective, accountable institutions
+  at all levels.</q>
 
 
   This aims to promote peaceful societies at national levels, as well as the
@@ -28,14 +28,12 @@ description: >-
   Children](https://ourworldindata.org/violence-against-rights-for-children).
 
 
-  The UN has defined 12 Targets and 23 Indicators for SDG 16. Targets
-  specify the goals and Indicators represent the metrics by which the world aims
-  to track whether these Targets are achieved. Below we quote the original text
-  of all Targets and show the data on the agreed Indicators.
+  The UN has defined 12 Targets and 23 Indicators for SDG 16. Targets specify
+  the goals and Indicators represent the metrics by which the world aims to
+  track whether these Targets are achieved. Below we quote the original text of
+  all Targets and show the data on the agreed Indicators.
 featuredImage: /img/uploads/16.svg
 ---
-
-
 <div class="target">
     <h2>Target 16.1: Reduce violence everywhere</h2>
     <p>UN definition: <q>Significantly reduce all forms of violence and related death rates everywhere.</q></p>
@@ -109,7 +107,9 @@ by sex, age and cause</q>.</p>
             <p><strong>Definition:</strong> Indicator 16.1.4 is the <q>proportion of population that feel safe walking alone around the area they live</q>.</p>
             <p><strong>Goal:</strong> <q>Significantly reduce all forms of violence and related death rates</q> across all countries by 2030.</p>
         </div>
-        <NoData/>
+
+<div class="col-md">
+       <iframe src="https://ourworldindata.org/grapher/safety-walking-alone" style="width: 100%; height: 600px; border: 0px none;"></iframe>
     </div>
 </div>
 
@@ -188,7 +188,9 @@ by sex, age and cause</q>.</p>
             <p><strong>Definition:</strong> Indicator 16.3.1 is the <q>proportion of victims of violence in the previous 12 months who reported their victimization to competent authorities</q>.</p>
             <p><strong>Goal:</strong> <q>Ensure equal access to justice for all</q> across all countries by 2030.</p>
         </div>
-        <NoData/>
+
+<div class="col-md">
+        <iframe src="https://ourworldindata.org/grapher/reported-crime-to-the-police" style="width: 100%; height: 600px; border: 0px none;"></iframe>
     </div>
 </div>
 
@@ -255,7 +257,9 @@ by sex, age and cause</q>.</p>
             <p>There is no defined target level for this indicator.</p>
             <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/corruption">Corruption</a>.</p>
         </div>
-        <NoData/>
+
+<div class="col-md">
+        <iframe src="https://ourworldindata.org/grapher/bribery-prevalence-un" style="width: 100%; height: 600px; border: 0px none;"></iframe>
     </div>
 </div>
 
@@ -291,7 +295,9 @@ by sex, age and cause</q>.</p>
             <p><strong>Definition:</strong> Indicator 16.6.1 is <q>primary government expenditures as a proportion of original approved budget, by sector (or by budget codes or similar)</q>.</p>
             <p><strong>Goal:</strong> <q>Develop effective, accountable and transparent institutions at all levels</q> by 2030.</p>
         </div>
-        <NoData/>
+
+<div class="col-md">
+        <iframe src="https://ourworldindata.org/grapher/govt-expenditure-share-budget" style="width: 100%; height: 600px; border: 0px none;"></iframe>
     </div>
 </div>
 
