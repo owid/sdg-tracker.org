@@ -24,7 +24,6 @@ description: >-
   of all Targets and show the data on the agreed Indicators.
 featuredImage: /img/uploads/12.svg
 ---
-
 <div class="target">
     <h2>Target 12.1: Implement the 10-year sustainable consumption and production framework</h2>
     <p>UN definition: <q>Implement the 10‑Year Framework of Programmes on Sustainable Consumption and Production Patterns, all countries taking action, with developed countries taking the lead, taking into account the development and capabilities of developing countries.</q></p>
@@ -39,7 +38,9 @@ featuredImage: /img/uploads/12.svg
             <p><strong>Definition:</strong> Indicator 12.1.1 is the <q>number of countries with sustainable consumption and production (SCP) national action plans or SCP mainstreamed as a priority or a target into national policies</q>.</p>
             <p><strong>Goal:</strong> <q>Implement the 10‑Year Framework of Programmes on Sustainable Consumption and Production Patterns</q> with all countries taking action by 2030.</p>
         </div>
-        <NoData/>
+
+<div class="col-md">
+        <iframe src="https://ourworldindata.org/grapher/country-scp-plan" style="width: 100%; height: 600px; border: 0px none;"></iframe>
     </div>
 </div>
 
@@ -261,6 +262,12 @@ featuredImage: /img/uploads/12.svg
             <p><strong>Definition:</strong> Indicator 12.C.1 is the <q>amount of fossil-fuel subsidies per unit of GDP (production and consumption) and as a proportion of total national expenditure on fossil fuels</q>.</p>
             <p><strong>Goal:</strong> By 2030 <q>rationalize inefficient fossil-fuel subsidies that encourage wasteful consumption by removing market distortions, in accordance with national circumstances</q>.</p>
         </div>
-        <NoData/>
+
+<div class="col-md">
+        <iframe src="https://ourworldindata.org/grapher/fossil-fuel-subsidies-gdp" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/fossil-fuel-subsidies-per-capita" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/fossil-fuel-subsidies" style="width: 100%; height: 600px; border: 0px none;"></iframe>
     </div>
 </div>
