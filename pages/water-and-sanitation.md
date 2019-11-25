@@ -219,7 +219,9 @@ operational arrangement for water cooperation</q>.
             <p><strong>Definition:</strong> Indicator 6.6.1 is the <q>change in the extent of water-related ecosystems over time</q>.
             <p><strong>Goal:</strong> <q>By 2020, protect and restore water-related ecosystems, including mountains, forests, wetlands, rivers, aquifers and lakes</q>.<p>The target is set to be achieved by 2020, unlike most SDG targets which have a timeline of 2030.</p>
         </div>
-        <NoData/>
+
+<div class="col-md">
+        <iframe src="https://ourworldindata.org/grapher/share-of-water-bodies-with-good-water-quality" style="width: 100%; height: 600px; border: 0px none;"></iframe>
     </div>
 </div>
 
@@ -259,7 +261,7 @@ operational arrangement for water cooperation</q>.
             <h3>Local participation in sanitation management</h3>
             <p><strong>Definition:</strong> Indicator 6.B.1 is the <q>proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management</q>.
             <p><strong>Goal:</strong> By 2030 <q>support and strengthen the participation of local communities in improving water and sanitation management</q>.</p>
-        </div>
-        <NoData/>
+        </div><div class="col-md">
+        <iframe src="https://ourworldindata.org/grapher/share-of-countries-with-procedures-for-community-participation-in-water-management" style="width: 100%; height: 600px; border: 0px none;"></iframe>
     </div>
 </div>
