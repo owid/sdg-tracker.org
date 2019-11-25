@@ -5,9 +5,9 @@ goalNum: 17
 name: Partnerships for the Goals
 description: >-
   The [UN
-  explains](https://www.un.org/sustainabledevelopment/globalpartnerships/):
-  <q>A successful sustainable development agenda requires partnerships
-  between governments, the private sector and civil society. These inclusive
+  explains](https://www.un.org/sustainabledevelopment/globalpartnerships/): <q>A
+  successful sustainable development agenda requires partnerships between
+  governments, the private sector and civil society. These inclusive
   partnerships built upon principles and values, a shared vision, and shared
   goals that place people and the planet at the centre, are needed at the
   global, regional, national and local level.</q>
@@ -19,7 +19,6 @@ description: >-
   of all Targets and show the data on the agreed Indicators.
 featuredImage: /img/uploads/17.svg
 ---
-
 <div class="target">
     <h2>Target 17.1: Mobilize resources to improve domestic revenue collection</h2>
     <p>UN definition: <q>Strengthen domestic resource mobilization, including through international support to developing countries, to improve domestic capacity for tax and other revenue collection.</q></p>
@@ -444,7 +443,9 @@ partnerships</q>.</p>
             <p><strong>Definition:</strong> Indicator 17.18.2 is the <q>number of countries that have national statistical legislation that complies with the Fundamental Principles of Official Statistics</q>.</p>
             <p><strong>Goal:</strong> <q>Enhance capacity-building support to developing countries, including for least developed countries and small island developing States, to increase significantly the availability of high-quality, timely and reliable data</q> in all countries by 2020.<p>Unlike most SDGs which have a target year of 2030, this indicator is to be achieved by 2020.</p>
         </div>
-        <NoData/>
+
+<div class="col-md">
+       <iframe src="https://ourworldindata.org/grapher/national-statistical-legislation" style="width: 100%; height: 600px; border: 0px none;"></iframe>
     </div>
 </div>
 
@@ -478,7 +479,9 @@ partnerships</q>.</p>
             <p><strong>Definition:</strong> Indicator 17.19.1 is the <q>dollar value of all resources made available to strengthen statistical capacity in developing countries</q>.</p>
             <p><strong>Goal:</strong> <q>Build on existing initiatives to develop measurements of progress on sustainable development</q> in all countries by 2030.</p>
         </div>
-        <NoData/>
+
+<div class="col-md">
+        <iframe src="https://ourworldindata.org/grapher/resources-statistical-capacity" style="width: 100%; height: 600px; border: 0px none;"></iframe>
     </div>
 </div>
 
