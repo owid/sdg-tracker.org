@@ -19,7 +19,7 @@ export default function SiteFooter() {
         charity in England and Wales (Charity Number 1186433). All the material
         produced by Global Change Data Lab, including interactive visualizations
         and code from our partner project{" "}
-        <a href="https://ourworldindata.org" rel="noopener">
+        <a href="https://ourworldindata.org" target="_blank" rel="noopener">
           Our World in Data
         </a>
         , are completely open access under the{" "}
