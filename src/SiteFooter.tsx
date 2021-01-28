@@ -15,9 +15,14 @@ export default function SiteFooter() {
         <em>SDG-Tracker.org, website</em> (2018).
       </p>
       <p>
-        License: All the material produced by Our World in Data, including
-        interactive visualizations and code, are completely open access under
-        the{" "}
+        License: the SDG Tracker is a project of the Global Change Data Lab, a registered
+        charity in England and Wales (Charity Number 1186433). All the material
+        produced by Global Change Data Lab, including interactive visualizations
+        and code from our partner project{" "}
+        <a href="https://ourworldindata.org" rel="noopener">
+          Our World in Data
+        </a>
+        , are completely open access under the{" "}
         <a
           href="https://creativecommons.org/licenses/by/4.0/"
           target="_blank"
@@ -28,8 +33,8 @@ export default function SiteFooter() {
         . You have the permission to use, distribute, and reproduce these in any
         medium, provided the source and authors are credited. All other
         material, including data produced by third parties and made available by
-        Our World in Data, is subject to the license terms from the original
-        third-party authors.
+        the SDG Tracker project, is subject to the license terms from the
+        original third-party authors.
       </p>
       <script src={`${GRAPHER_ROOT}/embedCharts.js`} />
     </footer>
