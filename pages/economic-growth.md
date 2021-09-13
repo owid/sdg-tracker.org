@@ -7,11 +7,10 @@ goalNum: 8
 name: Decent Work and Economic Growth
 description: >-
   The [UN explains](https://www.un.org/sustainabledevelopment/economic-growth/):
-  <q>Roughly half the world’s population still lives on the equivalent of
-  about US$2 a day. And in too many places, having a job doesn’t guarantee the
-  ability to escape from poverty. This slow and uneven progress requires us to
-  rethink and retool our economic and social policies aimed at eradicating
-  poverty.</q>
+  <q>Roughly half the world’s population still lives on the equivalent of about
+  US$2 a day. And in too many places, having a job doesn’t guarantee the ability
+  to escape from poverty. This slow and uneven progress requires us to rethink
+  and retool our economic and social policies aimed at eradicating poverty.</q>
 
 
   The UN has defined 12 _Targets_ and 17 _Indicators_ for SDG 8. Targets specify
@@ -325,7 +324,7 @@ featuredImage: /img/uploads/8.svg
         <div class="col-md">
             <span>SDG Indicator 8.A.1</span>
             <h3>Aid for trade</h3>
-            <p><strong>Definition:</strong> Indicator 8.A.1 is <q>aid for trade commitments and disbursements</q>.<p>Aid for Trade is reported here by recipient, as well as by donor country. This is measured as total Official Development Assistance (ODA) allocated to aid for trade in 2015 US$.</p>
+            <p><strong>Definition:</strong> Indicator 8.A.1 is <q>aid for trade commitments and disbursements</q>.<p>Aid for Trade is reported here by recipient, as well as by donor country. This is measured as total Official Development Assistance (ODA) allocated to aid for trade in constant US$.</p>
             <p><strong>Goal:</strong> <q>Increase Aid for Trade support for developing countries</q> by 2030.</p>
             <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/international-trade">International Trade</a>.</p>    
         </div>
