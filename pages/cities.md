@@ -117,8 +117,8 @@ disabilities</q>.</p>
         <div class="col-md">
             <span>SDG Indicator 11.5.1</span>
             <h3>Deaths and injuries from natural disasters</h3>
-            <p><strong>Definition:</strong> Indicator 11.5.1 is the <q>number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population</q>.<p>Indicators measured here report mortality rates internally displaced persons, missing persons and total numbers affected by natural disasters.</p>
-            <p><strong>Goal:</strong> <q>By 2030, significantly reduce the number of deaths and the number of people affected by disasters</q>.</p>
+            <p><strong>Definition:</strong> Indicator 11.5.1 is the <q>number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population</q>.<p>Indicators measured here report mortality rates, internally displaced persons, total numbers affected by natural disasters.</p>
+            <p><strong>Goal:</strong> <q>By 2030, significantly reduce the number of deaths and the number of people directly affected by natural disasters</q>.</p>
            <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> on <a href="https://ourworldindata.org/natural-disaters">Natural Disasters</a>.</p>
            <p><strong>Additional charts:</strong> <br><a href="https://ourworldindata.org/grapher/natural-disaster-deaths-ihme">Total deaths from natural disasters</a>
 <br><a href="https://ourworldindata.org/grapher/number-injured-from-disasters">Number injured from natural disasters</a>
@@ -128,6 +128,8 @@ disabilities</q>.</p>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/death-rates-from-disasters?tab=chart" style="width: 100%; height: 600px; border: 0px none;"></iframe>
             <iframe src="https://ourworldindata.org/grapher/internally-displaced-persons-from-disasters" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/number-of-people-directly-affected-by-natural-disasters" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
 </div>
