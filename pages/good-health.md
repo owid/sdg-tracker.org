@@ -47,7 +47,7 @@ description: >-
 
   * [Financing Healthcare](https://ourworldindata.org/financing-healthcare), 
 
-  * and [Smoking](https://ourworldindata.org/smoking).
+  * [Smoking](https://ourworldindata.org/smoking).
 
 
   The UN has defined 13 _Targets_ and 28 _Indicators_ for SDG 3. Targets specify
