@@ -150,7 +150,7 @@ featuredImage: /img/uploads/12.svg
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/municipal-waste-recycled" style="width: 100%; height: 600px; border: 0px none;"></iframe>
-             <iframe src="https://ourworldindata.org/grapher/municipal-waste-recycling-rate" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+             <iframe src="https://ourworldindata.org/grapher/electronic-waste-recycling-rate" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
 </div>
