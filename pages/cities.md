@@ -127,6 +127,8 @@ disabilities</q>.</p>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/death-rates-from-disasters?tab=chart" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/deaths-and-missing-persons-due-to-natural-disasters" style="width: 100%; height: 600px; border: 0px none;"></iframe>
             <iframe src="https://ourworldindata.org/grapher/internally-displaced-persons-from-disasters" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 <iframe src="https://ourworldindata.org/grapher/number-of-people-directly-affected-by-natural-disasters" style="width: 100%; height: 600px; border: 0px none;"></iframe>
