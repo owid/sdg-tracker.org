@@ -198,7 +198,7 @@ featuredImage: /img/uploads/6.svg
             <p><strong>Definition:</strong> Indicator 6.5.2 is the <q>proportion of transboundary basin area with an
 operational arrangement for water cooperation</q>.
             <p><strong>Goal:</strong> <q>By 2030, implement integrated water resources management at all levels, including through transboundary cooperation as appropriate</q>.</p>
-        </div>\
+        </div>
 <div class="col-md">
         <iframe src="https://ourworldindata.org/grapher/water-basins-cooperation-plan" style="width: 100%; height: 600px; border: 0px none;"></iframe>
     </div>
