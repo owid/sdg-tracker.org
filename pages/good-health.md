@@ -224,7 +224,7 @@ However, there is no goal specified by the UN for the share of births attended b
             <p><strong>Definition:</strong> Indicator 3.3.4 is <q>Hepatitis B incidence per 100,000 population</q>. <p>Hepatitis B incidence is the number of new cases of hepatitis B in one year per 100,000 individuals in a given population.</p>
             <p><strong>Goal:</strong> By 2030 <q>combat hepatitis</q> in all countries with a focus on hepatitis B. The targeted level of reduction, however, is not defined.
             <p><strong>Additional charts:</strong> 
-<br><a href="https://ourworldindata.org/grapher/heptatitis-death-rate">Hepatitis death rates</a>
+<br><a href="https://ourworldindata.org/grapher/prevalence-of-hepatitis-b-surface-antigen">Hepatitis death rates</a>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/hepatitis-b-incidence-sdgs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
