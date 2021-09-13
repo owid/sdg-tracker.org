@@ -203,7 +203,7 @@ employment</q>.<p>This indicator measures the manufacturing sector's employment 
         <div class="col-md">
             <span>SDG Indicator 9.A.1</span>
             <h3>Development assistance for infrastructure</h3>
-            <p><strong>Definition:</strong> Indicator 9.A.1 is the <q>total official international support (official development assistance plus other official flows) to infrastructure</q>.<p>This indicator measures total official development assistance (ODA) from all donors to infrastructure, measured as 2015 aUS$ received per recipient country.
+            <p><strong>Definition:</strong> Indicator 9.A.1 is the <q>total official international support (official development assistance plus other official flows) to infrastructure</q>.<p>This indicator measures total official development assistance (ODA) from all donors to infrastructure, measured as constant US$ received per recipient country.
 </p>
             <p><strong>Goal:</strong> <q>Facilitate sustainable and resilient infrastructure development in developing countries through enhanced financial, technological and technical support to African countries, least developed countries, landlocked developing countries and small island developing States</q> by 2030.</p>
         </div>
