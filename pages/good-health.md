@@ -312,7 +312,9 @@ aftercare services) for substance use disorders</h3>
             <p><strong>Goal:</strong> By 2030 <q>Strengthen the prevention and treatment of substance abuse</q> across all countries. However, there is no defined target level for this indicator.</p>
             <p><strong>More research:</strong> The <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/substance-use">Substance Use</a> provides data on substance use disorder prevalence and limited data coverage of treatment interventions.</p>
         </div>
-        <NoData/>
+        <div class="col-md">  <iframe src="https://ourworldindata.org/grapher/population-with-alcohol-use-disorders" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/interventions-for-substance-use-disorders" style="width: 100%; height: 600px; border: 0px none;"></iframe>
     </div>
 </div>
 
