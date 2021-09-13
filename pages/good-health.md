@@ -427,12 +427,12 @@ essential medicines and vaccines for all.</q></p>
         <div class="col-md">
             <span>SDG Indicator 3.8.1</span>
             <h3>Coverage of essential health services</h3>
-            <p><strong>Definition:</strong> Indicator 3.8.1 is <q>coverage of essential health services</q> <p>Coverage of essential health services is defined as the average coverage of essential services based on tracer interventions that include reproductive, maternal, newborn and child health, infectious diseases, non-communicable diseases and service capacity and access, among the general and the most disadvantaged population.<p>One available metric to track progress on this is the Healthcare Access and Quality (HAQ) Index,  based on death rates from 32 causes of death that could be avoided by timely and effective medical care.</p>
+            <p><strong>Definition:</strong> Indicator 3.8.1 is <q>coverage of essential health services</q> <p>Coverage of essential health services is defined as the average coverage of essential services based on tracer interventions that include reproductive, maternal, newborn and child health, infectious diseases, non-communicable diseases and service capacity and access, among the general and the most disadvantaged population.<p>One available metric to track progress on this is the Universal Health Coverage (UHC) Index. The UHC Index is on a scale from 0 to 100, where 100 is the optimal value. The UHC is the geometric mean of 14 indicators measuring the coverage of essential services including reproductive, maternal, newborn and child health, infectious diseases, non-communicable diseases and service capacity and access, among the general and the most disadvantaged population).</p>
             <p><strong>Goal:</strong> By 2030 <q>achieve universal health coverage including financial risk protection, access to quality essential health-care services and access to safe, effective, quality and affordable essential medicines and vaccines for all</q>.</p>
 <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/financing-healthcare">Financing Healthcare</a>.</p>
         </div>
         <div class="col-md">
-         <iframe src="https://ourworldindata.org/grapher/healthcare-access-and-quality-index" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+         <iframe src="https://ourworldindata.org/grapher/universal-health-coverage-index" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
 </div>
