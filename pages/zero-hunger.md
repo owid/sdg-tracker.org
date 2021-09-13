@@ -183,7 +183,7 @@ services, markets and opportunities for value addition and non-farm employment.<
         </div>
 
 <div class="col-md">
-        <iframe src="https://ourworldindata.org/grapher/income-small-scale-food-producers" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        <iframe src="https://ourworldindata.org/grapher/income-small-scale-food-producers" style="width: 100%; height: 600px; border: 0px none;"></iframe>            <iframe src="https://ourworldindata.org/grapher/income-of-large-scale-food-producers" style="width: 100%; height: 600px; border: 0px none;"></iframe>
     </div>
 </div>
 
