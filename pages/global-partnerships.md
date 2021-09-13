@@ -388,7 +388,9 @@ featuredImage: /img/uploads/17.svg
             <p><strong>Goal:</strong> <q>Enhance the Global Partnership for Sustainable Development, complemented by multi-stakeholder partnerships that mobilize and share knowledge, expertise, technology and financial resources, to support the achievement of the Sustainable Development Goals</q> in all countries.</p>
         </div>
         <div class="col-md">
-            <iframe src="https://ourworldindata.org/grapher/progress-in-multistakeholder-monitoring-frameworks" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/providers-of-development-coordination" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/recipients-of-development-coordination" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
 </div>
