@@ -142,7 +142,7 @@ A child is defined as "overweight" if their weight-for-height is more than 2 sta
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/share-of-children-with-a-weight-too-low-for-their-height-wasting" style="width: 100%; height: 600px; border: 0px none;"></iframe>
-            <iframe src="https://ourworldindata.org/grapher/children-who-are-overweight-sdgs?tab=chart" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/share-of-children-who-are-overweight" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
 
