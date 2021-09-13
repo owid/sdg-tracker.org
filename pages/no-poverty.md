@@ -164,7 +164,7 @@ achieve substantial coverage of the poor and the vulnerable</q>.</p>
             <p><strong>Definition:</strong> Indicator 1.4.2 is the <q>proportion of total adult population with secure tenure rights to land, (a) with legally recognized documentation, and (b) who perceive their rights to land as secure, by sex and type of tenure</q>.</p>
             <p><strong>Goal:</strong> By 2030 <q>ensure that all men and women, in particular the poor and the vulnerable, have equal rights to economic resources, as well as access to basic services, ownership and control over land and other forms of property</q>.</p>
         </div>
-        <NoData/>
+      <div class="col-md">            <iframe src="https://ourworldindata.org/grapher/legally-recognized-rights-to-land" style="width: 100%; height: 600px; border: 0px none;"></iframe>
     </div>
 </div>
 
