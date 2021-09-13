@@ -92,6 +92,8 @@ employment</q>.<p>This indicator measures the manufacturing sector's employment 
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/industry-share-of-total-emplyoment" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/manufacturing-share-of-total-employment" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
 </div>
