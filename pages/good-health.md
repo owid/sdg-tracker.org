@@ -604,7 +604,7 @@ health, and, in particular, provide access to medicines for all.</q></p>
 <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/financing-healthcare">Financing Healthcare</a>.</p>
         </div>
         <div class="col-md">
-            <iframe src="https://ourworldindata.org/grapher/gross-oda-for-medical-research-and-basic-heath-sectors" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/net-oda-to-medical-research" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
 </div>
