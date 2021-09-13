@@ -72,7 +72,7 @@ featuredImage: /img/uploads/4.svg
         <div class="col-md">
             <span>SDG Indicator 4.2.1</span>
             <h3>Ensuring children are developmentally on track</h3>
-            <p><strong>Definition:</strong> Indicator 4.2.1 is the <q>proportion of children under 5 years of age who are developmentally on track in health, learning and psychosocial well-being, by sex</q>.<p>This is measured as the percentage of under-5s who are developmentally on-track in at least three of the following four domains: literacy-numeracy, physical, socio-emotional and learning.</p>
+            <p><strong>Definition:</strong> Indicator 4.2.1 is the <q>proportion of children under 5 years of age who are developmentally on track in health, learning and psychosocial well-being, by sex</q>.<p>In the SDG Tracker this is shown as the proportion of 36-59 months who are developmentally on-track in at least three of the following four domains: literacy-numeracy, physical, socio-emotional and learning.</p>
             <p><strong>Goal:</strong> By 2030 <q>ensure that all girls and boys are ready for primary education</q>.</p>
             <p><strong>More research:</strong> Further data and research can be found at <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/pre-primary-education">Pre-Primary Education</a>.</p>
         </div>
