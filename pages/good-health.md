@@ -624,7 +624,7 @@ health, and, in particular, provide access to medicines for all.</q></p>
             <p><strong>Definition:</strong> Indicator 3.B.3 is the <q>proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis</q>.<p>The <i>WHO Taskforce on Innovative International Financing for Health Systems</i> provide a list of medicines considered essential in its <a href="http://www.who.int/pmnch/media/membernews/2009/htltf_wg1_report_EN.pdf"> Working Group Report</a>.</p>
             <p><strong>Goal:</strong> By 2030 <q>provide affordable access to essential medicines for all</q>.</p>
         </div>
-        <NoData/>
+        <div class="col-md">            <iframe src="https://ourworldindata.org/grapher/share-of-health-facilities-with-essential-medicines" style="width: 100%; height: 600px; border: 0px none;"></iframe>
     </div>
 </div>
 
