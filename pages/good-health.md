@@ -486,6 +486,14 @@ pollution and contamination.</q></p>
         </div>
         <div class="col-md">
          <iframe src="https://ourworldindata.org/grapher/death-rate-by-source-from-air-pollution" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/death-rate-household-and-ambient-air-pollution" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/death-rate-household-air-pollution" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/death-rate-ambient-air-pollution" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/deaths-attributed-to-household-air-pollution-vs-deaths-attributed-to-ambient-air-pollution" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
 </div>
