@@ -188,8 +188,10 @@ achieve substantial coverage of the poor and the vulnerable</q>.</p>
 <br><a href="https://ourworldindata.org/grapher/total-affected-by-natural-disasters">Number affected by natural disasters</a>
         </div>
         <div class="col-md">
-            <iframe src="https://ourworldindata.org/grapher/death-rates-from-disasters?tab=chart&country=BGD+JPN+NPL+USA+OWID_WRL" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/deaths-and-missing-persons-due-to-natural-disasters" style="width: 100%; height: 600px; border: 0px none;"></iframe>
             <iframe src="https://ourworldindata.org/grapher/internally-displaced-persons-from-disasters" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/number-of-people-directly-affected-by-natural-disasters" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
 </div>
