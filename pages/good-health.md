@@ -586,16 +586,12 @@ health, and, in particular, provide access to medicines for all.</q></p>
             <span>SDG Indicator 3.B.1</span>
             <h3>Vaccine coverage</h3>
             <p><strong>Definition:</strong> Indicator 3.B.1 is the <q>proportion of the target population covered by all vaccines included in their national programme</q>.
-<p>The UN does not currently define which vaccinations are measured by this indicator. The <i>Institute of Health Metrics and Evaluation (IHME)</i> defines this indicator based on the mean coverage of the following eight vaccines: 
-<br><q>three-dose diphtheria, pertussis, and tetanus (DPT3); three-dose polio; first-dose measles vaccine; and for countries where the vaccine(s) are included in the national schedule: BCG vaccine, three-dose pneumococcal conjugate vaccine (PCV3), three-dose Haemophilus influenzae type b vaccine (Hib3), three-dose hepatitis B vaccine (delivered as part of pentavalent vaccines), and two-dose or three-dose rotavirus vaccine</q></p>
+<p>The UN currently includes the four following vaccines in this indicator: 
+<br><q>three-dose diphtheria, pertussis, and tetanus (DPT3); second-dose measles vaccine; recommended dose of pneumococcal conjugate vaccine (PCV3) and recommended dose of human papillomavirus vaccine </q></p>
             <p><strong>Goal:</strong> By 2030 <q>provide access to affordable essential medicines and vaccines for all</q>. <p>For this indicator, this means universal coverage of the vaccines noted above (if included in national vaccination programmes) must be achieved by 2030.
-
-<p><strong>Additional charts:</strong> 
-<br><a href="https://ourworldindata.org/grapher/share-of-children-immunized-dtp3">Share of children who receive the DTP3 vaccine</a>
-<br><a href="https://ourworldindata.org/grapher/share-of-children-vaccinated-against-measles">Share of children vaccinated against measles</a>
         </div>
         <div class="col-md">
-            <iframe src="https://ourworldindata.org/grapher/coverage-of-eight-vaccines-sdgs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+          <iframe src="https://ourworldindata.org/grapher/coverage-of-measles-containing-vaccine" style="width: 100%; height: 600px; border: 0px none;"></iframe>            <iframe src="https://ourworldindata.org/grapher/coverage-of-pneumococcal-conjugate-vaccine" style="width: 100%; height: 600px; border: 0px none;"></iframe>            <iframe src="https://ourworldindata.org/grapher/coverage-of-diphtheria-tetanus-pertussis-vaccine" style="width: 100%; height: 600px; border: 0px none;"></iframe>            <iframe src="https://ourworldindata.org/grapher/coverage-of-the-human-papillomavirus-vaccine" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
 </div>
