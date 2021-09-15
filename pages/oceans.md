@@ -36,7 +36,7 @@ featuredImage: /img/uploads/14.svg
             <p><strong>Definition:</strong> Indicator 14.1.1 is the <q>index of coastal eutrophication and floating plastic debris density</q>.</p>
             <p><strong>Goal:</strong> <q>Prevent and significantly reduce marine pollution of all kinds</q> by 2025.<p>Unlike most SDGs, which are set for the year 2030, this indicator is targeted for 2025.</p>
         </div>
-        <NoData/>
+        <div class="col-md"><iframe src="https://ourworldindata.org/grapher/beach-litter" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/chlorophyll-a-deviation-from-the-global-average" style="width: 100%; height: 600px; border: 0px none;"></iframe> </div>
     </div>
 </div>
 
@@ -208,11 +208,11 @@ featuredImage: /img/uploads/14.svg
         <div class="col-md">
             <span>SDG Indicator 14.C.1</span>
             <h3>Implementing international sea law</h3>
-            <p><strong>Definition:</strong> Indicator 14.C.1 is the <q>number of countries making progress in ratifying, accepting and implementing through legal, policy and institutional frameworks, ocean-related instruments that implement international law, as reflected in the United Nations Convention on the Law of the Sea</q>.<p>Data for this indicator is shown here as the number of countries signed on to the United Nations Convention of the Law of the Sea (UNCLOS). <p>Progress on the implementation of such frameworks are, to our understanding, not currently available.</p>
+            <p><strong>Definition:</strong> Indicator 14.C.1 is the <q>number of countries making progress in ratifying, accepting and implementing through legal, policy and institutional frameworks, ocean-related instruments that implement international law, as reflected in the United Nations Convention on the Law of the Sea</q>.<p>Data for this indicator is shown here as the progress countries have made towards the ratification, accession and implementation of the United Nations Convention on the Law of the Sea (UNCLOS). 
             <p><strong>Goal:</strong> <q>Enhance the conservation and sustainable use of oceans and their resources by implementing international law as reflected in the United Nations Convention on the Law of the Sea</q> by 2030.</p>
         </div>
         <div class="col-md">
-            <iframe src="https://ourworldindata.org/grapher/number-of-parties-env-agreements?country=OWID_WRL-11" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/ratification-and-accession-to-unclos" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/implementation-of-unclos" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
 </div>
