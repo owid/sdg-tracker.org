@@ -35,7 +35,7 @@ featuredImage: /img/uploads/9.svg
             <p><strong>Definition:</strong> Indicator 9.1.1 is the <q>proportion of the rural population who live within 2 km of an all-season road</q>.</p>
             <p><strong>Goal:</strong> <q>Develop quality, reliable, sustainable and resilient infrastructure, including regional and transborder infrastructure, with a focus on affordable and equitable access for all</q> by 2030.</p>
         </div>
-        <NoData/>
+        <div class="col-md">            <iframe src="https://ourworldindata.org/grapher/share-of-rural-population-near-a-road" style="width: 100%; height: 600px; border: 0px none;"></iframe></div>
     </div>
 </div>
 
