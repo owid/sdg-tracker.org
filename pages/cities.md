@@ -243,7 +243,7 @@ disabilities</q>.</p>
             <p><strong>Definition:</strong> Indicator 11.A.1 is the <q>proportion of population living in cities that implement urban and regional development plans integrating population projections and resource needs, by size of city</q>.</p>
             <p><strong>Goal:</strong> <q>Support positive economic, social and environmental links between urban, peri-urban and rural areas by strengthening national and regional development planning</q> by 2030.</p>
         </div>
-        <NoData/>
+         <div class="col-md">            <iframe src="https://ourworldindata.org/grapher/urban-policies-population-dynamics" style="width: 100%; height: 600px; border: 0px none;"></iframe></div>
     </div>
 </div>
 
