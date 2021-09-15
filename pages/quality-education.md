@@ -221,6 +221,7 @@ featuredImage: /img/uploads/4.svg
 
 \    </div>
     </div>
+
 </div>
 
 <div class="target">
