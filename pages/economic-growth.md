@@ -256,7 +256,7 @@ featuredImage: /img/uploads/8.svg
             <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/tourism">Tourism</a>.</p>
             <p><strong>Additional charts:</strong> <br><a href="https://ourworldindata.org/grapher/international-tourism-number-of-arrivals">Number of tourist arrivals</a></p>      
         </div>
-        <NoData/>
+         <div class="col-md">            <iframe src="https://ourworldindata.org/grapher/tourism-gdp-proportion-of-total-gdp" style="width: 100%; height: 600px; border: 0px none;"></iframe></div>
     </div>
 </div>
 
@@ -349,6 +349,6 @@ featuredImage: /img/uploads/8.svg
             <p><strong>Definition:</strong> Indicator 8.B.1 is the <q>Existence of a developed and operationalized national strategy for youth employment</q>.</p>
             <p><strong>Goal:</strong> <q>Develop and operationalize a global strategy for youth employment</q>.<p>Unlike most SDG targets with a target for 2030, the goal date for this indicator is 2020.</p>    
         </div>
-        <NoData/>
+        <div class="col-md"><iframe src="https://ourworldindata.org/grapher/national-strategy-for-youth-employment" style="width: 100%; height: 600px; border: 0px none;"></iframe></div>
     </div>
 </div>
