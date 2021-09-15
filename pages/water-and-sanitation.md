@@ -220,8 +220,8 @@ operational arrangement for water cooperation</q>.
             <p><strong>Goal:</strong> <q>By 2020, protect and restore water-related ecosystems, including mountains, forests, wetlands, rivers, aquifers and lakes</q>.<p>The target is set to be achieved by 2020, unlike most SDG targets which have a timeline of 2030.</p>
         </div>
 
-<div class="col-md">
-        <iframe src="https://ourworldindata.org/grapher/share-of-water-bodies-with-good-water-quality" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<div class="col-md"><iframe src="https://ourworldindata.org/grapher/coverage-of-wetlands" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        <iframe src="https://ourworldindata.org/grapher/change-in-total-mangrove-area" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/share-of-land-covered-by-lakes-and-rivers" style="width: 100%; height: 600px; border: 0px none;"></iframe>
     </div>
 </div>
 
