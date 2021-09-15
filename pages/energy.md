@@ -148,6 +148,6 @@ featuredImage: /img/uploads/7.svg
             <p><strong>Definition:</strong> Indicator 7.B.1 is <q>investments in energy efficiency as a proportion of GDP and the amount of foreign direct investment in financial transfer for infrastructure and technology to sustainable development services</q>.</p>
             <p><strong>Goal:</strong> <q>Expand infrastructure and upgrade technology for supplying modern and sustainable energy services for all in developing countries</q> by 2030.</p>
         </div>
-        <NoData/>
+       <iframe src="https://ourworldindata.org/grapher/renewable-electricity-generating-capacity-per-capita" style="width: 100%; height: 600px; border: 0px none;"></iframe>
     </div>
 </div>
