@@ -96,7 +96,7 @@ featuredImage: /img/uploads/12.svg
             <p><strong>Definition:</strong> Indicator 12.3.1 is the <q>global food loss index</q>.</p>
             <p><strong>Goal:</strong> <q>By 2030, halve per capita global food waste at the retail and consumer levels and reduce food losses along production and supply chains, including post-harvest losses</q>.</p>
         </div>
-        <NoData/>
+        <div class="col-md">            <iframe src="https://ourworldindata.org/grapher/food-waste-per-capita" style="width: 100%; height: 600px; border: 0px none;"></iframe></div>
     </div>
 </div>
 
@@ -130,7 +130,7 @@ featuredImage: /img/uploads/12.svg
             <p><strong>Definition:</strong> Indicator 12.4.2 is <q>hazardous waste generated per capita and proportion of hazardous waste treated, by type of treatment</q>.</p>
             <p><strong>Goal:</strong> <q>Achieve the environmentally sound management of chemicals and all wastes throughout their life cycle, in accordance with agreed international frameworks</q> by 2020.<p>Unlike most SDG targets which are set for the year 2030, this indicator is set for 2020.</p>
         </div>
-        <NoData/>
+        <div class="col-md"><iframe src="https://ourworldindata.org/grapher/hazardous-waste-generated-per-capita" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/treatment-of-hazardous-waste" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/total-waste-generation" style="width: 100%; height: 600px; border: 0px none;"></iframe></div>
     </div>
 </div>
 
@@ -169,7 +169,7 @@ featuredImage: /img/uploads/12.svg
             <p><strong>Definition:</strong> Indicator 12.6.1 is the <q>number of companies publishing sustainability reports</q>.</p>
             <p><strong>Goal:</strong> <q>Encourage companies to adopt sustainable practices and sustainability reporting</q> by 2030.</p>
         </div>
-        <NoData/>
+       <div class="col-md"><iframe src="https://ourworldindata.org/grapher/companies-publishing-sustainability-reports-minimum-requirements" style="width: 100%; height: 600px; border: 0px none;"></iframe>             <iframe src="https://ourworldindata.org/grapher/companies-publishing-sustainability-advanced-requirements" style="width: 100%; height: 600px; border: 0px none;"></iframe></div>
     </div>
 </div>
 
@@ -187,7 +187,9 @@ featuredImage: /img/uploads/12.svg
             <p><strong>Definition:</strong> Indicator 12.7.1 is the <q>number of countries implementing sustainable public procurement policies and action plans</q>.</p>
             <p><strong>Goal:</strong> <q>Promote public procurement practices that are sustainable, in accordance with national policies and priorities</q> by 2030.</p>
         </div>
-        <NoData/>
+        <div class="col-md"><iframe src="https://ourworldindata.org/grapher/low-level-implementation-of-sustainable-public-procurement" style="width: 100%; height: 600px; border: 0px none;"></iframe>             <iframe src="https://ourworldindata.org/grapher/medium-low-level-implementation-of-sustainable-public-procurement" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/medium-high-level-implementation-of-sustainable-public-procurement" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+</div>
     </div>
 </div>
 
@@ -206,7 +208,7 @@ featuredImage: /img/uploads/12.svg
             climate change education) are mainstreamed</q>.</p>
             <p><strong>Goal:</strong> <q>Ensure that people everywhere have the relevant information and awareness for sustainable development and lifestyles in harmony with nature</q> by 2030.</p>
         </div>
-        <NoData/>
+        <div class="col-md">            <iframe src="https://ourworldindata.org/grapher/mainstreaming-sustainable-development-into-teacher-education" style="width: 100%; height: 600px; border: 0px none;"></iframe>            <iframe src="https://ourworldindata.org/grapher/mainstreaming-sustainable-development-into-curricula" style="width: 100%; height: 600px; border: 0px none;"></iframe>            <iframe src="https://ourworldindata.org/grapher/mainstreaming-sustainable-development-into-student-assessment" style="width: 100%; height: 600px; border: 0px none;"></iframe>            <iframe src="https://ourworldindata.org/grapher/mainstreaming-sustainable-development-into-national-education-policies" style="width: 100%; height: 600px; border: 0px none;"></iframe>    </div>
     </div>
 </div>
 
@@ -224,9 +226,7 @@ featuredImage: /img/uploads/12.svg
             <p><strong>Definition:</strong> Indicator 12.A.1 is the <q>amount of support to developing countries on research and development for sustainable consumption and production and environmentally sound technologies</q>.</p>
             <p><strong>Goal:</strong> <q>Support developing countries' scientific and technological capacity for sustainable consumption and production</q> through 2030.</p>
         </div>
-        <div class="col-md">
-           <NoData/>
-        </div>
+        <div class="col-md">       <iframe src="https://ourworldindata.org/grapher/renewable-electricity-generating-capacity-per-capita" style="width: 100%; height: 600px; border: 0px none;"></iframe></div>
     </div>
 </div>
 
@@ -244,7 +244,7 @@ featuredImage: /img/uploads/12.svg
             <p><strong>Definition:</strong> Indicator 12.B.1 is the <q>number of sustainable tourism strategies or policies and implemented action plans with agreed monitoring and evaluation tools</q>.</p>
             <p><strong>Goal:</strong> <q>Develop and implement tools to monitor sustainable development impacts for sustainable tourism</q> by 2030.</p>
         </div>
-        <NoData/>
+        <div class="col-md">       <iframe src="https://ourworldindata.org/grapher/implementation-of-tools-to-monitor-economic-and-environmental-tourism" style="width: 100%; height: 600px; border: 0px none;"></iframe></div>
     </div>
 </div>
 
