@@ -218,7 +218,7 @@ Maps and Landsat 7 and 8 datasets from Google Earth Engine. </p>
             <p><strong>Definition:</strong> Indicator 15.8.1 is the <q>proportion of countries adopting relevant national legislation and adequately resourcing the prevention or control of invasive alien species</q>.</p>
             <p><strong>Goal:</strong> <q>Introduce measures to prevent the introduction and significantly reduce the impact of invasive alien species on land and water ecosystems and control or eradicate the priority species</q> by 2020.<p>Unlike most SDG targets which are set to be achieved by 2030, this indicator is to be achieved by 2020.</p>
         </div>
-        <NoData/>
+         <div class="col-md"><iframe src="https://ourworldindata.org/grapher/budget-to-manage-invasive-alien-species" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/national-biodiversity-strategy-align-with-aichi-target-9" style="width: 100%; height: 600px; border: 0px none;"></iframe>        </div>
     </div>
 </div>
 
