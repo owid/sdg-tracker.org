@@ -165,22 +165,8 @@ featuredImage: /img/uploads/17.svg
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 17.6.1</span>
-            <h3>Science and technology cooperation</h3>
-            <p><strong>Definition:</strong> Indicator 17.6.1 is the <q>number of science and/or technology cooperation agreements and programmes between countries</q>.</p>
-            <p><strong>Goal:</strong> <q>Enhance North-South, South-South and triangular regional and international cooperation on and access to science, technology and innovation</q> by 2030.</p>
-        </div>
-        <NoData/>
-    </div>
-</div>
-
-<hr>
-
-<div class="indicator" id="17.6.2">
-    <div class="row">
-        <div class="col-md">
-            <span>SDG Indicator 17.6.2</span>
             <h3>Fixed broadband subscriptions</h3>
-            <p><strong>Definition:</strong> Indicator 17.6.2 is <q>fixed Internet broadband subscriptions per 100 inhabitants</q>.<p>Fixed broadband subscriptions refers to fixed subscriptionsto high-speed access to the public Internet (a TCP/IPconnection), at downstream speeds equal to, or greaterthan, 256 kbit/s.</p>
+            <p><strong>Definition:</strong> Indicator 17.6.1 is <q>fixed Internet broadband subscriptions per 100 inhabitants</q>.<p>Fixed broadband subscriptions refers to fixed subscriptionsto high-speed access to the public Internet (a TCP/IPconnection), at downstream speeds equal to, or greaterthan, 256 kbit/s.</p>
             <p><strong>Goal:</strong> <q>Enhance North-South, South-South and triangular regional and international cooperation on and access to science, technology and innovation</q> by 2030.</p>
             <p><strong>More research:</strong> Further data and research on this topic is available at the <i>Our World in Data</i> entries on <a href="https://ourworldindata.org/technology-adoption">Technology Diffusion & Adoption</a> and <a href="https://ourworldindata.org/internet"> the Internet</a>.</p>
             <p><strong>Additional charts:</strong> <br><a href="https://ourworldindata.org/grapher/secure-internet-servers-per-1-million-people">Secure Internet servers (per million)</a> <br><a href="https://ourworldindata.org/grapher/broadband-penetration-by-country">Broadband penetration by country</a>
