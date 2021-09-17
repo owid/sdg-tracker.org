@@ -192,7 +192,7 @@ featuredImage: /img/uploads/14.svg
             <p><strong>More research:</strong> Further data and research on global fishery catch and production are available at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/meat-and-seafood-production-consumption">Meat and Seafood Production & Consumption</a>.</p>
             <p><strong>Additional charts:</strong> <br><a href="https://ourworldindata.org/grapher/global-wild-fishery-catch-by-sector">Global wild fishery catch by sector</a></p>
         </div>
-        <NoData/>
+        <div class="col-md">        <iframe src="https://ourworldindata.org/grapher/protection-of-the-rights-of-small-scale-fisheries" style="width: 100%; height: 600px; border: 0px none;"></iframe>    </div>
     </div>
 </div>
 
