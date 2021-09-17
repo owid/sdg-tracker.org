@@ -73,7 +73,7 @@ by sex, age and cause</q>.</p>
             <p><strong>Additional charts:</strong> <br><a href="https://ourworldindata.org/grapher/fatalities-from-terrorism">Deaths from terrorism</a> <br><a href="https://ourworldindata.org/grapher/state-based-battle-related-deaths-per-100000-since-1946">State-based battle-related deaths</a> <br><a href="https://ourworldindata.org/grapher/violent-deaths-in-conflicts-and-one-sided-violence-since-1989">Violent deaths from conflict</a></p>
         </div>
         <div class="col-md">
-            <iframe src="https://ourworldindata.org/grapher/deaths-conflict-terrorism-per-100000" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/deaths-conflict-terrorism-per-100000" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/total-conflict-related-civilian-deaths" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
 </div>
@@ -86,13 +86,15 @@ by sex, age and cause</q>.</p>
             <span>SDG Indicator 16.1.3</span>
             <h3>Prevalence of all forms of violence</h3>
             <p><strong>Definition:</strong> Indicator 16.1.3 is the <q>proportion of population subjected to (a) physical violence, (b) psychological violence and (c) sexual violence in the previous 12 months</q>.</p>
-            <p>Complete data for this indicator is not available. Data shown here is only one aspect of the complete indicator: the share of women (aged 15 years or older) who have experienced sexual or physical violence from an intimate partner over the previous 12 months.</p>
-            <p>Data on violence for non-partnered women, men and psychological violence is not available.</p>
             <p><strong>Goal:</strong> <q>Significantly reduce all forms of violence and related death rates</q> across all countries by 2030.</p>
             <p>There is no defined target level of reduction for this indicator.</p>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/women-violence-by-an-intimate-partner" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/population-subjected-to-physical-violence" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/population-subjected-to-sexual-violence-male-vs-female" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
 </div>
@@ -127,10 +129,10 @@ by sex, age and cause</q>.</p>
             <p><strong>Definition:</strong> Indicator 16.2.1 is the <q>proportion of children aged 1–17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month</q>.</p>
             <p>Data for this indicator measures the percentage of children aged 14 years and younger who experienced violence from a caregiver in the previous month. Data on violence to adolescents older than 14 years, or violence outside of the home is not available.</p>
             <p><strong>Goal:</strong> <q>Protect children from abuse, exploitation, trafficking and violence</q> across all countries by 2030.</p>
-            <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/violence-against-rights-for-children">Violence Against & Rights for Children</a>.</p>
+            <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/violence-against-children">Violence Against & Rights for Children</a>.</p>
         </div>
         <div class="col-md">
-            <iframe src="https://ourworldindata.org/grapher/percentage-of-children-214-who-experience-violent-discipline-at-home?tab=map" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/violence-against-children?tab=map" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
 </div>
@@ -238,7 +240,7 @@ by sex, age and cause</q>.</p>
             <p><strong>Definition:</strong> Indicator 16.4.2 is the <q>proportion of seized, found or surrendered arms whose illicit origin or context has been traced or established by a competent authority</q>.</p>
             <p><strong>Goal:</strong> <q>Strengthen the recovery and return of stolen assets and combat all forms of organized crime</q> across all countries by 2030.</p>
         </div>
-        <NoData/>
+        <div class="col-md">        <iframe src="https://ourworldindata.org/grapher/share-of-small-with-illicit-origin" style="width: 100%; height: 600px; border: 0px none;"></iframe>    </div>
     </div>
 </div>
 
