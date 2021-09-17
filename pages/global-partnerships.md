@@ -150,7 +150,7 @@ featuredImage: /img/uploads/17.svg
             <p><strong>Definition:</strong> Indicator 17.5.1 is the <q>number of countries that adopt and implement investment promotion regimes for least developed countries</q>.</p>
             <p><strong>Goal:</strong> <q>Adopt and implement investment promotion regimes for least developed countries</q> by 2030.</p>
         </div>
-        <NoData/>
+        <div class="col-md">            <iframe src="https://ourworldindata.org/grapher/countries-with-a-signed-bilateral-investment-treaty" style="width: 100%; height: 600px; border: 0px none;"></iframe>        </div>
     </div>
 </div>
 
@@ -349,7 +349,7 @@ featuredImage: /img/uploads/17.svg
             <p><strong>Definition:</strong> Indicator 17.14.1 is the <q>number of countries with mechanisms in place to enhance policy coherence of sustainable development</q>.</p>
             <p><strong>Goal:</strong> <q>Enhance policy coherence for sustainable development</q> through 2030.</p>
         </div>
-        <NoData/>
+        <div class="col-md">            <iframe src="https://ourworldindata.org/grapher/mechanisms-to-enhance-policy-for-sustainable-development" style="width: 100%; height: 600px; border: 0px none;"></iframe></div>
     </div>
 </div>
 
@@ -411,7 +411,9 @@ partnerships</q>.</p>
             <p><strong>Goal:</strong> <q>Encourage and promote effective public, public-private and civil society partnerships</q> by 2030.</p>
             <p><strong>More research:</strong> Related data on this indicator, specifically related to partnerships in infrastructure projects is available at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/public-spending#procurement-of-infrastructure-projects-has-grown-substantially-in-low-and-middle-income-countries">Public Spending</a>.</p>
         </div>
-        <NoData/>
+        <div class="col-md">
+
+<iframe src="https://ourworldindata.org/grapher/money-committed-to-public-private-partnerships-for-infrastructure" style="width: 100%; height: 600px; border: 0px none;"></iframe></div>
     </div>
 </div>
 
