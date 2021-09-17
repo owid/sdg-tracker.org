@@ -150,7 +150,7 @@ featuredImage: /img/uploads/17.svg
             <p><strong>Definition:</strong> Indicator 17.5.1 is the <q>number of countries that adopt and implement investment promotion regimes for least developed countries</q>.</p>
             <p><strong>Goal:</strong> <q>Adopt and implement investment promotion regimes for least developed countries</q> by 2030.</p>
         </div>
-        <div class="col-md">            <iframe src="https://ourworldindata.org/grapher/countries-with-a-signed-bilateral-investment-treaty" style="width: 100%; height: 600px; border: 0px none;"></iframe>        </div>
+        <div class="col-md">            <iframe src="https://ourworldindata.org/grapher/countries-with-a-signed-bilateral-investment-treaty" style="width: 100%; height: 600px; border: 0px none;"></iframe>    <iframe src="https://ourworldindata.org/grapher/countries-with-an-inforce-bilateral-investment-treaty" style="width: 100%; height: 600px; border: 0px none;"></iframe>    </div>
     </div>
 </div>
 
