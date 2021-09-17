@@ -45,6 +45,14 @@ featuredImage: /img/uploads/5.svg
             <iframe src="https://ourworldindata.org/grapher/universal-suffrage-granted-to-women" style="width: 100%; height: 600px; border: 0px none;"></iframe>
             <iframe src="https://ourworldindata.org/grapher/nondiscrimination-clause-gender" style="width: 100%; height: 600px; border: 0px none;"></iframe>
             <iframe src="https://ourworldindata.org/grapher/law-mandate-nondiscrimination-hiring" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/overarching-legal-frameworks-regarding-gender-equality" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/legal-frameworks-regarding-violence-against-women" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/gender-equality-in-employment-and-economic-benefits" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/gender-equality-within-marriage-and-family" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
 </div>
