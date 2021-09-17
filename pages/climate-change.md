@@ -134,8 +134,9 @@ featuredImage: /img/uploads/13.svg
         </div>
         <div class="col-md">            <iframe src="https://ourworldindata.org/grapher/mainstreaming-sustainable-development-into-teacher-education" style="width: 100%; height: 600px; border: 0px none;"></iframe>            <iframe src="https://ourworldindata.org/grapher/mainstreaming-sustainable-development-into-curricula" style="width: 100%; height: 600px; border: 0px none;"></iframe>            <iframe src="https://ourworldindata.org/grapher/mainstreaming-sustainable-development-into-student-assessment" style="width: 100%; height: 600px; border: 0px none;"></iframe>            <iframe src="https://ourworldindata.org/grapher/mainstreaming-sustainable-development-into-national-education-policies" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
-\    </div>
+   </div>
     </div>
+
 </div>
 
 <hr>
