@@ -271,7 +271,9 @@ variety of sources, including through enhanced development cooperation, in order
             <p><strong>Definition:</strong> Indicator 1.a.1 is the <q>proportion of domestically generated resources allocated by the government directly to poverty reduction programmes</q>.</p>
             <p><strong>Goal:</strong> By 2030 <q>Ensure significant mobilization of resources from a variety of sources to implement programmes and policies to end poverty in all its dimensions</q>. <br>There is no defined target level, however, for this indicator.</p>
         </div>
-        <NoData/>
+       <div class="col-md">        <iframe src="https://ourworldindata.org/grapher/donated-official-development-assistance-grants-for-poverty-reduction" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/received-official-development-assistance-grants-for-poverty-reduction" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+</div>
     </div>
 </div>
 
