@@ -331,7 +331,7 @@ by sex, age and cause</q>.</p>
             <p><strong>Definition:</strong> Indicator 16.7.1 is the <q>proportions of positions (by sex, age, persons with disabilities and population groups) in public institutions (national and local legislatures, public service, and judiciary) compared to national distributions</q>.</p>
             <p><strong>Goal:</strong> <q>Ensure responsive, inclusive, participatory and representative decision-making at all levels</q> by 2030.</p>
         </div>
-        <NoData/>
+        <div class="col-md"><iframe src="https://ourworldindata.org/grapher/representation-of-women-in-the-lower-chamber-of-parliament" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/representation-of-women-in-the-upper-chamber-of-parliament" style="width: 100%; height: 600px; border: 0px none;"></iframe>    </div>
     </div>
 </div>
 
