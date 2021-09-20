@@ -177,7 +177,7 @@ featuredImage: /img/uploads/10.svg
             <p><strong>Definition:</strong> Indicator 10.7.2 is the <q>number of countries that have implemented well-managed migration policies</q>.
             <p><strong>Goal:</strong> By 2030 <q>facilitate orderly, safe, regular and responsible migration and mobility of people, including through the implementation of planned and well-managed migration policies</q>.</p>
         </div>
-        <NoData/>
+       <div class="col-md"><iframe src="https://ourworldindata.org/grapher/facilitate-orderly-safe-migration" style="width: 100%; height: 600px; border: 0px none;"></iframe>    </div>
     </div>
 </div>
 
