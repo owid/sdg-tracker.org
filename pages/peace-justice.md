@@ -464,6 +464,6 @@ by sex, age and cause</q>.</p>
             <p><strong>Definition:</strong> Indicator 16.B.1 is the <q>proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights law</q>.</p>
             <p><strong>Goal:</strong> <q>Promote and enforce non-discriminatory laws and policies for sustainable development</q> across all countries by 2030.</p>
         </div>
-        <NoData/>
+            <div class="col-md"> <iframe src="https://ourworldindata.org/grapher/share-of-the-population-reporting-having-felt-discriminated-against" style="width: 100%; height: 600px; border: 0px none;"></iframe></div>
     </div>
 </div>
