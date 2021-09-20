@@ -64,7 +64,7 @@ featuredImage: /img/uploads/10.svg
             <p><strong>Goal:</strong> <q>By 2030, empower and promote the social, economic and political inclusion of all, irrespective of age, sex, disability, race, ethnicity, origin, religion or economic or other status</q>.</p>
             <p><strong>More research:</strong> Further data and research on this topic can be found at <i>Our World in Data</i> entries on <a href="https://ourworldindata.org/income-inequality">Income Inequality</a>, <a href="https://ourworldindata.org/global-economic-inequality">Global Economic inequality</a> and <a href="https://ourworldindata.org/economic-inequality-by-gender">Economic Inequality by Gender</a>.</p>
         </div>
-        <NoData/>
+        <div class="col-md">            <iframe src="https://ourworldindata.org/grapher/share-of-population-living-on-less-than-half-of-the-median-income" style="width: 100%; height: 600px; border: 0px none;"></iframe> </div>
     </div>
 </div>
 
