@@ -188,6 +188,6 @@ featuredImage: /img/uploads/13.svg
             <p><strong>Definition:</strong> Indicator 13.B.1 is the <q>number of least developed countries and small island developing States that are receiving specialized support, and amount of support, including finance, technology and capacity-building, for mechanisms for raising capacities for effective climate change-related planning and management</q>.
             <p><strong>Goal:</strong> By 2030 <q>promote mechanisms for raising capacity for effective climate change-related planning and management in least developed countries</q>.</p>
         </div>
-        <NoData/>
+        <div class="col-md">            <iframe src="https://ourworldindata.org/grapher/countries-with-national-adaptation-plans-for-climate-change" style="width: 100%; height: 600px; border: 0px none;"></iframe> </div>
     </div>
 </div>
