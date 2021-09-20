@@ -236,7 +236,15 @@ Maps and Landsat 7 and 8 datasets from Google Earth Engine. </p>
             <p><strong>Definition:</strong> Indicator 15.9.1 is <q>progress towards national targets established in accordance with Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011–2020</q>.</p>
             <p><strong>Goal:</strong> <q>By 2020, integrate ecosystem and biodiversity values into national and local planning, development processes, poverty reduction strategies and accounts.</q>.<p>Unlike most SDG targets which are set to be achieved by 2030, this indicator is to be achieved by 2020.</p>
         </div>
-        <NoData/>
+        <div class="col-md"><iframe src="https://ourworldindata.org/grapher/countries-on-track-to-exceed-their-national-target-reflecting-aichi-biodiversity-target-2" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/countries-on-track-to-their-national-target-reflecting-aichi-biodiversity-target-2" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/countries-progressing-towards-their-national-target-reflecting-aichi-biodiversity-target-2-at-an-insufficient-rate" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/countries-with-no-progress-towards-their-national-target-reflecting-aichi-biodiversity-target-2" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/countries-with-no-national-target-reflecting-aichi-biodiversity-target-2" style="width: 100%; height: 600px; border: 0px none;"></iframe></div>
     </div>
 </div>
 
