@@ -51,7 +51,7 @@ featuredImage: /img/uploads/6.svg
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/proportion-using-safely-managed-drinking-water" style="width: 100%; height: 600px; border: 0px none;"></iframe>
-            <iframe src="https://ourworldindata.org/grapher/drinking-water-service-coverage" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/share-of-population-using-safely-managed-drinking-water-services-rural-vs-urban" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
 </div>
@@ -80,7 +80,6 @@ featuredImage: /img/uploads/6.svg
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/share-using-safely-managed-sanitation" style="width: 100%; height: 600px; border: 0px none;"></iframe>
-            <iframe src="https://ourworldindata.org/grapher/sanitation-facilities-coverage" style="width: 100%; height: 600px; border: 0px none;"></iframe>
             <iframe src="https://ourworldindata.org/grapher/proportion-of-population-with-basic-handwashing-facilities-on-premises" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
