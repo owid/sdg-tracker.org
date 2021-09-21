@@ -217,9 +217,7 @@ featuredImage: /img/uploads/4.svg
             <p><strong>Definition:</strong> Indicator 4.7.1 is the <q>extent to which (i) global citizenship education and (ii) education for sustainable development, including gender equality and human rights, are mainstreamed at all levels in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment</q>.</p>
             <p><strong>Goal:</strong> By 2030 <q>ensure that all learners acquire the knowledge and skills needed to promote sustainable development</q>.</p> 
         </div>
-        <div class="col-md">            <iframe src="https://ourworldindata.org/grapher/mainstreaming-sustainable-development-into-teacher-education" style="width: 100%; height: 600px; border: 0px none;"></iframe>            <iframe src="https://ourworldindata.org/grapher/mainstreaming-sustainable-development-into-curricula" style="width: 100%; height: 600px; border: 0px none;"></iframe>            <iframe src="https://ourworldindata.org/grapher/mainstreaming-sustainable-development-into-student-assessment" style="width: 100%; height: 600px; border: 0px none;"></iframe>            <iframe src="https://ourworldindata.org/grapher/mainstreaming-sustainable-development-into-national-education-policies" style="width: 100%; height: 600px; border: 0px none;"></iframe>
-
-\    </div>
+        <div class="col-md">            <iframe src="https://ourworldindata.org/grapher/mainstreaming-sustainable-development-into-teacher-education" style="width: 100%; height: 600px; border: 0px none;"></iframe>            <iframe src="https://ourworldindata.org/grapher/mainstreaming-sustainable-development-into-curricula" style="width: 100%; height: 600px; border: 0px none;"></iframe>            <iframe src="https://ourworldindata.org/grapher/mainstreaming-sustainable-development-into-student-assessment" style="width: 100%; height: 600px; border: 0px none;"></iframe>            <iframe src="https://ourworldindata.org/grapher/mainstreaming-sustainable-development-into-national-education-policies" style="width: 100%; height: 600px; border: 0px none;"></iframe>   </div>
     </div>
 
 </div>
