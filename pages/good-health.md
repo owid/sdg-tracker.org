@@ -362,6 +362,8 @@ This is measured relative to 2010 levels as it was defined as part of the <a hre
 <br><a href="https://ourworldindata.org/grapher/road-deaths-by-type">Road traffic deaths by user</a>
         </div>
         <div class="col-md">
+
+ <iframe src="https://ourworldindata.org/grapher/road-traffic-deaths-sdgs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
          <iframe src="https://ourworldindata.org/grapher/death-rate-road-traffic-injuries" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
