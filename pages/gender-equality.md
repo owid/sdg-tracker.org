@@ -190,7 +190,7 @@ featuredImage: /img/uploads/5.svg
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/share-firms-top-female-manager" style="width: 100%; height: 600px; border: 0px none;"></iframe>
-            <iframe src="https://ourworldindata.org/grapher/female-employment-in-management" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/proportion-of-women-in-senior-and-middle-management-positions" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
 </div>
