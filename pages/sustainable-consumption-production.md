@@ -145,7 +145,9 @@ featuredImage: /img/uploads/12.svg
         <div class="col-md">
             <span>SDG Indicator 12.5.1</span>
             <h3>Recycling rates</h3>
-            <p><strong>Definition:</strong> Indicator 12.5.1 is the <q>national recycling rate, tons of material recycled</q>.<p>Limited data is available for recycling rates globally. Data on quantities of recycled municipal waste are available for OECD countries. This is shown here in absolute terms (the quantity of municipal waste recycled, measured in tonnes per year) and recycling rates, which measure the percentage of total waste generated that is recycled.</p>
+            <p><strong>Definition:</strong> Indicator 12.5.1 is the <q>national recycling rate, tons of material recycled</q>.<p>Limited data is available for recycling rates globally. Data is shown here in absolute terms (the quantity of municipal waste recycled, measured in tonnes per year) and recycling rates, which measure the percentage of total waste generated that is recycled.</p>
+
+<p> We also show the proportion of electronic waste that is recycled for each region.</p>
             <p><strong>Goal:</strong> <q>By 2030, substantially reduce waste generation through prevention, reduction, recycling and reuse</q>.</p>
         </div>
         <div class="col-md">
