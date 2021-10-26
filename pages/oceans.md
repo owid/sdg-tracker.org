@@ -151,9 +151,7 @@ featuredImage: /img/uploads/14.svg
             <h3>Income from sustainable fisheries</h3>
             <p><strong>Definition:</strong> Indicator 14.7.1 is <q>sustainable fisheries as a proportion of GDP</q>.</p>
             <p><strong>Goal:</strong> <q>By 2030, increase the economic benefits to small island developing States and least developed countries from the sustainable use of marine resources, including through sustainable management of fisheries, aquaculture and tourism</q>.</p>
-        </div>
-        <NoData/>
-    </div>
+        <div class="col-md">        <iframe src="https://ourworldindata.org/grapher/sustainable-fisheries-as-a-proportion-of-gdp" style="width: 100%; height: 600px; border: 0px none;"></iframe>    </div>
 </div>
 
 <div class="target">
