@@ -72,7 +72,7 @@ featuredImage: /img/uploads/14.svg
             <p><strong>Definition:</strong> Indicator 14.3.1 is the <q>average marine acidity (pH) measured at agreed suite of representative sampling stations</q>.</p>
             <p><strong>Goal:</strong> <q>Minimize and address the impacts of ocean acidification</q> by 2030.</p>
         </div>
-        <div class="col-md"><iframe src="https://ourworldindata.org/explorers/climate-change?facet=none&country=OWID_WRL~Hawaii&Metric=Ocean+pH&Long-run+series%3F=false" style="width: 100%; height: 600px; border: 0px none;"></iframe></div>
+        <div class="col-md"><iframe src="https://ourworldindata.org/grapher/mean-seawater-ph?country=~Hawaii" style="width: 100%; height: 600px; border: 0px none;"></iframe></div>
     </div>
 </div>
 
