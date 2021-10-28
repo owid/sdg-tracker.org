@@ -355,8 +355,7 @@ injuries from road traffic accidents.</q></p>
             <h3>Halve the number of road traffic deaths</h3>
             <p><strong>Definition:</strong> Indicator 3.6.1 is the <q>death rate due to road traffic injuries</q>. <p>Mortality from road traffic injuries is measured here in absolute (total number of deaths) and rates (deaths per 100,000 population). Road traffic deaths include vehicle drivers, passengers, motorcyclists, cyclists and pedestrians.</p>
             <p><strong>Goal:</strong> By 2020 <q>halve the number of global deaths and injuries from road traffic accidents.</q>
-<p>While most SDG targets are set for 2030, this is set to be achieved for 2020.  
-This is measured relative to 2010 levels as it was defined as part of the <a href="http://www.who.int/roadsafety/decade_of_action/en/">UN Decade of Action for Road Safety (2011-2020)</a>.</p>
+<p>While most SDG targets are set for 2030, this is set to be achieved for 2020. </p>
 <p>Note that the SDG Indicator is the <i>rate</i> of road deaths while the target is set for the <i>absolute number</i> of road deaths. Because of this we show both metrics.</p>
 <p><strong>Additional charts:</strong>
 <br><a href="https://ourworldindata.org/grapher/road-deaths-by-type">Road traffic deaths by user</a>
