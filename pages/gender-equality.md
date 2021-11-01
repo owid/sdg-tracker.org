@@ -72,7 +72,7 @@ featuredImage: /img/uploads/5.svg
             <p><strong>Goal:</strong> By 2030 <q>eliminate all forms of violence against all women and girls</q>.</p>
         </div>
         <div class="col-md">
-            <iframe src="https://ourworldindata.org/grapher/women-violence-by-an-intimate-partner" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/women-who-experienced-violence-by-an-intimate-partner" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
 </div>
