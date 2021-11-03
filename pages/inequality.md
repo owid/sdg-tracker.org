@@ -181,6 +181,14 @@ featuredImage: /img/uploads/10.svg
     </div>
 </div>
 
+<hr>
+
+<div class="indicator" id="10.7.3"> <div class="row"> <div class="col-md"> <span>SDG Indicator 10.7.3</span> <h3>Deaths or disappearances during migration</h3> <p><strong>Definition:</strong> Indicator 10.7.3 is the <q>number of people who died or disappeared in the process of migration towards an international destination</q>. <p><strong>Goal:</strong> By 2030 <q>facilitate orderly, safe, regular and responsible migration and mobility of people, including through the implementation of planned and well-managed migration policies</q>.</p> </div> <div class="col-md"><iframe src="https://ourworldindata.org/grapher/deaths-and-disappearances-during-migration" style="width: 100%; height: 600px; border: 0px none;"></iframe> </div> </div> </div>
+
+<hr>
+
+<div class="indicator" id="10.7.4"> <div class="row"> <div class="col-md"> <span>SDG Indicator 10.7.4</span> <h3>Refugee population</h3> <p><strong>Definition:</strong> Indicator 10.7.4 is the <q>proportion of the population who are refugees, by country of origin</q>. <p><strong>Goal:</strong> By 2030 <q>facilitate orderly, safe, regular and responsible migration and mobility of people, including through the implementation of planned and well-managed migration policies</q>.</p> </div> <div class="col-md"><iframe src="https://ourworldindata.org/grapher/number-of-refugees-per-100000" style="width: 100%; height: 600px; border: 0px none;"></iframe> </div> </div> </div>
+
 <div class="target">
     <h2>Target 10.A: Special and differential treatment for developing countries</h2>
     <p>UN definition: <q>Implement the principle of special and differential treatment for developing countries, in particular least developed countries, in accordance with World Trade Organization agreements.</q></p>
