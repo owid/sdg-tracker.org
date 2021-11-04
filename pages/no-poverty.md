@@ -297,15 +297,19 @@ variety of sources, including through enhanced development cooperation, in order
     </div>
 </div>
 
-<hr>
+<div class="target">
 
-<div class="indicator" id="1.a.3">
+<h2>Target 1.B: Pro-poor public spending</h2>    <p>UN definition: <q>Create sound policy frameworks at the national, regional and international levels, based on pro-poor and gender-sensitive development strategies, to support accelerated investment in poverty eradication actions</q></p>
+
+</div>
+
+<div class="indicator" id="1.B.1">
     <div class="row">
         <div class="col-md">
-            <span>SDG Indicator 1.a.3</span>
-            <h3>Inflows directly allocated to poverty reduction programmes</h3>
-            <p><strong>Definition:</strong> Indicator 1.a.3 is the <q>sum of total grants and non-debt-creating inflows directly allocated to poverty reduction programmes as a proportion of GDP</q>.</p>
-            <p><strong>Goal:</strong> By 2030 <q>Ensure significant mobilization of resources from a variety of sources, including through enhanced development cooperation, in order to provide adequate and predictable means for developing countries, in particular least developed countries, to implement programmes and policies to end poverty in all its dimensions</q>.</p>
+            <span>SDG Indicator 1.B.1</span>
+            <h3>Public transport access</h3>
+            <p><strong>Definition:</strong> Indicator 1.B.1 is the <q>Pro-poor public social spending</q>.</p>
+            <p><strong>Goal:</strong> <q>Create sound policy frameworks at the national, regional and international levels, based on pro-poor and gender-sensitive development strategies, to support accelerated investment in poverty eradication actions.</p>
         </div>
         <NoData/>
     </div>
