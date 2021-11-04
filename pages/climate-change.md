@@ -139,20 +139,6 @@ featuredImage: /img/uploads/13.svg
 
 </div>
 
-<hr>
-
-<div class="indicator" id="13.3.2">
-    <div class="row">
-        <div class="col-md">
-            <span>SDG Indicator 13.3.2</span>
-            <h3>Capacity-building for climate change</h3>
-            <p><strong>Definition:</strong> Indicator 13.3.2 is the <q>number of countries that have communicated the strengthening of institutional, systemic and individual capacity-building to implement adaptation, mitigation and technology transfer, and development actions</q>.
-            <p><strong>Goal:</strong> By 2030 <q>improve education, awareness-raising and human and institutional capacity on climate change mitigation, adaptation, impact reduction and early warning</q>.</p>
-        </div>
-        <NoData/>
-    </div>
-</div>
-
 <div class="target">
     <h2>Target 13.A: Implement then UN Framework Convention on Climate Change</h2>
     <p>UN definition: <q>Implement the commitment undertaken by developed-country parties to the United Nations Framework Convention on Climate Change to a goal of mobilizing jointly $100 billion annually by 2020 from all sources to address the needs of developing countries in the context of meaningful mitigation actions and transparency on implementation and fully operationalize the Green Climate Fund through its capitalization as soon as possible.</q></p>
