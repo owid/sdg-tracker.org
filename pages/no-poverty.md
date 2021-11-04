@@ -307,7 +307,7 @@ variety of sources, including through enhanced development cooperation, in order
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 1.B.1</span>
-            <h3>Public transport access</h3>
+            <h3>Pro-poor public spending</h3>
             <p><strong>Definition:</strong> Indicator 1.B.1 is the <q>Pro-poor public social spending</q>.</p>
             <p><strong>Goal:</strong> <q>Create sound policy frameworks at the national, regional and international levels, based on pro-poor and gender-sensitive development strategies, to support accelerated investment in poverty eradication actions.</p>
         </div>
