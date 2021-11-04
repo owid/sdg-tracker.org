@@ -260,21 +260,6 @@ featuredImage: /img/uploads/8.svg
     </div>
 </div>
 
-<hr>
-
-<div class="indicator">
-    <div class="row">
-        <div class="col-md">
-            <span>SDG Indicator 8.9.2</span>
-            <h3>Sustainable tourism jobs</h3>
-            <p><strong>Definition:</strong> Indicator 8.9.2 is the <q>proportion of jobs in sustainable tourism industries out of total tourism jobs</q>.</p>
-            <p><strong>Goal:</strong> <q>By 2030, devise and implement policies to promote sustainable tourism that creates jobs and promotes local culture and products</q>.</p>
-            <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/tourism">Tourism</a>.</p>    
-        </div>
-        <NoData/>
-    </div>
-</div>
-
 <div class="target">
     <h2>Target 8.10: Universal access to banking, insurance and financial services</h2>
     <p>UN definition: <q>Strengthen the capacity of domestic financial institutions to encourage and expand access to banking, insurance and financial services for all.</q></p>
