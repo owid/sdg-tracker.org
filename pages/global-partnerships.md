@@ -313,11 +313,16 @@ featuredImage: /img/uploads/17.svg
         <div class="col-md">
             <span>SDG Indicator 17.13.1</span>
             <h3>Macroeconomic Dashboard</h3>
-            <p><strong>Definition:</strong> Indicator 17.13.1 is the <q>Macroeconomic Dashboard</q>.</p>
+            <p><strong>Definition:</strong> Indicator 17.13.1 is the <q>Macroeconomic Dashboard</q>.</p><p>There are multiple variables which are included in the macroeconomic dashboard. Here we show three which are important for cross-country macroeconomic comparisons.</p>
             <p><strong>Goal:</strong> <q>Enhance global macroeconomic stability, including through policy coordination and policy coherence</q>.</p>
+        <div class="col-md">
+
+<iframe src="https://ourworldindata.org/grapher/annual-inflation-of-consumer-prices" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/gross-public-sector-debt-as-a-proportion-of-gdp" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/merchandise-trade-as-a-proportion-of-gdp" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
-        <NoData/>
-    </div>
 </div>
 
 <div class="target">
