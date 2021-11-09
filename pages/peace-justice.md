@@ -213,6 +213,24 @@ by sex, age and cause</q>.</p>
     </div>
 </div>
 
+<hr>
+
+<div class="indicator" id="16.3.3">
+    <div class="row">
+        <div class="col-md">
+            <span>SDG Indicator 16.3.3</span>
+            <h3>Dispute resolution</h3>
+            <p><strong>Definition:</strong> Indicator 16.3.3 is <q>proportion of the population who have experienced a dispute in the past two years and who accessed a formal or informal dispute resolution mechanism, by type of mechanism</q>.</p>
+            <strong>Goal:</strong> <q>Ensure equal access to justice for all</q> across all countries by 2030.</p>
+        </div>
+  </div>
+
+  <NoData/>
+
+   </div>
+    </div>
+</div>
+
 <div class="target">
     <h2>Target 16.4: Combat organized crime and illicit financial and arms flows</h2>
     <p>UN definition: <q>By 2030, significantly reduce illicit financial and arms flows, strengthen the recovery and return of stolen assets and combat all forms of organized crime.</q></p>
