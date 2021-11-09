@@ -211,24 +211,28 @@ by sex, age and cause</q>.</p>
             <iframe src="https://ourworldindata.org/grapher/unsentenced-detainees-as-proportion-of-prison-population" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
+</div><hr>
+
+<div class="indicator" id="16.3.3">   
+
+<div class="row">
+
+<div class="col-md">
+
+<span>SDG Indicator 16.3.3</span>
+
+<h3>Dispute resolution</h3>
+
+<p><strong>Definition:</strong> Indicator 16.3.3 is <q>proportion of the population who have experienced a dispute in the past two years and who accessed a formal or informal dispute resolution mechanism, by type of mechanism</q>.</p>
+
+<p><strong>Goal:</strong> <q>Ensure equal access to justice for all</q> across all countries by 2030.</p>
+
 </div>
 
-<hr>
+<NoData/>
 
-<div class="indicator" id="16.3.3">
-    <div class="row">
-        <div class="col-md">
-            <span>SDG Indicator 16.3.3</span>
-            <h3>Dispute resolution</h3>
-            <p><strong>Definition:</strong> Indicator 16.3.3 is <q>proportion of the population who have experienced a dispute in the past two years and who accessed a formal or informal dispute resolution mechanism, by type of mechanism</q>.</p>
-            <strong>Goal:</strong> <q>Ensure equal access to justice for all</q> across all countries by 2030.</p>
-        </div>
-  </div>
+</div>
 
-  <NoData/>
-
-   </div>
-    </div>
 </div>
 
 <div class="target">
