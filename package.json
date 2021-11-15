@@ -4,7 +4,7 @@
   },
   "scripts": {
     "dev": "webpack -w",
-    "build": "rm -rf build/* && webpack -p"
+    "build": "rm -rf build/* && webpack --mode=production"
   },
   "dependencies": {
     "@types/cheerio": "^0.22.30",
