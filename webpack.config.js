@@ -76,11 +76,13 @@ module.exports = (env, argv) => {
                 globals: { window: {} }
             }),
 
-            new CopyWebpackPlugin([
-                { from: 'img', to: 'img' },
-                { from: 'admin', to: 'admin' },
-                { from: 'public' }
-            ])
+            new CopyWebpackPlugin({
+                patterns: [
+                    { from: 'img', to: 'img' },
+                    { from: 'admin', to: 'admin' },
+                    { from: 'public' }
+                ]
+            })
         ].concat(isProduction ? [
             /*new OptimizeCssAssetsPlugin({
                 assetNameRegExp: /\.bundle.*\.css$/,
