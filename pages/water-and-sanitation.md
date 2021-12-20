@@ -16,16 +16,10 @@ description: >-
   inadequate water supply, sanitation and hygiene."_
 
 
-  The charts below summarise progress towards improved water and sanitation
-  access. More details can be found in the _Our World in Data_ entry on [Water
-  Access, Resources and
-  Sanitation](https://ourworldindata.org/water-access-resources-sanitation).
+  The charts below summarise progress towards improved water and sanitation access. More details can be found in the _Our World in Data_ entry on [Water Access, Resources and Sanitation](https://ourworldindata.org/water-access-resources-sanitation).
 
 
-  The UN has defined 8 _Targets_ and 11 _Indicators_ for SDG 6. Targets specify
-  the goals and Indicators represent the metrics by which the world aims to
-  track whether these Targets are achieved. Below we quote the original text of
-  all Targets and show the data on the agreed Indicators.
+  The UN has defined 8 _Targets_ and 11 _Indicators_ for SDG 6. Targets specify the goals and Indicators represent the metrics by which the world aims to track whether these Targets are achieved. Below we quote the original text of all Targets and show the data on the agreed Indicators.
 featuredImage: /img/uploads/6.svg
 ---
 <div class="target">
@@ -43,7 +37,7 @@ featuredImage: /img/uploads/6.svg
             <p><strong>Goal:</strong> By 2030 achieve universal and equitable access to safe and affordable drinking water for all</q>.</p>
             <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/water-access-resources-sanitation">Water Access, Resources & Sanitation</a>.</p>
             <p><strong>Additional charts:</strong> 
-<br><a href="https://ourworldindata.org/grapher/number-using-safely-managed-drinking-water">Number of people using safely managed drinking water</a>
+<br><a href="https://ourworldindata.org/explorers/water-and-sanitation?facet=none&Resource=Drinking+water&Level+of+Access=Safely+managed&Residence=Total&Relative+to+population=Number+of+people&country=IND~USA~KEN~OWID_WRL~BGD~ZAF~CHN">Number of people using safely managed drinking water</a>
 <br><a href="https://ourworldindata.org/grapher/urban-vs-rural-safely-managed-drinking-water-source">Safely managed drinking water, rural vs. urban</a>
 <br><a href="https://ourworldindata.org/grapher/drinking-water-services-coverage-urban">Drinking water service coverage in urban areas</a>
 <br><a href="https://ourworldindata.org/grapher/drinking-water-services-coverage-rural">Drinking water service coverage in rural areas</a>
