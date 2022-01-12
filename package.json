@@ -55,7 +55,7 @@
     "less": "^4.1.2",
     "less-loader": "^7.3.0",
     "lodash": "^4.17.21",
-    "markdown-it": "^12.2.0",
+    "markdown-it": "^12.3.2",
     "markdown-it-custom-block": "^0.1.2",
     "markdown-it-front-matter-loader": "^0.0.7",
     "markdown-it-header-sections": "^1.0.0",
