@@ -66,7 +66,7 @@ featuredImage: /img/uploads/6.svg
             <p><strong>Goal:</strong> By 2030 achieve access to adequate and equitable sanitation and hygiene for all and end open defecation</q>.</p>
             <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/water-access-resources-sanitation">Water Access, Resources & Sanitation</a>.</p>
             <p><strong>Additional charts:</strong> 
-<br><a href="https://ourworldindata.org/grapher/number-using-safely-managed-sanitation">Number of people using safely managed sanitation facilities</a>
+<br><a href="https://ourworldindata.org/grapher/safe-sanitation-without">Number of people without safely managed sanitation facilities</a>
 <br><a href="https://ourworldindata.org/grapher/urban-vs-rural-population-safely-managed-sanitation">Safely managed sanitation facilities, urban vs. rural</a>
 <br><a href="https://ourworldindata.org/grapher/sanitation-facilities-coverage-in-urban-areas">Sanitation facilities coverage in urban areas</a>
 <br><a href="https://ourworldindata.org/grapher/sanitation-facilities-coverage-in-rural-areas">Sanitation facilities coverage in rural areas</a>
