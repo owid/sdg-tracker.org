@@ -10,16 +10,13 @@ description: >-
   mortality._
 
 
-  _Major progress has also been made on increasing access to clean water and
-  sanitation, reducing malaria, tuberculosis, polio and the spread of HIV/AIDS._
+  _Major progress has also been made on increasing access to clean water and sanitation, reducing malaria, tuberculosis, polio and the spread of HIV/AIDS._
 
 
-  _However, many more efforts are needed to control a wide range of diseases and
-  address many different persistent and emerging health issues."_
+  _However, many more efforts are needed to control a wide range of diseases and address many different persistent and emerging health issues."_
 
 
-  In-depth analysis across a range of health-related topics can be found at the
-  _Our World in Data_ entries on: 
+  In-depth analysis across a range of health-related topics can be found at the _Our World in Data_ entries on: 
 
 
   * [Global Health](https://ourworldindata.org/health-meta), 
@@ -40,8 +37,7 @@ description: >-
 
   * [Burden of Disease](https://ourworldindata.org/burden-of-disease),
 
-  * [Eradication of
-  Diseases](https://ourworldindata.org/eradication-of-diseases), 
+  * [Eradication of Diseases](https://ourworldindata.org/eradication-of-diseases), 
 
   * [Causes of Death](https://ourworldindata.org/causes-of-death), 
 
@@ -50,10 +46,7 @@ description: >-
   * [Smoking](https://ourworldindata.org/smoking).
 
 
-  The UN has defined 13 _Targets_ and 28 _Indicators_ for SDG 3. Targets specify
-  the goals and Indicators represent the metrics by which the world aims to
-  track whether these Targets are achieved. Below we quote the original text of
-  all Targets and show the data on the agreed Indicators.
+  The UN has defined 13 _Targets_ and 28 _Indicators_ for SDG 3. Targets specify the goals and Indicators represent the metrics by which the world aims to track whether these Targets are achieved. Below we quote the original text of all Targets and show the data on the agreed Indicators.
 featuredImage: /img/uploads/3.svg
 ---
 <div class="target">
@@ -409,7 +402,7 @@ reproductive health into national strategies and programmes.</q></p>
 <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/fertility-rate">Fertility Rate</a>.</p>
         </div>
         <div class="col-md">
-            <iframe src="https://ourworldindata.org/grapher/adolescent-birth-rate?tab=chart" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/adolescent-fertility-ihme" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
 </div>
