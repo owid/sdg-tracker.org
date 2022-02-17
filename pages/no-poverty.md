@@ -12,20 +12,13 @@ description: >-
   slipping back into extreme poverty.</q>
 
 
-  Sustainable Development Goal 1 (SDG1) aims to eradicate extreme poverty by
-  2030. The visualizations and data below present the latest data on our
-  progress there.
+  Sustainable Development Goal 1 (SDG1) aims to eradicate extreme poverty by 2030. The visualizations and data below present the latest data on our progress there.
 
 
-  Longer-term trends, correlates and additional data on extreme poverty can be
-  found at the _Our World in Data_ entry on [Global Extreme
-  Poverty](https://ourworldindata.org/extreme-poverty).
+  Longer-term trends, correlates and additional data on extreme poverty can be found at the _Our World in Data_ entry on [Global Extreme Poverty](https://ourworldindata.org/extreme-poverty).
 
 
-  The UN has defined 7 _Targets_ and 14 _Indicators_ for SDG 1. Targets specify
-  the goals and Indicators represent the metrics by which the world aims to
-  track whether these Targets are achieved. Below we quote the original text of
-  all Targets and show the data on the agreed Indicators.
+  The UN has defined 7 _Targets_ and 14 _Indicators_ for SDG 1. Targets specify the goals and Indicators represent the metrics by which the world aims to track whether these Targets are achieved. Below we quote the original text of all Targets and show the data on the agreed Indicators.
 featuredImage: /img/uploads/1.svg
 ---
 <div class="target">
@@ -292,7 +285,7 @@ variety of sources, including through enhanced development cooperation, in order
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/health-expenditure-government-expenditure" style="width: 100%; height: 600px; border: 0px none;"></iframe>
-            <iframe src="https://ourworldindata.org/grapher/government-expenditure-education" style="width: 100%; height: 600px; border: 0px none;"></iframe> 
+            <iframe src="https://ourworldindata.org/grapher/share-of-education-in-government-expenditure" style="width: 100%; height: 600px; border: 0px none;"></iframe> 
         </div>
     </div>
 </div>
