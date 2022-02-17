@@ -12,15 +12,10 @@ description: >-
   measures that will reduce emissions and increase adaptation efforts.</q>
 
 
-  Further data and statistics can be found at the <i>Our World in Data</i> entry
-  on [CO<sub>2</sub> and Other Greenhouse Gas
-  Emissions](https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions).
+  Further data and statistics can be found at the <i>Our World in Data</i> entry on [CO<sub>2</sub> and Other Greenhouse Gas Emissions](https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions).
 
 
-  The UN has defined 5 _Targets_ and 8 _Indicators_ for SDG 13. Targets specify
-  the goals and Indicators represent the metrics by which the world aims to
-  track whether these Targets are achieved. Below we quote the original text of
-  all Targets and show the data on the agreed Indicators.
+  The UN has defined 5 _Targets_ and 8 _Indicators_ for SDG 13. Targets specify the goals and Indicators represent the metrics by which the world aims to track whether these Targets are achieved. Below we quote the original text of all Targets and show the data on the agreed Indicators.
 featuredImage: /img/uploads/13.svg
 ---
 <div class="target">
@@ -152,7 +147,6 @@ featuredImage: /img/uploads/13.svg
             <h3>Green Climate Fund mobilization of $100 billion</h3>
             <p><strong>Definition:</strong> Indicator 13.A.1 is the <q>mobilized amount of United States dollars per year between 2020 and 2025 accountable towards the $100 billion commitment</q>.<p>This indicator measures the current pledged commitments from countries to the Green Climate Fund (GCF) as annual US$ contributions pledged. Also shown is the collective global total. 
             <p><strong>Goal:</strong> <q>Implement the commitment undertaken by developed-country parties to the United Nations Framework Convention on Climate Change to a goal of mobilizing jointly $100 billion annually by 2020 from all sources</q> <p>Unlike most SDG targets which have a set target year of 2030, this indicator requires a mobilization of $100 billion per year from 2020 onwards.</p>
-           <p><strong>Additional charts:</strong> <br><a href="https://ourworldindata.org/grapher/green-climate-fund-pledges-per-capita">Green Climate Fund (GCF) pledges per capita</a></p>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/green-climate-gcf-fund-pledges" style="width: 100%; height: 600px; border: 0px none;"></iframe>
