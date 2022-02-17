@@ -13,10 +13,7 @@ description: >-
   global, regional, national and local level.</q>
 
 
-  The UN has defined 19 _Targets_ and 25 _Indicators_ for SDG 17. Targets
-  specify the goals and Indicators represent the metrics by which the world aims
-  to track whether these Targets are achieved. Below we quote the original text
-  of all Targets and show the data on the agreed Indicators.
+  The UN has defined 19 _Targets_ and 25 _Indicators_ for SDG 17. Targets specify the goals and Indicators represent the metrics by which the world aims to track whether these Targets are achieved. Below we quote the original text of all Targets and show the data on the agreed Indicators.
 featuredImage: /img/uploads/17.svg
 ---
 <div class="target">
@@ -315,6 +312,8 @@ featuredImage: /img/uploads/17.svg
             <h3>Macroeconomic Dashboard</h3>
             <p><strong>Definition:</strong> Indicator 17.13.1 is the <q>Macroeconomic Dashboard</q>.</p><p>There are multiple variables which are included in the macroeconomic dashboard. Here we show three which are important for cross-country macroeconomic comparisons.</p>
             <p><strong>Goal:</strong> <q>Enhance global macroeconomic stability, including through policy coordination and policy coherence</q>.</p>
+
+</div>
         <div class="col-md">
 
 <iframe src="https://ourworldindata.org/grapher/annual-inflation-of-consumer-prices" style="width: 100%; height: 600px; border: 0px none;"></iframe>
