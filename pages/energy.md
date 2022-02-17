@@ -1,6 +1,6 @@
 ---
 layout: goal
-title: 'Ensure access to affordable, reliable, sustainable and modern energy for all'
+title: Ensure access to affordable, reliable, sustainable and modern energy for all
 goalNum: 7
 name: Affordable and Clean Energy
 description: >-
@@ -10,22 +10,13 @@ description: >-
   incomes, access to energy for all is essential._
 
 
-  _Transitioning the global economy towards clean and sustainable sources of
-  energy is one of our greatest challenges in the coming decades. Sustainable
-  energy is an opportunity – it transforms lives, economies and the planet."_
+  _Transitioning the global economy towards clean and sustainable sources of energy is one of our greatest challenges in the coming decades. Sustainable energy is an opportunity – it transforms lives, economies and the planet."_
 
 
-  More information on energy access and sources can be found at the _Our World
-  in Data_ entries on [Energy Production & Changing
-  Sources](https://ourworldindata.org/energy-production-and-changing-energy-sources),
-  [Renewables](https://ourworldindata.org/renewables), and [Fossil
-  Fuels](https://ourworldindata.org/fossil-fuels).
+  More information on energy access and sources can be found at the _Our World in Data_ entries on [Energy Production & Changing Sources](https://ourworldindata.org/energy-production-and-changing-energy-sources), [Renewables](https://ourworldindata.org/renewables), and [Fossil Fuels](https://ourworldindata.org/fossil-fuels).
 
 
-  The UN has defined 5 _Targets_ and 6 _Indicators_ for SDG 7. Targets specify
-  the goals and Indicators represent the metrics by which the world aims to
-  track whether these Targets are achieved. Below we quote the original text of
-  all Targets and show the data on the agreed Indicators.
+  The UN has defined 5 _Targets_ and 6 _Indicators_ for SDG 7. Targets specify the goals and Indicators represent the metrics by which the world aims to track whether these Targets are achieved. Below we quote the original text of all Targets and show the data on the agreed Indicators.
 featuredImage: /img/uploads/7.svg
 ---
 <div class="target">
@@ -63,7 +54,7 @@ featuredImage: /img/uploads/7.svg
             <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/indoor-air-pollution">Indoor Air Pollution</a>.</p>
             <p><strong>Additional charts:</strong> <br><a href="https://ourworldindata.org/grapher/share-of-rural-population-with-electricity-access-vs-share-of-total-population-with-electricity-access">Electricity access, urban vs. rural</a> 
 <br><a href="https://ourworldindata.org/grapher/number-of-people-in-the-world-with-and-without-electricity-access">Number of people with and without electricity access</a>
-<br><a href="https://ourworldindata.org/grapher/power-outages-in-firms-per-months">Power outages</a></p>
+<br><a href="https://ourworldindata.org/grapher/power-outages-in-firms-per-month">Power outages</a></p>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/access-to-clean-fuels-and-technologies-for-cooking" style="width: 100%; height: 600px; border: 0px none;"></iframe>
