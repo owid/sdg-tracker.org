@@ -105,7 +105,7 @@ featuredImage: /img/uploads/13.svg
            <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> on <a href="https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions">CO<sub>2</sub> and Other Greenhouse Gas Emissions</a>.</p>
            <p><strong>Additional charts</strong>:<br><a href="https://ourworldindata.org/grapher/annual-co-emissions-per-country">CO<sub>2</sub> emissions by country</a>
 <br><a href="https://ourworldindata.org/grapher/co-emissions-per-capita">CO<sub>2</sub> emissions per capita</a>
-<br><a href="https://ourworldindata.org/grapher/carbon-emission-intensity-of-economies?tab=map">CO<sub>2</sub> emissions intensity</a></p>
+<br><a href="https://ourworldindata.org/grapher/co2-intensity?tab=map">CO<sub>2</sub> emissions intensity</a></p>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/number-of-parties-env-agreements?country=OWID_WRL-12+OWID_WRL-5" style="width: 100%; height: 600px; border: 0px none;"></iframe>
