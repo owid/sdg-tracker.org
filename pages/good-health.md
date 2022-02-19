@@ -217,7 +217,7 @@ However, there is no goal specified by the UN for the share of births attended b
             <p><strong>Definition:</strong> Indicator 3.3.4 is <q>Hepatitis B incidence per 100,000 population</q>. <p>Hepatitis B incidence is the number of new cases of hepatitis B in one year per 100,000 individuals in a given population.</p>
             <p><strong>Goal:</strong> By 2030 <q>combat hepatitis</q> in all countries with a focus on hepatitis B. The targeted level of reduction, however, is not defined.
             <p><strong>Additional charts:</strong> 
-<br><a href="https://ourworldindata.org/grapher/heptatitis-death-rate">Hepatitis death rates</a>
+<br><a href="https://ourworldindata.org/grapher/hepatitis-death-rate">Hepatitis death rates</a>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/prevalence-of-hepatitis-b-surface-antigen" style="width: 100%; height: 600px; border: 0px none;"></iframe>
@@ -259,7 +259,7 @@ However, there is no goal specified by the UN for the share of births attended b
             <p><strong>Goal:</strong> By 2030 <q>reduce premature mortality from non-communicable diseases (NCDs) by one-third</q> in all countries.</p>
             <p><strong>More research:</strong> Further data and research on non-communicable diseases can be found at <i>Our World in Data</i> entries on <a href="https://ourworldindata.org/causes-of-death"> Causes of Death</a>, <a href="https://ourworldindata.org/burden-of-disease"> Burden of Disease</a>, and <a href="https://ourworldindata.org/cancer"> Cancer</a>.</p>
 <p><strong>Additional charts:</strong> 
-<br><a href="https://ourworldindata.org/grapher/cancer-death-rates-per-100000">Cancer death rates</a>
+<br><a href="https://ourworldindata.org/grapher/cancer-death-rates">Cancer death rates</a>
 <br><a href="https://ourworldindata.org/grapher/cardiovascular-disease-death-rates">Cardiovascular disease (CVD) death rates</a>
 <br><a href="https://ourworldindata.org/grapher/stroke-death-rates">Stroke death rates</a>
 </div>
@@ -472,7 +472,7 @@ pollution and contamination.</q></p>
             <p><strong>Goal:</strong> By 2030 <q>substantially reduce the number of deaths and illnesses from air pollution</q>. There is, however, not a defined quantitative target level for this indicator.</p>
 <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> entries on <a href="https://ourworldindata.org/air-pollution">Air Pollution</a> and <a href="https://ourworldindata.org/indoor-air-pollution">Indoor Air Pollution</a>.</p>
 <p><strong>Additional charts:</strong> 
-<br><a href="https://ourworldindata.org/grapher/death-rate-from-ambient-particulate-air-pollution-per-100000?tab=map">Mortality rate from ambient air pollution</a>
+<br><a href="https://ourworldindata.org/grapher/death-rates-from-ambient-particulate-air-pollution?tab=map">Mortality rate from ambient air pollution</a>
 <br><a href="https://ourworldindata.org/grapher/absolute-number-of-deaths-from-outdoor-air-pollution">Number of deaths from ambient air pollution </a>
 <br><a href="https://ourworldindata.org/grapher/death-rate-by-source-from-indoor-air-pollution">Mortality rate from indoor air pollution</a>
 <br><a href="https://ourworldindata.org/grapher/absolute-number-of-deaths-from-household-air-pollution">Number of deaths from indoor air pollution </a>
