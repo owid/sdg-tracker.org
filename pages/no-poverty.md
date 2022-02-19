@@ -44,7 +44,7 @@ This poverty line is measured in "international dollars" which are a hypothetica
 <br><a href="https://ourworldindata.org/grapher/share-multi-poverty">Share of population living in multidimensional poverty</a>
         </div>
         <div class="col-md">
-            <iframe src="https://ourworldindata.org/grapher/share-of-the-population-living-in-extreme-poverty?tab=map" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/share-of-population-in-extreme-poverty?tab=map" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
 </div>
@@ -138,11 +138,11 @@ achieve substantial coverage of the poor and the vulnerable</q>.</p>
             <p><strong>Additional charts:</strong> 
 <br><a href="https://ourworldindata.org/grapher/share-of-the-population-with-access-to-electricity">Access to electricity</a>
 <br><a href="https://ourworldindata.org/grapher/access-to-clean-fuels-and-technologies-for-cooking">Access to clean cooking fuels</a>
-<br><a href="https://ourworldindata.org/grapher/share-of-population-with-improved-sanitation-faciltities">Access to improved sanitation</a>
+<br><a href="https://ourworldindata.org/grapher/share-of-population-with-improved-sanitation-facilities">Access to improved sanitation</a>
 <br><a href="https://ourworldindata.org/grapher/population-using-at-least-basic-drinking-water">Access to at least basic drinking water</a>
         </div>
         <div class="col-md">
-            <iframe src="https://ourworldindata.org/grapher/share-of-population-with-access-to-basic-infrastructure-services" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/access-to-basic-resources" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
 </div>
