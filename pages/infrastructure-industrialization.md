@@ -247,7 +247,7 @@ employment</q>.<p>This indicator measures the manufacturing sector's employment 
 </p>
             <p><strong>Goal:</strong> <q>Strive to provide universal and affordable access to the Internet in least developed countries by 2020</q>.<p>Unlike most SDG targets which are set for the year 2030, this indicator is set for 2020.</p>
             <p><strong>More research:</strong> Further data and research on these topics are available at the <i>Our World in Data</i> entries on <a href="https://ourworldindata.org/internet">Internet</a> and <a href="https://ourworldindata.org/technology-adoption">Technology Diffusion & Adoption</a>.</p>
-            <p><strong>Additional charts:</strong> <br><a href="https://ourworldindata.org/grapher/mobile-cellular-subscriptions-by-country?tab=chart&country=IND+NGA+PAK+THA+GBR">Mobile phone subscriptions by country</a> <br><a href="https://ourworldindata.org/grapher/internet-users-by-world-region">Internet users by region</a></p>
+            <p><strong>Additional charts:</strong> <br><a href="https://ourworldindata.org/grapher/mobile-cellular-subscriptions-by-country?tab=chart&country=IND+NGA+PAK+THA+GBR">Mobile phone subscriptions by country</a> <br><a href="https://ourworldindata.org/grapher/number-of-internet-users-by-country">Internet users by country</a></p>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/mobile-cellular-subscriptions-per-100-people" style="width: 100%; height: 600px; border: 0px none;"></iframe>
