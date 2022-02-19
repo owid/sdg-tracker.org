@@ -138,8 +138,8 @@ achieve substantial coverage of the poor and the vulnerable</q>.</p>
             <p><strong>Additional charts:</strong> 
 <br><a href="https://ourworldindata.org/grapher/share-of-the-population-with-access-to-electricity">Access to electricity</a>
 <br><a href="https://ourworldindata.org/grapher/access-to-clean-fuels-and-technologies-for-cooking">Access to clean cooking fuels</a>
-<br><a href="https://ourworldindata.org/grapher/share-of-population-with-improved-sanitation-facilities">Access to improved sanitation</a>
-<br><a href="https://ourworldindata.org/grapher/population-using-at-least-basic-drinking-water">Access to at least basic drinking water</a>
+<br><a href="https://ourworldindata.org/grapher/share-using-safely-managed-sanitation">Access to safe sanitation</a>
+<br><a href="https://ourworldindata.org/grapher/proportion-using-safely-managed-drinking-water">Access to safe drinking water</a>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/access-to-basic-resources" style="width: 100%; height: 600px; border: 0px none;"></iframe>
