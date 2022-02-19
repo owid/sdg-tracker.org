@@ -1,7 +1,6 @@
 ---
 layout: goal
-title: >-
-  Sustainably manage forests, combat desertification, halt and reverse land
+title: Sustainably manage forests, combat desertification, halt and reverse land
   degradation, halt biodiversity loss
 goalNum: 15
 name: Life on Land
@@ -9,16 +8,13 @@ description: >-
   The [UN explains](https://www.un.org/sustainabledevelopment/biodiversity/):
   <q>Forests cover 30 per cent of the Earth’s surface and in addition to
   providing food security and shelter, forests are key to combating climate
-  change, protecting biodiversity and the homes of the indigenous population. 
-  Thirteen million hectares of forests are being lost every year while the
-  persistent degradation of drylands has led to the desertification of 3.6
-  billion hectares.</q>
+  change, protecting biodiversity and the homes of the indigenous
+  population.  Thirteen million hectares of forests are being lost every year
+  while the persistent degradation of drylands has led to the desertification of
+  3.6 billion hectares.</q>
 
 
-  The UN has defined 12 _Targets_ and 14 _Indicators_ for SDG 15. Targets
-  specify the goals and Indicators represent the metrics by which the world aims
-  to track whether these Targets are achieved. Below we quote the original text
-  of all Targets and show the data on the agreed Indicators.
+  The UN has defined 12 _Targets_ and 14 _Indicators_ for SDG 15. Targets specify the goals and Indicators represent the metrics by which the world aims to track whether these Targets are achieved. Below we quote the original text of all Targets and show the data on the agreed Indicators.
 featuredImage: /img/uploads/15.svg
 ---
 <div class="target">
@@ -54,7 +50,7 @@ featuredImage: /img/uploads/15.svg
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/terrestrial-protected-areas" style="width: 100%; height: 600px; border: 0px none;"></iframe>
-            <iframe src="https://ourworldindata.org/grapher/proportion-of-important-sites-for-terrestrial-biodiversity-covered-by-protected-areas" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/protected-terrestrial-biodiversity-sites" style="width: 100%; height: 600px; border: 0px none;"></iframe>
             <iframe src="https://ourworldindata.org/grapher/proportion-of-important-sites-for-freshwater-biodiversity-covered-by-protected-areas" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
