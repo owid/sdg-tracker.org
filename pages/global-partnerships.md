@@ -206,7 +206,7 @@ featuredImage: /img/uploads/17.svg
             <p><strong>Definition:</strong> Indicator 17.8.1 is the <q>proportion of individuals using the Internet</q>.<p>Internet users are individuals who have used the Internet (from any location) in the last 3 months. The Internet can be used via a computer, mobile phone, personal digital assistant, games machine, digital TV etc.</p>
             <p><strong>Goal:</strong> <q>Fully operationalize the technology bank and science, technology and innovation capacity-building mechanism for least developed countries, in particular information and communications technology</q>.</p>
             <p><strong>More research:</strong> Further data and research on this topic is available at the <i>Our World in Data</i> entries on <a href="https://ourworldindata.org/technology-adoption">Technology Diffusion & Adoption</a> and <a href="https://ourworldindata.org/internet"> the Internet</a>.</p>
-            <p><strong>Additional charts:</strong> <br><a href="https://ourworldindata.org/grapher/secure-internet-servers-per-1-million-people">Secure Internet servers (per million)</a> <br><a href="https://ourworldindata.org/grapher/internet-users-by-world-region">Internet users by region</a>
+            <p><strong>Additional charts:</strong> <br><a href="https://ourworldindata.org/grapher/secure-internet-servers-per-1-million-people">Secure Internet servers (per million)</a> <br><a href="https://ourworldindata.org/grapher/number-of-internet-users-by-country">Internet users by country</a>
 <br><a href="https://ourworldindata.org/grapher/broadband-penetration-by-country">Broadband penetration by country</a>
         </div>
         <div class="col-md">
