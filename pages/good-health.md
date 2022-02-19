@@ -128,7 +128,7 @@ However, there is no goal specified by the UN for the share of births attended b
             <p><strong>Goal:</strong> By 2030 <q>Reduce neonatal mortality to at least as low as 12 per 1,000 live births</q> per year across all countries.</p>
             <p><strong>More research:</strong> The <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/child-mortality">Child Mortality</a> includes a section on neonatal mortality.</p>
 <p><strong>Additional charts:</strong> 
-<br><a href="https://ourworldindata.org/grapher/number-of-neonatal-deaths">Number of neonatal deaths</a>
+<br><a href="https://ourworldindata.org/grapher/number-of-neonatal-deaths-ihme">Number of neonatal deaths</a>
 <br><a href="https://ourworldindata.org/grapher/number-of-neonatal-deaths-by-region">Number of neonate deaths by region</a>
         </div>
         <div class="col-md">
