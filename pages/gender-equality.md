@@ -9,15 +9,10 @@ description: >-
   foundation for a peaceful, prosperous and sustainable world._
 
 
-  _Providing women and girls with equal access to education, health care, decent
-  work, and representation in political and economic decision-making processes
-  will fuel sustainable economies and benefit societies and humanity at large."_
+  _Providing women and girls with equal access to education, health care, decent work, and representation in political and economic decision-making processes will fuel sustainable economies and benefit societies and humanity at large."_
 
 
-  The UN has defined 9 _Targets_ and 14 _Indicators_ for SDG 5. Targets specify
-  the goals and Indicators represent the metrics by which the world aims to
-  track whether these Targets are achieved. Below we quote the original text of
-  all Targets and show the data on the agreed Indicators.
+  The UN has defined 9 _Targets_ and 14 _Indicators_ for SDG 5. Targets specify the goals and Indicators represent the metrics by which the world aims to track whether these Targets are achieved. Below we quote the original text of all Targets and show the data on the agreed Indicators.
 featuredImage: /img/uploads/5.svg
 ---
 <div class="target">
@@ -35,7 +30,7 @@ featuredImage: /img/uploads/5.svg
             <p><strong>Goal:</strong> By 2030 <q>end all forms of discrimination against all women and girls everywhere</q>.<p>This requires legal frameworks in place to enforce gender equality for all countries.</p>
             <p><strong>Additional charts:</strong>
 <br><a href="https://ourworldindata.org/grapher/law-mandate-equal-pay">Does law mandate equal pay for males and females?</a>
-<br><a href="https://ourworldindata.org/grapher/does-legislation-explicitly-criminalise-marital-rape">Does legislation explicitly criminalise marital rape?</a>
+<br><a href="https://ourworldindata.org/grapher/does-legislation-explicitly-criminalize-marital-rape">Does legislation explicitly criminalise marital rape?</a>
 <br><a href="https://ourworldindata.org/grapher/gender-rights-to-property">Do married men and women have equal rights to property and land?</a>
 <br><a href="https://ourworldindata.org/grapher/women-required-to-obey-husband">Are married women required by law to obey their husbands?</a>
 <br><a href="https://ourworldindata.org/grapher/does-law-mandate-paid-or-unpaid-maternity-leave">Does law mandate paid or unpaid maternity leave?</a>
