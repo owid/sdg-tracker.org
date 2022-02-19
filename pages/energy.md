@@ -33,7 +33,7 @@ featuredImage: /img/uploads/7.svg
             <p><strong>Goal:</strong> <q>By 2030 ensure universal access to affordable, reliable and modern energy services</q>.<p>This requires universal access to electricity by 2030.</p>
             <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/energy-production-and-changing-energy-sources">Energy Production & Changing Energy Sources</a>.</p>
             <p><strong>Additional charts:</strong> <br><a href="https://ourworldindata.org/grapher/share-of-rural-population-with-electricity-access-vs-share-of-total-population-with-electricity-access">Electricity access, urban vs. rural</a> 
-<br><a href="https://ourworldindata.org/grapher/number-of-people-in-the-world-with-and-without-electricity-access">Number of people with and without electricity access</a>
+<br><a href="https://ourworldindata.org/grapher/number-of-people-with-and-without-electricity-access">Number of people with and without electricity access</a>
 <br><a href="https://ourworldindata.org/grapher/power-outages-in-firms-per-month">Power outages</a></p>
         </div>
         <div class="col-md">
@@ -53,7 +53,7 @@ featuredImage: /img/uploads/7.svg
             <p><strong>Goal:</strong> <q>By 2030 ensure universal access to affordable, reliable and modern energy services</q>.<p>This requires universal access to clean fuels and technologies for cooking by 2030.</p>
             <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/indoor-air-pollution">Indoor Air Pollution</a>.</p>
             <p><strong>Additional charts:</strong> <br><a href="https://ourworldindata.org/grapher/share-of-rural-population-with-electricity-access-vs-share-of-total-population-with-electricity-access">Electricity access, urban vs. rural</a> 
-<br><a href="https://ourworldindata.org/grapher/number-of-people-in-the-world-with-and-without-electricity-access">Number of people with and without electricity access</a>
+<br><a href="https://ourworldindata.org/grapher/number-of-people-with-and-without-electricity-access">Number of people with and without electricity access</a>
 <br><a href="https://ourworldindata.org/grapher/power-outages-in-firms-per-month">Power outages</a></p>
         </div>
         <div class="col-md">
@@ -76,7 +76,7 @@ featuredImage: /img/uploads/7.svg
             <p><strong>Definition:</strong> Indicator 7.2.1 is <q>renewable energy share in the total final energy consumption</q>.<p>This is measured as renewable energy (inclusive of solar, wind, geothermal, hydropower, bioenergy and marine sources) as a share of final (not primary) energy consumption. Energy mix includes electricity, transportation and cooking/heating fuels.</p>
             <p><strong>Goal:</strong> <q>By 2030, increase substantially the share of renewable energy in the global energy mix</q>.</p>
             <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> entries on <a href="https://ourworldindata.org/energy-production-and-changing-energy-sources">Energy Production & Changing Energy Sources</a> and <a href="https://ourworldindata.org/renewables">Renewables</a>.</p>
-            <p><strong>Additional charts:</strong> <br><a href="https://ourworldindata.org/grapher/world-electricity-by-source">Electricity share by fuel source</a> 
+            <p><strong>Additional charts:</strong> <br><a href="https://ourworldindata.org/grapher/electricity-prod-source-stacked">Electricity share by fuel source</a> 
 </p>
         </div>
         <div class="col-md">
