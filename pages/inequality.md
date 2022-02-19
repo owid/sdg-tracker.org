@@ -13,18 +13,10 @@ description: >-
   services and other assets.</q>
 
 
-  Further statistics, analysis and visuals on inequality can be found at <i>Our
-  World in Data</i> entries on [Income
-  Inequality](https://ourworldindata.org/income-inequality), [Incomes across the
-  Distribution](https://ourworldindata.org/incomes-across-the-distribution) and
-  [Global Economic
-  Inequality](https://ourworldindata.org/global-economic-inequality).
+  Further statistics, analysis and visuals on inequality can be found at <i>Our World in Data</i> entries on [Income Inequality](https://ourworldindata.org/income-inequality), [Incomes across the Distribution](https://ourworldindata.org/incomes-across-the-distribution) and [Global Economic Inequality](https://ourworldindata.org/global-economic-inequality).
 
 
-  The UN has defined 10 _Targets_ and 11 _Indicators_ for SDG 10. Targets
-  specify the goals and Indicators represent the metrics by which the world aims
-  to track whether these Targets are achieved. Below we quote the original text
-  of all Targets and show the data on the agreed Indicators.
+  The UN has defined 10 _Targets_ and 11 _Indicators_ for SDG 10. Targets specify the goals and Indicators represent the metrics by which the world aims to track whether these Targets are achieved. Below we quote the original text of all Targets and show the data on the agreed Indicators.
 featuredImage: /img/uploads/10.svg
 ---
 <div class="target">
@@ -103,7 +95,7 @@ featuredImage: /img/uploads/10.svg
             <p><strong>Additional charts:</strong> <br><a href="https://ourworldindata.org/grapher/inequality-before-and-after-taxes-and-transfers-Thewissen-et-al-data">Income inequality before and after taxes and transfers</a></p>
         </div>
         <div class="col-md">
-            <iframe src="https://ourworldindata.org/grapher/labour-share-of-gdp" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/labor-share-of-gdp" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
 </div>
