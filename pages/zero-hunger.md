@@ -1,7 +1,6 @@
 ---
 layout: goal
-title: >-
-  End hunger, achieve food security and improved nutrition and promote
+title: End hunger, achieve food security and improved nutrition and promote
   sustainable agriculture
 goalNum: 2
 name: Zero Hunger
@@ -10,43 +9,22 @@ description: >-
   time to rethink how we grow, share and consume our food._
 
 
-  _If done right, agriculture, forestry and fisheries can provide nutritious
-  food for all and generate decent incomes, while supporting people-centred
-  rural development and protecting the environment._
+  _If done right, agriculture, forestry and fisheries can provide nutritious food for all and generate decent incomes, while supporting people-centred rural development and protecting the environment._
 
 
-  _Right now, our soils, freshwater, oceans, forests and biodiversity are being
-  rapidly degraded. Climate change is putting even more pressure on the
-  resources we depend on, increasing risks associated with disasters such as
-  droughts and floods. Many rural women and men can no longer make ends meet on
-  their land, forcing them to migrate to cities in search of opportunities._
+  _Right now, our soils, freshwater, oceans, forests and biodiversity are being rapidly degraded. Climate change is putting even more pressure on the resources we depend on, increasing risks associated with disasters such as droughts and floods. Many rural women and men can no longer make ends meet on their land, forcing them to migrate to cities in search of opportunities._
 
 
-  _A profound change of the global food and agriculture system is needed if we
-  are to nourish today’s 815 million hungry and the additional 2 billion people
-  expected by 2050._
+  _A profound change of the global food and agriculture system is needed if we are to nourish today’s 815 million hungry and the additional 2 billion people expected by 2050._
 
 
-  _The food and agriculture sector offers key solutions for development, and is
-  central for hunger and poverty eradication."_
+  _The food and agriculture sector offers key solutions for development, and is central for hunger and poverty eradication."_
 
 
-  You can find many more visuals and statistics on [hunger and
-  undernourishment](https://ourworldindata.org/hunger-and-undernourishment),
-  [micronutrient
-  deficiencies](https://ourworldindata.org/micronutrient-deficiency) and
-  [obesity](https://ourworldindata.org/obesity) at the _Our World in Data_
-  entries on these topics. Our entries on
-  [famines](https://ourworldindata.org/famines), [food per
-  person](https://ourworldindata.org/food-per-person), and [diet
-  compositions](https://ourworldindata.org/diet-compositions) also tie closely
-  to these topics.
+  You can find many more visuals and statistics on [hunger and undernourishment](https://ourworldindata.org/hunger-and-undernourishment), [micronutrient deficiencies](https://ourworldindata.org/micronutrient-deficiency) and [obesity](https://ourworldindata.org/obesity) at the _Our World in Data_ entries on these topics. Our entries on [famines](https://ourworldindata.org/famines), [food per person](https://ourworldindata.org/food-per-person), and [diet compositions](https://ourworldindata.org/diet-compositions) also tie closely to these topics.
 
 
-  The UN has defined 8 _Targets_ and 13 _Indicators_ for SDG 2. Targets specify
-  the goals and Indicators represent the metrics by which the world aims to
-  track whether these Targets are achieved. Below we quote the original text of
-  all _Targets_ and show the data on the agreed Indicators.
+  The UN has defined 8 _Targets_ and 13 _Indicators_ for SDG 2. Targets specify the goals and Indicators represent the metrics by which the world aims to track whether these Targets are achieved. Below we quote the original text of all _Targets_ and show the data on the agreed Indicators.
 featuredImage: /img/uploads/2.svg
 ---
 <div class="target">
@@ -136,7 +114,7 @@ A child is defined as "overweight" if their weight-for-height is more than 2 sta
             <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> entries on <a href="https://ourworldindata.org/hunger-and-undernourishment">Hunger and Undernourishment</a>, <a href="https://ourworldindata.org/obesity">Obesity</a> and <a href="https://ourworldindata.org/micronutrient-deficiency">Micronutrient Deficiency</a>.</p>
             <p><strong>Additional charts:</strong>
 <br><a href="https://ourworldindata.org/grapher/share-of-adults-defined-as-obese">Adult obesity</a>
-<br><a href="https://ourworldindata.org/grapher/prevalence-of-anemia-in-pregnant-women-1995-2011">Prevalence of anemia in pregnant women</a>
+<br><a href="https://ourworldindata.org/grapher/prevalence-of-anemia-in-pregnant-women">Prevalence of anemia in pregnant women</a>
 <br><a href="https://ourworldindata.org/grapher/prevalence-of-anemia-in-women-of-reproductive-age-aged-15-29">Prevalence of anemia in women of reproductive age</a>
 <br><a href="https://ourworldindata.org/grapher/prevalence-of-anemia-in-children">Prevalence of anemia in children</a></p>
         </div>
