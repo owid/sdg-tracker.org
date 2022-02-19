@@ -1,10 +1,9 @@
 ---
 layout: goal
-title: >-
-  Build resilient infrastructure, promote sustainable industrialization and
+title: Build resilient infrastructure, promote sustainable industrialization and
   foster innovation
 goalNum: 9
-name: 'Industry, Innovation and Infrastructure'
+name: Industry, Innovation and Infrastructure
 description: >-
   The [UN
   explains](https://www.un.org/sustainabledevelopment/infrastructure-industrialization/):
@@ -15,10 +14,7 @@ description: >-
   in health and education outcomes require investment in infrastructure.</q>
 
 
-  The UN has defined 8 _Targets_ and 12 _Indicators_ for SDG 9. Targets specify
-  the goals and Indicators represent the metrics by which the world aims to
-  track whether these Targets are achieved. Below we quote the original text of
-  all Targets and show the data on the agreed Indicators.
+  The UN has defined 8 _Targets_ and 12 _Indicators_ for SDG 9. Targets specify the goals and Indicators represent the metrics by which the world aims to track whether these Targets are achieved. Below we quote the original text of all Targets and show the data on the agreed Indicators.
 featuredImage: /img/uploads/9.svg
 ---
 <div class="target">
@@ -151,7 +147,7 @@ employment</q>.<p>This indicator measures the manufacturing sector's employment 
             <p><strong>More research:</strong> Further data and research on these topics are available at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions">CO<sub>2</sub> and other Greenhouse Gas Emissions</a>.</p>
         </div>
         <div class="col-md">
-            <iframe src="https://ourworldindata.org/grapher/carbon-emission-intensity-of-economies?tab=map" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/co2-intensity?tab=map" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
 </div>
