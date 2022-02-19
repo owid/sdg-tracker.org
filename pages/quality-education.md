@@ -10,29 +10,16 @@ description: >-
   girls._
 
 
-  _Basic literacy skills across the world have improved tremendously, yet bolder
-  efforts are needed to achieve universal education goals for all. For example,
-  the world has achieved equality in primary education between girls and boys,
-  but few countries have achieved that target at all levels of education."_
+  _Basic literacy skills across the world have improved tremendously, yet bolder efforts are needed to achieve universal education goals for all. For example, the world has achieved equality in primary education between girls and boys, but few countries have achieved that target at all levels of education."_
 
 
-  The charts and visuals below provide data on the major developments in global
-  education in relation to the Sustainable Development Goal (SDG) targets. 
+  The charts and visuals below provide data on the major developments in global education in relation to the Sustainable Development Goal (SDG) targets. 
 
 
-  Further information on education and learning can be found across a range of
-  _Our World in Data_ entries on the [Global Rise of
-  Education](https://ourworldindata.org/global-rise-of-education),
-  [Pre-Primary](https://ourworldindata.org/pre-primary-education), [Primary and
-  Secondary](https://ourworldindata.org/primary-and-secondary-education),
-  [Tertiary](https://ourworldindata.org/tertiary-education), and
-  [Literacy](https://ourworldindata.org/literacy).
+  Further information on education and learning can be found across a range of _Our World in Data_ entries on the [Global Rise of Education](https://ourworldindata.org/global-rise-of-education), [Pre-Primary](https://ourworldindata.org/pre-primary-education), [Primary and Secondary](https://ourworldindata.org/primary-and-secondary-education), [Tertiary](https://ourworldindata.org/tertiary-education), and [Literacy](https://ourworldindata.org/literacy).
 
 
-  The UN has defined 10 _Targets_ and 11 _Indicators_ for SDG 4. Targets specify
-  the goals and Indicators represent the metrics by which the world aims to
-  track whether these Targets are achieved. Below we quote the original text of
-  all Targets and show the data on the agreed Indicators.
+  The UN has defined 10 _Targets_ and 11 _Indicators_ for SDG 4. Targets specify the goals and Indicators represent the metrics by which the world aims to track whether these Targets are achieved. Below we quote the original text of all Targets and show the data on the agreed Indicators.
 featuredImage: /img/uploads/4.svg
 ---
 <div class="target">
@@ -54,9 +41,9 @@ featuredImage: /img/uploads/4.svg
             <iframe src="https://ourworldindata.org/grapher/share-of-students-in-early-primary-education-achieving-minimum-reading-proficiency-2010-2015" style="width: 100%; height: 600px; border: 0px none;"></iframe>
             <iframe src="https://ourworldindata.org/grapher/share-of-students-in-early-primary-education-achieving-minimum-math-proficiency-2010-2015" style="width: 100%; height: 600px; border: 0px none;"></iframe>
             <iframe src="https://ourworldindata.org/grapher/share-of-students-at-end-of-primary-education-achieving-minimum-reading-proficiency-2010-2015" style="width: 100%; height: 600px; border: 0px none;"></iframe>
-            <iframe src="https://ourworldindata.org/grapher/share-of-students-at-end-of-primary-education-achieving-minimum-maths-proficiency-2010-2015" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/share-of-students-at-end-of-primary-education-achieving-minimum-math-proficiency-2010-2015" style="width: 100%; height: 600px; border: 0px none;"></iframe>
             <iframe src="https://ourworldindata.org/grapher/share-of-students-at-end-of-lower-secondary-education-achieving-minimum-reading-proficiency-2010-2015" style="width: 100%; height: 600px; border: 0px none;"></iframe>
-            <iframe src="https://ourworldindata.org/grapher/share-of-students-at-end-of-lower-secondary-education-achieving-minimum-maths-proficiency-2010-2015" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/share-of-students-at-end-of-lower-secondary-education-achieving-minimum-math-proficiency-2010-2015" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
 </div>
