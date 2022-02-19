@@ -86,8 +86,8 @@ featuredImage: /img/uploads/4.svg
 <br><a href="https://ourworldindata.org/grapher/school-life-expectancy-of-boys-and-girls-at-the-pre-primary-education-level">School life expectancy at pre-primary education, boys vs. girls</a></p>
         </div>
         <div class="col-md">
-            <iframe src="https://ourworldindata.org/grapher/net-enrolment-rate-pre-primary" style="width: 100%; height: 600px; border: 0px none;"></iframe>
-            <iframe src="https://ourworldindata.org/grapher/net-enrolment-pre-primary-boys-vs-girls" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/net-enrollment-rate-pre-primary" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/net-enrollment-pre-primary-boys-vs-girls" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
 </div>
@@ -155,7 +155,7 @@ featuredImage: /img/uploads/4.svg
 <br><a href="https://ourworldindata.org/grapher/out-of-school-children-of-primary-school-age-by-world-region">Out-of-school children by world region</a></p>
         </div>
         <div class="col-md">
-            <iframe src="https://ourworldindata.org/grapher/net-enrolment-rate-primary-gender-parity-index-gpi" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/net-enrollment-rate-primary-gender-parity-index-gpi" style="width: 100%; height: 600px; border: 0px none;"></iframe>
             <iframe src="https://ourworldindata.org/grapher/school-life-expectancy-primary-gender-parity-index-gpi" style="width: 100%; height: 600px; border: 0px none;"></iframe>
             <iframe src="https://ourworldindata.org/grapher/primary-completion-rate-gender-parity-index" style="width: 100%; height: 600px; border: 0px none;"></iframe>
             <iframe src="https://ourworldindata.org/grapher/school-life-expectancy-in-secondary-education-by-sex" style="width: 100%; height: 600px; border: 0px none;"></iframe>
