@@ -176,7 +176,7 @@ featuredImage: /img/uploads/6.svg
             <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/water-access-resources-sanitation">Water Access, Resources & Sanitation</a>.</p>
         </div>
         <div class="col-md">
-            <iframe src="https://ourworldindata.org/grapher/status-of-the-development-and-implementation-of-integrated-national-water-resource-management-plans" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/implementation-of-integrated-water-resource-management" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
 </div>
