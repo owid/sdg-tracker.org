@@ -1,6 +1,6 @@
 ---
 layout: goal
-title: 'Make cities inclusive, safe, resilient and sustainable'
+title: Make cities inclusive, safe, resilient and sustainable
 goalNum: 11
 name: Sustainable Cities and Communities
 description: >-
@@ -11,10 +11,7 @@ description: >-
   access to basic services, energy, housing, transportation and more.</q>
 
 
-  The UN has defined 10 _Targets_ and 15 _Indicators_ for SDG 11. Targets
-  specify the goals and Indicators represent the metrics by which the world aims
-  to track whether these Targets are achieved. Below we quote the original text
-  of all Targets and show the data on the agreed Indicators.
+  The UN has defined 10 _Targets_ and 15 _Indicators_ for SDG 11. Targets specify the goals and Indicators represent the metrics by which the world aims to track whether these Targets are achieved. Below we quote the original text of all Targets and show the data on the agreed Indicators.
 featuredImage: /img/uploads/11.svg
 ---
 <div class="target">
@@ -101,8 +98,8 @@ disabilities</q>.</p>
             <h3>Protecting cultural heritage</h3>
             <p><strong>Definition:</strong> Indicator 11.4.1 is the <q>total expenditure (public and private) per capita spent on the preservation, protection and conservation of all cultural and natural heritage</q>.</p>
             <p><strong>Goal:</strong> <q>Strengthen efforts to protect and safeguard the world’s cultural and natural heritage</q> by 2030.</p>
-        </div>
-        <NoData/>
+        </div>        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/expenditure-on-cultural-and-natural-heritage-per-capita" style="width: 100%; height: 600px; border: 0px none;"></iframe>
     </div>
 </div>
 
