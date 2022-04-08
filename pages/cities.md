@@ -103,6 +103,8 @@ disabilities</q>.</p>
     </div>
 </div>
 
+</div>
+
 <div class="target">
     <h2>Target 11.5: Reduce the adverse effects of natural disasters</h2>
     <p>UN definition: <q>By 2030, significantly reduce the number of deaths and the number of people affected and substantially decrease the direct economic losses relative to global gross domestic product caused by disasters, including water-related disasters, with a focus on protecting the poor and people in vulnerable situations.</q></p>
