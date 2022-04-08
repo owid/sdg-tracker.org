@@ -1,8 +1,8 @@
 ---
 layout: goal
-title: 'Promote just, peaceful and inclusive societies'
+title: Promote just, peaceful and inclusive societies
 goalNum: 16
-name: 'Peace, Justice and Strong Institutions'
+name: Peace, Justice and Strong Institutions
 description: >-
   The [UN explains](https://www.un.org/sustainabledevelopment/peace-justice/):
   <q>Goal 16 of the Sustainable Development Goals is dedicated to the promotion
@@ -11,27 +11,13 @@ description: >-
   at all levels.</q>
 
 
-  This aims to promote peaceful societies at national levels, as well as the
-  role of cooperation at the international level.
+  This aims to promote peaceful societies at national levels, as well as the role of cooperation at the international level.
 
 
-  You can find further details on the topics aligned to peace, cooperation and
-  justice in the <i>Our World in Data</i> entries on [War and
-  Peace](https://ourworldindata.org/war-and-peace),
-  [Terrorism](https://ourworldindata.org/terrorism), [Military
-  Spending](https://ourworldindata.org/military-spending), [Nuclear
-  Weapons](https://ourworldindata.org/nuclear-weapons),
-  [Homicides](https://ourworldindata.org/homicides), [Human
-  Rights](https://ourworldindata.org/human-rights),
-  [Corruption](https://ourworldindata.org/corruption) and [Violence Against &
-  Rights for
-  Children](https://ourworldindata.org/violence-against-rights-for-children).
+  You can find further details on the topics aligned to peace, cooperation and justice in the <i>Our World in Data</i> entries on [War and Peace](https://ourworldindata.org/war-and-peace), [Terrorism](https://ourworldindata.org/terrorism), [Military Spending](https://ourworldindata.org/military-spending), [Nuclear Weapons](https://ourworldindata.org/nuclear-weapons), [Homicides](https://ourworldindata.org/homicides), [Human Rights](https://ourworldindata.org/human-rights), [Corruption](https://ourworldindata.org/corruption) and [Violence Against & Rights for Children](https://ourworldindata.org/violence-against-rights-for-children).
 
 
-  The UN has defined 12 Targets and 23 Indicators for SDG 16. Targets specify
-  the goals and Indicators represent the metrics by which the world aims to
-  track whether these Targets are achieved. Below we quote the original text of
-  all Targets and show the data on the agreed Indicators.
+  The UN has defined 12 Targets and 23 Indicators for SDG 16. Targets specify the goals and Indicators represent the metrics by which the world aims to track whether these Targets are achieved. Below we quote the original text of all Targets and show the data on the agreed Indicators.
 featuredImage: /img/uploads/16.svg
 ---
 <div class="target">
@@ -113,6 +99,8 @@ by sex, age and cause</q>.</p>
 <div class="col-md">
        <iframe src="https://ourworldindata.org/grapher/safety-walking-alone" style="width: 100%; height: 600px; border: 0px none;"></iframe>
     </div>
+</div>
+
 </div>
 
 <div class="target">
