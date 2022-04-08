@@ -101,6 +101,8 @@ featuredImage: /img/uploads/6.svg
     </div>
 </div>
 
+</div>
+
 <hr>
 
 <div class="indicator">
@@ -197,6 +199,8 @@ operational arrangement for water cooperation</q>.
     </div>
 </div>
 
+</div>
+
 <div class="target">
 <h2>Target 6.6: Protect and restore water-related ecosystems</h2>
 <p>UN definition: <q>By 2020, protect and restore water-related ecosystems, including mountains, forests, wetlands, rivers, aquifers and lakes.</q>
@@ -216,6 +220,8 @@ operational arrangement for water cooperation</q>.
 <div class="col-md"><iframe src="https://ourworldindata.org/grapher/coverage-of-wetlands" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         <iframe src="https://ourworldindata.org/grapher/change-in-total-mangrove-area" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/share-of-land-covered-by-lakes-and-rivers" style="width: 100%; height: 600px; border: 0px none;"></iframe>
     </div>
+</div>
+
 </div>
 
 <div class="target">
