@@ -80,7 +80,7 @@ featuredImage: /img/uploads/7.svg
 </p>
         </div>
         <div class="col-md">
-            <iframe src="https://ourworldindata.org/grapher/renewables-share-final-energy?tab=chart" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/share-of-final-energy-consumption-from-renewable-sources?tab=map" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
 </div>
