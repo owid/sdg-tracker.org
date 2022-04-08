@@ -311,6 +311,8 @@ aftercare services) for substance use disorders</h3>
     </div>
 </div>
 
+</div>
+
 <hr>
 
 <div class="indicator">
@@ -452,6 +454,8 @@ essential medicines and vaccines for all.</q></p>
 <div class="col-md">
         <iframe src="https://ourworldindata.org/grapher/large-household-expenditures-health" style="width: 100%; height: 600px; border: 0px none;"></iframe>
     </div>
+</div>
+
 </div>
 
 <div class="target">
@@ -620,6 +624,8 @@ health, and, in particular, provide access to medicines for all.</q></p>
         </div>
         <div class="col-md">            <iframe src="https://ourworldindata.org/grapher/share-of-health-facilities-with-essential-medicines" style="width: 100%; height: 600px; border: 0px none;"></iframe>
     </div>
+</div>
+
 </div>
 
 <div class="target">
