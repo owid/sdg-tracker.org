@@ -14,14 +14,10 @@ description: >-
   and reduce poverty.</q>
 
 
-  Definitions of, and indicators for sustainable resource consumption is
-  currently limited, as shown in the data available below.
+  Definitions of, and indicators for sustainable resource consumption is currently limited, as shown in the data available below.
 
 
-  The UN has defined 11 _Targets_ and 13 _Indicators_ for SDG 12. Targets
-  specify the goals and Indicators represent the metrics by which the world aims
-  to track whether these Targets are achieved. Below we quote the original text
-  of all Targets and show the data on the agreed Indicators.
+  The UN has defined 11 _Targets_ and 13 _Indicators_ for SDG 12. Targets specify the goals and Indicators represent the metrics by which the world aims to track whether these Targets are achieved. Below we quote the original text of all Targets and show the data on the agreed Indicators.
 featuredImage: /img/uploads/12.svg
 ---
 <div class="target">
@@ -42,6 +38,8 @@ featuredImage: /img/uploads/12.svg
 <div class="col-md">
         <iframe src="https://ourworldindata.org/grapher/country-scp-plan" style="width: 100%; height: 600px; border: 0px none;"></iframe>
     </div>
+</div>
+
 </div>
 
 <div class="target">
