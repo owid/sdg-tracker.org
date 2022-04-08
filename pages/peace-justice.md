@@ -317,6 +317,8 @@ by sex, age and cause</q>.</p>
     </div>
 </div>
 
+</div>
+
 <hr>
 
 <div class="indicator" id="16.6.2">
@@ -347,6 +349,8 @@ by sex, age and cause</q>.</p>
         </div>
         <div class="col-md"><iframe src="https://ourworldindata.org/grapher/representation-of-women-in-the-lower-chamber-of-parliament" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/representation-of-women-in-the-upper-chamber-of-parliament" style="width: 100%; height: 600px; border: 0px none;"></iframe>    </div>
     </div>
+</div>
+
 </div>
 
 <hr>
