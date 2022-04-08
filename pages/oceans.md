@@ -1,6 +1,6 @@
 ---
 layout: goal
-title: 'Conserve and sustainably use the oceans, seas and marine resources'
+title: Conserve and sustainably use the oceans, seas and marine resources
 goalNum: 14
 name: Life below Water
 description: >-
@@ -9,17 +9,10 @@ description: >-
   fundamental role in making Earth habitable._
 
 
-  _Our rainwater, drinking water, weather, climate, coastlines, much of our
-  food, and even the oxygen in the air we breathe, are all ultimately provided
-  and regulated by the sea. Throughout history, oceans and seas have been vital
-  conduits for trade and transportation. Careful management of this essential
-  global resource is a key feature of a sustainable future."_
+  _Our rainwater, drinking water, weather, climate, coastlines, much of our food, and even the oxygen in the air we breathe, are all ultimately provided and regulated by the sea. Throughout history, oceans and seas have been vital conduits for trade and transportation. Careful management of this essential global resource is a key feature of a sustainable future."_
 
 
-  The UN has defined 10 _Targets_ and 10 _Indicators_ for SDG 14. Targets
-  specify the goals and Indicators represent the metrics by which the world aims
-  to track whether these Targets are achieved. Below we quote the original text
-  of all Targets and show the data on the agreed Indicators.
+  The UN has defined 10 _Targets_ and 10 _Indicators_ for SDG 14. Targets specify the goals and Indicators represent the metrics by which the world aims to track whether these Targets are achieved. Below we quote the original text of all Targets and show the data on the agreed Indicators.
 featuredImage: /img/uploads/14.svg
 ---
 <div class="target">
@@ -72,7 +65,7 @@ featuredImage: /img/uploads/14.svg
             <p><strong>Definition:</strong> Indicator 14.3.1 is the <q>average marine acidity (pH) measured at agreed suite of representative sampling stations</q>.</p>
             <p><strong>Goal:</strong> <q>Minimize and address the impacts of ocean acidification</q> by 2030.</p>
         </div>
-        <div class="col-md"><iframe src="https://ourworldindata.org/grapher/mean-seawater-ph?country=~Hawaii" style="width: 100%; height: 600px; border: 0px none;"></iframe></div>
+        <div class="col-md"><iframe src="https://ourworldindata.org/explorers/climate-change?Metric=Ocean+pH&country=OWID_WRL" style="width: 100%; height: 600px; border: 0px none;"></iframe></div>
     </div>
 </div>
 
