@@ -165,6 +165,8 @@ services, markets and opportunities for value addition and non-farm employment.<
     </div>
 </div>
 
+</div>
+
 <div class="target">
     <h2>Target 2.4: Sustainable food production and resilient agricultural practices</h2>
     <p>UN definition: <q>By 2030, ensure sustainable food production systems and implement resilient agricultural practices that increase productivity and production, that help maintain ecosystems, that strengthen capacity for adaptation to climate change, extreme weather, drought, flooding and other disasters and that progressively improve land and soil quality.</q></p>
@@ -183,6 +185,8 @@ services, markets and opportunities for value addition and non-farm employment.<
         </div>
         <NoData/>
     </div>
+</div>
+
 </div>
 
 <div class="target">
@@ -282,6 +286,8 @@ An AOI smaller than 1 reflects a lower orientation to agriculture.</p>
 <div class="col-md">
         <iframe src="https://ourworldindata.org/grapher/agricultural-export-subsidies" style="width: 100%; height: 600px; border: 0px none;"></iframe>
     </div>
+</div>
+
 </div>
 
 <div class="target">
