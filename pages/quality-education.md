@@ -241,6 +241,8 @@ featuredImage: /img/uploads/4.svg
     </div>
 </div>
 
+</div>
+
 <div class="target">
     <h2>Target 4.B: Expand higher education scholarships for developing countries</h2>
     <p>UN definition: <q>By 2020, substantially expand globally the number of scholarships available to developing countries, in particular least developed countries, small island developing States and African countries, for enrolment in higher education, including vocational training and information and communications technology, technical, engineering and scientific programmes, in developed countries and other developing countries.</q></p>
