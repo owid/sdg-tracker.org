@@ -184,6 +184,8 @@ by sex, age and cause</q>.</p>
     </div>
 </div>
 
+</div>
+
 <hr>
 
 <div class="indicator" id="16.3.2">
