@@ -114,6 +114,8 @@ employment</q>.<p>This indicator measures the manufacturing sector's employment 
     </div>
 </div>
 
+</div>
+
 <hr>
 
 <div class="indicator">
@@ -128,6 +130,8 @@ employment</q>.<p>This indicator measures the manufacturing sector's employment 
 <div class="col-md">
        <iframe src="https://ourworldindata.org/grapher/smalsmall-scale-industries-loan" style="width: 100%; height: 600px; border: 0px none;"></iframe>
     </div>
+</div>
+
 </div>
 
 <div class="target">
