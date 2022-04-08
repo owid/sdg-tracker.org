@@ -324,6 +324,8 @@ featuredImage: /img/uploads/17.svg
         </div>
 </div>
 
+</div>
+
 <div class="target">
     <h2>Target 17.14: Enhance policy coherence for sustainable development</h2>
     <p>UN definition: <q>Enhance policy coherence for sustainable development.</q></p>
