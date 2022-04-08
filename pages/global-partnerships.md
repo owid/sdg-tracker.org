@@ -408,6 +408,8 @@ partnerships</q>.</p>
     </div>
 </div>
 
+</div>
+
 <div class="target">
     <h2>Target 17.18: Enhance availability of reliable data</h2>
     <p>UN definition: <q>By 2020, enhance capacity-building support to developing countries, including for least developed countries and small island developing States, to increase significantly the availability of high-quality, timely and reliable data disaggregated by income, gender, age, race, ethnicity, migratory status, disability, geographic location and other characteristics relevant in national contexts.</q></p>
@@ -444,6 +446,8 @@ partnerships</q>.</p>
     </div>
 </div>
 
+</div>
+
 <hr>
 
 <div class="indicator" id="17.18.3">
@@ -478,6 +482,8 @@ partnerships</q>.</p>
 <div class="col-md">
         <iframe src="https://ourworldindata.org/grapher/resources-statistical-capacity" style="width: 100%; height: 600px; border: 0px none;"></iframe>
     </div>
+</div>
+
 </div>
 
 <hr>
