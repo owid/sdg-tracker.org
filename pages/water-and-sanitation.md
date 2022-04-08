@@ -120,6 +120,8 @@ featuredImage: /img/uploads/6.svg
     </div>
 </div>
 
+</div>
+
 <div class="target">
 <h2>Target 6.4: Increase water use efficiency and ensure freshwater supplies</h2>
 <p>UN definition: <q>By 2030, substantially increase water-use efficiency across all sectors and ensure sustainable withdrawals and supply of freshwater to address water scarcity and substantially reduce the number of people suffering from water scarcity.</q>
