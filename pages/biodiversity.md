@@ -103,6 +103,8 @@ Three sub-indicators focus on the extension of forest area, biomass within the f
     </div>
 </div>
 
+</div>
+
 <div class="target">
     <h2>Target 15.4: Ensure conservation of mountain ecosystems</h2>
     <p>UN definition: <q>By 2030, ensure the conservation of mountain ecosystems, including their biodiversity, in order to enhance their capacity to provide benefits that are essential for sustainable development.</q></p>
