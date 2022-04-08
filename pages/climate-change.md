@@ -89,6 +89,8 @@ featuredImage: /img/uploads/13.svg
     </div>
 </div>
 
+</div>
+
 <div class="target">
     <h2>Target 13.2: Integrate climate change measures into policy and planning</h2>
     <p>UN definition: <q>Integrate climate change measures into national policies, strategies and planning.</q></p>
