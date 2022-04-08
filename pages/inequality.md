@@ -120,6 +120,8 @@ featuredImage: /img/uploads/10.svg
     </div>
 </div>
 
+</div>
+
 <div class="target">
     <h2>Target 10.6: Enhanced representation for developing countries in financial institutions</h2>
     <p>UN definition: <q>Ensure enhanced representation and voice for developing countries in decision-making in global international economic and financial institutions in order to deliver more effective, credible, accountable and legitimate institutions.</q></p>
