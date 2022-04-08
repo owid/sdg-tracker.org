@@ -131,7 +131,7 @@ featuredImage: /img/uploads/14.svg
     </div>
 </div>
 
-
+</div>
 
 <div class="target">
     <h2>Target 14.7: Increase the economic benefits from sustainable use of marine resources</h2>
@@ -153,6 +153,8 @@ featuredImage: /img/uploads/14.svg
     </div>
 </div>
 
+</div>
+
 <div class="target">
     <h2>Target 14.A: Increase scientific knowledge, research and technology for ocean health</h2>
     <p>UN definition: <q>Increase scientific knowledge, develop research capacity and transfer marine technology, taking into account the Intergovernmental Oceanographic Commission Criteria and Guidelines on the Transfer of Marine Technology, in order to improve ocean health and to enhance the contribution of marine biodiversity to the development of developing countries, in particular small island developing States and least developed countries.</q></p>
@@ -171,6 +173,8 @@ featuredImage: /img/uploads/14.svg
 <div class="col-md">
         <iframe src="https://ourworldindata.org/grapher/ocean-research-funding" style="width: 100%; height: 600px; border: 0px none;"></iframe>
     </div>
+</div>
+
 </div>
 
 <div class="target">
