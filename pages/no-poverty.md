@@ -161,6 +161,8 @@ achieve substantial coverage of the poor and the vulnerable</q>.</p>
     </div>
 </div>
 
+</div>
+
 <div class="target">
     <h2>Target 1.5: Build resilience to environmental, economic and social disasters</h2>
     <p>UN definition: <q>By 2030, build the resilience of the poor and those in vulnerable situations and reduce their exposure and vulnerability to climate-related extreme events and other economic, social and environmental shocks and disasters.</q></p>
@@ -247,6 +249,8 @@ achieve substantial coverage of the poor and the vulnerable</q>.</p>
 <div class="col-md">
         <iframe src="https://ourworldindata.org/grapher/local-gov-disaster-strategies" style="width: 100%; height: 600px; border: 0px none;"></iframe>
     </div>
+</div>
+
 </div>
 
 <div class="target">
