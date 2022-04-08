@@ -108,7 +108,7 @@ featuredImage: /img/uploads/17.svg
             <p><strong>Goal:</strong> <q>Mobilize additional financial resources for developing countries</q> by 2030.<p>A specific target level of financial resource mobilization is not provided for this indicator.</p>
         </div>
         <div class="col-md">
-            <iframe src="https://ourworldindata.org/grapher/personal-remittances-received-of-gdp" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/explorers/migration?facet=none&Metric=Remittances+received+%28%25+of+GDP%29&country=~OWID_WRL" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
 </div>
