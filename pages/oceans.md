@@ -46,8 +46,7 @@ featuredImage: /img/uploads/14.svg
             <h3>Protect and restore ecosystems</h3>
             <p><strong>Definition:</strong> Indicator 14.2.1 is the <q>proportion of national exclusive economic zones managed using ecosystem-based approaches</q>.</p>
             <p><strong>Goal:</strong> <q>Sustainably manage and protect marine and coastal ecosystems to avoid significant adverse impacts</q> by 2020.<p>Unlike most SDGs, which are set for the year 2030, this indicator is targeted for 2020.</p>
-        </div>
-        <NoData/>
+        <div class="col-md"><iframe src="https://ourworldindata.org/grapher/countries-using-ecosystem-based-approaches-to-manage-marine-areas" style="width: 100%; height: 600px; border: 0px none;"></iframe></div>
     </div>
 </div>
 
