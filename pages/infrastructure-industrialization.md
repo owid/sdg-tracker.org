@@ -20,10 +20,10 @@ featuredImage: /img/uploads/9.svg
 <div class="target">
     <h2>Target 9.1: Develop sustainable, resilient and inclusive infrastructures</h2>
     <p>UN definition: <q>Develop quality, reliable, sustainable and resilient infrastructure, including regional and transborder infrastructure, to support economic development and human well-being, with a focus on affordable and equitable access for all.</q></p>
-    
+
 </div>
 
-<div class="indicator">
+<div class="indicator" id="9.1.1">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 9.1.1</span>
@@ -37,7 +37,7 @@ featuredImage: /img/uploads/9.svg
 
 <hr>
 
-<div class="indicator">
+<div class="indicator" id="9.1.2">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 9.1.2</span>
@@ -57,10 +57,10 @@ featuredImage: /img/uploads/9.svg
 <div class="target">
     <h2>Target 9.2: Promote inclusive and sustainable industrialization</h2>
     <p>UN definition: <q>Promote inclusive and sustainable industrialization and, by 2030, significantly raise industry’s share of employment and gross domestic product, in line with national circumstances, and double its share in least developed countries.</q></p>
-    
+
 </div>
 
-<div class="indicator">
+<div class="indicator" id="9.2.1">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 9.2.1</span>
@@ -76,7 +76,7 @@ featuredImage: /img/uploads/9.svg
 
 <hr>
 
-<div class="indicator">
+<div class="indicator" id="9.2.2">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 9.2.2</span>
@@ -97,10 +97,10 @@ employment</q>.<p>This indicator measures the manufacturing sector's employment 
 <div class="target">
     <h2>Target 9.3: Increase access to financial services and markets</h2>
     <p>UN definition: <q>Increase the access of small-scale industrial and other enterprises, in particular in developing countries, to financial services, including affordable credit, and their integration into value chains and markets.</q></p>
-    
+
 </div>
 
-<div class="indicator">
+<div class="indicator" id="9.3.1">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 9.3.1</span>
@@ -118,7 +118,7 @@ employment</q>.<p>This indicator measures the manufacturing sector's employment 
 
 <hr>
 
-<div class="indicator">
+<div class="indicator" id="9.3.2">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 9.3.2</span>
@@ -137,15 +137,15 @@ employment</q>.<p>This indicator measures the manufacturing sector's employment 
 <div class="target">
     <h2>Target 9.4: Upgrade all industries and infrastructures for sustainability</h2>
     <p>UN definition: <q>By 2030, upgrade infrastructure and retrofit industries to make them sustainable, with increased resource-use efficiency and greater adoption of clean and environmentally sound technologies and industrial processes, with all countries taking action in accordance with their respective capabilities.</q></p>
-    
+
 </div>
 
-<div class="indicator">
+<div class="indicator" id="9.4.1">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 9.4.1</span>
             <h3>CO<sub>2</sub> emissions per unit value added</h3>
-            <p><strong>Definition:</strong> Indicator 9.4.1 is <q>CO<sub>2</sub> emissions per unit of value added</q>.<p>This indicator is a measure of carbon intensity; it reports the quantity of carbon dioxide emissions generated per unit of economic value (kilograms of CO<sub>2</sub> emitted per dollar of GDP). 
+            <p><strong>Definition:</strong> Indicator 9.4.1 is <q>CO<sub>2</sub> emissions per unit of value added</q>.<p>This indicator is a measure of carbon intensity; it reports the quantity of carbon dioxide emissions generated per unit of economic value (kilograms of CO<sub>2</sub> emitted per dollar of GDP).
 </p>
             <p><strong>Goal:</strong> <q>By 2030, upgrade infrastructure and retrofit industries to make them sustainable, with increased resource-use efficiency and greater adoption of clean and environmentally sound technologies and industrial processes</q>.</p>
             <p><strong>More research:</strong> Further data and research on these topics are available at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions">CO<sub>2</sub> and other Greenhouse Gas Emissions</a>.</p>
@@ -159,15 +159,15 @@ employment</q>.<p>This indicator measures the manufacturing sector's employment 
 <div class="target">
     <h2>Target 9.5: Enhance research and upgrade industrial technologies</h2>
     <p>UN definition: <q>Enhance scientific research, upgrade the technological capabilities of industrial sectors in all countries, in particular developing countries, including, by 2030, encouraging innovation and substantially increasing the number of research and development workers per 1 million people and public and private research and development spending.</q></p>
-    
+
 </div>
 
-<div class="indicator">
+<div class="indicator" id="9.5.1">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 9.5.1</span>
             <h3>Research and Development (R&D) spending</h3>
-            <p><strong>Definition:</strong> Indicator 9.5.1 is <q>research and development expenditure as a proportion of GDP</q>.<p>This indicator measures expenditure on research and development (R&D) activities as a percentage of total gross domestic product (GDP) of a given country. <p>Expenditures for research and development are current and capital expenditures (both public and private) on creative work undertaken systematically to increase knowledge, including knowledge of humanity, culture, and society, and the use of knowledge for new applications. R&D covers basic research, applied research, and experimental development. 
+            <p><strong>Definition:</strong> Indicator 9.5.1 is <q>research and development expenditure as a proportion of GDP</q>.<p>This indicator measures expenditure on research and development (R&D) activities as a percentage of total gross domestic product (GDP) of a given country. <p>Expenditures for research and development are current and capital expenditures (both public and private) on creative work undertaken systematically to increase knowledge, including knowledge of humanity, culture, and society, and the use of knowledge for new applications. R&D covers basic research, applied research, and experimental development.
 </p>
             <p><strong>Goal:</strong> <q>Enhance scientific research, upgrade the technological capabilities of industrial sectors in all countries, in particular developing countries, including, by 2030, substantially increasing public and private research and development spending</q>.</p>
         </div>
@@ -179,7 +179,7 @@ employment</q>.<p>This indicator measures the manufacturing sector's employment 
 
 <hr>
 
-<div class="indicator">
+<div class="indicator" id="9.5.2">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 9.5.2</span>
@@ -197,7 +197,7 @@ employment</q>.<p>This indicator measures the manufacturing sector's employment 
 <div class="target">
     <h2>Target 9.A: Facilitate sustainable infrastructure development for developing countries</h2>
     <p>UN definition: <q>Facilitate sustainable and resilient infrastructure development in developing countries through enhanced financial, technological and technical support to African countries, least developed countries, landlocked developing countries and small island developing States.</q></p>
-    
+
 </div>
 
 <div class="indicator" id="9.A.1">
@@ -218,7 +218,7 @@ employment</q>.<p>This indicator measures the manufacturing sector's employment 
 <div class="target">
     <h2>Target 9.B: Support domestic technology development and industrial diversification</h2>
     <p>UN definition: <q>Support domestic technology development, research and innovation in developing countries, including by ensuring a conducive policy environment for, inter alia, industrial diversification and value addition to commodities.</q></p>
-    
+
 </div>
 
 <div class="indicator" id="9.B.1">
@@ -239,7 +239,7 @@ employment</q>.<p>This indicator measures the manufacturing sector's employment 
 <div class="target">
     <h2>Target 9.C: Universal access to information and communications technology</h2>
     <p>UN definition: <q>Significantly increase access to information and communications technology and strive to provide universal and affordable access to the Internet in least developed countries by 2020.</q></p>
-    
+
 </div>
 
 <div class="indicator" id="9.C.1">

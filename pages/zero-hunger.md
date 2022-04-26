@@ -30,10 +30,10 @@ featuredImage: /img/uploads/2.svg
 <div class="target">
     <h2>Target 2.1: Universal access to safe and nutritious food</h2>
     <p>UN definition: <q>End hunger, achieve food security and improved nutrition and promote sustainable agriculture.</q></p>
-    
+
 </div>
 
-<div class="indicator">
+<div class="indicator" id="2.1.1">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 2.1.1</span>
@@ -53,7 +53,7 @@ featuredImage: /img/uploads/2.svg
 
 <hr>
 
-<div class="indicator">
+<div class="indicator" id="2.1.2">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 2.1.2</span>
@@ -78,10 +78,10 @@ achieving, by 2025, the internationally agreed targets on
 stunting and wasting in children under 5 years of age, and
 address the nutritional needs of adolescent girls, pregnant
 and lactating women and older persons.</q></p>
-    
+
 </div>
 
-<div class="indicator">
+<div class="indicator" id="2.2.1">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 2.2.1</span>
@@ -100,12 +100,12 @@ and lactating women and older persons.</q></p>
 
 <hr>
 
-<div class="indicator">
+<div class="indicator" id="2.2.2">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 2.2.2</span>
             <h3>Prevalence of childhood malnutrition (wasting or overweight)</h3>
-            <p><strong>Definition:</strong> Indicator 2.2.2 is the <q>prevalence of malnutrition among children under 5 years of age, by type (wasting and overweight)</q>. <p>Being <a href="https://ourworldindata.org/hunger-and-undernourishment#too-little-weight-for-height-wasting">underweight (wasting)</a> or overweight are both defined as malnourished: 
+            <p><strong>Definition:</strong> Indicator 2.2.2 is the <q>prevalence of malnutrition among children under 5 years of age, by type (wasting and overweight)</q>. <p>Being <a href="https://ourworldindata.org/hunger-and-undernourishment#too-little-weight-for-height-wasting">underweight (wasting)</a> or overweight are both defined as malnourished:
 
 A child is defined as "wasted" if their weight-for-height is more than 2 standard deviations below the median of the WHO <i>Child Growth Standards</i>.
 
@@ -130,10 +130,10 @@ A child is defined as "overweight" if their weight-for-height is more than 2 sta
     <h2>Target 2.3: Double the productivity and incomes of small-scale food producers</h2>
     <p>UN definition: <q>By 2030, double the agricultural productivity and incomes of small-scale food producers, in particular women, indigenous peoples, family farmers, pastoralists and fishers, including through secure and equal access to land, other productive resources and inputs, knowledge, financial
 services, markets and opportunities for value addition and non-farm employment.</q></p>
-    
+
 </div>
 
-<div class="indicator">
+<div class="indicator" id="2.3.1">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 2.3.1</span>
@@ -150,7 +150,7 @@ services, markets and opportunities for value addition and non-farm employment.<
 
 <hr>
 
-<div class="indicator">
+<div class="indicator" id="2.3.2">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 2.3.2</span>
@@ -170,10 +170,10 @@ services, markets and opportunities for value addition and non-farm employment.<
 <div class="target">
     <h2>Target 2.4: Sustainable food production and resilient agricultural practices</h2>
     <p>UN definition: <q>By 2030, ensure sustainable food production systems and implement resilient agricultural practices that increase productivity and production, that help maintain ecosystems, that strengthen capacity for adaptation to climate change, extreme weather, drought, flooding and other disasters and that progressively improve land and soil quality.</q></p>
-    
+
 </div>
 
-<div class="indicator">
+<div class="indicator" id="2.4.1">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 2.4.1</span>
@@ -192,10 +192,10 @@ services, markets and opportunities for value addition and non-farm employment.<
 <div class="target">
     <h2>Target 2.5: Maintain the genetic diversity in food production</h2>
     <p>UN definition: <q>By 2020, maintain the genetic diversity of seeds, cultivated plants and farmed and domesticated animals and their related wild species, including through soundly managed and diversified seed and plant banks at the national, regional and international levels, and promote access to and fair and equitable sharing of benefits arising from the utilization of genetic resources and associated traditional knowledge, as internationally agreed.</q></p>
-    
+
 </div>
 
-<div class="indicator">
+<div class="indicator" id="2.5.1">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 2.5.1</span>
@@ -213,7 +213,7 @@ services, markets and opportunities for value addition and non-farm employment.<
 
 <hr>
 
-<div class="indicator">
+<div class="indicator" id="2.5.2">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 2.5.2</span>
@@ -231,7 +231,7 @@ services, markets and opportunities for value addition and non-farm employment.<
 <div class="target">
     <h2>Target 2.A: Invest in rural infrastructure, agricultural research, technology and gene banks </h2>
     <p>UN definition: <q>Increase investment, including through enhanced international cooperation, in rural infrastructure, agricultural research and extension services, technology development and plant and livestock gene banks in order to enhance agricultural productive capacity in developing countries, in particular least developed countries.</q></p>
-    
+
 </div>
 
 <div class="indicator" id="2.A.1">
@@ -240,7 +240,7 @@ services, markets and opportunities for value addition and non-farm employment.<
             <span>SDG Indicator 2.A.1</span>
             <h3>Agriculture orientation index</h3>
             <p><strong>Definition:</strong> Indicator 2.A.1 is the <q>agriculture orientation index for government expenditures</q>. <p>The agriculture orientation index (AOI) is the agriculture share of government expenditures, divided by the agriculture share of GDP.
-<p>An AOI larger than 1 means the agriculture section receives a higher share of government spending relative to its economic value. 
+<p>An AOI larger than 1 means the agriculture section receives a higher share of government spending relative to its economic value.
 
 An AOI smaller than 1 reflects a lower orientation to agriculture.</p>
             <p><strong>Goal:</strong> By 2030 <q>Increase investment, including through enhanced international cooperation, in rural infrastructure, agricultural research and extension services, technology development and plant and livestock gene banks in order to enhance agricultural productive capacity in developing countries, in particular least developed countries</q>.</p>
@@ -271,7 +271,7 @@ An AOI smaller than 1 reflects a lower orientation to agriculture.</p>
 <div class="target">
     <h2>Target 2.B: Prevent agricultural trade restrictions, market distortions and export subsidies</h2>
     <p>UN definition: <q>Correct and prevent trade restrictions and distortions in world agricultural markets, including through the parallel elimination of all forms of agricultural export subsidies and all export measures with equivalent effect, in accordance with the mandate of the Doha Development Round.</q></p>
-    
+
 </div>
 
 <div class="indicator" id="2.B.1">
@@ -293,7 +293,7 @@ An AOI smaller than 1 reflects a lower orientation to agriculture.</p>
 <div class="target">
     <h2>Target 2.C: Ensure stable food commodity markets and timely access to information</h2>
     <p>UN definition: <q>Adopt measures to ensure the proper functioning of food commodity markets and their derivatives and facilitate timely access to market information, including on food reserves, in order to help limit extreme food price volatility.</q></p>
-    
+
 </div>
 
 <div class="indicator" id="2.C.1">

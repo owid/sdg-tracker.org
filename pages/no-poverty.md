@@ -24,10 +24,10 @@ featuredImage: /img/uploads/1.svg
 <div class="target">
     <h2>Target 1.1: Eradicate extreme poverty</h2>
     <p>UN definition: <q>By 2030, eradicate extreme poverty for all people everywhere, currently measured as people living on less than $1.90 a day.</q></p>
-    
+
 </div>
 
-<div class="indicator">
+<div class="indicator" id="1.1.1">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 1.1.1</span>
@@ -54,10 +54,10 @@ This poverty line is measured in "international dollars" which are a hypothetica
     <p>UN definition: <q>By 2030, reduce at least by half the proportion of men,
 women and children of all ages living in poverty in all its
 dimensions according to national definitions.</q></p>
-    
+
 </div>
 
-<div class="indicator">
+<div class="indicator" id="1.2.1">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 1.2.1</span>
@@ -77,7 +77,7 @@ dimensions according to national definitions.</q></p>
 
 <hr>
 
-<div class="indicator">
+<div class="indicator" id="1.2.2">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 1.2.2</span>
@@ -97,10 +97,10 @@ dimensions according to national definitions.</q></p>
     <p>UN definition: <q>Implement nationally appropriate social protection
 systems and measures for all, including floors, and by 2030
 achieve substantial coverage of the poor and the vulnerable.</q></p>
-    
+
 </div>
 
-<div class="indicator">
+<div class="indicator" id="1.3.1">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 1.3.1</span>
@@ -108,7 +108,7 @@ achieve substantial coverage of the poor and the vulnerable.</q></p>
             <p><strong>Definition:</strong> Indicator 1.3.1 is the <q>proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable</q>.<p>This is shown here as the percentage of the population covered by social insurance programs which provide old age pensions, social security and health insurance benefits.</p>
             <p><strong>Goal:</strong> <q>Implement nationally appropriate social protection systems and measures for all, including floors, and by 2030
 achieve substantial coverage of the poor and the vulnerable</q>.</p>
-            <p><strong>Additional charts:</strong> 
+            <p><strong>Additional charts:</strong>
 <br><a href="https://ourworldindata.org/grapher/adequacy-of-social-insurance-programs">Adequacy of social insurance systems</a>
 <br><a href="https://ourworldindata.org/grapher/adequacy-of-unemployment-benefits">Adequacy of unemployment benefits</a>
 <br><a href="https://ourworldindata.org/grapher/adequacy-of-social-safety-net-programs">Adequacy of social safety net programs</a>
@@ -122,10 +122,10 @@ achieve substantial coverage of the poor and the vulnerable</q>.</p>
 <div class="target">
     <h2>Target 1.4: Equal rights to ownership, basic services, technology and economic resources</h2>
     <p>UN definition: <q>By 2030, ensure that all men and women, in particular the poor and the vulnerable, have equal rights to economic resources, as well as access to basic services, ownership and control over land and other forms of property, inheritance, natural resources, appropriate new technology and financial services, including microfinance.</q></p>
-    
+
 </div>
 
-<div class="indicator">
+<div class="indicator" id="1.4.1">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 1.4.1</span>
@@ -135,7 +135,7 @@ achieve substantial coverage of the poor and the vulnerable</q>.</p>
 <p>Here we show the share of the world population with access to basic services, including improved drinking water, sanitation, electricity, and clean cooking fuels. (It is possible to change the perspective to other countries and world regions with the option below the chart.)</p>
             <p><strong>Goal:</strong> By 2030 <q>ensure that all men and women, in particular the poor and the vulnerable, have access to basic services</q>. This sets a target of universal access to basic services for all households.</p>
            <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> entries on <a href="https://ourworldindata.org/water-access-resources-sanitation">Water Access, Consumption & Sanitation</a>, <a href="https://ourworldindata.org/energy-production-and-changing-energy-sources">Energy Production & Changing Energy Sources</a>, and <a href="https://ourworldindata.org/indoor-air-pollution">Indoor Air Pollution</a>.</p>
-            <p><strong>Additional charts:</strong> 
+            <p><strong>Additional charts:</strong>
 <br><a href="https://ourworldindata.org/grapher/share-of-the-population-with-access-to-electricity">Access to electricity</a>
 <br><a href="https://ourworldindata.org/grapher/access-to-clean-fuels-and-technologies-for-cooking">Access to clean cooking fuels</a>
 <br><a href="https://ourworldindata.org/grapher/share-using-safely-managed-sanitation">Access to safe sanitation</a>
@@ -149,7 +149,7 @@ achieve substantial coverage of the poor and the vulnerable</q>.</p>
 
 <hr>
 
-<div class="indicator">
+<div class="indicator" id="1.4.2">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 1.4.2</span>
@@ -166,10 +166,10 @@ achieve substantial coverage of the poor and the vulnerable</q>.</p>
 <div class="target">
     <h2>Target 1.5: Build resilience to environmental, economic and social disasters</h2>
     <p>UN definition: <q>By 2030, build the resilience of the poor and those in vulnerable situations and reduce their exposure and vulnerability to climate-related extreme events and other economic, social and environmental shocks and disasters.</q></p>
-    
+
 </div>
 
-<div class="indicator">
+<div class="indicator" id="1.5.1">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 1.5.1</span>
@@ -193,7 +193,7 @@ achieve substantial coverage of the poor and the vulnerable</q>.</p>
 
 <hr>
 
-<div class="indicator">
+<div class="indicator" id="1.5.2">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 1.5.2</span>
@@ -216,7 +216,7 @@ achieve substantial coverage of the poor and the vulnerable</q>.</p>
 
 <hr>
 
-<div class="indicator">
+<div class="indicator" id="1.5.3">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 1.5.3</span>
@@ -225,7 +225,7 @@ achieve substantial coverage of the poor and the vulnerable</q>.</p>
 <p>This is shown here as a map of countries who have and have not yet adopted legislative provisions for managing disaster risk in line with theSendai Framework for Disaster Risk Reduction 2015–2030.</p>
             <p><strong>Goal:</strong> By 2030 <q>build the resilience of the poor and those in vulnerable situations and reduce their exposure and vulnerability to climate-related extreme events and other environmental disasters</q>.<p>The target is to have universal adoption of national disaster risk reduction strategies by 2030.</p>
            <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/natural-catastrophes">natural catastrophes</a>.</p>
-            <p><strong>Additional charts:</strong> 
+            <p><strong>Additional charts:</strong>
 <br><a href="https://ourworldindata.org/grapher/disaster-risk-reduction-progress">Disaster risk reduction score</a>
         </div>
         <div class="col-md">
@@ -236,7 +236,7 @@ achieve substantial coverage of the poor and the vulnerable</q>.</p>
 
 <hr>
 
-<div class="indicator">
+<div class="indicator" id="1.5.4">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 1.5.4</span>
@@ -257,7 +257,7 @@ achieve substantial coverage of the poor and the vulnerable</q>.</p>
     <h2>Target 1.a: Mobilisation of resources to end poverty</h2>
     <p>UN definition: <q>Ensure significant mobilization of resources from a
 variety of sources, including through enhanced development cooperation, in order to provide adequate and predictable means for developing countries, in particular least developed countries, to implement programmes and policies to end poverty in all its dimensions</q></p>
-    
+
 </div>
 
 <div class="indicator" id="1.a.1">
@@ -289,7 +289,7 @@ variety of sources, including through enhanced development cooperation, in order
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/health-expenditure-government-expenditure" style="width: 100%; height: 600px; border: 0px none;"></iframe>
-            <iframe src="https://ourworldindata.org/grapher/share-of-education-in-government-expenditure" style="width: 100%; height: 600px; border: 0px none;"></iframe> 
+            <iframe src="https://ourworldindata.org/grapher/share-of-education-in-government-expenditure" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
 </div>
