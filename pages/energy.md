@@ -24,7 +24,7 @@ featuredImage: /img/uploads/7.svg
     <p>UN definition: <q>By 2030, ensure universal access to affordable, reliable and modern energy services.</q></p>
 </div>
 
-<div class="indicator">
+<div class="indicator" id="7.1.1">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 7.1.1</span>
@@ -32,7 +32,7 @@ featuredImage: /img/uploads/7.svg
             <p><strong>Definition:</strong> Indicator 7.1.1 is the <q>proportion of population with access to electricity</q>.<p>This is measured as the share of people with electricity access at the household level. It comprises electricity sold commercially, both on-grid and off-grid. </p>
             <p><strong>Goal:</strong> <q>By 2030 ensure universal access to affordable, reliable and modern energy services</q>.<p>This requires universal access to electricity by 2030.</p>
             <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/energy-production-and-changing-energy-sources">Energy Production & Changing Energy Sources</a>.</p>
-            <p><strong>Additional charts:</strong> <br><a href="https://ourworldindata.org/grapher/share-of-rural-population-with-electricity-access-vs-share-of-total-population-with-electricity-access">Electricity access, urban vs. rural</a> 
+            <p><strong>Additional charts:</strong> <br><a href="https://ourworldindata.org/grapher/share-of-rural-population-with-electricity-access-vs-share-of-total-population-with-electricity-access">Electricity access, urban vs. rural</a>
 <br><a href="https://ourworldindata.org/grapher/number-of-people-with-and-without-electricity-access">Number of people with and without electricity access</a>
 <br><a href="https://ourworldindata.org/grapher/power-outages-in-firms-per-month">Power outages</a></p>
         </div>
@@ -44,7 +44,7 @@ featuredImage: /img/uploads/7.svg
 
 <hr>
 
-<div class="indicator">
+<div class="indicator" id="7.1.2">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 7.1.2</span>
@@ -52,7 +52,7 @@ featuredImage: /img/uploads/7.svg
             <p><strong>Definition:</strong> Indicator 7.1.2 is the <q>proportion of population with primary reliance on clean fuels and technology</q>.<p>This is measured as the share of the total population with access to clean fuels and technologies for cooking. Access to clean fuels or technologies such as clean cookstoves reduce exposure to indoor air pollutants, a leading cause of death in low-income households.</p>
             <p><strong>Goal:</strong> <q>By 2030 ensure universal access to affordable, reliable and modern energy services</q>.<p>This requires universal access to clean fuels and technologies for cooking by 2030.</p>
             <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/indoor-air-pollution">Indoor Air Pollution</a>.</p>
-            <p><strong>Additional charts:</strong> <br><a href="https://ourworldindata.org/grapher/share-of-rural-population-with-electricity-access-vs-share-of-total-population-with-electricity-access">Electricity access, urban vs. rural</a> 
+            <p><strong>Additional charts:</strong> <br><a href="https://ourworldindata.org/grapher/share-of-rural-population-with-electricity-access-vs-share-of-total-population-with-electricity-access">Electricity access, urban vs. rural</a>
 <br><a href="https://ourworldindata.org/grapher/number-of-people-with-and-without-electricity-access">Number of people with and without electricity access</a>
 <br><a href="https://ourworldindata.org/grapher/power-outages-in-firms-per-month">Power outages</a></p>
         </div>
@@ -65,10 +65,10 @@ featuredImage: /img/uploads/7.svg
 <div class="target">
     <h2>Target 7.2: Increase global percentage of renewable energy</h2>
     <p>UN definition: <q>By 2030, increase substantially the share of renewable energy in the global energy mix.</q></p>
-    
+
 </div>
 
-<div class="indicator">
+<div class="indicator" id="7.2.1">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 7.2.1</span>
@@ -76,7 +76,7 @@ featuredImage: /img/uploads/7.svg
             <p><strong>Definition:</strong> Indicator 7.2.1 is <q>renewable energy share in the total final energy consumption</q>.<p>This is measured as renewable energy (inclusive of solar, wind, geothermal, hydropower, bioenergy and marine sources) as a share of final (not primary) energy consumption. Energy mix includes electricity, transportation and cooking/heating fuels.</p>
             <p><strong>Goal:</strong> <q>By 2030, increase substantially the share of renewable energy in the global energy mix</q>.</p>
             <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> entries on <a href="https://ourworldindata.org/energy-production-and-changing-energy-sources">Energy Production & Changing Energy Sources</a> and <a href="https://ourworldindata.org/renewables">Renewables</a>.</p>
-            <p><strong>Additional charts:</strong> <br><a href="https://ourworldindata.org/grapher/electricity-prod-source-stacked">Electricity share by fuel source</a> 
+            <p><strong>Additional charts:</strong> <br><a href="https://ourworldindata.org/grapher/electricity-prod-source-stacked">Electricity share by fuel source</a>
 </p>
         </div>
         <div class="col-md">
@@ -91,7 +91,7 @@ featuredImage: /img/uploads/7.svg
 
 </div>
 
-<div class="indicator">
+<div class="indicator" id="7.3.1">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 7.3.1</span>
@@ -99,7 +99,7 @@ featuredImage: /img/uploads/7.svg
             <p><strong>Definition:</strong> Indicator 7.3.1 is <q>energy intensity measured in terms of primary energy and GDP</q>.<p>This is measured as the energy intensity of economies (collectively across all sectors). Energy intensity is measured as the quantity of kilowatt-hours produced per 2011 international-$ of gross domestic product (kWh per 2011 int-$).</p>
             <p><strong>Goal:</strong> <q>By 2030, double the global rate of improvement in energy efficiency</q>.</p>
             <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/energy-production-and-changing-energy-sources">Energy Production & Changing Energy Sources</a>.</p>
-            <p><strong>Additional charts:</strong> <br><a href="https://ourworldindata.org/grapher/energy-intensity-by-sector">Energy intensity by sector</a> 
+            <p><strong>Additional charts:</strong> <br><a href="https://ourworldindata.org/grapher/energy-intensity-by-sector">Energy intensity by sector</a>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/energy-intensity-of-economies" style="width: 100%; height: 600px; border: 0px none;"></iframe>

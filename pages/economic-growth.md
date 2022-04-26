@@ -22,10 +22,10 @@ featuredImage: /img/uploads/8.svg
 <div class="target">
     <h2>Target 8.1: Sustainable Economic Growth</h2>
     <p>UN definition: <q>Sustain per capita economic growth in accordance with national circumstances and, in particular, at least 7 per cent gross domestic product growth per annum in the least developed countries.</q></p>
-    
+
 </div>
 
-<div class="indicator">
+<div class="indicator" id="8.1.1">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 8.1.1</span>
@@ -44,10 +44,10 @@ featuredImage: /img/uploads/8.svg
 <div class="target">
     <h2>Target 8.2: Diversify, innovate and upgrade for economic productivity</h2>
     <p>UN definition: <q>Achieve higher levels of economic productivity through diversification, technological upgrading and innovation, including through a focus on high-value added and labour-intensive sectors.</q></p>
-    
+
 </div>
 
-<div class="indicator">
+<div class="indicator" id="8.2.1">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 8.2.1</span>
@@ -66,10 +66,10 @@ featuredImage: /img/uploads/8.svg
 <div class="target">
     <h2>Target 8.3: Promote policies to support job creation and growing enterprises</h2>
     <p>UN definition: <q>Promote development-oriented policies that support productive activities, decent job creation, entrepreneurship, creativity and innovation, and encourage the formalization and growth of micro-, small- and medium-sized enterprises, including through access to financial services.</q></p>
-    
+
 </div>
 
-<div class="indicator">
+<div class="indicator" id="8.3.1">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 8.3.1</span>
@@ -90,7 +90,7 @@ featuredImage: /img/uploads/8.svg
     <p>UN definition: <q>Improve progressively, through 2030, global resource efficiency in consumption and production and endeavour to decouple economic growth from environmental degradation, in accordance with the 10‑Year Framework of Programmes on Sustainable Consumption and Production, with developed countries taking the lead.</q></p>
 </div>
 
-<div class="indicator">
+<div class="indicator" id="8.4.1">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 8.4.1</span>
@@ -107,7 +107,7 @@ featuredImage: /img/uploads/8.svg
 
 <hr>
 
-<div class="indicator">
+<div class="indicator" id="8.4.2">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 8.4.2</span>
@@ -125,10 +125,10 @@ featuredImage: /img/uploads/8.svg
 <div class="target">
     <h2>Target 8.5: Full employment and decent work with equal pay</h2>
     <p>UN definition: <q>By 2030, achieve full and productive employment and decent work for all women and men, including for young people and persons with disabilities, and equal pay for work of equal value.</q></p>
-    
+
 </div>
 
-<div class="indicator">
+<div class="indicator" id="8.5.1">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 8.5.1</span>
@@ -146,7 +146,7 @@ featuredImage: /img/uploads/8.svg
 
 <hr>
 
-<div class="indicator">
+<div class="indicator" id="8.5.2">
 <div class="row">
 <div class="col-md">
 <span>SDG Indicator 8.5.2</span>
@@ -164,10 +164,10 @@ featuredImage: /img/uploads/8.svg
 <div class="target">
     <h2>Target 8.6: Promote youth employment, education and training</h2>
     <p>UN definition: <q>By 2020, substantially reduce the proportion of youth not in employment, education or training.</q></p>
-    
+
 </div>
 
-<div class="indicator">
+<div class="indicator" id="8.6.1">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 8.6.1</span>
@@ -185,10 +185,10 @@ featuredImage: /img/uploads/8.svg
 <div class="target">
     <h2>Target 8.7: End modern slavery, trafficking, and child labour</h2>
     <p>UN definition: <q>Take immediate and effective measures to eradicate forced labour, end modern slavery and human trafficking and secure the prohibition and elimination of the worst forms of child labour, including recruitment and use of child soldiers, and by 2025 end child labour in all its forms.</q></p>
-    
+
 </div>
 
-<div class="indicator">
+<div class="indicator" id="8.7.1">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 8.7.1</span>
@@ -208,10 +208,10 @@ featuredImage: /img/uploads/8.svg
 <div class="target">
     <h2>Target 8.8: Protect labour rights and promote safe working environments</h2>
     <p>UN definition: <q>Protect labour rights and promote safe and secure working environments for all workers, including migrant workers, in particular women migrants, and those in precarious employment.</q></p>
-    
+
 </div>
 
-<div class="indicator">
+<div class="indicator" id="8.8.1">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 8.8.1</span>
@@ -228,7 +228,7 @@ featuredImage: /img/uploads/8.svg
 
 <hr>
 
-<div class="indicator">
+<div class="indicator" id="8.8.2">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 8.8.2</span>
@@ -243,10 +243,10 @@ featuredImage: /img/uploads/8.svg
 <div class="target">
     <h2>Target 8.9: Promote beneficial and sustainable tourism</h2>
     <p>UN definition: <q>By 2030, devise and implement policies to promote sustainable tourism that creates jobs and promotes local culture and products.</q></p>
-    
+
 </div>
 
-<div class="indicator">
+<div class="indicator" id="8.9.1">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 8.9.1</span>
@@ -254,7 +254,7 @@ featuredImage: /img/uploads/8.svg
             <p><strong>Definition:</strong> Indicator 8.9.1 is <q>tourism direct GDP as a proportion of total GDP and in growth rate</q>.</p>
             <p><strong>Goal:</strong> <q>By 2030, devise and implement policies to promote sustainable tourism that creates jobs and promotes local culture and products</q>.</p>
             <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/tourism">Tourism</a>.</p>
-            <p><strong>Additional charts:</strong> <br><a href="https://ourworldindata.org/grapher/international-tourism-number-of-arrivals">Number of tourist arrivals</a></p>      
+            <p><strong>Additional charts:</strong> <br><a href="https://ourworldindata.org/grapher/international-tourism-number-of-arrivals">Number of tourist arrivals</a></p>
         </div>
          <div class="col-md">            <iframe src="https://ourworldindata.org/grapher/tourism-gdp-proportion-of-total-gdp" style="width: 100%; height: 600px; border: 0px none;"></iframe></div>
     </div>
@@ -263,7 +263,7 @@ featuredImage: /img/uploads/8.svg
 <div class="target">
     <h2>Target 8.10: Universal access to banking, insurance and financial services</h2>
     <p>UN definition: <q>Strengthen the capacity of domestic financial institutions to encourage and expand access to banking, insurance and financial services for all.</q></p>
-    
+
 </div>
 
 <div class="indicator" id="8.10.1">
@@ -290,7 +290,7 @@ featuredImage: /img/uploads/8.svg
             <h3>Population with financial account</h3>
             <p><strong>Definition:</strong> Indicator 8.10.2 is the <q>proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider</q>.<p>Data presented here details the percentage of adults (aged 15 and older) who report having an account (by themselves or together with someone else) at a bank or another type of financial institution.</p>
             <p><strong>Goal:</strong> <q>Encourage and expand access to banking, insurance and financial services for all</q> by 2030.</p>
-            <p><strong>Additional charts:</strong> <br><a href="https://ourworldindata.org/grapher/registered-mobile-money-accounts-by-region">Registered mobile money reports by region</a></p> 
+            <p><strong>Additional charts:</strong> <br><a href="https://ourworldindata.org/grapher/registered-mobile-money-accounts-by-region">Registered mobile money reports by region</a></p>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/account-at-financial-institution" style="width: 100%; height: 600px; border: 0px none;"></iframe>
@@ -301,7 +301,7 @@ featuredImage: /img/uploads/8.svg
 <div class="target">
     <h2>Target 8.A: Increase aid for trade support</h2>
     <p>UN definition: <q>Increase Aid for Trade support for developing countries, in particular least developed countries, including through the Enhanced Integrated Framework for Trade-related Technical Assistance to Least Developed Countries.</q></p>
-    
+
 </div>
 
 <div class="indicator" id="8.A.1">
@@ -311,7 +311,7 @@ featuredImage: /img/uploads/8.svg
             <h3>Aid for trade</h3>
             <p><strong>Definition:</strong> Indicator 8.A.1 is <q>aid for trade commitments and disbursements</q>.<p>Aid for Trade is reported here by recipient, as well as by donor country. This is measured as total Official Development Assistance (ODA) allocated to aid for trade in constant US$.</p>
             <p><strong>Goal:</strong> <q>Increase Aid for Trade support for developing countries</q> by 2030.</p>
-            <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/international-trade">International Trade</a>.</p>    
+            <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/international-trade">International Trade</a>.</p>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/total-oda-for-aid-for-trade-by-recipient" style="width: 100%; height: 600px; border: 0px none;"></iframe>
@@ -323,7 +323,7 @@ featuredImage: /img/uploads/8.svg
 <div class="target">
     <h2>Target 8.B: Develop a global youth employment strategy</h2>
     <p>UN definition: <q>By 2020, develop and operationalize a global strategy for youth employment and implement the Global Jobs Pact of the International Labour Organization.</q></p>
-    
+
 </div>
 
 <div class="indicator" id="8.B.1">
@@ -332,7 +332,7 @@ featuredImage: /img/uploads/8.svg
             <span>SDG Indicator 8.B.1</span>
             <h3>Youth employment strategy</h3>
             <p><strong>Definition:</strong> Indicator 8.B.1 is the <q>Existence of a developed and operationalized national strategy for youth employment</q>.</p>
-            <p><strong>Goal:</strong> <q>Develop and operationalize a global strategy for youth employment</q>.<p>Unlike most SDG targets with a target for 2030, the goal date for this indicator is 2020.</p>    
+            <p><strong>Goal:</strong> <q>Develop and operationalize a global strategy for youth employment</q>.<p>Unlike most SDG targets with a target for 2030, the goal date for this indicator is 2020.</p>
         </div>
         <div class="col-md"><iframe src="https://ourworldindata.org/grapher/national-strategy-for-youth-employment" style="width: 100%; height: 600px; border: 0px none;"></iframe></div>
     </div>

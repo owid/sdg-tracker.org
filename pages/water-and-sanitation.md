@@ -25,10 +25,10 @@ featuredImage: /img/uploads/6.svg
 <div class="target">
     <h2>Target 6.1: Safe and affordable drinking water</h2>
     <p>UN definition: <q>By 2030, achieve universal and equitable access to safe and affordable drinking water for all.</q></p>
-    
+
 </div>
 
-<div class="indicator">
+<div class="indicator" id="6.1.1">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 6.1.1</span>
@@ -36,7 +36,7 @@ featuredImage: /img/uploads/6.svg
             <p><strong>Definition:</strong> Indicator 6.1.1 is the <q>Proportion of population using safely managed drinking water services</q>.<p>A safely managed drinking water service is defined as one located on premises, available when needed and free from contamination.</p>
             <p><strong>Goal:</strong> By 2030 achieve universal and equitable access to safe and affordable drinking water for all</q>.</p>
             <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/water-access-resources-sanitation">Water Access, Resources & Sanitation</a>.</p>
-            <p><strong>Additional charts:</strong> 
+            <p><strong>Additional charts:</strong>
 <br><a href="https://ourworldindata.org/explorers/water-and-sanitation?facet=none&Resource=Drinking+water&Level+of+Access=Safely+managed&Residence=Total&Relative+to+population=Number+of+people&country=IND~USA~KEN~OWID_WRL~BGD~ZAF~CHN">Number of people with access to safely managed drinking water</a>
 <br><a href="https://ourworldindata.org/grapher/urban-vs-rural-safely-managed-drinking-water-source">Safely managed drinking water, rural vs. urban</a>
 <br><a href="https://ourworldindata.org/grapher/drinking-water-services-coverage-urban">Drinking water service coverage in urban areas</a>
@@ -57,7 +57,7 @@ featuredImage: /img/uploads/6.svg
 
 </div>
 
-<div class="indicator">
+<div class="indicator" id="6.2.1">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 6.2.1</span>
@@ -65,7 +65,7 @@ featuredImage: /img/uploads/6.svg
             <p><strong>Definition:</strong> Indicator 6.2.1 is the <q>Proportion of population using (a) safely managed sanitation services and (b) a hand-washing facility with soap and water</q>.<p>This is measured as the share of the population using safely managed sanitation facilities and at least basic handwashing facilities. <p>A safely managed sanitation facility is one where excreta is safely disposed of in situ or treated off-site. A basic handwashing facility is defined by a device to contain, transport or regulate the flow of water to facilitate handwashing with soap and water in the household.</p>
             <p><strong>Goal:</strong> By 2030 achieve access to adequate and equitable sanitation and hygiene for all and end open defecation</q>.</p>
             <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/water-access-resources-sanitation">Water Access, Resources & Sanitation</a>.</p>
-            <p><strong>Additional charts:</strong> 
+            <p><strong>Additional charts:</strong>
 <br><a href="https://ourworldindata.org/grapher/safe-sanitation-without">Number of people without safely managed sanitation facilities</a>
 <br><a href="https://ourworldindata.org/grapher/urban-vs-rural-population-safely-managed-sanitation">Safely managed sanitation facilities, urban vs. rural</a>
 <br><a href="https://ourworldindata.org/grapher/sanitation-facilities-coverage-in-urban-areas">Sanitation facilities coverage in urban areas</a>
@@ -86,7 +86,7 @@ featuredImage: /img/uploads/6.svg
 
 </div>
 
-<div class="indicator">
+<div class="indicator" id="6.3.1">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 6.3.1</span>
@@ -105,7 +105,7 @@ featuredImage: /img/uploads/6.svg
 
 <hr>
 
-<div class="indicator">
+<div class="indicator" id="6.3.2">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 6.3.2</span>
@@ -129,7 +129,7 @@ featuredImage: /img/uploads/6.svg
 
 </div>
 
-<div class="indicator">
+<div class="indicator" id="6.4.1">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 6.4.1</span>
@@ -146,7 +146,7 @@ featuredImage: /img/uploads/6.svg
 
 <hr>
 
-<div class="indicator">
+<div class="indicator" id="6.4.2">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 6.4.2</span>
@@ -170,7 +170,7 @@ featuredImage: /img/uploads/6.svg
 
 </div>
 
-<div class="indicator">
+<div class="indicator" id="6.5.1">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 6.5.1</span>
@@ -187,7 +187,7 @@ featuredImage: /img/uploads/6.svg
 
 <hr>
 
-<div class="indicator">
+<div class="indicator" id="6.5.2">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 6.5.2</span>
@@ -210,7 +210,7 @@ operational arrangement for water cooperation</q>.
 
 </div>
 
-<div class="indicator">
+<div class="indicator" id="6.6.1">
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 6.6.1</span>
