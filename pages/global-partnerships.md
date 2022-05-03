@@ -188,7 +188,9 @@ featuredImage: /img/uploads/17.svg
             <p><strong>Definition:</strong> Indicator 17.7.1 is the <q>total amount of approved funding for developing countries to promote the development, transfer, dissemination and diffusion of environmentally sound technologies</q>.</p>
             <p><strong>Goal:</strong> <q>Promote the development, transfer, dissemination and diffusion of environmentally sound technologies to developing countries</q> by 2030.</p>
         </div>
-        <NoData/>
+        <div class="col-md">
+            <iframe src="https://ourworldindata.org/grapher/export-of-environmentally-sound-technologies" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        </div>
     </div>
 </div>
 
