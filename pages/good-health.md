@@ -398,13 +398,13 @@ reproductive health into national strategies and programmes.</q></p>
         <div class="col-md">
             <span>SDG Indicator 3.7.2</span>
             <h3>Adolescent birth rate</h3>
-            <p><strong>Definition:</strong> Indicator 3.7.2 is the <q>adolescent birth rate (aged 10–14 years; aged 15–19 years) per 1,000 women in that age group</q>. <p>Adolescent birth rates per 1,000 women aged 15-19 years old are shown here. Data on birth rates for girls aged 10-14 years old are not available.</p>
+            <p><strong>Definition:</strong> Indicator 3.7.2 is the <q>adolescent birth rate (aged 10–14 years; aged 15–19 years) per 1,000 women in that age group</q>. <p>Adolescent birth rates per 1,000 women aged 10-14 years old and 15-19 years old are shown here.</p>
             <p><strong>Goal:</strong> By 2030 <q>ensure universal access to sexual and reproductive healthcare services, including for family planning.</q>
 
 <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/fertility-rate">Fertility Rate</a>.</p>
         </div>
         <div class="col-md">
-            <iframe src="https://ourworldindata.org/grapher/adolescent-fertility-ihme" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/adolescent-fertility-ihme" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/adolescent-fertility-ihme-15-19" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
 </div>
