@@ -117,7 +117,7 @@ by sex, age and cause</q>.</p>
             <p><strong>Definition:</strong> Indicator 16.2.1 is the <q>proportion of children aged 1–17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month</q>.</p>
             <p>Data for this indicator measures the percentage of children aged 14 years and younger who experienced violence from a caregiver in the previous month. Data on violence to adolescents older than 14 years, or violence outside of the home is not available.</p>
             <p><strong>Goal:</strong> <q>Protect children from abuse, exploitation, trafficking and violence</q> across all countries by 2030.</p>
-            <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/violence-against-children">Violence Against & Rights for Children</a>.</p>
+            <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/violence-against-rights-for-children">Violence Against & Rights for Children</a>.</p>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/violence-against-children?tab=map" style="width: 100%; height: 600px; border: 0px none;"></iframe>
