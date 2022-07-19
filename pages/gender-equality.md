@@ -162,9 +162,6 @@ featuredImage: /img/uploads/5.svg
             <h3>Women in political positions</h3>
             <p><strong>Definition:</strong> Indicator 5.5.1 is the <q>proportion of seats held by women in (a) national parliaments and (b) local governments</q>. <p>This is measured as the share of national parliamentary seats, and ministerial positions held by women for each country in a given year.</p>
             <p><strong>Goal:</strong> By 2030 <q>ensure women’s full and effective participation and equal opportunities for leadership at all levels of decision-making in political life</q>.</p>
-            <p><strong>Additional charts:</strong>
-<br><a href="https://ourworldindata.org/grapher/countries-that-have-ever-elected-a-woman-to-parliament">Countries that have ever elected a woman to parliament</a></p>
-        </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/seats-held-by-women-in-national-parliaments" style="width: 100%; height: 600px; border: 0px none;"></iframe>
             <iframe src="https://ourworldindata.org/grapher/proportion-of-women-in-ministerial-positions" style="width: 100%; height: 600px; border: 0px none;"></iframe>
