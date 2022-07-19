@@ -237,7 +237,7 @@ featuredImage: /img/uploads/10.svg
             <h3>Remittance costs</h3>
             <p><strong>Definition:</strong> Indicator 10.C.1 is the <q>remittance costs as a proportion of the amount remitted</q>.<p>Remittance costs as a proportion of the amount of money remitted. Remittances are financial transfers from non-residents to residents of a country, such as a worker abroad sending money to family and friends, or from short-term, seasonal work in another country.
             <p><strong>Goal:</strong> By 2030 <q>reduce to less than 3 per cent the transaction costs of migrant remittances and eliminate remittance corridors with costs higher than 5 per cent</q> across all regions and countries.</p>
-           <p><strong>Additional charts:</strong> <br><a href="https://ourworldindata.org/grapher/personal-remittances-received-of-gdp">Remittances (% of GDP)</a></p>
+           <p><strong>Additional charts:</strong> <br><a href="https://ourworldindata.org/explorers/migration?facet=none&Metric=Remittances+received+%28%25+of+GDP%29&Period=Total&Sub-metric=Total">Remittances (% of GDP)</a></p>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/remittance-costs-as-share-of-amount-remitted" style="width: 100%; height: 600px; border: 0px none;"></iframe>
