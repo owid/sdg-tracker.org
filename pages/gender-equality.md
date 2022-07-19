@@ -37,7 +37,7 @@ featuredImage: /img/uploads/5.svg
 <br><a href="https://ourworldindata.org/grapher/testimony-weight-gender">Does a woman's testimony carry the same weight as a man's in court?</a></p>
         </div>
         <div class="col-md">
-            <iframe src="https://ourworldindata.org/grapher/universal-suffrage-granted-to-women" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/universal-suffrage-women-lied" style="width: 100%; height: 600px; border: 0px none;"></iframe>
             <iframe src="https://ourworldindata.org/grapher/nondiscrimination-clause-gender" style="width: 100%; height: 600px; border: 0px none;"></iframe>
             <iframe src="https://ourworldindata.org/grapher/law-mandate-nondiscrimination-hiring" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
