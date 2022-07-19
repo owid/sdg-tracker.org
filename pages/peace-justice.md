@@ -56,7 +56,7 @@ by sex, age and cause</q>.</p>
             <p><strong>Goal:</strong> <q>Significantly reduce all forms of violence and related death rates</q> across all countries by 2030.</p>
             <p>There is no defined target level of reduction for this indicator.</p>
             <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> entries on <a href="https://ourworldindata.org/terrorism">Terrorism</a> and <a href="https://ourworldindata.org/war-and-peace">War and Peace</a>.</p>
-            <p><strong>Additional charts:</strong> <br><a href="https://ourworldindata.org/grapher/fatalities-from-terrorism">Deaths from terrorism</a> <br><a href="https://ourworldindata.org/grapher/state-based-battle-related-deaths-per-100000-since-1946">State-based battle-related deaths</a> <br><a href="https://ourworldindata.org/grapher/violent-deaths-in-conflicts-and-one-sided-violence-since-1989">Violent deaths from conflict</a></p>
+            <p><strong>Additional charts:</strong> <br><a href="https://ourworldindata.org/grapher/fatalities-from-terrorism">Deaths from terrorism</a> <br><a href="https://ourworldindata.org/grapher/state-based-battle-related-deaths-per-100000-since-1946">State-based battle-related deaths</a> <br><a href="https://ourworldindata.org/grapher/deaths-in-conflicts-and-one-sided-violence">Violent deaths from conflict</a></p>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/deaths-conflict-terrorism-per-100000" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/total-conflict-related-civilian-deaths" style="width: 100%; height: 600px; border: 0px none;"></iframe>
