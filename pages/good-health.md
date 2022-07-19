@@ -447,7 +447,7 @@ essential medicines and vaccines for all.</q></p>
 <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/financing-healthcare">Financing Healthcare</a>.</p>
 <p><strong>Additional charts:</strong>
 <br><a href="https://ourworldindata.org/grapher/share-of-out-of-pocket-expenditure-on-healthcare">Out-of-pocket expenditure on healthcare</a>
-<br><a href="https://ourworldindata.org/grapher/risk-of-catastrophic-expenditure-for-surgical-care">Risk of catastrophic expenditure for surgical care</a>
+<br><a href="https://ourworldindata.org/grapher/share-of-the-population-at-risk-of-catastrophic-expenditure-when-surgical-care-is-required">Risk of catastrophic expenditure for surgical care</a>
 <br><a href="https://ourworldindata.org/grapher/risk-of-impoverishing-expenditure-for-surgical-care">Risk of impoverishing expenditure for surgical care</a>
         </div>
 
