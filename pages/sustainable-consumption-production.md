@@ -187,7 +187,7 @@ featuredImage: /img/uploads/12.svg
             <p><strong>Definition:</strong> Indicator 12.7.1 is the <q>number of countries implementing sustainable public procurement policies and action plans</q>.</p>
             <p><strong>Goal:</strong> <q>Promote public procurement practices that are sustainable, in accordance with national policies and priorities</q> by 2030.</p>
         </div>
-        <div class="col-md"><iframe src="https://ourworldindata.org/grapher/low-level-implementation-of-sustainable-public-procurement" style="width: 100%; height: 600px; border: 0px none;"></iframe>             <iframe src="https://ourworldindata.org/grapher/medium-low-level-implementation-of-sustainable-public-procurement" style="width: 100%; height: 600px; border: 0px none;"></iframe><iframe src="https://ourworldindata.org/grapher/medium-high-level-implementation-of-sustainable-public-procurement" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+        <div class="col-md"><iframe src="https://ourworldindata.org/grapher/medium-high-level-implementation-of-sustainable-public-procurement" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 </div>
     </div>
