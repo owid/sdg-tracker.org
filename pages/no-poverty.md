@@ -87,7 +87,7 @@ dimensions according to national definitions.</q></p>
             <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/extreme-poverty">Global Extreme Poverty</a>.</p>
         </div>
         <div class="col-md">
-            <iframe src="https://ourworldindata.org/grapher/share-multi-poverty" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/share-of-population-living-in-poverty-by-national-poverty-lines" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
 </div>
