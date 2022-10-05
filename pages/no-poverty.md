@@ -82,8 +82,10 @@ dimensions according to national definitions.</q></p>
         <div class="col-md">
             <span>SDG Indicator 1.2.2</span>
             <h3>Population in poverty according to national definitions</h3>
-            <p><strong>Definition:</strong> Indicator 1.2.2 is the <q>proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions</q>. <p>Here it is not clear what is meant by <i>all its dimensions according to national definitions</i>. One interpretation (shown here) may be the multidimensional poverty index (MPI) which is an aggregate measure of deprivation taking into account poor health, lack of education, inadequate living standard, lack of income, disempowerment, poor quality of work and threat from violence.</p>
+            <p><strong>Definition:</strong> Indicator 1.2.2 is the <q>proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions</q>. 
             <p><strong>Goal:</strong> By 2030 <q>reduce at least by half the proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions</q>.</p>
+
+<p>National poverty lines differ by country depending on country circumstances, living standards and cost of living. Shown here is the share of a country's population which lives below each country's specific national poverty line.</p>
             <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/extreme-poverty">Global Extreme Poverty</a>.</p>
         </div>
         <div class="col-md">
