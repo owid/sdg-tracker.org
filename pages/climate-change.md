@@ -42,7 +42,7 @@ featuredImage: /img/uploads/13.svg
            <iframe src="https://ourworldindata.org/grapher/deaths-and-missing-persons-due-to-natural-disasters" style="width: 100%; height: 600px; border: 0px none;"></iframe>
             <iframe src="https://ourworldindata.org/grapher/internally-displaced-persons-from-disasters" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
-<iframe src="https://ourworldindata.org/grapher/number-of-people-directly-affected-by-natural-disasters" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/explorers/natural-disasters?tab=map&facet=none&Disaster+Type=All+disasters&Impact=Affected&Timespan=Annual&Per+capita=true&country=~OWID_WRL&hideControls=true" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
 </div>
