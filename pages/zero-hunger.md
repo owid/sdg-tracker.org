@@ -43,7 +43,7 @@ featuredImage: /img/uploads/2.svg
             <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/hunger-and-undernourishment">Hunger and Undernourishment</a>.</p>
             <p><strong>Additional charts:</strong>
 <br><a href="https://ourworldindata.org/grapher/prevalence-of-undernourishment?tab=chart">Prevalence of undernourishment by region</a>
-<br><a href="https://ourworldindata.org/grapher/global-population-defined-as-undernourished">Global number of people undernourished</a></p>
+<br><a href="https://ourworldindata.org/grapher/number-undernourished">Global number of people undernourished</a></p>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/prevalence-of-undernourishment" style="width: 100%; height: 600px; border: 0px none;"></iframe>
