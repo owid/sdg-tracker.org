@@ -507,7 +507,7 @@ pollution and contamination.</q></p>
 
 <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/water-access-resources-sanitation">Water Access, Resources and Sanitation</a>.</p>
 <p><strong>Additional charts:</strong>
-<br><a href="https://ourworldindata.org/grapher/death-rate-unsafe-water-source">Mortality rate attributable to unsafe water</a>
+<br><a href="https://ourworldindata.org/grapher/death-rates-unsafe-water">Mortality rate attributable to unsafe water</a>
 <br><a href="https://ourworldindata.org/grapher/death-rate-from-unsafe-sanitation">Mortality rate attributable to unsafe sanitation</a>
         </div>
         <div class="col-md">
