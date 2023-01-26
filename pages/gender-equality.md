@@ -165,7 +165,7 @@ featuredImage: /img/uploads/5.svg
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/seats-held-by-women-in-national-parliaments" style="width: 100%; height: 600px; border: 0px none;"></iframe>
-            <iframe src="https://ourworldindata.org/grapher/proportion-of-women-in-ministerial-positions" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/share-of-women-in-ministerial-positions" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
 </div>
