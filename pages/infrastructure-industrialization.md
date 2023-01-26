@@ -172,7 +172,7 @@ employment</q>.<p>This indicator measures the manufacturing sector's employment 
             <p><strong>Goal:</strong> <q>Enhance scientific research, upgrade the technological capabilities of industrial sectors in all countries, in particular developing countries, including, by 2030, substantially increasing public and private research and development spending</q>.</p>
         </div>
         <div class="col-md">
-            <iframe src="https://ourworldindata.org/grapher/research-and-development-expenditure-of-gdp" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/research-spending-gdp" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
 </div>
