@@ -427,7 +427,7 @@ by sex, age and cause</q>.</p>
             <p><strong>Goal:</strong> <q>Protect fundamental freedoms</q> across all countries by 2030.</p>
         </div>
         <div class="col-md">
-            <iframe src="https://ourworldindata.org/grapher/cases-of-killings-of-journalists-and-media-personnel" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/cases-of-killed-human-rights-defenders-journalists-trade-unionists" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
 </div>
@@ -463,8 +463,8 @@ by sex, age and cause</q>.</p>
             <p><strong>Goal:</strong> <q>Strengthen relevant national institutions for building capacity at all levels, to prevent violence and combat terrorism and crime</q> across all countries by 2030.</p>
         </div>
         <div class="col-md">
-            <iframe src="https://ourworldindata.org/grapher/countries-that-applied-for-accreditation-in-paris-principles" style="width: 100%; height: 600px; border: 0px none;"></iframe>
-            <iframe src="https://ourworldindata.org/grapher/countries-in-compliance-with-paris-principles" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/share-countries-accredited-independent-national-human-rights-institutions" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/countries-with-independent-national-human-rights-institution" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
 </div>
