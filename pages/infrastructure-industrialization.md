@@ -47,7 +47,7 @@ featuredImage: /img/uploads/9.svg
             <p><strong>More research:</strong> Further data and research on these topics are available at the <i>Our World in Data</i> entries on <a href="https://ourworldindata.org/international-trade">International Trade</a> and <a href="https://ourworldindata.org/tourism">Tourism</a>.</p>
         </div>
         <div class="col-md">
-            <iframe src="https://ourworldindata.org/grapher/number-of-air-transport-passengers-carried" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/air-passengers-carried" style="width: 100%; height: 600px; border: 0px none;"></iframe>
             <iframe src="https://ourworldindata.org/grapher/railways-passengers-carried-passenger-km" style="width: 100%; height: 600px; border: 0px none;"></iframe>
             <iframe src="https://ourworldindata.org/grapher/air-transport-freight-ton-km" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
