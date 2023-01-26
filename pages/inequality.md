@@ -33,7 +33,7 @@ featuredImage: /img/uploads/10.svg
             <p><strong>Definition:</strong> Indicator 10.1.1 is <q>growth rates of household expenditure or income per capita among the bottom 40 per cent of the population and the total population</q>.<p>This indicator measures the average annual growth rate of incomes or consumption of those in the bottom 40% of incomes of a given country.</p>
             <p><strong>Goal:</strong> <q>Progressively achieve and sustain income growth of the bottom 40 per cent of the population at a rate higher than the national average</q> through to 2030.</p>
             <p><strong>More research:</strong> Further data and research on this topic can be found at <i>Our World in Data</i> entries on <a href="https://ourworldindata.org/income-inequality">Income Inequality</a> and <a href="https://ourworldindata.org/global-economic-inequality">Global Economic inequality</a>.</p>
-            <p><strong>Additional charts:</strong> <br><a href="https://ourworldindata.org/grapher/income-shares-by-quintile">Income share by quintile</a> <br><a href="https://ourworldindata.org/grapher/income-share-held-by-richest-10">Income share held by richest 10%</a></p>
+            <p><strong>Additional charts:</strong> <br><a href="https://ourworldindata.org/grapher/income-shares-by-quintile-pip">Income share by quintile</a> <br><a href="https://ourworldindata.org/grapher/income-share-of-the-top-10-pip">Income share held by richest 10%</a></p>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/annualized-average-growth-rate-in-per-capita-real-survey-mean-consumption-or-income-bottom-40-of-population" style="width: 100%; height: 600px; border: 0px none;"></iframe>
