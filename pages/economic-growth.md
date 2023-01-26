@@ -1,8 +1,7 @@
 ---
 layout: goal
-title: >-
-  Promote inclusive and sustainable economic growth, employment and decent work
-  for all
+title: Promote inclusive and sustainable economic growth, employment and decent
+  work for all
 goalNum: 8
 name: Decent Work and Economic Growth
 description: >-
@@ -13,10 +12,7 @@ description: >-
   and retool our economic and social policies aimed at eradicating poverty.</q>
 
 
-  The UN has defined 12 _Targets_ and 17 _Indicators_ for SDG 8. Targets specify
-  the goals and Indicators represent the metrics by which the world aims to
-  track whether these Targets are achieved. Below we quote the original text of
-  all Targets and show the data on the agreed Indicators.
+  The UN has defined 12 _Targets_ and 17 _Indicators_ for SDG 8. Targets specify the goals and Indicators represent the metrics by which the world aims to track whether these Targets are achieved. Below we quote the original text of all Targets and show the data on the agreed Indicators.
 featuredImage: /img/uploads/8.svg
 ---
 <div class="target">
@@ -254,7 +250,7 @@ featuredImage: /img/uploads/8.svg
             <p><strong>Definition:</strong> Indicator 8.9.1 is <q>tourism direct GDP as a proportion of total GDP and in growth rate</q>.</p>
             <p><strong>Goal:</strong> <q>By 2030, devise and implement policies to promote sustainable tourism that creates jobs and promotes local culture and products</q>.</p>
             <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/tourism">Tourism</a>.</p>
-            <p><strong>Additional charts:</strong> <br><a href="https://ourworldindata.org/grapher/international-tourism-number-of-arrivals">Number of tourist arrivals</a></p>
+            <p><strong>Additional charts:</strong> <br><a href="https://ourworldindata.org/grapher/international-tourist-arrivals">Number of tourist arrivals</a></p>
         </div>
          <div class="col-md">            <iframe src="https://ourworldindata.org/grapher/tourism-gdp-proportion-of-total-gdp" style="width: 100%; height: 600px; border: 0px none;"></iframe></div>
     </div>
