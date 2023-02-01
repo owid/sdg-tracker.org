@@ -284,7 +284,7 @@ However, there is no goal specified by the UN for the share of births attended b
 <br><a href="https://ourworldindata.org/grapher/share-with-depression">Share of population with depression</a>
         </div>
         <div class="col-md">
-            <iframe src="https://ourworldindata.org/grapher/suicide-mortality-rate" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/death-rate-from-suicides-ghe" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
 </div>
