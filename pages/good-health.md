@@ -235,10 +235,6 @@ However, there is no goal specified by the UN for the share of births attended b
             <h3>Number of people requiring interventions against neglected tropical diseases</h3>
             <p><strong>Definition:</strong> Indicator 3.3.5 is the <q>number of people requiring interventions against neglected tropical diseases</q>. <p>This is defined as the number of people who require interventions (treatment and care) for any of the 15 neglected tropical diseases (NTDs) <a href="http://www.who.int/neglected_diseases/diseases/en/">identified by the WHO NTD Roadmap</a> and World Health Assembly resolutions. Treatment and care is broadly defined to allow for preventive, curative, surgical or rehabilitative treatment and care.</p>
             <p><strong>Goal:</strong> By 2030 <q>end the epidemic of neglected tropical diseases (NTDs)</q> in all countries. The targeted level of reduction, however, is not defined.</p>
-            <p>
-                <strong>Additional charts:</strong>
-                <br><a href="https://ourworldindata.org/grapher/number-requiring-treatment-for-ntds-by-region">Number of people requiring interventions for NTDs by region</a>
-            </p>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/interventions-ntds-sdgs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
