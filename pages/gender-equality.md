@@ -122,7 +122,7 @@ featuredImage: /img/uploads/5.svg
             <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/violence-against-rights-for-children">Violence Against & Rights for Children</a>.</p>
         </div>
         <div class="col-md">
-            <iframe src="https://ourworldindata.org/grapher/female-genital-mutilation" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/female-genital-mutilation-prevalence" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
 </div>
