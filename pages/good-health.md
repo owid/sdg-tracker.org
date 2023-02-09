@@ -107,7 +107,7 @@ However, there is no goal specified by the UN for the share of births attended b
             <p><strong>Goal:</strong> By 2030 <q>Reduce child mortality to less than 25 deaths per 1,000 live births</q> per year across all countries.</p>
             <p><strong>More research:</strong> Child mortality is covered more broadly, and with a longer-term perspective in the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/child-mortality">Child Mortality</a>.
 <p><strong>Additional charts:</strong>
-<br><a href="https://ourworldindata.org/grapher/number-of-under-five-deaths">Number of under-five deaths</a>
+<br><a href="https://ourworldindata.org/grapher/child-deaths-igme-data">Number of under-five deaths</a>
 <br><a href="https://ourworldindata.org/grapher/number-of-under-five-deaths-by-region">Number of under-five deaths by region</a>
 <br><a href="https://ourworldindata.org/grapher/child-mortality-rate-by-gender">Child mortality rate by sex</a>
         </div>
