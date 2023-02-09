@@ -274,7 +274,7 @@ featuredImage: /img/uploads/17.svg
             <p><strong>More research:</strong> Further data and research on this topic is available at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/international-trade">International Trade</a>.</p>
         </div>
         <div class="col-md">
-            <iframe src="https://ourworldindata.org/grapher/exports-of-goods-and-services-income" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/exports-of-goods-and-services-constant-2010-us?country=Low+income~Lower+middle+income~Middle+income~High+income~Upper+middle+income" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
 </div>
