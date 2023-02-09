@@ -138,7 +138,6 @@ featuredImage: /img/uploads/10.svg
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/proportion-of-members-of-developing-countries-in-international-organizations" style="width: 100%; height: 600px; border: 0px none;"></iframe>
-            <iframe src="https://ourworldindata.org/grapher/proportion-of-voting-rights-in-international-organizations" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
 </div>
