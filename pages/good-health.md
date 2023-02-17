@@ -585,7 +585,7 @@ health, and, in particular, provide access to medicines for all.</q></p>
             <p><strong>Goal:</strong> By 2030 <q>provide access to affordable essential medicines and vaccines for all</q>. <p>For this indicator, this means universal coverage of the vaccines noted above (if included in national vaccination programmes) must be achieved by 2030.
         </div>
         <div class="col-md">
-          <iframe src="https://ourworldindata.org/grapher/coverage-of-measles-containing-vaccine" style="width: 100%; height: 600px; border: 0px none;"></iframe>            <iframe src="https://ourworldindata.org/grapher/coverage-of-pneumococcal-conjugate-vaccine" style="width: 100%; height: 600px; border: 0px none;"></iframe>            <iframe src="https://ourworldindata.org/grapher/coverage-of-diphtheria-tetanus-pertussis-vaccine" style="width: 100%; height: 600px; border: 0px none;"></iframe>            <iframe src="https://ourworldindata.org/grapher/coverage-of-the-human-papillomavirus-vaccine" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+          <iframe src="https://ourworldindata.org/grapher/share-of-children-vaccinated-with-mcv2" style="width: 100%; height: 600px; border: 0px none;"></iframe>            <iframe src="https://ourworldindata.org/grapher/coverage-of-pneumococcal-conjugate-vaccine" style="width: 100%; height: 600px; border: 0px none;"></iframe>            <iframe src="https://ourworldindata.org/grapher/share-of-children-immunized-dtp3" style="width: 100%; height: 600px; border: 0px none;"></iframe>            <iframe src="https://ourworldindata.org/grapher/coverage-of-the-human-papillomavirus-vaccine" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
 </div>
