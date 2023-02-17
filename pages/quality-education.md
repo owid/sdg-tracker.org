@@ -287,7 +287,7 @@ developed countries and small island developing States.</q></p>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/percentage-of-teachers-in-pre-primary-education-who-are-qualified" style="width: 100%; height: 600px; border: 0px none;"></iframe>
-            <iframe src="https://ourworldindata.org/grapher/percentage-of-teachers-in-primary-education-who-are-qualified" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/share-of-primary-teachers-qualified" style="width: 100%; height: 600px; border: 0px none;"></iframe>
             <iframe src="https://ourworldindata.org/grapher/percentage-of-teachers-in-lower-secondary-education-who-are-qualified" style="width: 100%; height: 600px; border: 0px none;"></iframe>
             <iframe src="https://ourworldindata.org/grapher/percentage-of-teachers-in-upper-secondary-education-who-are-qualified" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
