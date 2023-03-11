@@ -286,7 +286,7 @@ featuredImage: /img/uploads/8.svg
             <h3>Population with financial account</h3>
             <p><strong>Definition:</strong> Indicator 8.10.2 is the <q>proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider</q>.<p>Data presented here details the percentage of adults (aged 15 and older) who report having an account (by themselves or together with someone else) at a bank or another type of financial institution.</p>
             <p><strong>Goal:</strong> <q>Encourage and expand access to banking, insurance and financial services for all</q> by 2030.</p>
-            <p><strong>Additional charts:</strong> <br><a href="https://ourworldindata.org/grapher/registered-mobile-money-accounts-by-region">Registered mobile money reports by region</a></p>
+            <p><strong>Additional charts:</strong> <br><a href="https://ourworldindata.org/grapher/active-mobile-money-accounts">Active mobile money accounts by region</a></p>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/account-at-financial-institution" style="width: 100%; height: 600px; border: 0px none;"></iframe>
