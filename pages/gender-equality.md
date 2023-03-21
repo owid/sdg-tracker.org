@@ -281,7 +281,7 @@ featuredImage: /img/uploads/5.svg
             <p><strong>Goal:</strong> By 2030 enhance the use of enabling technology, in particular information and communications technology, to promote the empowerment of women</q>.<p>There is no defined target level for this indicator.</p>
         </div>
         <div class="col-md">
-            <iframe src="https://ourworldindata.org/grapher/proportion-of-individuals-who-own-a-mobile-by-sex" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/share-of-individuals-who-own-a-mobile-telephone-by-sex" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
 </div>
