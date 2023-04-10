@@ -195,8 +195,8 @@ featuredImage: /img/uploads/8.svg
            <p><strong>Additional charts:</strong> <br><a href="https://ourworldindata.org/grapher/average-working-hours-of-children">Average weekly working hours of children</a>
         </div>
         <div class="col-md">
-            <iframe src="https://ourworldindata.org/grapher/children-aged-5-17-engaged-in-labour" style="width: 100%; height: 600px; border: 0px none;"></iframe>
-            <iframe src="https://ourworldindata.org/grapher/children-aged-5-17-years-engaged-in-labour" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/children-aged-5-17-engaged-in-labor" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/children-aged-5-17-years-engaged-in-labor" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
 </div>
