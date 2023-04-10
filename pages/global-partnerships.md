@@ -499,7 +499,7 @@ partnerships</q>.</p>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/completeness-population-census" style="width: 100%; height: 600px; border: 0px none;"></iframe>
-            <iframe src="https://ourworldindata.org/grapher/completeness-of-birth-registration" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/share-of-births-registered" style="width: 100%; height: 600px; border: 0px none;"></iframe>
             <iframe src="https://ourworldindata.org/grapher/share-of-deaths-registered" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
