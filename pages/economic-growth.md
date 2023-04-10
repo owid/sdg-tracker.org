@@ -232,7 +232,7 @@ featuredImage: /img/uploads/8.svg
             <p><strong>Definition:</strong> Indicator 8.8.2 is the <q>Level of national compliance with labour right (freedom of association and collective bargaining) based on International Labour Organization (ILO) textual sources and national legislation</q>.</p>
             <p><strong>Goal:</strong> <q>Protect labour rights and promote safe and secure working environments for all workers</q> by 2030.</p>
         </div>
-        <div class="col-md">            <iframe src="https://ourworldindata.org/grapher/level-of-national-compliance-with-labour-rights" style="width: 100%; height: 600px; border: 0px none;"></iframe></div>
+        <div class="col-md">            <iframe src="https://ourworldindata.org/grapher/level-of-national-compliance-with-labor-rights" style="width: 100%; height: 600px; border: 0px none;"></iframe></div>
     </div>
 </div>
 
