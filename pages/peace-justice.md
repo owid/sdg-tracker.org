@@ -406,7 +406,7 @@ by sex, age and cause</q>.</p>
             <p>This requires universal birth registration in all countries by 2030.</p>
         </div>
         <div class="col-md">
-            <iframe src="https://ourworldindata.org/grapher/completeness-of-birth-registration" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/share-of-births-registered" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
 </div>
