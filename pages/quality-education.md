@@ -233,7 +233,7 @@ featuredImage: /img/uploads/4.svg
 
 <iframe src="https://ourworldindata.org/grapher/schools-access-computers" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
-<iframe src="https://ourworldindata.org/grapher/schools-with-access-to-internet" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/primary-schools-with-access-to-internet" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 <iframe src="https://ourworldindata.org/grapher/share-of-schools-with-access-tosingle-sex-basic-sanitation" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
