@@ -26,11 +26,10 @@ featuredImage: /img/uploads/5.svg
         <div class="col-md">
             <span>SDG Indicator 5.1.1</span>
             <h3>Legal frameworks for gender equality and non-discrimination</h3>
-            <p><strong>Definition:</strong> Indicator 5.1.1 is <q>whether or not legal frameworks are in place to promote, enforce and monitor equality and non-discrimination on the basis of sex.</q> <p>There are various legal frameworks which can be applied to promote and enforce non-discrimination on the basis of sex. This is assessed here in the SDG Tracker – see also the 'additional charts' – across various measures, including hiring, equal pay, marital rape and property rights, among others.</p>
+            <p><strong>Definition:</strong> Indicator 5.1.1 is <q>whether or not legal frameworks are in place to promote, enforce and monitor equality and non-discrimination on the basis of sex.</q> <p>There are various legal frameworks which can be applied to promote and enforce non-discrimination on the basis of sex. This is assessed here in the SDG Tracker – see also the 'additional charts' – across various measures, including hiring, equal pay and property rights, among others.</p>
             <p><strong>Goal:</strong> By 2030 <q>end all forms of discrimination against all women and girls everywhere</q>.<p>This requires legal frameworks in place to enforce gender equality for all countries.</p>
             <p><strong>Additional charts:</strong>
 <br><a href="https://ourworldindata.org/grapher/law-mandate-equal-pay">Does law mandate equal pay for males and females?</a>
-<br><a href="https://ourworldindata.org/grapher/does-legislation-explicitly-criminalize-marital-rape">Does legislation explicitly criminalise marital rape?</a>
 <br><a href="https://ourworldindata.org/grapher/gender-rights-to-property">Do married men and women have equal rights to property and land?</a>
 <br><a href="https://ourworldindata.org/grapher/women-required-to-obey-husband">Are married women required by law to obey their husbands?</a>
 <br><a href="https://ourworldindata.org/grapher/does-law-mandate-paid-or-unpaid-maternity-leave">Does law mandate paid or unpaid maternity leave?</a>
@@ -38,7 +37,6 @@ featuredImage: /img/uploads/5.svg
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/universal-suffrage-women-lied" style="width: 100%; height: 600px; border: 0px none;"></iframe>
-            <iframe src="https://ourworldindata.org/grapher/nondiscrimination-clause-gender" style="width: 100%; height: 600px; border: 0px none;"></iframe>
             <iframe src="https://ourworldindata.org/grapher/law-mandate-nondiscrimination-hiring" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 <iframe src="https://ourworldindata.org/grapher/overarching-legal-frameworks-regarding-gender-equality" style="width: 100%; height: 600px; border: 0px none;"></iframe>
